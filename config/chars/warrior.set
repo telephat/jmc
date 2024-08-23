@@ -1,0 +1,13 @@
+#showme {colorcodes} &w[&W1&w][&Wwarrior.set&w][&Rreading&w]
+
+#ali kk {kick %0}
+#ali bb {bash %0;stand}
+#ali pp {punch %0}
+
+#var punch 1
+#act {^Your punch hand is ready to lay into someone again.} {#var punch 1}
+#act {You try to punch %0 moves out of the way.} {#var punch 0}
+
+#var torescue Urtas
+#hot f1 {rescue $torescue}
+#showme {colorcodes} &w[&W1&w][&Wwarrior.set&w][&gdone&w]

@@ -1,0 +1,43 @@
+#ALIAS {reset} {
+    #killall;#read Default.set
+} {5};
+#showme {colorcodes} &w[&W0&w][&Wbase.set&w][&Rreading&w]
+#showme {colorcodes} &w[&W1&w][&Wconnection.set&w][&Rreading&w]
+#read config//connection.set
+#showme {colorcodes} &w[&W1&w][&Wconnection.set&w][&gdone&w]
+#showme {colorcodes} &w[&W1&w][&Wwindows.set&w][&Rreading&w]
+#read config//windows.set
+#showme {colorcodes} &w[&W1&w][&Wwindows.set&w][&gdone&w]
+#showme {colorcodes} &w[&W1&w][&sub&high.set&w][&Rreading&w]
+#read config//sub&high.set
+#showme {colorcodes} &w[&W1&w][&sub&high.set&w][&gdone&w]
+#showme {colorcodes} &w[&W1&w][&Wautomation.set&w][&Rreading&w]
+#read config//automation.set
+#showme {colorcodes} &w[&W1&w][&Wautomation.set&w][&gdone&w]
+#showme {colorcodes} &w[&W1&w][&Wstatusbars.set&w][&Rreading&w]
+#read config//statusbars.set
+#showme {colorcodes} &w[&W1&w][&Wstatusbars.set&w][&gdone&w]
+
+#action {^You receive %0 experience.} {get all.coins corpse; exa corpse}
+#ali {ga} {get all corpse}
+#ali {p} {group}
+#ali {loadwarr} {#read config/chars/warrior.set}
+#ali {loadshaman} {#read config/chars/shaman.set}
+#ali {loadthief} {#read config/chars/thief.set}
+
+#act {^You can't do that while fighting.} {#var combat 1}
+#act {^You miss %0 with your %0} {#var combat 1}
+#act {^You bludgeon %0} {#var combat 1}
+
+#var resting 0
+#var sitting 0
+#act {^You sit down and rest your tired bones.} {#var resting 1;#var sitting 1}
+#act {^You stand up.} {#var resting 0;#var sitting 0}
+
+#ali sos {rec recall me;get recall chest}
+#var container chest
+#ali {ddri} {get water $container;drink water;put all.water $container}
+#ali {ea}   {get food $container;eat food;put all.food $container}
+
+
+#showme {colorcodes} &w[&W0&w][&Wbase.set&w][&gdone&w]

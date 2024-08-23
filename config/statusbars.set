@@ -1,0 +1,28 @@
+
+
+#read config//statusbar.warrior.set
+#nop warrior side buffs:
+#act {^A protective presence envelops you.} {#var HealBoost 1;updbuffs}
+#act {^A spirit shroud soaks into your skin.} {#var AncestralShroud 1;updbuffs}
+
+
+#var statusshow 1
+#var statusbuffsbar 2
+#alias clrbuffs {#status {$statusbar_buffs} {};#var buffrow {}}
+
+#var AncestralShroud    0
+#var HealBoost          0
+
+#var buffrow {}
+#alias clrbuffs             {#var buffrow { };#status $statusbuffsbar {}}
+
+#alias {updbuffs} {
+    clrbuffs;
+    #if $AncestralShroud    {#var buffrow $buffrow &W[&CASh&W]} {#var buffrow $buffrow &W[&cASh&W]};
+    #if $HealBoost          {#var buffrow $buffrow &W[&CHB&W]}  {#var buffrow $buffrow &W[&cHB&W]};
+    drawbuffs;
+}
+#alias drawbuffs {#status $statusbuffsbar {$buffrow} {colorcodes}}
+
+updbuffs
+drawbuffs

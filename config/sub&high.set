@@ -1,0 +1,14 @@
+#high {white} {A spirit rises from the body %0}
+#sub {^%0 disarms your weapon.} {>[DISARM]<}
+#nop #high {colorcodes} {&R>&W[&G%0&W]&R<}
+
+#act {You miss %0 with your hit.} {#showme >>>> No weapon warning <<<<}
+#sub {You are sent sprawling as a %1 crashes into you.} {>>>>[Bashed by %1]<<<<}
+
+#high {white} {very hard}
+#high {white} { hard}
+#high {purple} {annihilates}
+#high {purple} {annihilate}
+#high {magenta} {massacres}
+#high {magenta} {massacre}
+#high {yellow} {extremely hard}

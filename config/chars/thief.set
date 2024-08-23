@@ -1,0 +1,5 @@
+#var btarget 0
+
+#ali dostab {backstab %1}
+#ali b {#var btarget %1;dostab %1}
+#ali k {dostab $btarget}

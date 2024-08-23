@@ -1,0 +1,18 @@
+#showme {colorcodes} .....&W[automation.set &gbegin&W]&w
+#var automated 1
+#var leader Bao
+
+#alias setleader {#var leader %0}
+#action {^You now follow %1.} {#var leader %1}
+
+#action {^$leader stands from his seat on a crude bunk.} {#if $automated {stand}}
+#action {^$leader walks over to a bunk and takes a seat.} {#if $automated&!$resting {rest}}
+
+#action {^$leader sits down and rests.} {#if $automated&!$resting {rest}}
+#action {^$leader stands up.} {#if $automated {stand}}
+
+#action {^$leader sits down upon an animal fur rug on the floor.} {#if $automated&!$resting {rest}}
+#action {^$leader begins resting but stays aloft.} {#if $automated&!$resting {rest}}
+
+#read config//autoassist.set
+#showme {colorcodes}.....&W[automation.set &gend&W]&w

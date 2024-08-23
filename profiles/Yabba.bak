@@ -1,0 +1,26 @@
+#message uses OFF
+#multiaction off
+#multihighlight off
+#presub on
+#echo off
+#ignore off
+#speedwalk on
+#togglesubs off
+#verbat off
+#colon leave
+#comment #
+#race format %0
+#proxy {disable}
+#secure {disable}
+#codepage {windows-1251}
+#telnet {debug} {off}
+#oob {GMCP} {disable}
+#oob {MSDP} {disable}
+#oob {MSSP} {disable}
+#broadcast {filterip} {on}
+#broadcast {filterport} {on}
+#broadcast {port} {8136}
+#broadcast {disable}
+#promptend {disable}
+#group local default
+#ticksize 60

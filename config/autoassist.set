@@ -20,3 +20,4 @@
 #act {^You flee head over heels.} {#var combat 0;#var assisting 0}
 
 #showme {colorcodes} &w[&W3&w][&Wautoassist.set&w][&gdoneg&w]
+#nop 

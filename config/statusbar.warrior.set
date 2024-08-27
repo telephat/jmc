@@ -1,0 +1,6 @@
+#showme {colorcodes}    {&WWarior buffs/debuffs section}
+
+#nop tank side buffs:
+#act {^A protective presence envelops you.} {#var HealBoost 1;updbuffs}
+#act {^A spirit shroud soaks into your skin.} {#var AncestralShroud 1;updbuffs}
+#nop tank side buffs:

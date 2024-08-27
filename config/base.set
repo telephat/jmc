@@ -17,6 +17,9 @@
 #showme {colorcodes} &w[&W1&w][&Wstatusbars.set&w][&Rreading&w]
 #read config//statusbars.set
 #showme {colorcodes} &w[&W1&w][&Wstatusbars.set&w][&gdone&w]
+#showme {colorcodes} &w[&W1&w][&Wprofiling.set&w][&Rreading&w]
+#read config//profiling.set
+#showme {colorcodes} &w[&W1&w][&Wprofiling.set&w][&gdone&w]
 
 #action {^You receive %0 experience.} {get all.coins corpse; exa corpse}
 #ali {ga} {get all corpse}
@@ -36,8 +39,10 @@
 
 #ali sos {rec recall me;get recall chest}
 #var container chest
-#ali {ddri} {get water $container;drink water;put all.water $container}
-#ali {ea}   {get food $container;eat food;put all.food $container}
+#var food food
+#ali {ddri}     {get water $container;drink water;put all.water $container}
+#ali {ea}       {#var food %0;doeat}
+#ali {doeat}    {get $food $container;eat $food;put all.$food $container}
 
 
 #showme {colorcodes} &w[&W0&w][&Wbase.set&w][&gdone&w]

@@ -1,0 +1,6 @@
+#var AncestralShroud    0
+#var HealBoost          0
+#var BoilingBlood       0
+#Var AncestralBlessing  0
+#var SpiritalGuidance   0
+#showme {colorcodes} {&w[&W4&w][&Wconfig/statusbar.spellvars.set&w][&gdone&w]}

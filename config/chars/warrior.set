@@ -1,6 +1,6 @@
 #showme {colorcodes} &w[&W1&w][&Wwarrior.set&w][&Rreading&w]
 
-#ali kk {kick %0}
+#ali kk {punch %0;kick %0}
 #ali bb {bash %0;stand}
 #ali pp {punch %0}
 

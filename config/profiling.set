@@ -1,0 +1,9 @@
+#ali {loadyabba}    {
+    #var myself Yabba;
+    loadwarr;
+}
+
+#ali {loadurtas}    {
+    #var myself Urtas;
+    loadshaman;
+}

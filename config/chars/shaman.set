@@ -6,5 +6,27 @@
 #ali cus {c 'cu s'}
 #ali reg {c 'reg'}
 
+#nop -- long term defensive buffs
+#high {green}   {ancestral shroud}
+#high {green}   {ancestral blessing}
+#high {green}   {spectral glow}
+#high {green}   {heal boost}
+#high {green}   {spectral sight}
+
+#nop -- offensive buffs
+#high {red} {boiling blood}
+#high {red}     {spiritual guidance}
+#high {red}     {amplify spirits}
+#high {red}     {monstrous mantle}
+
+#nop Your spirits diminish in power, but remain.
+#nop Your blood ceases to boil and you feel calmer.
+
+#nop buff detector
+#act {spiritual guidance} {#var}
+
+
+#act {^You are Urtas %0, %0 Shaman.} {#gro enable {buffcheck-ready}}
+#act {^Your natural ability scores are:} {#gro enable {buffcheck-shaman}}
 
 #showme {colorcodes} &w[&W1&w][&Wshaman.set&w][&gdone&w]

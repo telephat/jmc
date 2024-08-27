@@ -1,24 +1,41 @@
-
-
 #read config//statusbar.warrior.set
-#nop warrior side buffs:
+
+#nop global for everyone - buff getting/losing message
+#nop не забыть синхронизировать с show<spellname>
+#showme {colorcodes} {&w[&W4&w][&Wconfig/statusbar.spellvars.set&w][&rreading&w]}
+#read config//statusbar.spellvars.set
+#nop var AncestralShroud    0
+#nop var HealBoost          0
+
+#nop Тут инициализируем переменные отображаемых в статусбаре спеллов. Умолчания можно включить
+#nop остальное включаем в персональном профиле
+#showme {colorcodes} {&w[&W4&w][&Wconfig/statusbar.spellview.set&w][&rreading&w]}
+#read config//statusbar.spellvars.set
+#var showAncestralShroud    0
+#var showHealBoost          0
+#var showBoilingBlood       0
+#var showSpiritualGuidance  0
+#var showAncestralBlessing  0
+
+
+#nop target of spell side buffs:
 #act {^A protective presence envelops you.} {#var HealBoost 1;updbuffs}
 #act {^A spirit shroud soaks into your skin.} {#var AncestralShroud 1;updbuffs}
-
+#nop target of spell side buffs:
 
 #var statusshow 1
 #var statusbuffsbar 2
 #alias clrbuffs {#status {$statusbar_buffs} {};#var buffrow {}}
 
-#var AncestralShroud    0
-#var HealBoost          0
 
 #var buffrow {}
 #alias clrbuffs             {#var buffrow { };#status $statusbuffsbar {}}
 
 #alias {updbuffs} {
     clrbuffs;
-    #if $AncestralShroud    {#var buffrow $buffrow &W[&CASh&W]} {#var buffrow $buffrow &W[&cASh&W]};
+    #if $showAncestralShroud {
+        #if $AncestralShroud    {#var buffrow $buffrow &W[&CASh&W]} {#var buffrow $buffrow &W[&cASh&W]}
+    };
     #if $HealBoost          {#var buffrow $buffrow &W[&CHB&W]}  {#var buffrow $buffrow &W[&cHB&W]};
     drawbuffs;
 }

@@ -1,5 +1,6 @@
 #read config//statusbar.warrior.set
 
+#nop //TODO: доделать файл с инициализацией статус var
 #nop global for everyone - buff getting/losing message
 #nop не забыть синхронизировать с show<spellname>
 #showme {colorcodes} {&w[&W4&w][&Wconfig/statusbar.spellvars.set&w][&rreading&w]}
@@ -34,9 +35,13 @@
 #alias {updbuffs} {
     clrbuffs;
     #if $showAncestralShroud {
-        #if $AncestralShroud    {#var buffrow $buffrow &W[&CASh&W]} {#var buffrow $buffrow &W[&cASh&W]}
+        #if $AncestralShroud    {#var buffrow $buffrow &W[&CASh&W]} {#var buffrow $buffrow&W[&cASh&W]}
     };
-    #if $HealBoost          {#var buffrow $buffrow &W[&CHB&W]}  {#var buffrow $buffrow &W[&cHB&W]};
+    #if $showHealBoost {
+        #if $HealBoost          {#var buffrow $buffrow &W[&CHB&W]}  {#var buffrow $buffrow&W[&cHB&W]};
+    };
+
+
     drawbuffs;
 }
 #alias drawbuffs {#status $statusbuffsbar {$buffrow} {colorcodes}}

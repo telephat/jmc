@@ -1,8 +1,32 @@
 #showme {colorcodes} &w[&W1&w][&Wshaman.set&w][&Rreading&w]
 #hot f1 control spirit
+#nop //TODO: вынести спелл триггеры в отдельный файл?
+#act {^A spirit shroud soaks into your skin.} {#var AncestralShroud 1} 
+#act {^Your shroud fades away.}{#var AncestralShroud 0}
+#act {^Your skin starts to glow with an eerie light.} {#var SpectralGlow 1}
+#act {^An invisible hand from the spirit world guides your weapon.} {#var SpiritalGuidance 1}
+#act {^You are granted the blessing of the ancients.} {#var AncestralBlessing 1}
+#act {^You feel greatly invigorated.} {#var Endurance 1}
+#act {^You sag as a wave of fatigue overcomes you.} {#var Endurance 0}
+#act {^An eerie calm comes over you.} {#var DelayDeath 1}
+#act {^Your eyes tingle.} {#var SpectalSight 1}
+#act {^Your eyes burn for a moment and then feel normal again.} {#var SpectalSight 0}
+#act {^You draw your spirits closer to the mortal realm.} {#var AmplifySpirits 1}
+#act {^Your features are hideously distorted as your true form is revealed!} {#var MonstrousMantle 1}
+#act {^You feel less threatening.} {#var MonstrousMantle 0}
+#act {^Your blood begins to boil and a feeling of power washes over you.} {#var BoilingBlood 1}
+#act {^Your blood ceases to boil and you feel calmer.} {#var BoilingBlood 0}
+#act {^A protective presence envelops you.} {#var HealgBoost 1}
+#act {^The protective presence around you fades.} {#var HealgBoost 0}
 
+#act {^You shudder slightly and begin to glow orange.} {#var SublimeResistanceBreath 1}
+#act {^You shudder slightly and begin to glow green.} {#var SublimeResistanceGas 1}
+#act {^You shudder slightly and begin to shine from within.} {#var SublimeResistanceMagic 1}
+#act {^You shudder slightly and begin to wither from within} {#var SublimeResistanceNeg 1}
 
-#ali cuc {c 'cu c'}
+#nop //TODO: fix this shit
+#nop //FIXME fix me fix me
+#ali cuc {c 'cu c'} 
 #ali cus {c 'cu s'}
 #ali reg {c 'reg'}
 
@@ -23,7 +47,7 @@
 #nop Your blood ceases to boil and you feel calmer.
 
 #nop buff detector
-#act {spiritual guidance} {#var}
+#act {spiritual guidance} {#var x 1} {shamanbuffs}
 
 
 #act {^You are Urtas %0, %0 Shaman.} {#gro enable {buffcheck-ready}}

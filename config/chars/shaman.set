@@ -12,6 +12,7 @@
 #act {^Your eyes tingle.} {#var SpectalSight 1}
 #act {^Your eyes burn for a moment and then feel normal again.} {#var SpectalSight 0}
 #act {^You draw your spirits closer to the mortal realm.} {#var AmplifySpirits 1}
+#act {^Your spirits diminish in power, but remain.} {#var AmplifySpirits 0}
 #act {^Your features are hideously distorted as your true form is revealed!} {#var MonstrousMantle 1}
 #act {^You feel less threatening.} {#var MonstrousMantle 0}
 #act {^Your blood begins to boil and a feeling of power washes over you.} {#var BoilingBlood 1}
@@ -20,9 +21,14 @@
 #act {^The protective presence around you fades.} {#var HealgBoost 0}
 
 #act {^You shudder slightly and begin to glow orange.} {#var SublimeResistanceBreath 1}
+#act {^You are no longer resistant to breath.} {#var SublimeResistanceBreath 0}
 #act {^You shudder slightly and begin to glow green.} {#var SublimeResistanceGas 1}
+#act {^You are no longer resistant to gas.} {#var SublimeResistanceGas 0}
 #act {^You shudder slightly and begin to shine from within.} {#var SublimeResistanceMagic 1}
+#act {^You are no longer resistant to magic.} {#var SublimeResistanceMagic 0}
 #act {^You shudder slightly and begin to wither from within} {#var SublimeResistanceNeg 1}
+#act {^You are no longer resistant to negative energy.} {#var SublimeResistanceNeg 0}
+
 
 #nop //TODO: fix this shit
 #nop //FIXME fix me fix me

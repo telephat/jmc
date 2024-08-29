@@ -46,5 +46,17 @@
 }
 #alias drawbuffs {#status $statusbuffsbar {$buffrow} {colorcodes}}
 
-updbuffs
-drawbuffs
+#ali {clrstatusbars} {
+    #status 1;
+    #status 2;
+    #status 3;
+    #status 4;
+    #status 5;
+}
+#ali {updstatusbars} {
+    clrstatusbars;
+    updbuffs;
+    drawbuffs
+}
+
+updstatusbars

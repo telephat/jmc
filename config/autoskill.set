@@ -1,0 +1,6 @@
+#var AutoSkill 1
+
+#hot {f2} {#if $AutoSkill 
+                    {#var AutoSkill 0;#showme {Auto: skill off}}
+                    {#var AutoSkill 1;#showme {Auto: skill on}}
+                }

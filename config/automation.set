@@ -1,9 +1,9 @@
 #showme {colorcodes} .....&W[automation.set &gbegin&W]&w
 #var automated 1
-#var leader Bao
+#var leader Yabba
 
 #alias setleader {#var leader %0}
-#action {^You now follow %1.} {#var leader %1}
+#nop action {^You now follow %1.} {#var leader %1}
 
 #action {^$leader stands from his seat on a crude bunk.} {#if $automated {stand}}
 #action {^$leader walks over to a bunk and takes a seat.} {#if $automated&!$resting {rest}}

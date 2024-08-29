@@ -29,6 +29,21 @@
 #act {^You shudder slightly and begin to wither from within} {#var SublimeResistanceNeg 1}
 #act {^You are no longer resistant to negative energy.} {#var SublimeResistanceNeg 0}
 
+#hot {f3}   {
+     c 'an ble';
+     c 'spe glo';
+     c 'spe si';
+     c 'a shro' me;
+     c 'he boo' me;
+}
+#hot {f4}   {
+    c 'amp spi';
+    c 'bo bl';
+    c 'spi gu';
+    c 'mon man';
+}
+
+#ali {od}   {ord all.spirit}
 
 #nop //TODO: fix this shit
 #nop //FIXME fix me fix me

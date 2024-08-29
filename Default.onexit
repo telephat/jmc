@@ -74,13 +74,7 @@
 #variable {AncestralBlessing} {0}
 #variable {AncestralShroud} {1}
 #variable {BoilingBlood} {0}
-#variable {DelayDeath} {0}
-#variable {Endurance} {0}
 #variable {HealBoost} {1}
-#variable {MonstrousMantle} {0}
-#variable {Sanctuary} {0}
-#variable {SpectalSight} {0}
-#variable {SpectralGlow} {0}
 #variable {SpiritalGuidance} {0}
 #variable {SublimeResistance.breathe} {0}
 #variable {SublimeResistance.gas} {0}

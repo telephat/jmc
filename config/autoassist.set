@@ -1,10 +1,22 @@
 #showme {colorcodes} &w[&W3&w][&Wautoassist.set&w][&Rreading&w]
  
 #nop 182H 131V 314140X 40.80% 0C T:1 Exits:ES> 
-#var autoassist 1
+
+
+#ali updstatus {
+    #if $AutoAssist {#status {4} {&RAAS} {colorcodes}}
+                    {#status {4} {&rAAS} {colorcodes}}
+    }
+#var AutoAssist 0
+#ali autoassist {
+    #if $AutoAssist 
+    {#var AutoAssist 0;#showme {colorcodes} {&WAutoassist: &gOFF&w};updstatus}
+    {#var AutoAssist 1;#showme {colorcodes} {&WAutoassist: &RON&w};updstatus}
+}
+
 #var assisting 0
 #var combat 0
-#ali doassist {#showme ---> assist check;#if $autoassist&!$assisting&!$combat {assist}}
+#ali doassist {#showme AAssist attempt;#if $AutoAssist&!$assisting&!$combat {assist}}
 
 #act {$leader slashes %0} {doassist}
 #act {$leader bludgeons %0} {doassist}
@@ -24,4 +36,5 @@
 
 #ali {assist}   {od assist $leader;ass}
 #showme {colorcodes} &w[&W3&w][&Wautoassist.set&w][&gdoneg&w]
+updstatus
 #nop 

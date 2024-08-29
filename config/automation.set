@@ -15,4 +15,5 @@
 #action {^$leader begins resting but stays aloft.} {#if $automated&!$resting {rest}}
 
 #read config//autoassist.set
+#read config//autoskill.set
 #showme {colorcodes}.....&W[automation.set &gend&W]&w

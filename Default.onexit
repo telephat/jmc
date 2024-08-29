@@ -39,7 +39,7 @@
 #alias {reset} { #killall;#read Default.set } {5}
 #alias {setleader} {#var leader %0} {default}
 #alias {sos} {rec recall me;get recall chest} {default}
-#alias {updbuffs} { clrbuffs; #if $showAncestralShroud { #if $AncestralShroud    {#var buffrow $buffrow &W[&CASh&W]} {#var buffrow $buffrow &W[&cASh&W]} }; #if $HealBoost          {#var buffrow $buffrow &W[&CHB&W]}  {#var buffrow $buffrow &W[&cHB&W]}; drawbuffs; } {default}
+#alias {updbuffs} { clrbuffs; #if $showAncestralShroud { #if $AncestralShroud    {#var buffrow $buffrow &W[&CASh&W]} {#var buffrow $buffrow&W[&cASh&W]} }; #if $showHealBoost { #if $HealBoost          {#var buffrow $buffrow &W[&CHB&W]}  {#var buffrow $buffrow&W[&cHB&W]}; }; drawbuffs; } {default}
 #action TEXT {You miss %0 with your hit.} {#showme >>>> No weapon warning <<<<} {5} {default}
 #action TEXT {^You now follow %1.} {#var leader %1} {5} {default}
 #action TEXT {^$leader stands from his seat on a crude bunk.} {#if $automated {stand}} {5} {default}
@@ -66,14 +66,14 @@
 #action TEXT {^You sit down and rest your tired bones.} {#var resting 1;#var sitting 1} {5} {default}
 #action TEXT {^You stand up.} {#var resting 0;#var sitting 0} {5} {default}
 #variable {AncestralBlessing} {0}
-#variable {AncestralShroud} {0}
+#variable {AncestralShroud} {1}
 #variable {BoilingBlood} {0}
-#variable {HealBoost} {0}
+#variable {HealBoost} {1}
 #variable {SpiritalGuidance} {0}
 #variable {assisting} {0}
 #variable {autoassist} {1}
 #variable {automated} {1}
-#variable {buffrow} {&W[&cHB&W]}
+#variable {buffrow} { }
 #variable {combat} {0}
 #variable {container} {chest}
 #variable {food} {food}

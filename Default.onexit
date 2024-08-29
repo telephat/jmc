@@ -23,6 +23,7 @@
 #broadcast {disable}
 #promptend {disable}
 #alias {ar} {#con mud.arctic.org 2700} {default}
+#alias {bb} {bash %0;stand} {default}
 #alias {clrbuffs} {#var buffrow { };#status $statusbuffsbar {}} {default}
 #alias {ddri} {get water $container;drink water;put all.water $container} {default}
 #alias {doassist} {#if $autoassist&!$assisting&!$combat {assist}} {default}
@@ -30,16 +31,18 @@
 #alias {drawbuffs} {#status $statusbuffsbar {$buffrow} {colorcodes}} {default}
 #alias {ea} {#var food %0;doeat} {default}
 #alias {ga} {get all corpse} {default}
+#alias {kk} {punch %0;kick %0} {default}
 #alias {loadshaman} {#read config/chars/shaman.set} {default}
 #alias {loadthief} {#read config/chars/thief.set} {default}
 #alias {loadurtas} { #var myself Urtas; loadshaman; } {default}
 #alias {loadwarr} {#read config/chars/warrior.set} {default}
 #alias {loadyabba} { #var myself Yabba; loadwarr; } {default}
 #alias {p} {group} {default}
+#alias {pp} {punch %0} {default}
 #alias {reset} { #killall;#read Default.set } {5}
 #alias {setleader} {#var leader %0} {default}
 #alias {sos} {rec recall me;get recall chest} {default}
-#alias {updbuffs} { clrbuffs; #if $showAncestralShroud { #if $AncestralShroud    {#var buffrow $buffrow &W[&CASh&W]} {#var buffrow $buffrow &W[&cASh&W]} }; #if $HealBoost          {#var buffrow $buffrow &W[&CHB&W]}  {#var buffrow $buffrow &W[&cHB&W]}; drawbuffs; } {default}
+#alias {updbuffs} { clrbuffs; #if $showAncestralShroud { #if $AncestralShroud    {#var buffrow $buffrow &W[&CASh&W]} {#var buffrow $buffrow&W[&cASh&W]} }; #if $showHealBoost { #if $HealBoost          {#var buffrow $buffrow &W[&CHB&W]}  {#var buffrow $buffrow&W[&cHB&W]}; }; drawbuffs; } {default}
 #action TEXT {You miss %0 with your hit.} {#showme >>>> No weapon warning <<<<} {5} {default}
 #action TEXT {^You now follow %1.} {#var leader %1} {5} {default}
 #action TEXT {^$leader stands from his seat on a crude bunk.} {#if $automated {stand}} {5} {default}
@@ -65,19 +68,33 @@
 #action TEXT {^You bludgeon %0} {#var combat 1} {5} {default}
 #action TEXT {^You sit down and rest your tired bones.} {#var resting 1;#var sitting 1} {5} {default}
 #action TEXT {^You stand up.} {#var resting 0;#var sitting 0} {5} {default}
+#action TEXT {^Your punch hand is ready to lay into someone again.} {#var punch 1} {5} {default}
+#action TEXT {You try to punch %0 moves out of the way.} {#var punch 0} {5} {default}
+#variable {AmplifySpirits} {0}
 #variable {AncestralBlessing} {0}
-#variable {AncestralShroud} {0}
+#variable {AncestralShroud} {1}
 #variable {BoilingBlood} {0}
-#variable {HealBoost} {0}
+#variable {DelayDeath} {0}
+#variable {Endurance} {0}
+#variable {HealBoost} {1}
+#variable {MonstrousMantle} {0}
+#variable {Sanctuary} {0}
+#variable {SpectalSight} {0}
+#variable {SpectralGlow} {0}
 #variable {SpiritalGuidance} {0}
+#variable {SublimeResistance.breathe} {0}
+#variable {SublimeResistance.gas} {0}
+#variable {SublimeResistance.magic} {0}
+#variable {SublimeResistance.neg} {0}
 #variable {assisting} {0}
 #variable {autoassist} {1}
 #variable {automated} {1}
-#variable {buffrow} {&W[&cHB&W]}
+#variable {buffrow} { }
 #variable {combat} {0}
 #variable {container} {chest}
 #variable {food} {food}
 #variable {leader} {Bao}
+#variable {punch} {1}
 #variable {resting} {0}
 #variable {showAncestralBlessing} {0}
 #variable {showAncestralShroud} {0}
@@ -87,6 +104,7 @@
 #variable {sitting} {0}
 #variable {statusbuffsbar} {2}
 #variable {statusshow} {1}
+#variable {torescue} {Urtas}
 #highlight {white} { hard} {default}
 #highlight {white} {A spirit rises from the body %0} {default}
 #highlight {purple} {annihilate} {default}
@@ -97,6 +115,7 @@
 #highlight {white} {very hard} {default}
 #substitute {You are sent sprawling as a %1 crashes into you.} {>>>>[Bashed by %1]<<<<}
 #substitute {^%0 disarms your weapon.} {>[DISARM]<}
+#hot {F1} {rescue $torescue} {default}
 #group local 5
 #group local default
 #ticksize 60

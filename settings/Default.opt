@@ -27,10 +27,10 @@ Bars=6
 ScreenCX=1920
 ScreenCY=1080
 [JMC-Bar0]
-BarID=59392
-XPos=-2
 YPos=-2
+BarID=59392
 Docking=1
+XPos=-2
 MRUDockID=0
 MRUDockLeftPos=-2
 MRUDockTopPos=-2
@@ -69,8 +69,8 @@ Bar#21=0
 [JMC-Bar3]
 BarID=100
 [JMC-Bar4]
-BarID=32789
 XPos=-2
+BarID=32789
 YPos=23
 Docking=1
 MRUDockID=0
@@ -82,8 +82,8 @@ MRUFloatStyle=8196
 MRUFloatXPos=-2147483648
 MRUFloatYPos=0
 [JMC-Bar5]
-BarID=32800
 XPos=556
+BarID=32800
 YPos=23
 Docking=1
 MRUDockID=59419

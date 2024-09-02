@@ -119,7 +119,9 @@
 #highlight {light red} {DISARMED} {default}
 #highlight {white} {[Bashed by %0]} {default}
 #highlight {light green} {]<<<<} {default}
+#highlight {red} {]^^^} {default}
 #highlight {light blue} {]vvv} {default}
+#highlight {red} {^^^[} {default}
 #highlight {magenta} {annihilates} {default}
 #highlight {yellow} {extremely hard} {default}
 #highlight {magenta} {massacre } {default}
@@ -133,7 +135,7 @@
 #substitute {You%0hit %0} {>>>>[DISARMED]<<<<}
 #substitute {You%0hit.} {>>>>[DISARMED]<<<<}
 #substitute {^%0 disarms your weapon.} {>[DISARM]<}
-#substitute {^%0 stands up} {^^^[%0]^^^}
+#substitute {^%0 stands up.} {^^^[%0]^^^}
 #substitute {annihilates} {annihilates [40]}
 #substitute {extremely hard} {extremely hard [20]}
 #substitute {massacre %1} {massacre [30] %1}

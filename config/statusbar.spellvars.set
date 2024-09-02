@@ -15,6 +15,16 @@
 #var SublimeResistance.magic    0
 #var SublimeResistance.neg      0
 
+#nop Your shroud fades away.
+#nop Your eyes burn for a moment and then feel normal again. spe si
+#nop Your blood begins to boil and a feeling of power washes over you.
+#nop 
+#nop 
+#nop 
+#nop 
+#nop 
+#nop 
+#nop 
 
 
 #showme {colorcodes} {&w[&W4&w][&Wconfig/statusbar.spellvars.set&w][&gdone&w]}

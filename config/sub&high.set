@@ -17,6 +17,7 @@
 
 A Kalaman cityguard stands up.
 #sub {^%0 stands up.} {^^^[%0]^^^}
+#sub {^%0 stands up.} {^^^ STANDS UP ^^^^}
 #high {red} {^^^[}
 #high {red} {]^^^}
 
@@ -25,7 +26,9 @@ A Kalaman cityguard stands up.
 #high {magenta} {massacres}
 #high {magenta} {massacre }
 #sub {annihilates} {annihilates [40]}
+#sub {annihilate %1} {annihilate [40] %1}
 #high {magenta} {annihilates}
+#high {light magenta} {annihilate}
 #sub {obliterates} {obliterates [50]}
 #high {b white} {obliterates}
 #sub {extremely hard} {extremely hard [20]}
@@ -33,10 +36,13 @@ A Kalaman cityguard stands up.
 #sub {very hard} {very hard [10]}
 #high {white} {very hard}
 
-#nop high {white} {very hard}
-#nop high {white} { hard}
-#nop high {purple} {annihilates}
-#nop high {purple} {annihilate}
-#nop high {magenta} {massacres}
-#nop high {magenta} {massacre}
-#nop high {yellow} {extremely hard}
+#high {green}   {heal boost}
+#high {green}   {ancestral blessing}
+#high {green}   {ancestral shroud}
+#high {green}   {spectral glow}
+#high {green}   {spectral sight}
+#high {red}     {boiling blood}
+#high {red}     {monstrous mantle}
+#high {red}     {amplify spirits}
+#high {red}     {spiritual guidance}
+

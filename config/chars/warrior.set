@@ -1,4 +1,5 @@
 #showme {colorcodes} &w[&W1&w][&Wwarrior.set&w][&Rreading&w]
+#read config\\statusbar.warrior.set
 
 #ali kk {punch %0;kick %0}
 #ali bb {bash %0;stand}
@@ -8,7 +9,8 @@
 #act {^Your punch hand is ready to lay into someone again.} {#var punch 1}
 #act {You try to punch %0 moves out of the way.} {#var punch 0}
 
-#sub {You crash into %0 in a bone crunching bash, sending him sprawling to the ground.} {vvv[BASHED HIM]vvv}
+#sub {You crash into %0 in a bone crunching bash, sending %1 sprawling to the ground.} {vvv[BASHED HIM]vvv}
+
 #high {light blue} {vvv[}
 #high {light blue} {]vvv}
 #high {white} {BASHED HIM}

@@ -120,5 +120,6 @@
 #act     {amplify spirits}      {#var AmplifySpirits 1} {shmbuff}
 #act     {monstrous mantle}     {#var MonstrousMantle 1} {shmbuff}
 
+#act {Yabba tugs at your sleeve to get your attention.} {c 'gho berr';give berry yabba;eat berry;drop all.berry}
 
 #showme {colorcodes} &w[&W1&w][&Wshaman.set&w][&gdone&w]

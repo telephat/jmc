@@ -10,4 +10,11 @@
 
 #var torescue Urtas
 #hot f1 {rescue $torescue}
+
+#var status1 {&W[&cREG&W]&w}
+#ali updstatus1 {#status {1} {$status1} {colorcodes}}
+#act {Your wounds stop healing.} {#var status1 {&W[&cREG&W]&w};updstatus1}
+#act {Your wounds begin to heal.} {#var status1 {&W[&CREG&W]&w};updstatus1}
+updstatus1
+
 #showme {colorcodes} &w[&W1&w][&Wwarrior.set&w][&gdone&w]

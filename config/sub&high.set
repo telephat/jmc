@@ -5,10 +5,12 @@
 #act {You miss %0 with your hit.} {#showme >>>> No weapon warning <<<<}
 #sub {You are sent sprawling as a %1 crashes into you.} {>>>>[Bashed by %1]<<<<}
 
-#high {white} {very hard}
-#high {white} { hard}
-#high {purple} {annihilates}
-#high {purple} {annihilate}
-#high {magenta} {massacres}
-#high {magenta} {massacre}
-#high {yellow} {extremely hard}
+#nop high {white} {very hard}
+#nop high {white} {hard}
+#nop high {purple} {annihilates}
+#nop high {purple} {annihilate}
+#nop high {magenta} {massacres}
+#nop high {magenta} {massacre}
+#nop high {yellow} {extremely hard}
+
+#sub {}

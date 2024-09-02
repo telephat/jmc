@@ -1,14 +1,39 @@
+#multihighlight on
 #high {white} {A spirit rises from the body %0}
 #sub {^%0 disarms your weapon.} {>[DISARM]<}
 #nop #high {colorcodes} {&R>&W[&G%0&W]&R<}
 
 #act {You miss %0 with your hit.} {#showme >>>> No weapon warning <<<<}
-#sub {You are sent sprawling as a %1 crashes into you.} {>>>>[Bashed by %1]<<<<}
+#sub {You are sent sprawling as %0 crashes into you.} {>>>>[Bashed by %0]<<<<}
+#high {white} {[Bashed by %0]}
+#high {light green}{>>>>[} 
+#high {light green}{]<<<<} 
 
-#high {white} {very hard}
-#high {white} { hard}
-#high {purple} {annihilates}
-#high {purple} {annihilate}
+#sub {%0 disarms you} {>>>>[DISARMED]<<<<}
+#sub {You%0hit %0} {>>>>[DISARMED]<<<<}
+#sub {You%0hit.} {>>>>[DISARMED]<<<<}
+
+#high {light red} {DISARMED}
+
+#sub {^%0 stands up} {^^^[%0]^^^}
+
+#sub {massacres} {massacres [30]}
+#sub {massacre %1} {massacre [30] %1}
 #high {magenta} {massacres}
-#high {magenta} {massacre}
+#high {magenta} {massacre }
+#sub {annihilates} {annihilates [40]}
+#high {magenta} {annihilates}
+#sub {obliterates} {obliterates [50]}
+#high {b white} {obliterates}
+#sub {extremely hard} {extremely hard [20]}
 #high {yellow} {extremely hard}
+#sub {very hard} {very hard [10]}
+#high {white} {very hard}
+
+#nop high {white} {very hard}
+#nop high {white} { hard}
+#nop high {purple} {annihilates}
+#nop high {purple} {annihilate}
+#nop high {magenta} {massacres}
+#nop high {magenta} {massacre}
+#nop high {yellow} {extremely hard}

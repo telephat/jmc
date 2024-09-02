@@ -8,6 +8,11 @@
 #act {^Your punch hand is ready to lay into someone again.} {#var punch 1}
 #act {You try to punch %0 moves out of the way.} {#var punch 0}
 
+#sub {You crash into %0 in a bone crunching bash, sending him sprawling to the ground.} {vvv[BASHED HIM]vvv}
+#high {light blue} {vvv[}
+#high {light blue} {]vvv}
+#high {white} {BASHED HIM}
+
 #var torescue Urtas
 #hot f1 {rescue $torescue}
 #showme {colorcodes} &w[&W1&w][&Wwarrior.set&w][&gdone&w]

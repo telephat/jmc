@@ -79,13 +79,13 @@
 #action TEXT {You try to punch %0 moves out of the way.} {#var punch 0} {5} {default}
 #variable {AmplifySpirits} {0}
 #variable {AncestralBlessing} {0}
-#variable {AncestralShroud} {1}
+#variable {AncestralShroud} {0}
 #variable {AutoAssist} {0}
 #variable {AutoSkill} {1}
 #variable {BoilingBlood} {0}
 #variable {DelayDeath} {0}
 #variable {Endurance} {0}
-#variable {HealBoost} {1}
+#variable {HealBoost} {0}
 #variable {MonstrousMantle} {0}
 #variable {Sanctuary} {0}
 #variable {SpectalSight} {0}
@@ -113,16 +113,33 @@
 #variable {statusbuffsbar} {2}
 #variable {statusshow} {1}
 #variable {torescue} {Urtas}
-#highlight {white} { hard} {default}
+#highlight {light green} {>>>>[} {default}
 #highlight {white} {A spirit rises from the body %0} {default}
-#highlight {purple} {annihilate} {default}
-#highlight {purple} {annihilates} {default}
+#highlight {white} {BASHED HIM} {default}
+#highlight {light red} {DISARMED} {default}
+#highlight {white} {[Bashed by %0]} {default}
+#highlight {light green} {]<<<<} {default}
+#highlight {light blue} {]vvv} {default}
+#highlight {magenta} {annihilates} {default}
 #highlight {yellow} {extremely hard} {default}
-#highlight {magenta} {massacre} {default}
+#highlight {magenta} {massacre } {default}
 #highlight {magenta} {massacres} {default}
+#highlight {b white} {obliterates} {default}
 #highlight {white} {very hard} {default}
-#substitute {You are sent sprawling as a %1 crashes into you.} {>>>>[Bashed by %1]<<<<}
+#highlight {light blue} {vvv[} {default}
+#substitute {%0 disarms you} {>>>>[DISARMED]<<<<}
+#substitute {You are sent sprawling as %0 crashes into you.} {>>>>[Bashed by %0]<<<<}
+#substitute {You crash into %0 in a bone crunching bash, sending him sprawling to the ground.} {vvv[BASHED HIM]vvv}
+#substitute {You%0hit %0} {>>>>[DISARMED]<<<<}
+#substitute {You%0hit.} {>>>>[DISARMED]<<<<}
 #substitute {^%0 disarms your weapon.} {>[DISARM]<}
+#substitute {^%0 stands up} {^^^[%0]^^^}
+#substitute {annihilates} {annihilates [40]}
+#substitute {extremely hard} {extremely hard [20]}
+#substitute {massacre %1} {massacre [30] %1}
+#substitute {massacres} {massacres [30]}
+#substitute {obliterates} {obliterates [50]}
+#substitute {very hard} {very hard [10]}
 #hot {F1} {rescue $torescue} {default}
 #hot {F2} {#if $AutoSkill  {#var AutoSkill 0;#showme {Auto: skill off}} {#var AutoSkill 1;#showme {Auto: skill on}} } {default}
 #group local 5

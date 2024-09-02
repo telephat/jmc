@@ -1,0 +1,1754 @@
+Log: yabba-automaton-boyleyns 
+Logging started: 02.09.2024 17:57\r 
+l
+An Arena
+Bunches of metal shrapnel are spread around everywhere.
+Destroyed remains of a dragon claw are littered around.
+The remnants of the destroyed dragon head are scattered about.
+A powerfuly blessed bandage is strewn here. [8]
+A wooden splint used to set broken bones is here.
+Destroyed remains of a dragon claw are littered around.
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+557H 132V 22274283X 50.55% 1513C T:1 Exits:NSW> 
+
+You feel more vigorous.
+
+588H 132V 22274283X 50.55% 1513C T:60 Exits:NSW> 
+s
+Urtas arrives from the north.
+Wooden Walkway
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 131V 22274283X 50.55% 1513C T:59 Exits:NW> 
+w
+Urtas arrives from the east.
+In Front Of A Portal
+A purple colored arm made of metal is lying around.
+A magical portal shimmers with an unknown source of energy.
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 130V 22274283X 50.55% 1513C T:58 Exits:E> 
+wea shard
+You can't wear any more around your neck.
+You can't wear any more around your neck.
+
+588H 130V 22274283X 50.55% 1513C T:55 Exits:E> 
+get arm
+You get a purple metal arm.
+
+588H 130V 22274283X 50.55% 1513C T:54 Exits:E> 
+eq
+You are using:
+<worn around neck>         an emerald studded silver choker
+<worn around neck>         a cryptic ancient elven talisman
+<worn on body>             a suit of sturdy black platemail..it glows dimly
+<worn on head>             a carved ivory mask
+<worn on legs>             some leggings encrusted with red crystals
+<worn on feet>             some riveted stompers of brutality
+<worn on hands>            a pair of stitched dueling gloves
+<worn on arms>             a pair of white striped blue sleeves
+<worn about body>          a dark robe of thieves
+<worn about waist>         a blood red captain's sash
+<worn around right wrist>  an intricate black bracelet
+<used in primary hand>     a huge charred blacksmith's maul
+<used in secondary hand>   a plainsman's war hatchet
+
+588H 130V 22274283X 50.55% 1513C T:52 Exits:E> 
+rem elven
+You stop using a cryptic ancient elven talisman.
+
+588H 130V 22274283X 50.55% 1513C T:49 Exits:E> 
+wea shard
+You wear a crystal shard necklace around your neck.
+
+588H 130V 22274283X 50.55% 1513C T:48 Exits:E> 
+en portal
+You shield your eyes from the bright light emanating from the portal, and
+step through it.
+An Unkempt Path
+
+588H 130V 22274283X 50.55% 1513C T:45 Exits:NEW> 
+w
+w
+A Hacked Path Through The Brush
+
+588H 128V 22274283X 50.55% 1513C T:44 Exits:EW> 
+A Hacked Path Through The Brush
+
+588H 126V 22274283X 50.55% 1513C T:44 Exits:EW> 
+w
+A Hacked Path Through The Brush
+
+588H 124V 22274283X 50.55% 1513C T:44 Exits:NE> 
+w
+Alas, you cannot go that way...
+
+588H 124V 22274283X 50.55% 1513C T:43 Exits:NE> 
+n
+Among Some Tents
+
+588H 122V 22274283X 50.55% 1513C T:43 Exits:NSW> 
+w
+Within A Tent
+A pair of purple legs have walked away from their owner.
+A draconian soldier patrols the camp.
+A draconian soldier patrols the camp.
+
+588H 121V 22274283X 50.55% 1513C T:41 Exits:E> 
+get all
+You get a purple pair of legs.
+
+588H 121V 22274283X 50.55% 1513C T:40 Exits:E> 
+e
+Among Some Tents
+
+588H 120V 22274283X 50.55% 1513C T:40 Exits:NSW> 
+s
+A Hacked Path Through The Brush
+
+588H 118V 22274283X 50.55% 1513C T:40 Exits:NE> 
+e
+e
+A Hacked Path Through The Brush
+
+588H 116V 22274283X 50.55% 1513C T:39 Exits:EW> 
+A Hacked Path Through The Brush
+
+588H 114V 22274283X 50.55% 1513C T:39 Exits:EW> 
+n
+Alas, you cannot go that way...
+
+588H 114V 22274283X 50.55% 1513C T:38 Exits:EW> 
+e
+An Unkempt Path
+
+588H 112V 22274283X 50.55% 1513C T:38 Exits:NEW> 
+n
+A Cluttered Laboratory
+A small and weak looking horse is here awaiting its master.
+
+588H 111V 22274283X 50.55% 1513C T:37 Exits:S> 
+stand firepit
+    You walk towards the firepit, deciding to enter it. Ducking your head
+so you can fit inside the alcove, you feel a strange sensation. A big flash
+of light blinds you momentarily, and when you open your eyes once more, you
+are no longer in the lab.
+
+A Stone Hallway
+
+588H 110V 22274283X 50.55% 1513C T:34> 
+e
+A Stone Hallway
+
+588H 108V 22274283X 50.55% 1513C T:33 Exits:EW> 
+e
+A Hallway Intersection
+
+588H 106V 22274283X 50.55% 1513C T:32 Exits:NSW> 
+s
+A Stone Hallway
+
+588H 104V 22274283X 50.55% 1513C T:31 Exits:NE> 
+e
+A Stone Hallway
+
+588H 102V 22274283X 50.55% 1513C T:31 Exits:NW> 
+n
+A Stone Hallway
+
+588H 100V 22274283X 50.55% 1513C T:30 Exits:NSD> 
+d
+A Wooden Walkway
+
+588H 98V 22274283X 50.55% 1513C T:29 Exits:NSWU> 
+n
+A Wooden Walkway
+
+588H 96V 22274283X 50.55% 1513C T:26 Exits:NS> 
+n
+A Smattering of Chests
+A great wooden chest rests here. [7]
+
+588H 94V 22274283X 50.55% 1513C T:26 Exits:S> 
+get key hole
+You get a great wooden key from a hole in the wall.
+
+588H 94V 22274283X 50.55% 1513C T:23 Exits:S> 
+unlock 6.chest
+You unlock a great wooden chest.
+The key turns to dust as you remove it from a great wooden chest.
+
+588H 94V 22274283X 50.55% 1513C T:21 Exits:S> 
+op 6.chest
+Ok.
+
+588H 94V 22274283X 50.55% 1513C T:18 Exits:S> 
+get all 6.chest
+You get a purple automaton torso from a great wooden chest.
+
+588H 94V 22274283X 50.55% 1513C T:14 Exits:S> 
+s
+s
+A Wooden Walkway
+
+588H 92V 22274283X 50.55% 1513C T:13 Exits:NS> 
+A Wooden Walkway
+
+588H 90V 22274283X 50.55% 1513C T:12 Exits:NSWU> 
+w
+w
+A Wooden Walkway
+
+588H 88V 22274283X 50.55% 1513C T:12 Exits:EW> 
+A Wooden Walkway
+
+588H 86V 22274283X 50.55% 1513C T:11 Exits:EW> 
+w
+End Of The Walkway
+
+588H 84V 22274283X 50.55% 1513C T:11 Exits:ED> 
+d
+An Ivory Step
+
+588H 82V 22274283X 50.55% 1513C T:10 Exits:NU> 
+n
+An Ebony Square
+
+588H 81V 22274283X 50.55% 1513C T:9 Exits:NESW> 
+n
+An Ivory Square
+
+588H 80V 22274283X 50.55% 1513C T:9 Exits:NESW> 
+n
+An Ebony Square
+
+588H 79V 22274283X 50.55% 1513C T:8 Exits:NESW> 
+n
+An Ivory Square
+
+588H 78V 22274283X 50.55% 1513C T:8 Exits:NESW> 
+n
+An Ebony Step
+An ebony pedestal is here, a black crown resting atop it.
+The ivory pedestal proudly displays the ivory crown.
+
+588H 77V 22274283X 50.55% 1513C T:7 Exits:SU> 
+u
+A Mirrored Room
+
+588H 76V 22274283X 50.55% 1513C T:7 Exits:SD> 
+s
+A Hall of Mirrors
+
+588H 75V 22274283X 50.55% 1513C T:6 Exits:NE> 
+e
+You walk face first into a mirror.  Looks like you can't go that way.
+
+588H 75V 22274283X 50.55% 1513C T:5 Exits:NE> 
+w
+A Hall Of Mirrors
+
+588H 74V 22274283X 50.55% 1513C T:3 Exits:NW> 
+s
+A Hall Of Mirrors
+
+588H 73V 22274283X 50.55% 1513C T:2 Exits:ES> 
+w
+A Hall Of Mirrors
+
+588H 72V 22274283X 50.55% 1513C T:1 Exits:ESW> 
+
+You are no longer resistant to gas.
+You are no longer resistant to breath.
+
+588H 100V 22274283X 50.55% 1513C T:60 Exits:ESW> 
+s
+A Hall Of Mirrors
+
+588H 99V 22274283X 50.55% 1513C T:60 Exits:NS> 
+s
+A Mirrored Room
+
+588H 98V 22274283X 50.55% 1513C T:59 Exits:NS> 
+s
+The End Of The Mirrors
+
+588H 97V 22274283X 50.55% 1513C T:58 Exits:ND> 
+d
+Before A Sliding Door
+
+588H 96V 22274283X 50.55% 1513C T:57 Exits:SU> 
+s
+A Cluttered Laboratory
+A pile of metal parts is lying here.
+A magical portal shimmers with an unknown source of energy.
+
+588H 95V 22274283X 50.55% 1513C T:56 Exits:N> 
+play box
+Huh?!
+
+588H 95V 22274283X 50.55% 1513C T:53 Exits:N> 
+turn box
+Huh?!
+
+588H 95V 22274283X 50.55% 1513C T:52 Exits:N> 
+get all pile
+You get gnomish workman's leather armor from a pile of metal.
+
+588H 95V 22274283X 50.55% 1513C T:45 Exits:N> 
+en portal
+You shield your eyes from the bright light emanating from the portal, and
+step through it.
+An Angled Hall
+
+588H 95V 22274283X 50.55% 1513C T:42 Exits:ES> 
+s
+Another Stone Hallway
+
+588H 93V 22274283X 50.55% 1513C T:40 Exits:NS> 
+s
+A Room Full Of Toys
+A large jack-in-the box sits here closed.
+
+588H 92V 22274283X 50.55% 1513C T:38 Exits:ND> 
+turn box
+     You wind the crank of the jack-in-the-box slowly, as silly music comes
+from inside the confines of the box. Then, as the music comes to a halt, a
+purple metallic head springs out of the box and onto the floor.
+
+588H 92V 22274283X 50.55% 1513C T:36 Exits:ND> 
+get all
+You get a purple head of metal.
+
+588H 92V 22274283X 50.55% 1513C T:34 Exits:ND> 
+l
+A Room Full Of Toys
+
+588H 92V 22274283X 50.55% 1513C T:33 Exits:ND> 
+
+588H 92V 22274283X 50.55% 1513C T:30 Exits:ND> 
+d
+Descending Into A Cavern
+
+588H 90V 22274283X 50.55% 1513C T:29 Exits:NESWU> 
+n
+A Natural Cavern
+A humanoid fashioned out of a red metal scans the cavern for unwanted visitors.
+
+588H 88V 22274283X 50.55% 1513C T:26 Exits:NS> 
+n
+A Natural Cavern
+A humanoid fashioned out of a red metal scans the cavern for unwanted visitors.
+
+588H 86V 22274283X 50.55% 1513C T:25 Exits:ESW> 
+e
+Cavern Expansion
+A humanoid made from metal with a blue tint slowly circles the cavern.
+A humanoid fashioned out of a red metal scans the cavern for unwanted visitors.
+
+588H 84V 22274283X 50.55% 1513C T:25 Exits:NW> 
+n
+Cavern Expansion
+A humanoid made entirely of green metal watches and wanders the cavern.
+
+588H 82V 22274283X 50.55% 1513C T:24 Exits:SW> 
+w
+Cavern Expansion
+A humanoid made entirely of green metal watches and wanders the cavern.
+
+588H 80V 22274283X 50.55% 1513C T:24 Exits:NEW> 
+n
+Boylein's Laboratory
+A pile of metal parts is lying here.
+A magical portal shimmers with an unknown source of energy.
+
+588H 79V 22274283X 50.55% 1513C T:23 Exits:S> 
+get all pile
+You get a horn of bubbles from a pile of metal.
+
+588H 79V 22274283X 50.55% 1513C T:20 Exits:S> 
+en portal
+You shield your eyes from the bright light emanating from the portal, and
+step through it.
+An Arena
+
+588H 79V 22274283X 50.55% 1513C T:18 Exits:ES> 
+l
+An Arena
+
+588H 79V 22274283X 50.55% 1513C T:16 Exits:ES> 
+l room 
+An Arena
+    You find yourself now in a flat open area, with tall stone walls
+blocking your exits to the west and north. The walls and floor are both
+crudely 'carved', though they look more as if they were pushed back by a
+huge magical wall of force. A more recent addition to the walls, red stains
+that look very much like dried blood are on the lower parts of the wall and
+the floor.
+
+588H 79V 22274283X 50.55% 1513C T:13 Exits:ES> 
+l e
+You see nothing special.
+
+588H 79V 22274283X 50.55% 1513C T:12 Exits:ES> 
+e
+An Arena
+
+588H 78V 22274283X 50.55% 1513C T:12 Exits:SW> 
+l e
+A large red X is crudely painted on the wall in blood.
+
+588H 78V 22274283X 50.55% 1513C T:11 Exits:SW> 
+assemble automaton
+A purple automaton starts following you.
+    You carefully begin assembling the automaton. The torso is connected to
+the legs. The arm is connected to the torso. Finally, you screw in the head
+of the automaton and its eyes flash to life as you do so.
+
+588H 78V 22274283X 50.55% 1513C T:6 Exits:SW> 
+l
+An Arena
+A purple automaton is here and ready to assist its creator.
+
+588H 78V 22274283X 50.55% 1513C T:5 Exits:SW> 
+
+You are hungry.
+You are thirsty.
+
+588H 106V 22274283X 50.55% 1513C T:60 Exits:SW> 
+l automaton
+The automaton is made purely of purple hued metal. Powerful metal legs
+support the box-like torso which has a single arm protruding from it. On
+the back of the torso is a large switch, probably there to activate some
+secondary function of the automaton.
+A purple automaton is in an excellent condition.
+
+588H 106V 22274283X 50.55% 1513C T:59 Exits:SW> 
+pull switch
+Huh?!
+
+588H 106V 22274283X 50.55% 1513C T:51 Exits:SW> 
+push switch
+You push on thin air and fall over.
+
+588H 106V 22274283X 50.55% 1513C T:48 Exits:SW> 
+turn switch
+Huh?!
+
+588H 106V 22274283X 50.55% 1513C T:46 Exits:SW> 
+l switch
+You do not see that here.
+
+588H 106V 22274283X 50.55% 1513C T:41 Exits:SW> 
+l torso
+You do not see that here.
+
+588H 106V 22274283X 50.55% 1513C T:40 Exits:SW> 
+activate automaton
+You flick the switch on the torso of the automaton. Its arm whirs to life,
+as the hand is retracted within and replaced by a steel drill. It looks
+prepared to dig somewhere.
+The purple automaton directs the drill on its arm towards the red X on the
+eastern wall. After a few moments, a narrow passage has been cut from the
+stone face.
+
+588H 106V 22274283X 50.55% 1513C T:26 Exits:ESW> 
+e
+A Hidden Store Room
+A sword with a helical blade lies here silent...it glows dimly
+A composite bow constructed of metal lies here, waiting to be employed...it glows dimly..it hums softly
+The head of a very large battle axe shimmers as light passes over it...it hums softly
+A sword with a long green blade attracts you with its glow...it glows dimly..it hums softly
+A chain of metal composed of nine sections is curled around itself.
+Some unintelligible papers on a mechanical creation lie here in a pile.
+
+588H 105V 22274283X 50.55% 1513C T:24 Exits:W> 
+get all
+You get the sword of slumber.
+You get a composite metal bow.
+You get the axe of hurling.
+You get a luck blade.
+You get a nine sectional staff.
+You get some blueprints for a dragon.
+
+588H 105V 22274283X 50.55% 1513C T:22 Exits:W> 
+w
+An Arena
+A purple automaton is here and ready to assist its creator.
+
+588H 104V 22274283X 50.55% 1513C T:15 Exits:ESW> 
+s
+A purple automaton arrives from the north.
+An Arena
+Bunches of metal shrapnel are spread around everywhere.
+Destroyed remains of a dragon claw are littered around.
+The remnants of the destroyed dragon head are scattered about.
+A powerfuly blessed bandage is strewn here. [8]
+A wooden splint used to set broken bones is here.
+Destroyed remains of a dragon claw are littered around.
+A purple automaton is here and ready to assist its creator.
+
+588H 103V 22274283X 50.55% 1513C T:14 Exits:NSW> 
+s
+A purple automaton arrives from the north.
+Wooden Walkway
+A purple automaton is here and ready to assist its creator.
+
+588H 102V 22274283X 50.55% 1513C T:9 Exits:NW> 
+w
+A purple automaton arrives from the east.
+In Front Of A Portal
+A magical portal shimmers with an unknown source of energy.
+A purple automaton is here and ready to assist its creator.
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 101V 22274283X 50.55% 1513C T:8 Exits:E> 
+in
+You are carrying:
+some blueprints for a dragon
+a nine sectional staff
+a luck blade..it glows dimly..it hums softly
+the axe of hurling..it hums softly
+a composite metal bow..it glows dimly..it hums softly
+the sword of slumber..it glows dimly
+a horn of bubbles
+gnomish workman's leather armor
+a cryptic ancient elven talisman
+a glowing red ruby..it glows dimly
+a bloodstained heater shield
+a metallic dragon helm
+the rod of terror
+a glowing scroll of recall..it glows dimly [2]
+a small wooden chest
+a milky potion of see invisible
+
+588H 101V 22274283X 50.55% 1513C T:6 Exits:E> 
+give hurling urtas
+You give the axe of hurling to Urtas.
+
+588H 101V 22274283X 50.55% 1513C T:1 Exits:E> 
+
+You are hungry.
+You are thirsty.
+
+582H 107V 22274283X 50.55% 1513C T:60 Exits:E> 
+
+Urtas utters some strange words.
+Urtas summons some ghost berries.
+
+582H 107V 22274283X 50.55% 1513C T:55 Exits:E> 
+
+Urtas's stomach stops growling.
+A few of Urtas's nastier scrapes disappear.
+Urtas appears rejuvenated.
+
+582H 107V 22274283X 50.55% 1513C T:51 Exits:E> 
+
+Urtas gives an ethereal ghost berry to Urtas.
+
+582H 107V 22274283X 50.55% 1513C T:50 Exits:E> 
+
+Urtas gives you an ethereal ghost berry.
+
+582H 107V 22274283X 50.55% 1513C T:47 Exits:E> 
+
+Urtas drops an ethereal ghost berry.
+Urtas drops an ethereal ghost berry.
+Urtas drops an ethereal ghost berry.
+
+582H 107V 22274283X 50.55% 1513C T:42 Exits:E> 
+eat berry
+You eat an ethereal ghost berry.
+There is nothing left now.
+You are no longer hungry or thirsty.
+You feel satiated.
+Some of your nastier scrapes disappear.
+You feel less tired.
+
+588H 132V 22274283X 50.55% 1513C T:40 Exits:E> 
+rec recall me
+get recall chest
+You stop using a plainsman's war hatchet.
+You grab a glowing scroll of recall.
+You recite a glowing scroll of recall which dissolves.
+The Inn of Dawn Guard
+The stronghold receptionist is here, showing clan members to their rooms.
+
+588H 132V 22274283X 50.55% 1513C T:40 Exits:ED> 
+
+Urtas appears in the middle of the room.
+
+588H 132V 22274283X 50.55% 1513C T:38 Exits:ED> 
+in
+
+A purple automaton stops following you.
+
+588H 132V 22274283X 50.55% 1513C T:33 Exits:ED> 
+The chest doesn't seem to have what you are looking for.
+
+588H 132V 22274283X 50.55% 1513C T:31 Exits:ED> 
+You are carrying:
+a plainsman's war hatchet
+some blueprints for a dragon
+a nine sectional staff
+a luck blade..it glows dimly..it hums softly
+a composite metal bow..it glows dimly..it hums softly
+the sword of slumber..it glows dimly
+a horn of bubbles
+gnomish workman's leather armor
+a cryptic ancient elven talisman
+a glowing red ruby..it glows dimly
+a bloodstained heater shield
+a metallic dragon helm
+the rod of terror
+a glowing scroll of recall..it glows dimly
+a small wooden chest
+a milky potion of see invisible
+
+588H 132V 22274283X 50.55% 1513C T:31 Exits:ED> 
+
+Urtas sits down and rests.
+
+588H 132V 22274283X 50.55% 1513C T:30 Exits:ED> 
+sta
+You are already standing.
+
+588H 132V 22274283X 50.55% 1513C T:26 Exits:ED> 
+e
+The City Portal of Dawn Guard
+A large multicolored portal hovers near one wall of the room...it glows dimly
+A grey wolf, one of the horde, stalks its master's prey.
+
+588H 131V 22274283X 50.55% 1513C T:25 Exits:NESW> 
+s
+The Alchemy Lab of Dawn Guard
+An alabaster stone rests here.
+A young knight of the Aurinite Order stands before you, its armor shining.
+The clan alchemist is standing here.
+
+588H 130V 22274283X 50.55% 1513C T:25 Exits:N> 
+buy lore
+The clan alchemist tells you 'That'll cost you 195 coins.'
+You now have a scroll of legend lore.
+
+588H 130V 22274283X 50.55% 1318C T:24 Exits:N> 
+buy lore
+The clan alchemist tells you 'That'll cost you 195 coins.'
+You now have a scroll of legend lore.
+
+588H 130V 22274283X 50.55% 1123C T:23 Exits:N> 
+buy lore
+The clan alchemist tells you 'That'll cost you 195 coins.'
+You now have a scroll of legend lore.
+
+588H 130V 22274283X 50.55% 928C T:22 Exits:N> 
+in
+You are carrying:
+a scroll of legend lore [3]
+a plainsman's war hatchet
+some blueprints for a dragon
+a nine sectional staff
+a luck blade..it glows dimly..it hums softly
+a composite metal bow..it glows dimly..it hums softly
+the sword of slumber..it glows dimly
+a horn of bubbles
+gnomish workman's leather armor
+a cryptic ancient elven talisman
+a glowing red ruby..it glows dimly
+a bloodstained heater shield
+a metallic dragon helm
+the rod of terror
+a glowing scroll of recall..it glows dimly
+a small wooden chest
+a milky potion of see invisible
+
+588H 130V 22274283X 50.55% 928C T:22 Exits:N> 
+rec lore nine.staff
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'staff nine sectional'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 7            Value   : 175
+
+ Item is  : MAGIC
+ Class    : staff
+ Damage   : 4D4
+
+588H 130V 22274283X 50.55% 928C T:16 Exits:N> 
+rec lore luck.blade
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'blade sword luck lucky green long jade'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: stone
+ Weight   : 8            Value   : 523
+
+ Affects  : HITROLL       by 2
+ Affects  : LEARN         by 5
+ Affects  : DAMROLL       by 1
+ Item is  : GLOW HUM MAGIC
+ Class    : long_sword
+ Damage   : 3D4
+
+588H 130V 22274283X 50.55% 928C T:4 Exits:N> 
+
+Your shroud fades away.
+
+588H 132V 22274283X 50.55% 928C T:60 Exits:N> 
+n
+The City Portal of Dawn Guard
+A large multicolored portal hovers near one wall of the room...it glows dimly
+A grey wolf, one of the horde, stalks its master's prey.
+
+588H 131V 22274283X 50.55% 928C T:53 Exits:NESW> 
+e
+The Bank of Dawn Guard
+
+588H 130V 22274283X 50.55% 928C T:53 Exits:EW> 
+store luch
+You are not carrying that.
+
+588H 130V 22274283X 50.55% 928C T:49 Exits:EW> 
+store luck
+You are not allowed to store a luck blade.
+
+588H 130V 22274283X 50.55% 928C T:48 Exits:EW> 
+in
+You are carrying:
+a scroll of legend lore
+a plainsman's war hatchet
+some blueprints for a dragon
+a nine sectional staff
+a luck blade..it glows dimly..it hums softly
+a composite metal bow..it glows dimly..it hums softly
+the sword of slumber..it glows dimly
+a horn of bubbles
+gnomish workman's leather armor
+a cryptic ancient elven talisman
+a glowing red ruby..it glows dimly
+a bloodstained heater shield
+a metallic dragon helm
+the rod of terror
+a glowing scroll of recall..it glows dimly
+a small wooden chest
+a milky potion of see invisible
+
+588H 130V 22274283X 50.55% 928C T:42 Exits:EW> 
+rec lore slumber
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'sword slumber helical'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 4            Value   : 400
+
+ Affects  : HITROLL       by 2
+ Item is  : GLOW MAGIC
+ Class    : long_sword
+ Damage   : 3D6
+
+588H 130V 22274283X 50.55% 928C T:34 Exits:EW> 
+w
+n
+in
+The City Portal of Dawn Guard
+A large multicolored portal hovers near one wall of the room...it glows dimly
+A grey wolf, one of the horde, stalks its master's prey.
+
+588H 129V 22274283X 50.55% 928C T:26 Exits:NESW> 
+The Forge of Dawn Guard
+The clan blacksmith is standing here.
+
+588H 128V 22274283X 50.55% 928C T:25 Exits:S> 
+You are carrying:
+a plainsman's war hatchet
+some blueprints for a dragon
+a nine sectional staff
+a luck blade..it glows dimly..it hums softly
+a composite metal bow..it glows dimly..it hums softly
+the sword of slumber..it glows dimly
+a horn of bubbles
+gnomish workman's leather armor
+a cryptic ancient elven talisman
+a glowing red ruby..it glows dimly
+a bloodstained heater shield
+a metallic dragon helm
+the rod of terror
+a glowing scroll of recall..it glows dimly
+a small wooden chest
+a milky potion of see invisible
+
+588H 128V 22274283X 50.55% 928C T:25 Exits:S> 
+sell nine
+The clan blacksmith tells you '175 coins for that! Nice doing business with you.'
+The clan blacksmith now has a nine sectional staff.
+
+588H 128V 22274283X 50.55% 1103C T:22 Exits:S> 
+sell blueprints
+The clan blacksmith tells you 'I'm afraid I wouldn't be able to sell that.'
+
+588H 128V 22274283X 50.55% 1103C T:19 Exits:S> 
+sell luck
+The clan blacksmith tells you '523 coins for that! Nice doing business with you.'
+The clan blacksmith now has a luck blade.
+
+588H 128V 22274283X 50.55% 1626C T:13 Exits:S> 
+sell slumber
+The clan blacksmith tells you '400 coins for that! Nice doing business with you.'
+The clan blacksmith now has the sword of slumber.
+
+588H 128V 22274283X 50.55% 2026C T:8 Exits:S> 
+sell horn
+The clan blacksmith tells you '125 coins for that! Nice doing business with you.'
+The clan blacksmith now has a horn of bubbles.
+
+588H 128V 22274283X 50.55% 2151C T:5 Exits:S> 
+sell armor
+The clan blacksmith tells you '100 coins for that! Nice doing business with you.'
+The clan blacksmith now has gnomish workman's leather armor.
+
+588H 128V 22274283X 50.55% 2251C T:4 Exits:S> 
+in
+You are carrying:
+a plainsman's war hatchet
+some blueprints for a dragon
+a composite metal bow..it glows dimly..it hums softly
+a cryptic ancient elven talisman
+a glowing red ruby..it glows dimly
+a bloodstained heater shield
+a metallic dragon helm
+the rod of terror
+a glowing scroll of recall..it glows dimly
+a small wooden chest
+a milky potion of see invisible
+
+588H 128V 22274283X 50.55% 2251C T:3 Exits:S> 
+sell bow
+The clan blacksmith tells you '700 coins for that! Nice doing business with you.'
+The clan blacksmith now has a composite metal bow.
+
+588H 132V 22274283X 50.55% 2951C T:60 Exits:S> 
+rem shard
+You stop using a crystal shard necklace.
+
+588H 132V 22274283X 50.55% 2951C T:57 Exits:S> 
+wea cryptic
+You wear a cryptic ancient elven talisman around your neck.
+
+588H 132V 22274283X 50.55% 2951C T:55 Exits:S> 
+wea shield
+You start using a bloodstained heater shield.
+
+588H 132V 22274283X 50.55% 2951C T:53 Exits:S> 
+sell helm
+sell terror
+The clan blacksmith tells you '300 coins for that! Nice doing business with you.'
+The clan blacksmith now has a metallic dragon helm.
+
+588H 132V 22274283X 50.55% 3251C T:45 Exits:S> 
+The clan blacksmith tells you '350 coins for that! Nice doing business with you.'
+The clan blacksmith now has the rod of terror.
+
+588H 132V 22274283X 50.55% 3601C T:45 Exits:S> 
+in
+You are carrying:
+a crystal shard necklace..it glows dimly
+a plainsman's war hatchet
+some blueprints for a dragon
+a glowing red ruby..it glows dimly
+a glowing scroll of recall..it glows dimly
+a small wooden chest
+a milky potion of see invisible
+
+588H 132V 22274283X 50.55% 3601C T:39 Exits:S> 
+s
+The City Portal of Dawn Guard
+A large multicolored portal hovers near one wall of the room...it glows dimly
+A grey wolf, one of the horde, stalks its master's prey.
+
+588H 131V 22274283X 50.55% 3601C T:36 Exits:NESW> 
+l
+The City Portal of Dawn Guard
+A large multicolored portal hovers near one wall of the room...it glows dimly
+A grey wolf, one of the horde, stalks its master's prey.
+
+588H 131V 22274283X 50.55% 3601C T:35 Exits:NESW> 
+w
+The Inn of Dawn Guard
+<DAWN> Urtas the Male Goblin is resting here.
+. . . emits an eerie glow.
+The stronghold receptionist is here, showing clan members to their rooms.
+
+588H 130V 22274283X 50.55% 3601C T:33 Exits:ED> 
+off
+     an emerald studded silver choker : 135 coins/day
+     a cryptic ancient elven talisman : 117 coins/day
+     a suit of sturdy black platemail : 45 coins/day
+                  a carved ivory mask : 90 coins/day
+some leggings encrusted with red crystals : 180 coins/day
+   some riveted stompers of brutality : 117 coins/day
+    a pair of stitched dueling gloves : 90 coins/day
+ a pair of white striped blue sleeves : 81 coins/day
+         a bloodstained heater shield : 315 coins/day
+               a dark robe of thieves : 270 coins/day
+           a blood red captain's sash : 45 coins/day
+          an intricate black bracelet : 49 coins/day
+     a huge charred blacksmith's maul : 225 coins/day
+             a crystal shard necklace : 2 coins/day
+            a plainsman's war hatchet : 72 coins/day
+         some blueprints for a dragon : I refuse to store this!
+                   a glowing red ruby : 72 coins/day
+           a glowing scroll of recall : 13 coins/day
+                 a small wooden chest : 0 coins/day
+          an entire loaf of bread [4] : 0 coins/day
+      a small vial of blood red water : 40 coins/day
+                a large waterskin [3] : 3 coins/day
+                  a leather flask [3] : 0 coins/day
+      a milky potion of see invisible : 13 coins/day
+
+588H 130V 22274283X 50.55% 3601C T:32 Exits:ED> 
+drop blueprints
+You drop some blueprints for a dragon.
+
+588H 130V 22274283X 50.55% 3601C T:27 Exits:ED> 
+l
+The Inn of Dawn Guard
+Some unintelligible papers on a mechanical creation lie here in a pile.
+<DAWN> Urtas the Male Goblin is resting here.
+. . . emits an eerie glow.
+The stronghold receptionist is here, showing clan members to their rooms.
+
+588H 130V 22274283X 50.55% 3601C T:27 Exits:ED> 
+
+Urtas hefts up their axe, straining under the weight of the massive metal head.
+
+588H 130V 22274283X 50.55% 3601C T:17 Exits:ED> 
+
+The stronghold receptionist cringes in terror!
+
+588H 130V 22274283X 50.55% 3601C T:10 Exits:ED> 
+
+Urtas stands up.
+
+588H 130V 22274283X 50.55% 3601C T:1 Exits:ED> 
+
+Urtas leaves east.
+
+588H 132V 22274283X 50.55% 3601C T:56 Exits:ED> 
+
+Urtas arrives from the east.
+
+588H 132V 22274283X 50.55% 3601C T:27 Exits:ED> 
+ski
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  axes          (bad)               bludgeons     (fair)          **
+     long blades   (good)              miscellaneous (awful)           
+     piercers      (awful)             pole arms     (awful)           
+     short blades  (awful)             two-handed    (awful)           
+
+     bash          (excellent)     **  kick          (good)            
+     rescue        (poor)              vigor         (excellent)     **
+     parry         (awful)             punch         (very good)       
+     target        (awful)           
+     bandage       (excellent)     **  danger sense  (excellent)       
+     disarm        (bad)               sunder        (below average) **
+     track         (below average)     warcry        (good)          **
+     shield block  (fair)          **
+
+588H 132V 22274283X 50.55% 3601C T:26 Exits:ED> 
+sta
+You are already standing.
+
+588H 132V 22274283X 50.55% 3601C T:25 Exits:ED> 
+d
+Urtas arrives from above.
+The Entrance to the Halls of Dawn Guard
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 131V 22274283X 50.55% 3601C T:25 Exits:WU> 
+w
+Urtas arrives from the east.
+Road to Kalaman
+A wooden sign has been nailed to a tree here.
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 130V 22274283X 50.55% 3601C T:25 Exits:NES> 
+n
+n
+Urtas arrives from the south.
+Outside the Southern Gates of Kalaman
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 128V 22274283X 50.55% 3601C T:24 Exits:NESW> 
+Urtas arrives from the south.
+Southern City Gates
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A cityguard of Kalaman stands here, guarding the southern gates.
+A cityguard of Kalaman stands here, guarding the southern gates.
+A cityguard of Kalaman stands here, guarding the southern gates.
+A cityguard of Kalaman stands here, guarding the southern gates.
+
+588H 127V 22274283X 50.55% 3601C T:24 Exits:NS> 
+n
+n
+Urtas arrives from the south.
+Intersection of Vingaard Avenue and Wall Road
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 126V 22274283X 50.55% 3601C T:24 Exits:NESW> 
+n
+Urtas arrives from the south.
+Vingaard Avenue South
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A little girl is playing around in the street.
+A street cleaner is walking about, cleaning up the trash.
+
+588H 125V 22274283X 50.55% 3601C T:23 Exits:NESW> 
+n
+Urtas arrives from the south.
+Vingaard Avenue South
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A rooster walks about while pecking at the ground.
+
+588H 124V 22274283X 50.55% 3601C T:23 Exits:NS> 
+n
+Urtas arrives from the south.
+Vingaard Avenue South
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A solamnic knight is patrolling this area.
+A tired traveller is looking around for the town's inn.
+
+588H 123V 22274283X 50.55% 3601C T:23 Exits:NS> 
+n
+Urtas arrives from the south.
+Vingaard Avenue South
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A cityguard of Kalaman looks about for signs of trouble.
+A street cleaner is walking about, cleaning up the trash.
+
+588H 122V 22274283X 50.55% 3601C T:23 Exits:NESW> 
+n
+n
+Urtas arrives from the south.
+Vingaard Avenue South
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 121V 22274283X 50.55% 3601C T:22 Exits:NESW> 
+n
+Urtas arrives from the south.
+Market Square of Kalaman
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A tired traveller is looking around for the town's inn.
+
+588H 120V 22274283X 50.55% 3601C T:22 Exits:NESW> 
+Urtas arrives from the south.
+Vingaard Avenue North
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+The Lord's personal guard is standing here.
+The Lord's personal guard is standing here.
+The Lord's personal guard is standing here.
+Lord Calof is here pondering over some political matters.
+A little girl is playing around in the street.
+
+588H 119V 22274283X 50.55% 3601C T:22 Exits:NESW> 
+Urtas arrives from the south.
+Vingaard Avenue North
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 118V 22274283X 50.55% 3601C T:22 Exits:NS> 
+n
+Urtas arrives from the south.
+Vingaard Avenue North
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 117V 22274283X 50.55% 3601C T:20 Exits:NES> 
+n
+Urtas arrives from the south.
+Vingaard Avenue North
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 116V 22274283X 50.55% 3601C T:20 Exits:NSW> 
+s
+Urtas arrives from the north.
+Vingaard Avenue North
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 115V 22274283X 50.55% 3601C T:19 Exits:NES> 
+e
+e
+Urtas arrives from the west.
+Hamilton Way
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 114V 22274283X 50.55% 3601C T:19 Exits:NEW> 
+Urtas arrives from the west.
+Hamilton Way
+A small circular lens from an eyeglass has been left here.
+A fan folded from parchment lies here.
+A clear crystal ring lies here on the ground.
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A merchant has erected a portable counter in the middle of the street here.
+
+588H 113V 22274283X 50.55% 3601C T:18 Exits:NESW> 
+e
+e
+Urtas arrives from the west.
+Hamilton Way
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 112V 22274283X 50.55% 3601C T:18 Exits:NSW> 
+Alas, you cannot go that way...
+
+588H 112V 22274283X 50.55% 3601C T:18 Exits:NSW> 
+n
+Urtas arrives from the south.
+Entrance to the Academy
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 111V 22274283X 50.55% 3601C T:17 Exits:(E)S> 
+e
+e
+The door seems to be closed.
+
+588H 111V 22274283X 50.55% 3601C T:16 Exits:(E)S> 
+e
+The door seems to be closed.
+
+588H 111V 22274283X 50.55% 3601C T:16 Exits:(E)S> 
+e
+The door seems to be closed.
+
+588H 111V 22274283X 50.55% 3601C T:16 Exits:(E)S> 
+The door seems to be closed.
+
+588H 111V 22274283X 50.55% 3601C T:15 Exits:(E)S> 
+op door
+Ok.
+
+588H 111V 22274283X 50.55% 3601C T:14 Exits:ES> 
+e
+Urtas arrives from the west.
+Academy of the Fighting Arts
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 110V 22274283X 50.55% 3601C T:14 Exits:EW> 
+e
+e
+Urtas arrives from the west.
+A Wide Hallway
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 109V 22274283X 50.55% 3601C T:13 Exits:NESW> 
+Urtas arrives from the west.
+Warriors' Training Room
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+The master warrior is here practicing some swordsman skills.
+A cityguard stands here, keeping a wary eye out for troublemakers.
+
+588H 108V 22274283X 50.55% 3601C T:13 Exits:W> 
+learn a
+The master warrior instructs you in the skill 'bludgeons'.
+The master warrior instructs you in the skill 'shield block'.
+The master warrior instructs you in the skill 'warcry'.
+The master warrior instructs you in the skill 'sunder'.
+
+588H 108V 22274283X 50.55% 3601C T:12 Exits:W> 
+w
+w
+Urtas arrives from the east.
+A Wide Hallway
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 107V 22274283X 50.55% 3601C T:11 Exits:NESW> 
+Urtas arrives from the east.
+Academy of the Fighting Arts
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 106V 22274283X 50.55% 3601C T:11 Exits:EW> 
+w
+w
+Urtas arrives from the east.
+Entrance to the Academy
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 105V 22274283X 50.55% 3601C T:11 Exits:ES> 
+Alas, you cannot go that way...
+
+588H 105V 22274283X 50.55% 3601C T:11 Exits:ES> 
+s
+Urtas arrives from the north.
+Hamilton Way
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 104V 22274283X 50.55% 3601C T:10 Exits:NSW> 
+w
+w
+Urtas arrives from the east.
+Hamilton Way
+A small circular lens from an eyeglass has been left here.
+A fan folded from parchment lies here.
+A clear crystal ring lies here on the ground.
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A merchant has erected a portable counter in the middle of the street here.
+
+588H 103V 22274283X 50.55% 3601C T:10 Exits:NESW> 
+w
+Urtas arrives from the east.
+Hamilton Way
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 102V 22274283X 50.55% 3601C T:10 Exits:NEW> 
+Urtas arrives from the east.
+Vingaard Avenue North
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 101V 22274283X 50.55% 3601C T:9 Exits:NES> 
+s
+s
+Urtas arrives from the north.
+Vingaard Avenue North
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 100V 22274283X 50.55% 3601C T:9 Exits:NS> 
+s
+Urtas arrives from the north.
+Vingaard Avenue North
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A little girl is playing around in the street.
+
+588H 99V 22274283X 50.55% 3601C T:9 Exits:NESW> 
+Urtas arrives from the north.
+Market Square of Kalaman
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 98V 22274283X 50.55% 3601C T:8 Exits:NESW> 
+s
+Urtas arrives from the north.
+Vingaard Avenue South
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 97V 22274283X 50.55% 3601C T:7 Exits:NESW> 
+n
+Urtas arrives from the south.
+Market Square of Kalaman
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 96V 22274283X 50.55% 3601C T:7 Exits:NESW> 
+w
+w
+Urtas arrives from the east.
+Market Street West
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 95V 22274283X 50.55% 3601C T:7 Exits:NESW> 
+w
+Urtas arrives from the east.
+Market Street West
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 94V 22274283X 50.55% 3601C T:6 Exits:NESW> 
+w
+Urtas arrives from the east.
+Market Street West
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A solamnic knight is patrolling this area.
+
+588H 93V 22274283X 50.55% 3601C T:6 Exits:NESW> 
+w
+w
+Urtas arrives from the east.
+Market Street West
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 92V 22274283X 50.55% 3601C T:6 Exits:ESW> 
+Urtas arrives from the east.
+Market Street West
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A woman with a bag of groceries is making her way home.
+
+588H 91V 22274283X 50.55% 3601C T:6 Exits:EW> 
+Urtas arrives from the east.
+Intersection of Market Street and Wall Road
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A large pigeon is here pecking at some bread crumbs.
+
+588H 90V 22274283X 50.55% 3601C T:5 Exits:NESW> 
+w
+w
+Urtas arrives from the east.
+Western City Gates
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A cityguard of Kalaman stands here, guarding the western gates.
+A cityguard of Kalaman stands here, guarding the western gates.
+A cityguard of Kalaman stands here, guarding the western gates.
+A cityguard of Kalaman stands here, guarding the western gates.
+
+588H 89V 22274283X 50.55% 3601C T:4 Exits:E(W)> 
+The gate seems to be closed.
+
+588H 89V 22274283X 50.55% 3601C T:4 Exits:E(W)> 
+op gate
+Ok.
+
+588H 89V 22274283X 50.55% 3601C T:3 Exits:EW> 
+w
+Urtas arrives from the east.
+Outside the Western Gates of Kalaman
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 88V 22274283X 50.55% 3601C T:2 Exits:EW> 
+w
+Urtas arrives from the east.
+Beyond the City of Kalaman
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 86V 22274283X 50.55% 3601C T:2 Exits:ESW> 
+n
+Alas, you cannot go that way...
+
+588H 86V 22274283X 50.55% 3601C T:2 Exits:ESW> 
+n
+Alas, you cannot go that way...
+
+588H 86V 22274283X 50.55% 3601C T:1 Exits:ESW> 
+w
+Urtas arrives from the east.
+Before an Old Cemetery
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 84V 22274283X 50.55% 3601C T:1 Exits:NEW> 
+n
+Urtas arrives from the south.
+Entrance to Kalaman Graveyard
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 82V 22274283X 50.55% 3601C T:1 Exits:(N)S> 
+n
+The gate seems to be closed.
+
+588H 82V 22274283X 50.55% 3601C T:1 Exits:(N)S> 
+op gatge
+I see no gatge here.
+
+588H 110V 22274283X 50.55% 3601C T:59 Exits:(N)S> 
+n
+The gate seems to be closed.
+
+588H 110V 22274283X 50.55% 3601C T:59 Exits:(N)S> 
+op gate
+Ok.
+
+588H 110V 22274283X 50.55% 3601C T:57 Exits:NS> 
+n
+w
+Urtas arrives from the south.
+A Dark Path
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 108V 22274283X 50.55% 3601C T:57 Exits:SW> 
+Urtas arrives from the east.
+A Dark Path
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A male ghost silently observes what you are doing.
+
+588H 106V 22274283X 50.55% 3601C T:57 Exits:NE> 
+n
+Urtas arrives from the south.
+Entering the Graveyard
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A ghost of a child smiles at you as you enter the room.
+
+588H 104V 22274283X 50.55% 3601C T:56 Exits:NSW> 
+w
+Urtas arrives from the east.
+In the Graveyard
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 102V 22274283X 50.55% 3601C T:56 Exits:NEW> 
+w
+w
+Urtas arrives from the east.
+Near a Structure
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A ghost of a child smiles at you as you enter the room.
+A male ghost silently observes what you are doing.
+
+588H 100V 22274283X 50.55% 3601C T:56 Exits:NE(S)> 
+Alas, you cannot go that way...
+
+588H 100V 22274283X 50.55% 3601C T:56 Exits:NE(S)> 
+s
+The door seems to be closed.
+
+588H 100V 22274283X 50.55% 3601C T:55 Exits:NE(S)> 
+op door
+Ok.
+
+588H 100V 22274283X 50.55% 3601C T:54 Exits:NES> 
+s
+Urtas arrives from the north.
+A Hallway
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 99V 22274283X 50.55% 3601C T:54 Exits:NE> 
+e
+Urtas arrives from the west.
+A Shrine
+A big sturdy coffin lies in the center of the room.
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 97V 22274283X 50.55% 3601C T:53 Exits:W> 
+learn a
+Warning: your input 'a' ignored.
+Sorry, but you cannot do that here!
+
+588H 97V 22274283X 50.55% 3601C T:52 Exits:W> 
+l
+A Shrine
+A big sturdy coffin lies in the center of the room.
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 97V 22274283X 50.55% 3601C T:44 Exits:W> 
+w
+Urtas arrives from the east.
+A Hallway
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 95V 22274283X 50.55% 3601C T:44 Exits:NE> 
+n
+Urtas arrives from the south.
+Near a Structure
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A ghost of a child smiles at you as you enter the room.
+A male ghost silently observes what you are doing.
+
+588H 94V 22274283X 50.55% 3601C T:44 Exits:NES> 
+e
+e
+Urtas arrives from the west.
+In the Graveyard
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 92V 22274283X 50.55% 3601C T:43 Exits:NEW> 
+e
+e
+Urtas arrives from the west.
+Entering the Graveyard
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A ghost of a child smiles at you as you enter the room.
+
+588H 90V 22274283X 50.55% 3601C T:43 Exits:NSW> 
+Alas, you cannot go that way...
+
+588H 90V 22274283X 50.55% 3601C T:43 Exits:NSW> 
+Alas, you cannot go that way...
+
+588H 90V 22274283X 50.55% 3601C T:43 Exits:NSW> 
+s
+Urtas arrives from the north.
+A Dark Path
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A male ghost silently observes what you are doing.
+
+588H 88V 22274283X 50.55% 3601C T:42 Exits:NE> 
+e
+e
+Urtas arrives from the west.
+A Dark Path
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 86V 22274283X 50.55% 3601C T:42 Exits:SW> 
+Alas, you cannot go that way...
+
+588H 86V 22274283X 50.55% 3601C T:42 Exits:SW> 
+s
+s
+Urtas arrives from the north.
+Entrance to Kalaman Graveyard
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 84V 22274283X 50.55% 3601C T:42 Exits:NS> 
+s
+Urtas arrives from the north.
+Before an Old Cemetery
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 82V 22274283X 50.55% 3601C T:41 Exits:NEW> 
+Alas, you cannot go that way...
+
+588H 82V 22274283X 50.55% 3601C T:41 Exits:NEW> 
+e
+e
+Urtas arrives from the west.
+Beyond the City of Kalaman
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 80V 22274283X 50.55% 3601C T:41 Exits:ESW> 
+e
+Urtas arrives from the west.
+Outside the Western Gates of Kalaman
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 78V 22274283X 50.55% 3601C T:40 Exits:EW> 
+e
+Urtas arrives from the west.
+Western City Gates
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A cityguard of Kalaman stands here, guarding the western gates.
+A cityguard of Kalaman stands here, guarding the western gates.
+A cityguard of Kalaman stands here, guarding the western gates.
+A cityguard of Kalaman stands here, guarding the western gates.
+
+588H 77V 22274283X 50.55% 3601C T:40 Exits:EW> 
+Urtas arrives from the west.
+Intersection of Market Street and Wall Road
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A large pigeon is here pecking at some bread crumbs.
+
+588H 76V 22274283X 50.55% 3601C T:40 Exits:NESW> 
+e
+e
+Urtas arrives from the west.
+Market Street West
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A woman with a bag of groceries is making her way home.
+
+588H 75V 22274283X 50.55% 3601C T:40 Exits:EW> 
+e
+Urtas arrives from the west.
+Market Street West
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 74V 22274283X 50.55% 3601C T:39 Exits:ESW> 
+e
+e
+Urtas arrives from the west.
+Market Street West
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A cityguard of Kalaman looks about for signs of trouble.
+
+588H 73V 22274283X 50.55% 3601C T:39 Exits:NESW> 
+e
+Urtas arrives from the west.
+Market Street West
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 72V 22274283X 50.55% 3601C T:39 Exits:NESW> 
+Urtas arrives from the west.
+Market Street West
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 71V 22274283X 50.55% 3601C T:39 Exits:NESW> 
+Urtas arrives from the west.
+Market Square of Kalaman
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 70V 22274283X 50.55% 3601C T:38 Exits:NESW> 
+s
+s
+Urtas arrives from the north.
+Vingaard Avenue South
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A solamnic knight is patrolling this area.
+
+588H 69V 22274283X 50.55% 3601C T:38 Exits:NESW> 
+s
+Urtas arrives from the north.
+Vingaard Avenue South
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A cityguard of Kalaman looks about for signs of trouble.
+A cityguard of Kalaman looks about for signs of trouble.
+A street cleaner is walking about, cleaning up the trash.
+
+588H 68V 22274283X 50.55% 3601C T:37 Exits:NESW> 
+Urtas arrives from the north.
+Vingaard Avenue South
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A tired traveller is looking around for the town's inn.
+
+588H 67V 22274283X 50.55% 3601C T:37 Exits:NS> 
+s
+Urtas arrives from the north.
+Vingaard Avenue South
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A rooster walks about while pecking at the ground.
+
+588H 66V 22274283X 50.55% 3601C T:37 Exits:NS> 
+s
+Urtas arrives from the north.
+Vingaard Avenue South
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A little girl is playing around in the street.
+A street cleaner is walking about, cleaning up the trash.
+
+588H 65V 22274283X 50.55% 3601C T:36 Exits:NESW> 
+s
+Urtas arrives from the north.
+Intersection of Vingaard Avenue and Wall Road
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A solamnic knight is patrolling this area.
+
+588H 64V 22274283X 50.55% 3601C T:36 Exits:NESW> 
+s
+Urtas arrives from the north.
+Southern City Gates
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+A cityguard of Kalaman stands here, guarding the southern gates.
+A cityguard of Kalaman stands here, guarding the southern gates.
+A cityguard of Kalaman stands here, guarding the southern gates.
+A cityguard of Kalaman stands here, guarding the southern gates.
+
+588H 63V 22274283X 50.55% 3601C T:35 Exits:NS> 
+s
+Urtas arrives from the north.
+Outside the Southern Gates of Kalaman
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 62V 22274283X 50.55% 3601C T:35 Exits:NESW> 
+s
+Urtas arrives from the north.
+Road to Kalaman
+A wooden sign has been nailed to a tree here.
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 60V 22274283X 50.55% 3601C T:34 Exits:NES> 
+e
+Urtas arrives from the west.
+The Entrance to the Halls of Dawn Guard
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+
+588H 59V 22274283X 50.55% 3601C T:34 Exits:WU> 
+u
+Urtas arrives from below.
+The Inn of Dawn Guard
+Some unintelligible papers on a mechanical creation lie here in a pile.
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+The stronghold receptionist is here, showing clan members to their rooms.
+
+588H 58V 22274283X 50.55% 3601C T:33 Exits:ED> 
+re
+You rest your tired bones but stay aloft.
+
+588H 58V 22274283X 50.55% 3601C T:33 Exits:ED> 
+
+Urtas sits down and rests.
+
+588H 58V 22274283X 50.55% 3601C T:33 Exits:ED> 
+l
+The Inn of Dawn Guard
+Some unintelligible papers on a mechanical creation lie here in a pile.
+<DAWN> Urtas the Male Goblin is resting here.
+. . . emits an eerie glow.
+The stronghold receptionist is here, showing clan members to their rooms.
+
+588H 58V 22274283X 50.55% 3601C T:29 Exits:ED> 
+in
+You are carrying:
+a crystal shard necklace..it glows dimly
+a plainsman's war hatchet
+a glowing red ruby..it glows dimly
+a glowing scroll of recall..it glows dimly
+a small wooden chest
+a milky potion of see invisible
+
+588H 58V 22274283X 50.55% 3601C T:29 Exits:ED> 
+
+The protective presence around you fades.
+
+588H 132V 22274283X 50.55% 3601C T:60 Exits:ED> 
+                               Welcome to

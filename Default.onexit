@@ -25,26 +25,23 @@
 #alias {ar} {#con mud.arctic.org 2700} {default}
 #alias {assist} {od assist $leader;ass} {default}
 #alias {autoassist} { #if $AutoAssist  {#var AutoAssist 0;#showme {colorcodes} {&WAutoassist: &gOFF&w};updstatus} {#var AutoAssist 1;#showme {colorcodes} {&WAutoassist: &RON&w};updstatus} } {default}
+#alias {bb} {bash %0;stand} {default}
 #alias {clrbuffs} {#var buffrow { };#status $statusbuffsbar {}} {default}
 #alias {clrstatusbars} { #status 1; #status 2; #status 3; #status 4; #status 5; } {default}
-#alias {cuc} {c 'cu c'} {default}
-#alias {cus} {c 'cu s'} {default}
 #alias {ddri} {get water $container;drink water;put all.water $container} {default}
 #alias {doassist} {#showme AAssist attempt;#if $AutoAssist&!$assisting&!$combat {assist}} {default}
-#alias {dobuff} {#gro enable shmbuff;sco} {default}
 #alias {doeat} {get $food $container;eat $food;put all.$food $container} {default}
 #alias {drawbuffs} {#status $statusbuffsbar {$buffrow} {colorcodes}} {default}
 #alias {ea} {#var food %0;doeat} {default}
-#alias {fillerfiller} {fillerfillerfiller} {shmbuff}
 #alias {ga} {get all corpse} {default}
+#alias {kk} {punch %0;kick %0} {default}
 #alias {loadshaman} {#read config/chars/shaman.set} {default}
 #alias {loadthief} {#read config/chars/thief.set} {default}
 #alias {loadurtas} { #var myself Urtas; loadshaman; } {default}
 #alias {loadwarr} {#read config/chars/warrior.set} {default}
 #alias {loadyabba} { #var myself Yabba; loadwarr; } {default}
-#alias {od} {ord all.spirit} {default}
 #alias {p} {group} {default}
-#alias {reg} {c 'reg'} {default}
+#alias {pp} {punch %0} {default}
 #alias {reset} { #killall;#read Default.set } {5}
 #alias {setleader} {#var leader %0} {default}
 #alias {sos} {rec recall me;get recall chest} {default}
@@ -78,56 +75,21 @@
 #action TEXT {^You bludgeon %0} {#var combat 1} {5} {default}
 #action TEXT {^You sit down and rest your tired bones.} {#var resting 1;#var sitting 1} {5} {default}
 #action TEXT {^You stand up.} {#var resting 0;#var sitting 0} {5} {default}
-#action TEXT {^A spirit shroud soaks into your skin.} {#var AncestralShroud 1} {5} {default}
-#action TEXT {^Your shroud fades away.} {#var AncestralShroud 0} {5} {default}
-#action TEXT {^Your skin starts to glow with an eerie light.} {#var SpectralGlow 1} {5} {default}
-#action TEXT {^An invisible hand from the spirit world guides your weapon.} {#var SpiritalGuidance 1} {5} {default}
-#action TEXT {^You are granted the blessing of the ancients.} {#var AncestralBlessing 1} {5} {default}
-#action TEXT {^You feel greatly invigorated.} {#var Endurance 1} {5} {default}
-#action TEXT {^You sag as a wave of fatigue overcomes you.} {#var Endurance 0} {5} {default}
-#action TEXT {^An eerie calm comes over you.} {#var DelayDeath 1} {5} {default}
-#action TEXT {^Your eyes tingle.} {#var SpectalSight 1} {5} {default}
-#action TEXT {^Your eyes burn for a moment and then feel normal again.} {#var SpectalSight 0} {5} {default}
-#action TEXT {^You draw your spirits closer to the mortal realm.} {#var AmplifySpirits 1} {5} {default}
-#action TEXT {^Your spirits diminish in power, but remain.} {#var AmplifySpirits 0} {5} {default}
-#action TEXT {^Your features are hideously distorted as your true form is revealed!} {#var MonstrousMantle 1} {5} {default}
-#action TEXT {^You feel less threatening.} {#var MonstrousMantle 0} {5} {default}
-#action TEXT {^Your blood begins to boil and a feeling of power washes over you.} {#var BoilingBlood 1} {5} {default}
-#action TEXT {^Your blood ceases to boil and you feel calmer.} {#var BoilingBlood 0} {5} {default}
-#action TEXT {^A protective presence envelops you.} {#var HealgBoost 1} {5} {default}
-#action TEXT {^The protective presence around you fades.} {#var HealgBoost 0} {5} {default}
-#action TEXT {^You shudder slightly and begin to glow orange.} {#var SublimeResistanceBreath 1} {5} {default}
-#action TEXT {^You are no longer resistant to breath.} {#var SublimeResistanceBreath 0} {5} {default}
-#action TEXT {^You shudder slightly and begin to glow green.} {#var SublimeResistanceGas 1} {5} {default}
-#action TEXT {^You are no longer resistant to gas.} {#var SublimeResistanceGas 0} {5} {default}
-#action TEXT {^You shudder slightly and begin to shine from within.} {#var SublimeResistanceMagic 1} {5} {default}
-#action TEXT {^You are no longer resistant to magic.} {#var SublimeResistanceMagic 0} {5} {default}
-#action TEXT {^You shudder slightly and begin to wither from within} {#var SublimeResistanceNeg 1} {5} {default}
-#action TEXT {^You are no longer resistant to negative energy.} {#var SublimeResistanceNeg 0} {5} {default}
-#action TEXT {^%1H %1V %1X %1% %1C %0T:%1 Exits%1>} {#gro disable shmbuff} {5} {shmbuff}
-#action TEXT {ancestral shroud} {#var AncestralShroud 1} {5} {shmbuff}
-#action TEXT {ancestral blessing} {#var AncestralBlessing 1} {5} {shmbuff}
-#action TEXT {spectral glow} {#var SpectralGlow 1} {5} {shmbuff}
-#action TEXT {heal boost} {#var HealBoost 1} {5} {shmbuff}
-#action TEXT {spectral sight} {#var SpectalSight 1} {5} {shmbuff}
-#action TEXT {boiling blood} {#var BoilingBlood 1} {5} {shmbuff}
-#action TEXT {spiritual guidance} {#var SpiritalGuidance 1} {5} {shmbuff}
-#action TEXT {amplify spirits} {#var AmplifySpirits 1} {5} {shmbuff}
-#action TEXT {monstrous mantle} {#var MonstrousMantle 1} {5} {shmbuff}
-#variable {AmplifySpirits} {1}
-#variable {AncestralBlessing} {1}
+#action TEXT {^Your punch hand is ready to lay into someone again.} {#var punch 1} {5} {default}
+#action TEXT {You try to punch %0 moves out of the way.} {#var punch 0} {5} {default}
+#variable {AmplifySpirits} {0}
+#variable {AncestralBlessing} {0}
 #variable {AncestralShroud} {1}
-#variable {AutoAssist} {1}
+#variable {AutoAssist} {0}
 #variable {AutoSkill} {1}
 #variable {BoilingBlood} {0}
 #variable {DelayDeath} {0}
 #variable {Endurance} {0}
 #variable {HealBoost} {1}
-#variable {HealgBoost} {0}
-#variable {MonstrousMantle} {1}
+#variable {MonstrousMantle} {0}
 #variable {Sanctuary} {0}
 #variable {SpectalSight} {0}
-#variable {SpectralGlow} {1}
+#variable {SpectralGlow} {0}
 #variable {SpiritalGuidance} {0}
 #variable {SublimeResistance.breathe} {0}
 #variable {SublimeResistance.gas} {0}
@@ -140,8 +102,8 @@
 #variable {container} {chest}
 #variable {food} {food}
 #variable {leader} {Yabba}
+#variable {punch} {1}
 #variable {resting} {0}
-#variable {shambuffstage} {1}
 #variable {showAncestralBlessing} {0}
 #variable {showAncestralShroud} {0}
 #variable {showBoilingBlood} {0}
@@ -150,6 +112,7 @@
 #variable {sitting} {0}
 #variable {statusbuffsbar} {2}
 #variable {statusshow} {1}
+#variable {torescue} {Urtas}
 #highlight {white} { hard} {default}
 #highlight {white} {A spirit rises from the body %0} {default}
 #highlight {purple} {annihilate} {default}
@@ -160,12 +123,8 @@
 #highlight {white} {very hard} {default}
 #substitute {You are sent sprawling as a %1 crashes into you.} {>>>>[Bashed by %1]<<<<}
 #substitute {^%0 disarms your weapon.} {>[DISARM]<}
-#hot {F1} {control spirit} {default}
+#hot {F1} {rescue $torescue} {default}
 #hot {F2} {#if $AutoSkill  {#var AutoSkill 0;#showme {Auto: skill off}} {#var AutoSkill 1;#showme {Auto: skill on}} } {default}
-#hot {F3} {#if {$shambuffstage=0}        { #var shambuffstage 1; c 'a shro' me; c 'a ble'; c 'spe si'; c 'spe glo'; c 'he boo' me;} #if {$shambuffstage=1} { #var shambuffstage 0; c 'bo bl'; c 'amp spi'; c 'spi gu'; c 'mon man'; } } {default}
-#hot {F4} { c 'amp spi'; c 'bo bl'; c 'spi gu'; c 'mon man'; } {default}
 #group local 5
 #group local default
-#group disable shmbuff
-#group local shmbuff
 #ticksize 60

@@ -7,8 +7,9 @@
 #nop tank side buffs:
 
 #ali updbuffs {updstatus;#status {2} {$statusbar2} {colorcodes}}
+#ali clrstbr2 {}
 #ali updstatus {
-    #var statusbar2 {};
+    #var statusbar2 { };
     #if {$HealBoost 1} {#var statusbar2 $statusbar2&W[&CHB&W]} {#var statusbar2 $statusbar2&W[&cHB&W]};
     #if {$AncestralShroud 1} {#var statusbar2 $statusbar2&W[&CASh&W]} {#var statusbar2 $statusbar2&W[&cASh&W]};
 }

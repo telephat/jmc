@@ -15,11 +15,14 @@
 
 #high {light red} {DISARMED}
 
-A Kalaman cityguard stands up.
-#sub {^%0 stands up.} {^^^[%0]^^^}
-#sub {^%0 stands up.} {^^^ STANDS UP ^^^^}
-#high {red} {^^^[}
-#high {red} {]^^^}
+
+#sub {%0 stands up.} {                           ----[%0 STANDS UP]----}
+#high {red} {%0----[}
+#high {red} {]----}
+#high {white} {%1 %2 %3 %4STANDS UP}
+#high {white} {%1 %2 %3 STANDS UP}
+#high {white} {%1 %2 STANDS UP}
+#high {white} {%1 STANDS UP}
 
 #sub {massacres} {massacres [30]}
 #sub {massacre %1} {massacre [30] %1}

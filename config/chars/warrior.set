@@ -9,11 +9,11 @@
 #act {^Your punch hand is ready to lay into someone again.} {#var punch 1}
 #act {You try to punch %0 moves out of the way.} {#var punch 0}
 
-#sub {You crash into %0 in a bone crunching bash, sending %1 sprawling to the ground.} {vvv[BASHED HIM]vvv}
+#sub {You crash into %0 in a bone crunching bash, sending %1 sprawling to the ground.} {................vvv[BASHED %0]vvv}
 
-#high {light blue} {vvv[}
-#high {light blue} {]vvv}
-#high {white} {BASHED HIM}
+#high {light green} {vvv[}
+#high {light green} {]vvv}
+#high {white} {BASHED %0}
 
 #var torescue Urtas
 #hot f1 {rescue $torescue}
@@ -23,5 +23,9 @@
 #act {Your wounds stop healing.} {#var status1 {&W[&cREG&W]&w};updstatus1}
 #act {Your wounds begin to heal.} {#var status1 {&W[&CREG&W]&w};updstatus1}
 updstatus1
+
+#act {You tug at his sleeve.} {#gro enable feeding}
+#act {Urtas gives you an ethereal ghost berry.} {#gro disable feeding;eat berry} {feeding}
+
 
 #showme {colorcodes} &w[&W1&w][&Wwarrior.set&w][&gdone&w]

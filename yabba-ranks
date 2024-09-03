@@ -8403,3 +8403,199 @@ Your group of 2 members consists of:
   SH Urtas            perfect   rested    standing   N   N    Y    N   Y     1    0
 
 588H 132V 25259820X 36.35% 3138C T:50 Exits:ED> 
+
+Amergin appears in the middle of the room.
+
+588H 132V 25259820X 36.35% 3138C T:35 Exits:ED> 
+l
+The Inn of Dawn Guard
+A suit of bulky scalemail collects dust on the ground.
+<DAWN> Amergin, Hugger of Trees and Dryads is standing here. (flying)
+. . . has a tough exterior.
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+The stronghold receptionist is here, showing clan members to their rooms.
+
+588H 132V 25259820X 36.35% 3138C T:33 Exits:ED> 
+sta
+You are already standing.
+
+588H 132V 25259820X 36.35% 3138C T:32 Exits:ED> 
+rent
+     an emerald studded silver choker : 135 coins/day
+        a sapphire lined chain collar : 270 coins/day
+     a suit of sturdy black platemail : 45 coins/day
+                  a carved ivory mask : 90 coins/day
+some leggings encrusted with red crystals : 180 coins/day
+   some riveted stompers of brutality : 117 coins/day
+    a pair of stitched dueling gloves : 90 coins/day
+ a pair of white striped blue sleeves : 81 coins/day
+         a bloodstained heater shield : 315 coins/day
+                      a leather pouch : 1 coin/day
+          a blue lobster shell bracer : 81 coins/day
+          an intricate black bracelet : 49 coins/day
+     a huge charred blacksmith's maul : 225 coins/day
+       a glowing scroll of recall [2] : 26 coins/day
+                       an iron ration : 0 coins/day
+         a crystal shard necklace [2] : 4 coins/day
+                   a glowing red ruby : 72 coins/day
+          a small bag of white stones : 22 coins/day
+            a plainsman's war hatchet : 72 coins/day
+                 a small wooden chest : 0 coins/day
+                a large waterskin [4] : 4 coins/day
+           a blood red captain's sash : 45 coins/day
+The stronghold receptionist tells you 'You need at least 1924 coins to rent.'
+The stronghold receptionist tells you 'You will be able to rent for 12 days.'
+The stronghold receptionist stores your stuff in the safe, and shows you to your room.
+You sink gently to the ground.
+Urtas stops following you.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 
+0
+
+
+Thank you for playing.
+
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |      *** WE BEGAN A NEW WIPE MARCH 15, 2024 ***          |
+     |\\  |                                                          |
+     | \\ |             PATCH NOTES CAN BE FOUND HERE:               |
+     | |/ |          http://arcticmud.org/pages/news.html            |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? 
+yabba
+Password: 
+Kuzmich121
+
+
+You were last connected Tue Sep 03 17:52:41 2024 UTC from 95.84.138.121.
+
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking immortals for assistance.
+
+--------------------------------------------------------------------------
+Arctic allows for each player to have two characters online at any time.
+Each character must have the same email address and hostname. Any attempts
+to circumvent this rule will be dealt with harshly.
+--------------------------------------------------------------------------
+
+        Check out the YouTube tutorial series for Arctic MUD:
+                  https://tinyurl.com/yc633tx3
+
+                       Join us on Discord!
+                   https://discord.gg/xCF6gh5
+
+
+*** Press Enter: 
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 
+1
+You ran up charges of 26 steel in rent.
+
+Welcome to the land of Krynn.
+
+The Inn of Dawn Guard
+A suit of bulky scalemail collects dust on the ground.
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+The stronghold receptionist is here, showing clan members to their rooms.
+
+570H 132V 25259820X 36.35% 3112C T:18 Exits:ED> 
+l
+The Inn of Dawn Guard
+A suit of bulky scalemail collects dust on the ground.
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+The stronghold receptionist is here, showing clan members to their rooms.
+
+570H 132V 25259820X 36.35% 3112C T:17 Exits:ED> 
+
+Urtas starts following you.
+
+570H 132V 25259820X 36.35% 3112C T:14 Exits:ED> 
+gro form
+Urtas is now a member of your group.
+
+570H 132V 25259820X 36.35% 3112C T:12 Exits:ED> 
+group
+Your group of 2 members consists of:
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  WA Yabba            v.good    rested    standing   Y   N    N    N   Y     0    0
+  SH Urtas            v.good    rested    standing   N   N    Y    N   Y     1    3
+
+570H 132V 25259820X 36.35% 3112C T:12 Exits:ED> 
+
+Urtas focuses on you and utters some strange words.
+A protective presence envelops you.
+
+570H 132V 25259820X 36.35% 3112C T:7 Exits:ED> 
+
+570H 132V 25259820X 36.35% 3112C T:7 Exits:ED> 
+A Kalaman cityguard stands up.
+You feel more vigorous.
+There's nobody by that name here.
+
+588H 132V 25259820X 36.35% 3112C T:60 Exits:ED> 
+
+588H 132V 25259820X 36.35% 3112C T:60 Exits:ED> 
+l
+
+588H 132V 25259820X 36.35% 3112C T:60 Exits:ED> 
+The Inn of Dawn Guard
+A suit of bulky scalemail collects dust on the ground.
+<DAWN> Urtas the Male Goblin is standing here.
+. . . emits an eerie glow.
+The stronghold receptionist is here, showing clan members to their rooms.
+
+588H 132V 25259820X 36.35% 3112C T:60 Exits:ED> 
+
+Urtas focuses on you and utters some strange words.
+A spirit shroud soaks into your skin.
+
+588H 132V 25259820X 36.35% 3112C T:56 Exits:ED> 
+
+588H 132V 25259820X 36.35% 3112C T:56 Exits:ED> 
+
+Urtas sits down and rests.
+
+588H 132V 25259820X 36.35% 3112C T:49 Exits:ED> 
+re
+You rest your tired bones but stay aloft.
+
+588H 132V 25259820X 36.35% 3112C T:48 Exits:ED> 
+
+588H 132V 25259820X 36.35% 3112C T:46 Exits:ED> 

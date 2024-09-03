@@ -1,6 +1,9 @@
 #ALIAS {reset} {
     #killall;#read Default.set
 } {5};
+#multiaction on
+#presub off
+
 #showme {colorcodes} &w[&W0&w][&Wbase.set&w][&Rreading&w]
 #showme {colorcodes} &w[&W1&w][&Wconnection.set&w][&Rreading&w]
 #read config//connection.set

@@ -1,0 +1,17 @@
+#var taunttarget nobody
+#ali {taunt} {#var taunttarget %0;dotaunt}
+#ali dotaunt {taun $taunttarget}
+#act {You laugh and jeer at %0 ignores you.} {dotaunt}
+#act {Yabba comes to your rescue! You're thankful, but a bit dazed.} {dotaunt}
+
+
+#var rescuetarget Urtas
+#ali dorescue {rescue Urtas}
+#act {Your feeble rescue efforts end in failure.} {dorescue}
+#act {Urtas laughs and jeers %0 becomes red in the face.} {dorescue}
+
+#act {You feel especially skillful} {ski}
+
+#act {Your head clears.} {dorescue;dotaunt}
+#high {red} {rescue}
+#high {red} {taunt}

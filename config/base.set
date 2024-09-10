@@ -23,6 +23,9 @@
 #showme {colorcodes} &w[&W1&w][&Wprofiling.set&w][&Rreading&w]
 #read config//profiling.set
 #showme {colorcodes} &w[&W1&w][&Wprofiling.set&w][&gdone&w]
+#showme {colorcodes} &w[&W1&w][&Witems.set&w][&Rreading&w]
+#read config//items.set
+#showme {colorcodes} &w[&W1&w][&Witems.set&w][&gdone&w]
 
 #action {^You receive %0 experience.} {get all.coins corpse; exa corpse}
 #ali {ga} {get all corpse}
@@ -47,5 +50,7 @@
 #ali {ea}       {#var food %0;doeat}
 #ali {doeat}    {get $food $container;eat $food;put all.$food $container}
 
+#act {You should probably stand up!} {stand}
+#act {^Welcome to the land of Krynn.} {fly}
 
 #showme {colorcodes} &w[&W0&w][&Wbase.set&w][&gdone&w]

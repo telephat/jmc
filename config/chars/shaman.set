@@ -23,8 +23,8 @@
 #act {^You feel less threatening.} {#var MonstrousMantle 0}
 #act {^Your blood begins to boil and a feeling of power washes over you.} {#var BoilingBlood 1}
 #act {^Your blood ceases to boil and you feel calmer.} {#var BoilingBlood 0}
-#act {^A protective presence envelops you.} {#var HealgBoost 1}
-#act {^The protective presence around you fades.} {#var HealgBoost 0}
+#act {^A protective presence envelops you.} {#var HealBoost 1}
+#act {^The protective presence around you fades.} {#var HealBoost 0}
 
 #act {^You shudder slightly and begin to glow orange.} {#var SublimeResistanceBreath 1}
 #act {^You are no longer resistant to breath.} {#var SublimeResistanceBreath 0}

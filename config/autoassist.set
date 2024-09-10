@@ -16,7 +16,7 @@
 
 #var assisting 0
 #var combat 0
-#ali doassist {#showme AAssist attempt;#if $AutoAssist&!$assisting&!$combat {assist}}
+#ali doassist {#if $AutoAssist&!$assisting&!$combat {assist}}
 
 #act {$leader slashes %0} {doassist}
 #act {$leader bludgeons %0} {doassist}

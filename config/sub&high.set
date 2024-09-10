@@ -49,3 +49,8 @@
 #high {red}     {amplify spirits}
 #high {red}     {spiritual guidance}
 
+#sub {You have been blinded!} {===[BLINDED]===}
+#high {l blue} {BLINDED}
+
+#sub {Your eyes cross and you stumble back.} {==== Dazed}
+

@@ -35,6 +35,28 @@
 #act {^You shudder slightly and begin to wither from within} {#var SublimeResistanceNeg 1}
 #act {^You are no longer resistant to negative energy.} {#var SublimeResistanceNeg 0}
 
+#var skSeance 1
+#act {A darkness falls over your vision as you commune with the dead.} {#var skSeance 0;#var onSeance 1;skshow}
+#act {You fail to find a connection to the dead.} {#var skSeance 0;#var onSeance 1;skshow}
+#act {Your connection to the dead breaks.} {#var onSeance 0;skshow}
+#act {The faintest connection to the undead world has been re-established.} {#var skSeance 1;skshow}
+#var skBrew 1
+#act {You exhaust yourself while brewing the spell to an empty potion bottle.} {#var skBrew 0;skshow}
+#act {You lose concentration while brewing to an empty potion bottle.} {#var skBrew 0;skshow}
+#act {You feel ready to brew again.} {#var skBrew 1;skshow}
+
+#var skilltoshow { }
+#var skstatus 3
+#ali clrskstatus {#status $skstatus { }}
+#ali clrskshow {#var skilltoshow { };clrskstatus}
+#ali skshow {
+    clrskshow;
+    #if $skSeance {#var skilltoshow {$skilltoshow &W[&CSeance&W]}} {clrskshow;#var skilltoshow {$skilltoshow &W[&cSeance&W]}};
+    #if $skBrew {#var skilltoshow {$skilltoshow &W[&CBrew&W]}} {#var skilltoshow {$skilltoshow &W[&cBrew&W]}};
+    #status 3 {$skilltoshow} {colorcodes}
+    }
+skshow
+
 #hot {f3}   {
      c 'an ble';
      c 'spe glo';

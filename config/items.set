@@ -1,4 +1,5 @@
 #nop #substitute  {} {}
+#message substitute off
 #showme ..Reading SUBSTITUTE seciont
 #substitute  {a sapphire lined chain collar} {a sapphire lined chain collar[dex str]}
 #substitute  {an emerald studded silver choker} {an emerald studded silver choker [9hp Sbr Spar]}
@@ -864,3 +865,4 @@
 #sub {A pelt which appears to be covered in green fur can be seen here} {A pelt which appears to be covered in green fur can be seen here [1_str]}
 #sub {A rather wet pile of a black mossy pelt has been left behind.} {A rather wet pile of a black mossy pelt has been left behind.[1_int]}
 #sub {an obliviax pelt} {an obliviax pelt [1_int]}
+#message substitute on

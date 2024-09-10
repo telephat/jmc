@@ -37,7 +37,7 @@
 
 #var skSeance 1
 #act {A darkness falls over your vision as you commune with the dead.} {#var skSeance 0;#var onSeance 1;skshow}
-#act {You fail to find a connection to the dead.} {#var skSeance 0;#var onSeance 1;skshow}
+#act {You fail to find a connection to the dead.} {#var skSeance 0;#var onSeance 0;skshow}
 #act {Your connection to the dead breaks.} {#var onSeance 0;skshow}
 #act {The faintest connection to the undead world has been re-established.} {#var skSeance 1;skshow}
 #var skBrew 1
@@ -51,7 +51,7 @@
 #ali clrskshow {#var skilltoshow { };clrskstatus}
 #ali skshow {
     clrskshow;
-    #if $skSeance {#var skilltoshow {$skilltoshow &W[&CSeance&W]}} {clrskshow;#var skilltoshow {$skilltoshow &W[&cSeance&W]}};
+    #if $skSeance {#var skilltoshow {$skilltoshow &W[&CSeance&W]}} {#if $onSeance {#var skilltoshow {$skilltoshow &W[&GSeance&W]}} {#var skilltoshow {$skilltoshow &W[&cSeance&W]}}};
     #if $skBrew {#var skilltoshow {$skilltoshow &W[&CBrew&W]}} {#var skilltoshow {$skilltoshow &W[&cBrew&W]}};
     #status 3 {$skilltoshow} {colorcodes}
     }

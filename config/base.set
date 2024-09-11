@@ -27,6 +27,13 @@
 #read config//items.set
 #showme {colorcodes} &w[&W1&w][&Witems.set&w][&gdone&w]
 
+#var grouped 0
+#act {Your wounds stop healing} {#if $grouped {gt *** REGEN: off} {#showme {colorcodes} {&c*** REGEN: off&w}}}
+#act {You are now a member of %1 group.} {#var grouped 1}
+#act {You stop following %0} {#var grouped 0}
+#act {%1 is now a member of your group.} {#var grouped 1}
+
+
 #action {^You receive %0 experience.} {get all.coins corpse; exa corpse}
 #ali {ga} {get all corpse}
 #ali {p} {group}

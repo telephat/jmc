@@ -43,6 +43,7 @@
 #var skBrew 1
 #act {You exhaust yourself while brewing the spell to an empty potion bottle.} {#var skBrew 0;skshow}
 #act {You lose concentration while brewing to an empty potion bottle.} {#var skBrew 0;skshow}
+#act {You lose control of the magical energies and destroy an empty potion bottle.} {#var skBrew 0;skshow}
 #act {You feel ready to brew again.} {#var skBrew 1;skshow}
 
 #var skilltoshow { }

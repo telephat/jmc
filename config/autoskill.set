@@ -4,3 +4,30 @@
                     {#var AutoSkill 0;#showme {Auto: skill off}}
                     {#var AutoSkill 1;#showme {Auto: skill on}}
                 }
+
+#ali doaskill {#showme {colorcodes} {&W----- &GAutoskill &W-----&w}}
+
+
+#nop all combat messages
+#slash crush stab bludgeon cleave pierce hit
+
+#var round 0
+#var engaged 0
+#var incombat 0
+#var waitingprompt 0
+#ali resetcombat {#var round 0;#var incombat 0;#var waitingprompt 0;#var engaged 0}
+#ali assertcombat {#var waitingprompt 1}
+#ali checkround {#if $waitingprompt {}}
+#nop 785H 196V 1X 53.76% 50190C [Att:1.67%] [Yabba:Perfect] [an electric eel:Awful] T:24> 
+#nop 776H 210V 1X 54.19% 50278C [Att:1.67%] [Yabba:V.Good] [the squid's tentacle:Perfect] T:36 Exits:U>
+#nop act {%1H %2V %3X %0T:%0>} {checkround}
+#nop Делаем URTAS Specific
+#act {%1H %1V %1X %0C%0[Urtas:%1] [%0]%0>}  {assertcombat}
+#act {^You obliterate %0 with your %1.}     {assertcombat}
+#act {^You annihilate %0 with your %1.}     {assertcombat}
+#act {^You massacre %0 with your %1.}       {assertcombat}
+#act {^You bruise %0 with your %1.}         {assertcombat}
+#act {^You miss %0 with your %1.}           {assertcombat}
+#act {^You %1 %1 extremely hard.}           {assertcombat}
+#act {^You %1 %1 very hard.}                {assertcombat}
+#act {^You %1 %1 hard.}                     {assertcombat}

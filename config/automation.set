@@ -17,6 +17,11 @@
 #action {^$leader walks over to a wooden bench and takes a seat.} {#if $automated&!$resting {rest}}
 #action {^$leader walks over to the spring and takes a seat next to it.}  {#if $automated&!$resting {rest}}
 
+#action {^$leader pulls out a chair and sits down.} {#if $automated&!$resting {rest}}
+#action {^$leader stands up and pushes his chair back under the table.} {#if $automated {stand}}
+
+#action {^$leader rests in the shade of the apple tree.} {#if $automated&!$resting {rest}}
+
 #read config//autoassist.set
 #read config//autoskill.set
 #showme {colorcodes}.....&W[automation.set &gend&W]&w

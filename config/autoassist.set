@@ -24,9 +24,8 @@
 #act {$leader misses %0 with his %0} {doassist}
 #act {$leader tries to sweep %0 legs, but misses badly.} {doassist}
 #act {$leader stumbles and falls while trying to bash %0} {doassist}
-#act {$leader crashes %0 in a thundering collision, knocking him to the ground!} {doassist}
+#act {$leader crashes %0 in a thundering collision, knocking %1 to the ground!} {doassist}
 
-#act {$leader stumbles and falls while trying to bash} {doassist}
 #nop act {$leader crashes %0 in a thundering collision, knocking %0 to the ground!} {doassist}
 
 

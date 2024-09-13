@@ -27,6 +27,10 @@
 #read config//items.set
 #showme {colorcodes} &w[&W1&w][&Witems.set&w][&gdone&w]
 
+#ali inc {#math %1 {$%1+1}}
+#ali dec {#math %1 {$%1-1}}
+
+
 #var grouped 0
 #act {Your wounds stop healing} {#if $grouped {gt *** REGEN: off} {#showme {colorcodes} {&c*** REGEN: off&w}}}
 #act {You are now a member of %1 group.} {#var grouped 1}

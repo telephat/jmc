@@ -1,8 +1,8 @@
 #var AutoSkill 1
 
 #hot {f2} {#if $AutoSkill 
-                    {#var AutoSkill 0;#showme {Auto: skill off}}
-                    {#var AutoSkill 1;#showme {Auto: skill on}}
+                    {#var AutoSkill 0;#showme {colorcodes} {&WAuto: &wskill &goff&w}}
+                    {#var AutoSkill 1;#showme {colorcodes} {&WAuto: &wskill &Ron&w}}
                 }
 
 #ali doaskill {#showme {colorcodes} {&W----- &GAutoskill &W-----&w}}
@@ -15,14 +15,15 @@
 #var engaged 0
 #var incombat 0
 #var waitingprompt 0
+#ali showround {#showme {colorcodes} {&wRound:&g $round&w}}
 #ali resetcombat {#var round 0;#var incombat 0;#var waitingprompt 0;#var engaged 0}
-#ali assertcombat {#var waitingprompt 1}
-#ali checkround {#if $waitingprompt {}}
+#ali assertcombat {#var waitingprompt 1;#var incombat 1;#var engaged 1}
+#ali checkround {#if $waitingprompt {#var waitingprompt 0;inc round;showround;#if $AutoSkill automate}}
 #nop 785H 196V 1X 53.76% 50190C [Att:1.67%] [Yabba:Perfect] [an electric eel:Awful] T:24> 
 #nop 776H 210V 1X 54.19% 50278C [Att:1.67%] [Yabba:V.Good] [the squid's tentacle:Perfect] T:36 Exits:U>
 #nop act {%1H %2V %3X %0T:%0>} {checkround}
 #nop Делаем URTAS Specific
-#act {%1H %1V %1X %0C%0[Urtas:%1] [%0]%0>}  {assertcombat}
+#act {%1H %1V %1X %0C%0[%1:%1] [%0:%1]%0>}  {checkround}
 #act {^You obliterate %0 with your %1.}     {assertcombat}
 #act {^You annihilate %0 with your %1.}     {assertcombat}
 #act {^You massacre %0 with your %1.}       {assertcombat}
@@ -31,3 +32,10 @@
 #act {^You %1 %1 extremely hard.}           {assertcombat}
 #act {^You %1 %1 very hard.}                {assertcombat}
 #act {^You %1 %1 hard.}                     {assertcombat}
+
+#act {You receive %1 experience.} {resetcombat}
+#ali automate {#if $round=2 {stupefy};
+               #if $round=3 {frenzy};
+               #if $round=5 {hex};
+               #if $round=6 {spook};
+    }

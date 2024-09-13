@@ -88,10 +88,10 @@ skshow
 #act {spectral sight}
 
 #nop -- offensive buffs
-#act     {boiling blood}
-#act     {spiritual guidance}
-#act     {amplify spirits}
-#act     {monstrous mantle}
+#nop act     {boiling blood}
+#nop act     {spiritual guidance}
+#nop act     {amplify spirits}
+#nop act     {monstrous mantle}
 
 #nop Your spirits diminish in power, but remain.
 #nop Your blood ceases to boil and you feel calmer.

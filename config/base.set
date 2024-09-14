@@ -30,6 +30,9 @@
 #ali inc {#math %1 {$%1+1}}
 #ali dec {#math %1 {$%1-1}}
 
+#message variable off
+#message action off
+#ali debug {#message variable on;#message action on}
 
 #var grouped 0
 #act {Your wounds stop healing} {#if $grouped {gt *** REGEN: off} {#showme {colorcodes} {&c*** REGEN: off&w}}}

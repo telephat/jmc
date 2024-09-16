@@ -13,8 +13,12 @@
 #sub {You%0hit %0} {>>>>[DISARMED]<<<<}
 #sub {You%0hit.} {>>>>[DISARMED]<<<<}
 
+#sub {You feel enlightened.} {                        >>>[Enlight]<<<}
+#nop high {blue} {>>>[}
+#nop high {blue} {]<<<}
+#sub {You feel especially skillful today.} {                      >>>[Skillfull]<<<}
 #high {light red} {DISARMED}
-
+#high {light green} {A gleaming silver medal warms up briefly, then cools down.}
 
 #sub {%0 stands up.} {                           ----[%0 STANDS UP]----}
 #high {red} {%0----[}

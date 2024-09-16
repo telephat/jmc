@@ -4,7 +4,8 @@
 #nop global for everyone - buff getting/losing message
 #nop не забыть синхронизировать с show<spellname>
 #showme {colorcodes} {&w[&W4&w][&Wconfig/statusbar.spellvars.set&w][&rreading&w]}
-#read config//statusbar.spellvars.set
+#nop #read config//spellvars.set
+
 #nop var AncestralShroud    0
 #nop var HealBoost          0
 

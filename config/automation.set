@@ -5,22 +5,25 @@
 #alias setleader {#var leader %0}
 #nop action {^You now follow %1.} {#var leader %1}
 
-#action {^$leader stands from his seat on a crude bunk.} {#if $automated {stand}}
-#action {^$leader walks over to a bunk and takes a seat.} {#if $automated&!$resting {rest}}
+#ali dorest {#var sitting 1;rest;#nop bandage $leader}
+#ali dostand {#if $sitting stand;#var sitting 0}
 
-#action {^$leader sits down and rests.} {#if $automated&!$resting {rest}}
-#action {^$leader stands up.} {#if $automated {stand}}
+#action {^$leader stands from his seat on a crude bunk.} {#if $automated {dostand}}
+#action {^$leader walks over to a bunk and takes a seat.} {#if $automated&!$resting {dorest}}
 
-#action {^$leader sits down upon an animal fur rug on the floor.} {#if $automated&!$resting {rest}}
-#action {^$leader begins resting but stays aloft.} {#if $automated&!$resting {rest}}
+#action {^$leader sits down and rests.} {#if $automated&!$resting {dorest}}
+#action {^$leader stands up.} {#if $automated {dostand}}
 
-#action {^$leader walks over to a wooden bench and takes a seat.} {#if $automated&!$resting {rest}}
-#action {^$leader walks over to the spring and takes a seat next to it.}  {#if $automated&!$resting {rest}}
+#action {^$leader sits down upon an animal fur rug on the floor.} {#if $automated&!$resting {dorest}}
+#action {^$leader begins resting but stays aloft.} {#if $automated&!$resting {dorest}}
 
-#action {^$leader pulls out a chair and sits down.} {#if $automated&!$resting {rest}}
-#action {^$leader stands up and pushes his chair back under the table.} {#if $automated {stand}}
+#action {^$leader walks over to a wooden bench and takes a seat.} {#if $automated&!$resting {dorest}}
+#action {^$leader walks over to the spring and takes a seat next to it.}  {#if $automated&!$resting {dorest}}
 
-#action {^$leader rests in the shade of the apple tree.} {#if $automated&!$resting {rest}}
+#action {^$leader pulls out a chair and sits down.} {#if $automated&!$resting {dorest}}
+#action {^$leader stands up and pushes his chair back under the table.} {#if $automated {dostand}}
+
+#action {^$leader rests in the shade of the apple tree.} {#if $automated&!$resting {dorest}}
 
 #read config//autoassist.set
 #read config//autoskill.set

@@ -1,0 +1,12 @@
+#var target Manek
+#ali dotarget {stand;target $target}
+#act {You focus your attacks upon%0Manek.} {#var target crewman;dotarget}
+#act {You focus your attacks upon%0crewman.} {#var target Manek;dotarget}
+#act {You can't do that while sitting.} {stand;dotarget}
+#act {You can't seem to shift your focus.} {dotarget}
+#act {You try to attack%0, but stumble out of combat instead.} {dotarget}
+#act {You feel enlightened} {skill}
+#high {light red} {target%1(%0)}
+#act {You are already fighting} {#var target 2.crewman;dotarget}
+#act {You feel especially skillful today.} {skill}
+

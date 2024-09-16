@@ -1,0 +1,7 @@
+#broadcast enable
+#var prefix {MASTER: TRACKING:} 
+
+#var master 0
+#var slave 0
+#nop master side
+#act {Your victim's tracks lead west.}

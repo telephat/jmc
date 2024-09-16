@@ -1,0 +1,7 @@
+#act {Urtas gracefully steps aside as%0attacks!} {#showme {colorcodes} {.            &w[&GUrtas&w is under attack&w]}}
+#act {%0tries to punch Urtas} {#showme {colorcodes} {.            &w[&GUrtas&w is under attack&w]}}
+#act {%0massacres Urtas} {#showme {colorcodes} {.            &w[&GUrtas&w is under attack&w]}}
+#act {%0annihilates Urtas} {#showme {colorcodes} {.            &w[&GUrtas&w is under attack&w]}}
+#act {%0onliterates Urtas} {#showme {colorcodes} {.            &w[&GUrtas&w is under attack&w]}}
+#act {%0hits Urtas%0} {#showme {colorcodes} {.            &w[&GUrtas&w is under attack&w]}}
+#act {%0stops fighting his opponent and turns to%1instead.} {#showme {colorcodes} {.            &w[&GLost target on %1&w]}}

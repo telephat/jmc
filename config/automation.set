@@ -1,5 +1,5 @@
 #showme {colorcodes} .....&W[automation.set &gbegin&W]&w
-#var automated 1
+#var automated 0
 #var leader Yabba
 
 #alias setleader {#var leader %0}

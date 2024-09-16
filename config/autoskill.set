@@ -1,4 +1,4 @@
-#var AutoSkill 1
+#var AutoSkill 0
 
 #hot {f2} {#if $AutoSkill 
                     {#var AutoSkill 0;#showme {colorcodes} {&WAuto: &wskill &goff&w}}
@@ -24,6 +24,7 @@
 #nop act {%1H %2V %3X %0T:%0>} {checkround}
 #nop Делаем URTAS Specific
 #act {%1H %1V %1X %0C%0[%1:%1] [%0:%1]%0>}  {checkround}
+#act {%1H %1V %1X %0C%0[Att:%0]%0[%1:%1] [%0:%1]%0>}  {checkround}
 #act {^You obliterate %0 with your %1.}     {assertcombat}
 #act {^You annihilate %0 with your %1.}     {assertcombat}
 #act {^You massacre %0 with your %1.}       {assertcombat}
@@ -37,5 +38,5 @@
 #ali automate {#if $round=2 {stupefy};
                #if $round=3 {frenzy};
                #if $round=5 {hex};
-               #if $round=6 {spook};
+               #if $round=6 {spook}
     }

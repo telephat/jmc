@@ -5,3 +5,9 @@
 #act {%0onliterates Urtas} {#showme {colorcodes} {.            &w[&GUrtas&w is under attack&w]}}
 #act {%0hits Urtas%0} {#showme {colorcodes} {.            &w[&GUrtas&w is under attack&w]}}
 #act {%0stops fighting his opponent and turns to%1instead.} {#showme {colorcodes} {.            &w[&GLost target on %1&w]}}
+#act {%0claws Urtas%0} {#showme {colorcodes} {.            &w[&GUrtas&w is under attack&w]}}
+#act {%0cleaves Urtas%0} {#showme {colorcodes} {.            &w[&GUrtas&w is under attack&w]}}
+#act {%0pierces Urtas%0} {#showme {colorcodes} {.            &w[&GUrtas&w is under attack&w]}}
+#act {%0bludgeons Urtas%0} {#showme {colorcodes} {.            &w[&GUrtas&w is under attack&w]}}
+#act {%0crushes Urtas%0} {#showme {colorcodes} {.            &w[&GUrtas&w is under attack&w]}}
+#act {%0slashes Urtas%0} {#showme {colorcodes} {.            &w[&GUrtas&w is under attack&w]}}

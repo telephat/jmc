@@ -27,6 +27,8 @@
 #read config//items.set
 #showme {colorcodes} &w[&W1&w][&Witems.set&w][&gdone&w]
 #read config//spellvars.set
+#read config//warnings.set
+#read config//fastwalks.set
 
 #ali inc {#math %1 {$%1+1}}
 #ali dec {#math %1 {$%1-1}}

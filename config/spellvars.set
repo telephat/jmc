@@ -1,0 +1,62 @@
+#var AncestralShroud    0
+#Var AncestralBlessing  0
+#var SpiritalGuidance   0
+#var SpectralGlow       0
+#var Endurance          0
+#var DelayDeath         0
+#var SpectalSight       0
+#var AmplifySpirits     0
+#var BoilingBlood       0
+#var MonstrousMantle    0
+#var Sanctuary          0
+#var HealBoost          0
+#var SublimeResistance.gas      0
+#var SublimeResistance.breathe  0
+#var SublimeResistance.magic    0
+#var SublimeResistance.neg      0
+#var TenaciousHeart     0
+
+#act {Your skin starts to glow with an eerie light.} {#var SpectralGlow 1}
+#act {The glow of your skin slowly fades.} {#var SpectralGlow 0}
+#act {Your heart stops beating so fast.} {#var TenaciousHeart 0}
+#act {Your heart starts beating faster.} {#var TenaciousHeart 1}
+#act {A spirit shroud soaks into your skin.} {#var AncestralShroud 1} 
+#act {Your shroud fades away.}{#var AncestralShroud 0}
+#act {Your skin starts to glow with an eerie light.} {#var SpectralGlow 1}
+#act {An invisible hand from the spirit world guides your weapon.} {#var SpiritalGuidance 1}
+#act {You are granted the blessing of the ancients.} {#var AncestralBlessing 1}
+#act {You feel greatly invigorated.} {#var Endurance 1}
+#act {You sag as a wave of fatigue overcomes you.} {#var Endurance 0}
+#act {An eerie calm comes over you.} {#var DelayDeath 1}
+#act {Your eyes tingle.} {#var SpectalSight 1}
+#act {Your eyes burn for a moment and then feel normal again.} {#var SpectalSight 0}
+#act {You draw your spirits closer to the mortal realm.} {#var AmplifySpirits 1}
+#act {Your spirits diminish in power, but remain.} {#var AmplifySpirits 0}
+#act {Your features are hideously distorted as your true form is revealed!} {#var MonstrousMantle 1}
+#act {You feel less threatening.} {#var MonstrousMantle 0}
+#act {Your blood begins to boil and a feeling of power washes over you.} {#var BoilingBlood 1}
+#act {Your blood ceases to boil and you feel calmer.} {#var BoilingBlood 0}
+#act {A protective presence envelops you.} {#var HealBoost 1}
+#act {The protective presence around you fades.} {#var HealBoost 0}
+
+#act {You shudder slightly and begin to glow orange.} {#var SublimeResistanceBreath 1}
+#act {You are no longer resistant to breath.} {#var SublimeResistanceBreath 0}
+#act {You shudder slightly and begin to glow green.} {#var SublimeResistanceGas 1}
+#act {You are no longer resistant to gas.} {#var SublimeResistanceGas 0}
+#act {You shudder slightly and begin to shine from within.} {#var SublimeResistanceMagic 1}
+#act {You are no longer resistant to magic.} {#var SublimeResistanceMagic 0}
+#act {You shudder slightly and begin to wither from within} {#var SublimeResistanceNeg 1}
+#act {You are no longer resistant to negative energy.} {#var SublimeResistanceNeg 0}
+#nop Your shroud fades away.
+#nop Your eyes burn for a moment and then feel normal again. spe si
+#nop Your blood begins to boil and a feeling of power washes over you.
+#nop 
+#nop 
+#nop 
+#nop 
+#nop 
+#nop 
+#nop 
+
+
+#showme {colorcodes} {&w[&W4&w][&Wconfig/statusbar.spellvars.set&w][&gdone&w]}

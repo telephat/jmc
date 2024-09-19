@@ -1,0 +1,38 @@
+#showme {colorcodes}    {&WWarior buffs/debuffs section&w}
+
+#nop tank side buffs:
+#act {^A protective presence envelops you.} {#var HealBoost 1;updbuffs}
+#act {^The protective presence around you fades.} {#var HealBoost 0;updbuffs}
+#act {^A spirit shroud soaks into your skin.} {#var AncestralShroud 1;updbuffs}
+#nop tank side buffs:
+
+#nop statusbar 3 - skill cooldowns to train
+#var skWarcry 1
+#var skPunch 1
+#var skSunder 1
+#var skDisarm 1
+#var skTarget 1
+#var skKick 1
+
+#nop Кривой статус
+#var status1 {&W[&cREG&W]&w}
+#ali updstatus1 {#status {1} {$status1} {colorcodes}}
+#act {Your wounds stop healing.} {#var status1 {&W[&cREG&W]&w};updstatus1}
+#act {Your wounds begin to heal.} {#var status1 {&W[&CREG&W]&w};updstatus1}
+updstatus1
+
+#var status2 { }
+#ali updstatus2 {#status 2 {$status2} {colorcodes}}
+#var status2 &W[&gSndr&W][&gdsarm&W][&gtar&W][&gresc&W]
+updstatus2
+
+#nop status3
+#var status3 { }
+#act {You give out a mighty war cry!}                   {#var skWarcry 0} 
+#act {Your throat is less sore.}                        {#var skWarcry 1}
+#act {You deliver a snap kick and hit %0 in the chest.} {#var skKick 0}
+#act {A primal need to kick something washes over you.} {#var skKick 1}
+
+#act {You fail to disarm %0 weapon.}                    {#var skDisarm 1}
+#act {You give %0 a solid punch in the face.}           {#var skPunch 0}
+#act {Your punch hand is ready to lay into someone}     {#var skPunch 1}

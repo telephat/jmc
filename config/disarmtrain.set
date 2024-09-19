@@ -1,0 +1,19 @@
+#presub on
+#act {You feel especially skillful} {ski}
+#act {Your head clears.} {dodisarm}
+#act {You fail to disarm a cityguard's weapon.} {dodisarm}
+#act {A cityguard wields a steel falchion.} {dodisarm}
+#act {You strike a cityguard's weapon cleanly, but fail to disarm it.} {dodisarm}
+#act {>>>>[Bashed by a cityguard]} {cancel;stand;dodisarm}
+
+#act {You need to stand up if you want to disarm them!} {sta;dodisarm}
+#ali dodisarm {disarm}
+
+#act { >>>[Enlight]<<<} {skill}
+#act {Skillful} {skill}
+#high {}
+
+parry         (good)              punch         (superb)
+disarm        (good)              sunder        (excellent)
+rescue        (excellent)         vigor         (superb)
+

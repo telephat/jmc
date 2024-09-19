@@ -1,0 +1,16 @@
+#var timerN 1
+#hot f12 {starttimer}
+
+#var timer1 1
+#var timer2 1
+#var timer3 1
+
+#var timer1time 0
+#nop statusbar
+#var time $TIME
+#var hh 0
+#var mm 0
+#var ss 0
+
+
+#act {%1H %2V %1% %1C%0T:%1 Exits^0} {}

@@ -29,6 +29,7 @@
 #read config//spellvars.set
 #read config//warnings.set
 #read config//fastwalks.set
+#read config//timer.set
 
 #ali inc {#math %1 {$%1+1}}
 #ali dec {#math %1 {$%1-1}}

@@ -4,4 +4,5 @@
 #var master 0
 #var slave 0
 #nop master side
-#act {Your victim's tracks lead west.}
+#act {Your victim's tracks lead %1.} {#showme {colorcodes} {           &WT&wRACK: &W%1&w}}
+#gag {Your victim's tracks lead %1.}

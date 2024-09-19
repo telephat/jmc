@@ -1,5 +1,6 @@
 #showme {colorcodes} &w[&W1&w][&Wwarrior.set&w][&Rreading&w]
-#read config\\statusbar.warrior.set
+#read config\\chars\\statusbar.warrior.set
+#read config\\tracking.set
 
 #ali kk {punch %0;kick %0}
 #ali bb {bash %0;stand}
@@ -17,12 +18,6 @@
 
 #var torescue Urtas
 #hot f1 {rescue $torescue}
-
-#var status1 {&W[&cREG&W]&w}
-#ali updstatus1 {#status {1} {$status1} {colorcodes}}
-#act {Your wounds stop healing.} {#var status1 {&W[&cREG&W]&w};updstatus1}
-#act {Your wounds begin to heal.} {#var status1 {&W[&CREG&W]&w};updstatus1}
-updstatus1
 
 #act {You tug at his sleeve.} {#gro enable feeding}
 #act {Urtas gives you an ethereal ghost berry.} {#gro disable feeding;eat berry} {feeding}

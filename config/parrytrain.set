@@ -1,0 +1,13 @@
+#presub on
+#var onparry 0
+#act {>>>>[Bashed by a cityguard]<<<<} {cancel;stand;doparry}
+#act {You attempt to block your opponent's attacks.} {#var onparry 1}
+#act {You fail the parry attempt!} {doparry}
+#act {You go back on the offensive.} {#var onparry 0;doparry}
+#ali doparry {#if !$onparry {parry}}
+#act { >>>[Enlight]<<<} {#statusbar 4 E!;skill}
+#act {%0 disarms your weapon} {get hammer;wie hammer;doparry}
+#act {>>>>[DISARMED]<<<<} {get hammer;wie hammer;doparry}
+#act {You stand up.} {parry}
+#act {You start using %0} {parry}
+#high {red} {parry%0(}

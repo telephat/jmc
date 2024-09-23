@@ -9,11 +9,6 @@
 #act {You need to stand up if you want to disarm them!} {sta;dodisarm}
 #ali dodisarm {disarm}
 
-#act { >>>[Enlight]<<<} {skill}
-#act {Skillful} {skill}
-#high {}
-
-parry         (good)              punch         (superb)
-disarm        (good)              sunder        (excellent)
-rescue        (excellent)         vigor         (superb)
-
+#act { >>>[Enlight]<<<} {skill;#status 4 E!}
+#act {Skillful} {skill;#status 4 S!}
+#high {red} {disarm%0(}

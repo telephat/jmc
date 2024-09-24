@@ -43,7 +43,7 @@ MRUFloatYPos=1048
 BarID=59393
 [JMC-Bar2]
 BarID=59419
-Bars=22
+Bars=23
 Bar#0=0
 Bar#1=59392
 Bar#2=0
@@ -64,8 +64,9 @@ Bar#16=0
 Bar#17=98344
 Bar#18=0
 Bar#19=32789
-Bar#20=32800
-Bar#21=0
+Bar#20=0
+Bar#21=32800
+Bar#22=0
 [JMC-Bar3]
 BarID=100
 [JMC-Bar4]

@@ -24,6 +24,8 @@
 #action {^$leader stands up and pushes his chair back under the table.} {#if $automated {dostand}}
 
 #action {^$leader rests in the shade of the apple tree.} {#if $automated&!$resting {dorest}}
+#action {^$leader timidly sits down on a bench, carefully avoiding splinters.} {#if $automated&!$resting {dorest}}
+
 
 #read config//autoassist.set
 #read config//autoskill.set

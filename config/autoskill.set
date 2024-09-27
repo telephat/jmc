@@ -2,8 +2,10 @@
 
 #hot {f2} {#if $AutoSkill 
                     {#var AutoSkill 0;#showme {colorcodes} {&WAuto: &wskill &goff&w}}
-                    {#var AutoSkill 1;#showme {colorcodes} {&WAuto: &wskill &Ron&w}}
-                }
+                    {#var AutoSkill 1;#showme {colorcodes} {&WAuto: &wskill &Ron&w}};
+            #if $AutoAssist {autoassist} {autoassist}
+
+                        }
 
 #ali doaskill {#showme {colorcodes} {&W----- &GAutoskill &W-----&w}}
 
@@ -18,7 +20,8 @@
 #ali showround {#showme {colorcodes} {&wRound:&g $round&w}}
 #ali resetcombat {#var round 0;#var incombat 0;#var waitingprompt 0;#var engaged 0}
 #ali assertcombat {#var waitingprompt 1;#var incombat 1;#var engaged 1}
-#ali checkround {#if $waitingprompt {#var waitingprompt 0;inc round;showround;#if $AutoSkill automate}}
+#ali checkround {#if $waitingprompt {#var waitingprompt 0;inc round;showround;#if $AutoSkill automate};followup}
+#ali followup {};#nop #if $skSeance seance}
 #nop 785H 196V 1X 53.76% 50190C [Att:1.67%] [Yabba:Perfect] [an electric eel:Awful] T:24> 
 #nop 776H 210V 1X 54.19% 50278C [Att:1.67%] [Yabba:V.Good] [the squid's tentacle:Perfect] T:36 Exits:U>
 #nop act {%1H %2V %3X %0T:%0>} {checkround}
@@ -35,7 +38,7 @@
 #act {^You %1 %1 hard.}                     {assertcombat}
 
 #act {You receive %1 experience.} {resetcombat}
-#ali automate {#if $round=2 {frenzy};
+#ali automate {#if $round=2 {stup};
                #if $round=3 {hex};
                #if $round=5 {spook};
                #if $round=6 {stup}

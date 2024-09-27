@@ -11,6 +11,7 @@
 #nop //TODO: вынести спелл триггеры в отдельный файл?
 
 
+#status 2 {&W[&GStup&W][spook][taunt][seance]}
 #var skSeance 1
 #act {A darkness falls over your vision as you commune with the dead.} {#var skSeance 0;#var onSeance 1;skshow}
 #act {You fail to find a connection to the dead.} {#var skSeance 0;#var onSeance 0;skshow}

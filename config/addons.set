@@ -1,0 +1,2 @@
+#ali givelearns {rem luck;rem phylactery;rem pendant;give pendant %0;give phylactery %0;give luck %0}
+#ali wealearns {wea luck;hold phylactery;wea pendant}

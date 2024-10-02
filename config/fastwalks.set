@@ -1,2 +1,10 @@
-#ali inn-th {dwnwwnenww5nww4nwws3ws8wssw}
+#ali fastwalks {#showme {colorcodes} &W===== &GFast walks: &W=====&w;showfastwalks}
+#ali showfastwalks {
+    #showme {colorcodes} &wdi-th &W: &wDawn Inn -> Toll House;
+    #showme {colorcodes} &wdi-kb &W: &wDawn Inn -> Kender Bard&w
+}
+
+#ali di-th {dwnwwnenww5nww4nwws3ws8wssw}
+#ali di-spring {dw5suss}
+#ali spring-kb {sdsessessd5s3ed5seeses5esse3sdssee}
 #ali th-lv {3sesswsseeeneesse5swsu3nwd;enter crack;es4e }

@@ -19,6 +19,8 @@
 #ali updstatus1 {#status {1} {$status1} {colorcodes}}
 #act {Your wounds stop healing.} {#var status1 {&W[&cREG&W]&w};updstatus1}
 #act {Your wounds begin to heal.} {#var status1 {&W[&CREG&W]&w};updstatus1}
+#act {Your skin takes a ghostly hue.} {#var status1 $status1 &W[&CGhst&W]}
+#act {The ghostly hue vanishes from your flesh.} {.}
 updstatus1
 
 #var status2 { }

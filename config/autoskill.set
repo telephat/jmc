@@ -41,5 +41,5 @@
 #ali automate {#if $round=2 {spook};
                #if $round=3 {fren};
                #if $round=5 {spook};
-               #if $round=6 {stup}
+               #if $round=6 {hex}
     }

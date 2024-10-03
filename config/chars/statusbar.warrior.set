@@ -14,21 +14,39 @@
 #var skTarget 1
 #var skKick 1
 
-#nop Кривой статус
-#var status1 {&W[&cREG&W]&w}
-#ali updstatus1 {#status {1} {$status1} {colorcodes}}
-#act {Your wounds stop healing.} {#var status1 {&W[&cREG&W]&w};updstatus1}
-#act {Your wounds begin to heal.} {#var status1 {&W[&CREG&W]&w};updstatus1}
-#act {Your skin takes a ghostly hue.} {#var status1 $status1 &W[&CGhst&W]}
-#act {The ghostly hue vanishes from your flesh.} {.}
-updstatus1
+#nop Правильный статус
+#var wrRegen 0
+#var wrGhostskin 0
+#var wrstatus1 {}
+#var RegUp {&W[&CReg&W]&w}
+#var RegDown {&W[&cReg&W]&w}
+#var GhostUp {&W[&CGsk&W]&w}
+#var GhostDown {&W[&cGsk&W]&w}
+
+#ali drawwrstatus1 {#status 1 {$wrstatus1} {colorcodes}}
+#ali clrwrstatus1 {#status 1 {};#unvar wrstatus1}
+#ali updwrstatus1 {
+    clrwrstatus1;
+    #if $wrRegen {#var wrstatus1 $RegUp} {#var wrstatus1 $RegDown};
+    #if $wrGhostskin {#var wrstatus1 $wrstatus1$GhostUp} {#var wrstatus1 $wrstatus1$GhostDown};
+    drawwrstatus1
+}
+
+#act {Your wounds stop healing.} {#var wrRegen 0;updwrstatus1}
+#act {Your wounds begin to heal.} {#var wrRegen 1;updwrstatus1}
+#act {Your skin takes a ghostly hue.} {#var wrGhostskin 1;updwrstatus1}
+#act {The ghostly hue vanishes from your flesh.} {#var wrGhostskin 0;updwrstatus1}
+updwrstatus1
 
 #var status2 { }
 #ali updstatus2 {#status 2 {$status2} {colorcodes}}
-#var status2 &W[&gSndr&W][&gdsarm&W][&gtar&W][&gresc&W]
+#nop var status2 &W[&gSndr&W][&gdsarm&W][&gtar&W][&gresc&W]
 updstatus2
 
 #nop status3
+#var skWarcry 1
+#var skPunch 1
+#var skKick 1
 #var status3 { }
 #act {You give out a mighty war cry!}                   {#var skWarcry 0} 
 #act {Your throat is less sore.}                        {#var skWarcry 1}

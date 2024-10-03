@@ -11,7 +11,7 @@
 
 
 #nop all combat messages
-#slash crush stab bludgeon cleave pierce hit
+#nop slash crush stab bludgeon cleave pierce hit
 
 #var round 0
 #var engaged 0

@@ -2,15 +2,16 @@
 #read config\\chars\\statusbar.warrior.set
 #read config\\tracking.set
 
-#ali kk {punch %0;kick %0}
+#ali dopunch {#if $skPunch {punch %0}}
+#ali kk {dopunch %0;kick %0}
 #ali bb {bash %0;stand}
 #ali pp {punch %0}
 
 #var punch 1
-#act {^Your punch hand is ready to lay into someone again.} {#var punch 1}
-#act {You try to punch %0 moves out of the way.} {#var punch 0}
+#act {^Your punch hand is ready to lay into someone again.} {#var skPunch 1}
+#act {You try to punch %0 moves out of the way.} {#var skPunch 0}
 
-#sub {You crash into %0 in a bone crunching bash, sending %1 sprawling to the ground.} {................vvv[BASHED %0]vvv}
+#sub {You crash into %0 in a bone crunching bash, sending %1 sprawling to the ground.} {                     [BASHED %0]}
 
 #high {light green} {vvv[}
 #high {light green} {]vvv}

@@ -18,14 +18,15 @@
 #sub {You%0hit %0} {>>>>[DISARMED]<<<<}
 #sub {You%0hit.} {>>>>[DISARMED]<<<<}
 
-#sub {You feel enlightened.} {                        >>>[Enlight]<<<}
-#nop high {blue} {>>>[}
-#nop high {blue} {]<<<}
-#sub {You feel especially skillful today.} {                      >>>[Skillfull]<<<}
+#act {You feel enlightened.} {#showme {colorcodes} {                    &g>>>&W [&gEnlight&W]&g <<<&w}}
+#gag {You feel enlightened.}
+#act {You feel especially skillful today.} {#showme {colorcodes} {                      &g>>> &W[&GSkillfull&W] &g<<<&w}}
+#gag {You feel especially skillful today.}
 #high {light red} {DISARMED}
 #high {light green} {A gleaming silver medal warms up briefly, then cools down.}
 
-#sub {%0 stands up.} {                           ----[%0 STANDS UP]----}
+#act  {%0 stands up.} {#showme {colorcodes}{                          &G+++ &W[&G%0 STANDS UP&W] &G+++&w}}
+#gag  {%0 stands up.}
 #high {red} {%0----[}
 #high {red} {]----}
 #high {white} {%1 %2 %3 %4STANDS UP}

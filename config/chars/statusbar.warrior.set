@@ -6,22 +6,32 @@
 #act {^A spirit shroud soaks into your skin.} {#var AncestralShroud 1;updbuffs}
 #nop tank side buffs:
 
-#nop statusbar 3 - skill cooldowns to train
+#nop Статусбар 
+#nop statusbar 1 - важное деф Реген, гост, фортресс
+#nop statusbar 2 - важное офф ассаулт кик
 #var skWarcry 1
 #var skPunch 1
 #var skSunder 1
 #var skDisarm 1
 #var skTarget 1
 #var skKick 1
-
-#nop Правильный статус
 #var wrRegen 0
 #var wrGhostskin 0
+#var skFortress 1
+#var skAssault 1
 #var wrstatus1 {}
 #var RegUp {&W[&CReg&W]&w}
 #var RegDown {&W[&cReg&W]&w}
 #var GhostUp {&W[&CGsk&W]&w}
 #var GhostDown {&W[&cGsk&W]&w}
+#var FrtUp {&W[&CFrt&W]}
+#var FrtDown {&W[&cFrt&W]}
+#var FrtActive {&W[&GFrt&W]}
+#var AssUp {&W[&CAss&W]}
+#var AssDown {&W[&cAss&W]}
+#var AssActive {&W[&GAss&W]}
+#var KickUp {&W[&CKick&W]}
+#var KickDown {&W[&cKick&W]}
 
 #ali drawwrstatus1 {#status 1 {$wrstatus1} {colorcodes}}
 #ali clrwrstatus1 {#status 1 {};#unvar wrstatus1}
@@ -29,9 +39,27 @@
     clrwrstatus1;
     #if $wrRegen {#var wrstatus1 $RegUp} {#var wrstatus1 $RegDown};
     #if $wrGhostskin {#var wrstatus1 $wrstatus1$GhostUp} {#var wrstatus1 $wrstatus1$GhostDown};
+    #if {$skFortress=0} {#var wrstatus1 $wrstatus1$FrtDown};
+    #if {$skFortress=1} {#var wrstatus1 $wrstatus1$FrtUp};
+    #if {$skFortress=2} {#var wrstatus1 $wrstatus1$FrtActive};
+    #if {$skAssault=0} {#var wrstatus1 $wrstatus1$AssDown};
+    #if {$skAssault=1} {#var wrstatus1 $wrstatus1$AssUp};
+    #if {$skAssault=2} {#var wrstatus1 $wrstatus1$AssActive};
+    #if $skKick {#var wrstatus1 $wrstatus1$KickUp} {#var wrstatus1 $wrstatus1$KickDown};
     drawwrstatus1
 }
 
+#act {A primal need to kick something washes over you.} {skKickUp}
+#ali skKickUp {#var skKick 1;updwrstatus1;#showme {colorcodes} {                    &W[&gKick is Up&W]&w}}
+#gag {A primal need to kick something washes over you.}
+#act {The satisfaction of that kick invigorates you, your arms swing freely.} {#var skKick 0;updwrstatus1}
+#act {You attempt to create a fortress of protection around yourself, but fail.} {#var skFortress 0;updwrstatus1}
+#act {You sense another fortress in your future.} {#var skFortress 1;updwrstatus1}
+You get into a defensive crouch, prepared to survive the worst.
+The walls you have built decay and crumble.
+#act {You try to assault them, but fail horribly.} {#var skAssault 0;updwrstatus1}
+#act {You begin to assault %0!} {#var skAssault 0;updwrstatus1}
+#act {You feel the need, the need to assault someone.} {#var skAssault 1;updwrstatus1}
 #act {Your wounds stop healing.} {#var wrRegen 0;updwrstatus1}
 #act {Your wounds begin to heal.} {#var wrRegen 1;updwrstatus1}
 #act {Your skin takes a ghostly hue.} {#var wrGhostskin 1;updwrstatus1}

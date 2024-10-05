@@ -34,7 +34,7 @@
     #status 3 {$skilltoshow} {colorcodes}
     }
 skshow
-
+The force guiding your weapon leaves you.
 #var buffmode 0
 #nop buffmode 0 - initial, 1 - combat initial, 2 - spell var dependant
 #nop reverse, чтобы не отработало подряд

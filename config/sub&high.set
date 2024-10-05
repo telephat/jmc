@@ -8,6 +8,9 @@
 #nop gag {You go back on the offensive.}
 #nop gag {You attempt to block your opponent's attacks.}
 
+#act {The ghostly hue vanishes from your flesh.} {#showme {colorcodes} {     &W[&BGhostskin gone&W]&w}}
+#gag {The ghostly hue vanishes from your flesh.}
+
 #act {You miss %0 with your hit.} {#showme >>>> No weapon warning <<<<}
 #sub {You are sent sprawling as %0 crashes into you.} {>>>>[Bashed by %0]<<<<}
 #high {white} {[Bashed by %0]}
@@ -62,5 +65,5 @@
 #sub {You have been blinded!} {===[BLINDED]===}
 #high {l blue} {BLINDED}
 
-#sub {Your eyes cross and you stumble back.} {==== Dazed}
-
+#act {Your eyes cross and you stumble back.} {#showme {colorcodes} {                     &W---- &B[ &WDaZeD &B] &W----&w}}
+#gag {Your eyes cross and you stumble back.}

@@ -37,7 +37,68 @@
 
 #message variable off
 #message action off
+#message group off
 #ali debug {#message variable on;#message action on}
+#act {PANIC! You couldn't escape!} {flee}
+
+#nop **** missing slots ****
+#ali resetvareq {
+    #var rings 0;
+    #var collars 0;
+    #var onbody 0;
+    #var onhead 0;
+    #var onfeet 0;
+    #var onhands 0;
+    #var onarms 0;
+    #var asshield 0;
+    #var onwaist 0;
+    #var onabout 0;
+    #var wrists 0;
+    #var primary 0;}
+    
+    resetvareq
+    #act {<worn on finger>} {inc rings} {eqscan}
+    #act {<worn around neck>} {inc collars} {eqscan}
+    #act {<worn on body>} {inc onbody} {eqscan}
+    #act {<worn on head>} {inc onhead} {eqscan}
+    #act {<worn on feet>} {inc onfeet} {eqscan}
+    #act {<worn on hands>} {inc onhands} {eqscan}
+    #act {<worn on arms>} {inc onarms} {eqscan}
+    #act {<worn as shield>} {inc asshield} {eqscan}
+    #act {<worn about waist>} {inc onwaist} {eqscan}
+    #act {<worn about body>} {inc onabout} {eqscan}
+    #act {<worn around right wrist>} {inc wrists} {eqscan}
+    #act {<worn around left wrist>} {inc wrists} {eqscan}
+    #act {<used in primary hand>} {inc primary} {eqscan}
+    #gro local eqscan
+    #gro disable eqscan
+    #ali {showmissingeq} {#showme --- Missing eq slots ----;meq1;meq2;resetvareq} #nop string is too long, splitted to 2
+    
+    #ali {meq1} {
+    #if {$rings=0} {#showme Ring slot;#showme Ring slot;};
+    #if {$rings=1} {#showme Ring slot};
+    #if {$collars=0} {#showme Neck;#showme Neck};
+    #if {$collars=1} {#showme Neck};
+    #if {$onbody=0} {#showme Body};
+    #if {$onhead=0} {#showme Head};
+    #if {$onfeet=0} {#showme Boots};
+    #if {$onhands=0} {#showme Gloves};
+    #if {$onarms=0} {#showme Arms};}
+    
+    #ali {meq2} {
+    #if {$asshield=0} {#showme Shield};
+    #if {$onwaist=0} {#showme Belt};
+    #if {$onabout=0} {#showme About body};
+    #if {$wrists=0} {#showme Bracer;#showme Bracer;};
+    #if {$wrists=1} {#showme Bracer;};
+    #if {$primary=0} {#showme Prim weapon};}
+    
+    #act {You are using:} {#gro enable eqscan}
+    #act {%1H %2V %3X %4%} {#gro disable eqscan}
+    #gro disable eqscan
+    #hot F5 showmissingeq
+    #nop **** missing slots ****
+
 
 #var grouped 0
 #act {Your wounds stop healing} {#if $grouped {gt *** REGEN: off} {#showme {colorcodes} {&c*** REGEN: off&w}}}

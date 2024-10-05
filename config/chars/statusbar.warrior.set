@@ -55,8 +55,8 @@
 #act {The satisfaction of that kick invigorates you, your arms swing freely.} {#var skKick 0;updwrstatus1}
 #act {You attempt to create a fortress of protection around yourself, but fail.} {#var skFortress 0;updwrstatus1}
 #act {You sense another fortress in your future.} {#var skFortress 1;updwrstatus1}
-You get into a defensive crouch, prepared to survive the worst.
-The walls you have built decay and crumble.
+#act {You get into a defensive crouch, prepared to survive the worst.} {#var skFortress 2;updwrstatus1}
+#act {The walls you have built decay and crumble.} {#var skFortress 0;updwrstatus1}
 #act {You try to assault them, but fail horribly.} {#var skAssault 0;updwrstatus1}
 #act {You begin to assault %0!} {#var skAssault 0;updwrstatus1}
 #act {You feel the need, the need to assault someone.} {#var skAssault 1;updwrstatus1}
@@ -65,6 +65,7 @@ The walls you have built decay and crumble.
 #act {Your skin takes a ghostly hue.} {#var wrGhostskin 1;updwrstatus1}
 #act {The ghostly hue vanishes from your flesh.} {#var wrGhostskin 0;updwrstatus1}
 updwrstatus1
+
 
 #var status2 { }
 #ali updstatus2 {#status 2 {$status2} {colorcodes}}

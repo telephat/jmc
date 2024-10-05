@@ -38,8 +38,7 @@
 #act {^You %1 %1 hard.}                     {assertcombat}
 
 #act {You receive %1 experience.} {resetcombat}
-#ali automate {#if $round=2 {spook};
-               #if $round=3 {fren};
+#ali automate {#if $round=2 {fren};
                #if $round=5 {spook};
                #if $round=6 {hex}
     }

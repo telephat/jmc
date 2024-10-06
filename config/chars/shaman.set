@@ -10,13 +10,15 @@
 #hot f1 control spirit
 #nop //TODO: вынести спелл триггеры в отдельный файл?
 
+#var doingSeance 0
+#ali doseance {#if !$doingSeance {#if $skSeance {seance;#var doingSeance 1}}}
+#act {%1H %2V %3X %0% %1C} {doseance}
 
-#status 2 {&W[&GStup&W][spook][taunt][seance]}
 #var skSeance 1
 #act {A darkness falls over your vision as you commune with the dead.} {#var skSeance 0;#var onSeance 1;skshow}
 #act {You fail to find a connection to the dead.} {#var skSeance 0;#var onSeance 0;skshow}
 #act {Your connection to the dead breaks.} {#var onSeance 0;skshow}
-#act {The faintest connection to the undead world has been re-established.} {#var skSeance 1;skshow}
+#act {The faintest connection to the undead world has been re-established.} {#var skSeance 1;skshow;#var doingSeance 0}
 #var skBrew 1
 #act {You exhaust yourself while brewing the spell to an empty potion bottle.} {#var skBrew 0;skshow}
 #act {You lose concentration while brewing to an empty potion bottle.} {#var skBrew 0;skshow}
@@ -35,6 +37,7 @@
     }
 skshow
 The force guiding your weapon leaves you.
+
 #var buffmode 0
 #nop buffmode 0 - initial, 1 - combat initial, 2 - spell var dependant
 #nop reverse, чтобы не отработало подряд

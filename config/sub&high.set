@@ -8,6 +8,10 @@
 #nop gag {You go back on the offensive.}
 #nop gag {You attempt to block your opponent's attacks.}
 
+#act {Your mind starts reeling, you find it hard to focus.} {#showme {colorcodes} }{          &R===>&W [ &GDisoriented &W] &R<===&w}}
+#act {You freeze in place, unable to move.} {#showme {colorcodes} }{          &R===>&W [ &GHELD &W] &R<===&w}}
+#act {%0 freezes in place.} {#showme {colorcodes} }{          &R===>&W [ &G%0 HELD &W] &R<===&w}}
+
 #act {The ghostly hue vanishes from your flesh.} {#showme {colorcodes} {     &W[&BGhostskin gone&W]&w}}
 #gag {The ghostly hue vanishes from your flesh.}
 

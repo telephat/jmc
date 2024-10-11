@@ -13,7 +13,8 @@
 #nop нужно для тренировки и только
 #var doingSeance 0
 #ali doseance {#if !$doingSeance {#if $skSeance {seance;#var doingSeance 1}}}
-#nop act {%1H %2V %3X %0% %1C} {doseance}
+#nop no need to train anymore
+#nop act {%1H %2V %3X %0% %1C} {doseance} 
 
 #var skSeance 1
 #act {A darkness falls over your vision as you commune with the dead.} {#var skSeance 0;#var onSeance 1;skshow}

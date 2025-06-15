@@ -42,5 +42,5 @@
 #act {You receive %1 experience.} {resetcombat}
 #ali automate {#if $round=2 {hex};
                #if $round=4 {fren};
-               #if $round=6 {hex}
+               #if $round=6 {spook}
     }

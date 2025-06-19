@@ -1,0 +1,644 @@
+Next to a Windswept Cliff
+The spirit of a Que Kul warrior is hovering here. (grey aura)
+The spirit of an ancient sahuagin warleader floats here. (grey aura)
+The spirit of Prince Metzli is hovering here. (grey aura)
+<DAWN> Laska the Foreplayer is standing here. (flying) (invisible)
+497H 192V 1X 74.79% 14059C [Pos:standing] Mem:1 T:55 Exits:NED> 
+
+Laska flies east.
+You follow Laska east.
+The spirit of Prince Metzli flies in from the west.
+The spirit of Warleader Mixcoatl flies in from the west.
+The spirit of a Que Kul warrior flies in from the west.
+Upon a Turbulent Ocean
+The spirit of a Que Kul warrior is hovering here. (grey aura)
+The spirit of an ancient sahuagin warleader floats here. (grey aura)
+The spirit of Prince Metzli is hovering here. (grey aura)
+<DAWN> Laska the Foreplayer is standing here. (flying) (invisible)
+A slender blue sloop cuts swiftly through the rolling waves.
+497H 190V 1X 74.79% 14059C [Pos:standing] Mem:1 T:54 Exits:NESWD> 
+
+Laska flies east.
+You follow Laska east.
+The spirit of Prince Metzli flies in from the west.
+The spirit of Warleader Mixcoatl flies in from the west.
+The spirit of a Que Kul warrior flies in from the west.
+Upon a Turbulent Ocean
+The spirit of a Que Kul warrior is hovering here. (grey aura)
+The spirit of an ancient sahuagin warleader floats here. (grey aura)
+The spirit of Prince Metzli is hovering here. (grey aura)
+<DAWN> Laska the Foreplayer is standing here. (flying) (invisible)
+497H 188V 1X 74.79% 14059C [Pos:standing] Mem:1 T:54 Exits:NESWD> 
+
+Laska flies east.
+You follow Laska east.
+The spirit of Prince Metzli flies in from the west.
+The spirit of Warleader Mixcoatl flies in from the west.
+The spirit of a Que Kul warrior flies in from the west.
+Upon a Turbulent Ocean
+The spirit of a Que Kul warrior is hovering here. (grey aura)
+The spirit of an ancient sahuagin warleader floats here. (grey aura)
+The spirit of Prince Metzli is hovering here. (grey aura)
+<DAWN> Laska the Foreplayer is standing here. (flying) (invisible)
+497H 186V 1X 74.79% 14059C [Pos:standing] Mem:1 T:54 Exits:NESWD> 
+loo
+Upon a Turbulent Ocean
+The spirit of a Que Kul warrior is hovering here. (grey aura)
+The spirit of an ancient sahuagin warleader floats here. (grey aura)
+The spirit of Prince Metzli is hovering here. (grey aura)
+<DAWN> Laska the Foreplayer is standing here. (flying) (invisible)
+497H 186V 1X 74.79% 14059C [Pos:standing] Mem:1 T:48 Exits:NESWD> 
+inv
+You are carrying:
+a brewed potion of cure critical [2]
+a runed silk pouch
+a large waterskin
+a small wooden chest [2]
+497H 186V 1X 74.79% 14059C [Pos:standing] Mem:1 T:47 Exits:NESWD> 
+$%# Laska => aid norka
+
+Laska focuses on you and utters some strange words.
+--> AID <-- APPLIED
+516H 186V 1X 74.79% 14059C [Pos:standing] Mem:1 T:39 Exits:NESWD> 
+sc
+You are Norka the Female Half Ogre, a level 30 Legendary Shaman.
+You have reincarnated 3 times.
+You are an Elder in Dawnguard.
+You are rank 43. You have completed 74.79% of your next rank.
+You are 48 years old.
+You have 516(516) hit and 186(204) movement points.
+Your behaviour has been Neutral.
+You have scored 233,999,999 exp, and have 14059(160783) steel coins.
+You have 1 rank point to spend.
+You have died 19 horrible deaths.
+You have been connected for 11 minute(s).
+You have been playing for 16 day(s), 7 hour(s) and 28 minute(s).
+Your natural ability scores are:
+    Str: 21 Int: 17 Wis: 16 Dex: 13 Con: 19 Cha: 20
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are following Laska.
+You are affected by the following:
+    aid
+    nightfall
+    amplify spirits      [8 hrs]
+    spiritual aid
+    Witch Doctor
+    sanctuary            [6 hrs]
+    bless
+    sap strength
+    twisted fate         [0 hrs]
+    ethereal armor       [1 hour]
+    monstrous mantle     [19 hrs]
+    spectral glow        [43 hrs]
+    ancestral blessing   [permanent]
+    ancestral shroud     [2 hrs]
+    tenacious heart      [2 hrs]
+    spirit mastery
+516H 186V 1X 74.79% 14059C [Pos:standing] Mem:1 T:38 Exits:NESWD> 
+c 'twist' me
+You utter the words, 'twisted fate'
+--> TWISTED FATE <-- APPLIED
+The strain of the spell overcomes you.
+516H 186V 1X 74.79% 14059C [Pos:standing] Mem:1 T:33 Exits:NESWD> 
+c 'eth ar'
+You utter the words, 'ethereal armor'
+--> ETHEREAL ARMOR <-- APPLIED
+516H 186V 1X 74.79% 14059C [Pos:standing] Mem:2 T:29 Exits:NESWD> 
+c 'ghostsk' me
+c 'sub res' magic
+You utter the words, 'ghostskin'
+--> GHOSTSKIN <-- APPLIED
+516H 186V 1X 74.79% 14059C [Pos:standing] Mem:2 T:25 Exits:NESWD> 
+You utter the words, 'sublime resistance'
+The spirit of a Que Kul warrior shudders slightly and begins to shine from within.
+The spirit of Warleader Mixcoatl shudders slightly and begins to shine from within.
+The spirit of Prince Metzli shudders slightly and begins to shine from within.
+--> RESIST MAGIC <-- APPLIED
+Laska shudders slightly and begins to shine from within.
+516H 186V 1X 74.79% 14059C [Pos:standing] Mem:2 T:21 Exits:NESWD> 
+c 'boil'
+You utter the words, 'boiling blood'
+--> BOILING BLOOD <-- APPLIED
+516H 186V 1X 74.79% 14059C [Pos:standing] Mem:3 T:16 Exits:NESWD> 
+rest
+You rest your tired bones but stay aloft.
+516H 186V 1X 74.79% 14059C [Pos:resting] Mem:1 T:12 Exits:NESWD> 
+
+Laska begins resting but stays aloft.
+516H 186V 1X 74.79% 14059C [Pos:resting] Mem:1 T:12 Exits:NESWD> 
+
+Laska tells your group '=> Darkness ending in 9sec'
+516H 186V 1X 74.79% 14059C [Pos:resting] Mem:1 T:11 Exits:NESWD> 
+loo
+Upon a Turbulent Ocean
+The spirit of a Que Kul warrior is hovering here. (grey aura)
+The spirit of an ancient sahuagin warleader floats here. (grey aura)
+The spirit of Prince Metzli is hovering here. (grey aura)
+<DAWN> Laska the Foreplayer is resting here. (flying) (invisible)
+516H 186V 1X 74.79% 14059C [Pos:resting] Mem:1 T:10 Exits:NESWD> 
+af
+You are affected by the following:
+    boiling blood        [5 hrs]
+    resist magic         [7 hrs]
+    ghostskin            [29 hrs]
+    ethereal armor       [11 hrs]
+    Witch Doctor
+    twisted fate         [10 hrs]
+    aid
+    nightfall
+    amplify spirits      [8 hrs]
+    spiritual aid
+    sanctuary            [6 hrs]
+    bless
+    sap strength
+    monstrous mantle     [19 hrs]
+    spectral glow        [43 hrs]
+    ancestral blessing   [permanent]
+    ancestral shroud     [2 hrs]
+    tenacious heart      [2 hrs]
+    spirit mastery
+516H 186V 1X 74.79% 14059C [Pos:resting] Mem:1 T:4 Exits:NESWD> 
+mem st 'clot'
+clot: this spell isn't on your memorization list
+516H 186V 1X 74.79% 14059C [Pos:resting] Mem:1 T:4 Exits:NESWD> 
+inv
+You are carrying:
+a brewed potion of cure critical [2]
+a runed silk pouch
+a large waterskin
+a small wooden chest [2]
+516H 186V 1X 74.79% 14059C [Pos:resting] Mem:1 T:2 Exits:NESWD> 
+mem
+Spells currently memorized:
+1: [ 4]ancestral shroud     [ 1]bone shape           [ 1]cure light          
+   [ 2]satiate              [ 1]spectral glow        [ 3]spiritual guidance  
+2: [ 2]ancestral blessing   [ 2]blindness            [ 5]cure blindness      
+   [ 1]endurance            [ 1]remove curse         [ 1]sanctify corpse     
+3: [ 1]cure serious         [ 1]delay death          [ 1]protection from unde
+   [ 4]remove poison        [ 5]vile spirits        
+4: [ 2]devouring spirits    [ 1]evil eye             [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 3]soul leech           [ 2]sublime resistance  
+5: [ 7]cure critical        [ 1]ghostmaster ritual   [ 1]tenacious heart     
+6: [ 1]darkened soul        [ 8]ritual voyage        [ 1]zombify             
+7: [ 2]ghostskin            [ 1]soul protection      [ 1]twisted fate        
+8: [ 3]healing wave         [ 1]omen                 [ 2]rotting flesh       
+   [ 1]transmogrify        
+
+Spells being memorized:
+4: [ 1]amplify spirits      [ 1]sublime resistance  
+5: [ 1]boiling blood        [ 1]sanctuary           
+7: [ 1]ethereal armor       [ 1]ghostskin            [ 1]twisted fate        
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-1 2-0 3-0 4-0 5-0 6-0 7-0 8-0
+You may use your divine powers.
+516H 186V 1X 74.79% 14059C [Pos:resting] Mem:1 T:1 Exits:NESWD> 
+~~ Norka => WAVES: 3, REGENS: 10, CRITS: 7, CUS: 1, CUL: 1
+
+Laska closes her prayerbook with a content look on her face. [TICK]
+Your meditation finished, you put away your charms with a smile.
+The darkness marks the end of another day. [TICK]
+--> SAP STRENGTH <-- GONE
+525H 204V 1X 74.79% 14059C [Pos:resting] T:60 Exits:NESWD> 
+~~ Laska => --> TWISTED FATE EXPIRED --> Left: 0
+
+--> Laska <-- STANDS UP
+525H 204V 1X 74.79% 14059C [Pos:resting] T:59 Exits:NESWD> 
+exa girdle
+The girdle is quite beautiful as light strikes it. (95%) [A]
+girdle (used) : 
+a scroll of recall [3]
+an empty potion bottle
+a scroll of recall [3]
+a smoked cheese [2]
+525H 204V 1X 74.79% 14059C [Pos:resting] T:54 Exits:NESWD> 
+loo
+Upon a Turbulent Ocean
+The spirit of a Que Kul warrior is hovering here. (grey aura)
+The spirit of an ancient sahuagin warleader floats here. (grey aura)
+The spirit of Prince Metzli is hovering here. (grey aura)
+<DAWN> Laska the Foreplayer is standing here. (flying) (invisible)
+525H 204V 1X 74.79% 14059C [Pos:resting] T:53 Exits:NESWD> 
+stand
+You stand up.
+525H 204V 1X 74.79% 14059C [Pos:standing] T:52 Exits:NESWD> 
+loo
+Upon a Turbulent Ocean
+The spirit of a Que Kul warrior is hovering here. (grey aura)
+The spirit of an ancient sahuagin warleader floats here. (grey aura)
+The spirit of Prince Metzli is hovering here. (grey aura)
+<DAWN> Laska the Foreplayer is standing here. (flying) (invisible)
+525H 204V 1X 74.79% 14059C [Pos:standing] T:49 Exits:NESWD> 
+
+Laska utters some strange words.
+Laska's eyes glow red.
+525H 204V 1X 74.79% 14059C [Pos:standing] T:49 Exits:NESWD> 
+absorb 3.spirit
+The form of the spirit of Prince Metzli becomes more translucent.
+The spirit of Prince Metzli stops following you.
+The spirit of Prince Metzli transcends this world and enters another plane.
+--> ABSORBED fade <--
+525H 204V 1X 74.79% 14059C [Pos:standing] T:40 Exits:NESWD> 
+~~ Norka => ABSORBED fade
+cancel
+There are no queued commands.
+525H 204V 1X 74.79% 14059C [Pos:standing] T:38 Exits:NESWD> 
+c 'regenerate' norka
+You utter the words, 'regenerate'
+But she looks fine!
+You feel a very slight tingling sensation.
+--> REGENERATE <-- APPLIED
+525H 204V 1X 74.79% 14059C [Pos:standing] Mem:1 T:38 Exits:NESWD> 
+
+Some of your nastier wounds disappear.
+525H 204V 1X 74.79% 14059C [Pos:standing] Mem:1 T:36 Exits:NESWD> 
+d
+The spirit of Warleader Mixcoatl swims in from above.
+The spirit of a Que Kul warrior swims in from above.
+Beneath the Turbulent Ocean
+The spirit of a Que Kul warrior is hovering here. (grey aura)
+The spirit of an ancient sahuagin warleader floats here. (grey aura)
+A small silver fish with a green back darts through the water.
+An unusual squid with comb-like mantle fins swims through the water.
+525H 202V 1X 74.79% 14059C [Pos:standing] Mem:1 T:34 Exits:NESWUD> 
+d
+The spirit of Warleader Mixcoatl swims in from above.
+The spirit of a Que Kul warrior swims in from above.
+Deeper in the Ocean
+The spirit of a Que Kul warrior is hovering here. (grey aura)
+The spirit of an ancient sahuagin warleader floats here. (grey aura)
+A spiky fish with white stripes swims through the dark water.
+You sense a life form.
+A deadly night shark comes out of hiding.
+A deadly night shark bites the spirit of Warleader Mixcoatl extremely hard. [A]
+525H 200V 1X 74.79% 14059C [Pos:standing] Mem:1 T:33 Exits:NESWUD> 
+
+Some of your nastier wounds disappear.
+A deadly night shark bites YOU extremely hard. [A]
+A deadly night shark gasps in pain as she swings through the shadows surrounding you.
+The spirit of Warleader Mixcoatl massacres a deadly night shark with his claw. [A][SYNC]
+The spirit of Warleader Mixcoatl massacres a deadly night shark with his claw. [A]
+506H 200V 1X 74.79% 14059C [Pos:standing] [Norka:V.Good] [a deadly night shark:V.Good] Mem:1 T:32 Exits:NESWUD> 
+grou full
+Your group of 2 members consists of:
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  DA Laska            perfect   rested    standing   Y   Y    Y    N   N     0    2
+  SH Norka            v.good    rested    fighting   Y   Y    Y    N   Y     1    1
+506H 200V 1X 74.79% 14059C [Pos:standing] [Norka:V.Good] [a deadly night shark:V.Good] Mem:1 T:32 Exits:NESWUD> 
+d
+You can't do that while fighting.
+506H 200V 1X 74.79% 14059C [Pos:standing] [Norka:V.Good] [a deadly night shark:V.Good] Mem:1 T:32 Exits:NESWUD> 
+fade d
+The Vast Ocean Floor
+A large black fish with rounded dorsal fins swims through the water.
+A large black fish with rounded dorsal fins swims through the water.
+A small silver fish with a green back darts through the water.
+You feel enlightened.
+506H 198V 1X 74.79% 14059C [Pos:standing] Mem:1 T:31 Exits:NESWU> 
+
+A greenback sea mackerel swims east.
+506H 198V 1X 74.79% 14059C [Pos:standing] Mem:1 T:31 Exits:NESWU> 
+d
+Alas, you cannot go that way...
+506H 198V 1X 74.79% 14059C [Pos:standing] Mem:1 T:30 Exits:NESWU> 
+
+A huge purple sailfish swims in from the west.
+506H 198V 1X 74.79% 14059C [Pos:standing] Mem:1 T:29 Exits:NESWU> 
+s
+The Vast Ocean Floor
+A striped fish with spines running down its back swims through the water.
+506H 196V 1X 74.79% 14059C [Pos:standing] Mem:1 T:29 Exits:NESWU> 
+s
+
+Some of your nastier wounds disappear.
+525H 196V 1X 74.79% 14059C [Pos:standing] Mem:1 T:28 Exits:NESWU> 
+The Vast Ocean Floor
+525H 194V 1X 74.79% 14059C [Pos:standing] Mem:1 T:28 Exits:NESWU> 
+e
+You pass through the glowing dome and marvel at the clear water within.
+A Glowing Dome of Clear Water
+525H 192V 1X 74.79% 14059C [Pos:standing] Mem:1 T:28 Exits:NESWUD> 
+scan
+Looking north:
+The sandy ocean floor continues beyond the glowing dome of water.
+Looking east:
+The sandy ocean floor continues beyond the glowing dome of water.
+A small fish with a glowing appendage on its forehead floats here.
+Looking south:
+The sandy ocean floor continues beyond the glowing dome of water.
+A small silver fish with a green back darts through the water.
+An unusual squid with comb-like mantle fins swims through the water.
+A small fish with a glowing appendage on its forehead floats here.
+A sleek cerulean shark swims silently through the ocean waters.
+A little ball of black spines sits on the sea floor.
+A little ball of black spines sits on the sea floor.
+A little ball of black spines sits on the sea floor.
+Looking west:
+The sandy ocean floor continues beyond the glowing dome of water.
+Looking up:
+The chilly ocean water continues up beyond the glowing dome of water.
+Looking down:
+An gigantic cylindrical shaft has been cut through the bedrock.
+A pale sahuagin warrior floats here, his eyes devoid of life. (grey aura)
+525H 192V 1X 74.79% 14059C [Pos:standing] Mem:1 T:27 Exits:NESWUD> 
+d
+
+Some of your nastier wounds disappear.
+525H 192V 1X 74.79% 14059C [Pos:standing] Mem:1 T:24 Exits:NESWUD> 
+The Central Shaft of Blood Shoal
+A pale sahuagin warrior floats here, his eyes devoid of life. (grey aura)
+525H 190V 1X 74.79% 14059C [Pos:standing] Mem:1 T:24 Exits:NEWUD> 
+scan
+Looking north:
+The smell of manure and kelp floats in from the stables to the north.
+A pale sahuagin warrior floats here, his eyes devoid of life. (grey aura)
+A pale sahuagin warrior floats here, his eyes devoid of life. (grey aura)
+A slobbering sahuagin warrior drifts through, his broken ribs exposed. (grey aura)
+An injured hippocampus is resting on a litter in one of the stalls.
+A dark mahkwahb ranger floats here, tending to her hippocampi.
+Looking east:
+The wide stone tunnel leading eastwards is marred by deep gashes.
+Looking south:
+A series of ancient runes runs along the surface of the stone wall.
+Looking west:
+A wide stone tunnel leads away from the central shaft of the city.
+Looking up:
+A glowing dome covers the entrance to the ancient underwater city.
+Looking down:
+The central shaft of the city continues down through the bedrock.
+525H 190V 1X 74.79% 14059C [Pos:standing] Mem:1 T:23 Exits:NEWUD> 
+d
+A sahuagin warrior lacedon swims down.
+The Central Shaft of Blood Shoal
+A pale sahuagin warrior floats here, his eyes devoid of life. (grey aura)
+525H 188V 1X 74.79% 14059C [Pos:standing] Mem:1 T:22 Exits:NSWUD> 
+scan
+Looking north:
+Thousands of deep scratches mar the stone corridor leading north.
+Looking east:
+The image of a tentacle-faced humanoid is carved into the wall.
+Looking south:
+The stone corridor leading south of here is filled with clutter.
+Looking west:
+A large clamshell hangs crookedly above an open stone archway.
+An injured sahuagin warrior hovers easily, despite having no left foot. (grey aura)
+A pale sahuagin warrior floats here, his eyes devoid of life. (grey aura)
+A stoic-faced sea elf floats near one of the tables, nursing his drink.
+A scowling sea elf floats at the bar, staring dejectedtly at his drink.
+A clumsy sahuagin swims clumsily around the bar, singing a song off key.
+A boisterous young sahuagin sits at the bar, causing a noisy ruckus.
+A toothy sahuagin priestess floats here, sipping on a fleshy blue sac.
+Looking up:
+The central shaft of the city continues up through the bedrock.
+Looking down:
+The central shaft of the city continues down through the bedrock.
+An ugly sahuagin warrior glides along, his arms hanging limply. (grey aura)
+A pale sahuagin warrior floats here, his eyes devoid of life. (grey aura)
+525H 188V 1X 74.79% 14059C [Pos:standing] Mem:1 T:22 Exits:NSWUD> 
+
+Some of your nastier wounds disappear.
+525H 188V 1X 74.79% 14059C [Pos:standing] Mem:1 T:20 Exits:NSWUD> 
+d
+The Central Shaft of Blood Shoal
+A slobbering sahuagin warrior drifts through, his broken ribs exposed. (grey aura)
+A pale sahuagin warrior floats here, his eyes devoid of life. (grey aura)
+525H 186V 1X 74.79% 14059C [Pos:standing] Mem:1 T:20 Exits:ESWUD> 
+scan
+
+A sahuagin warrior lacedon swims in from the west.
+525H 186V 1X 74.79% 14059C [Pos:standing] Mem:1 T:19 Exits:ESWUD> 
+Looking north:
+A series of ancient runes runs along the surface of the stone wall.
+Looking east:
+A narrow corridor leads off from the central shaft of the city.
+Looking south:
+Bizarre smells drift in from the strange shop to the south.
+A pale sahuagin warrior floats here, his eyes devoid of life. (grey aura)
+A slobbering sahuagin warrior drifts through, his broken ribs exposed. (grey aura)
+An ugly sahuagin warrior glides along, his arms hanging limply. (grey aura)
+The sour-faced sahuagin alchemist floats here, grinding sea urchins.
+Looking west:
+A crude stone chamber has been carved out to the west of here.
+Looking up:
+The central shaft of the city continues up through the bedrock.
+A pale sahuagin warrior floats here, his eyes devoid of life. (grey aura)
+Looking down:
+The central shaft of the city continues down through the bedrock.
+An injured sahuagin warrior hovers easily, despite having no left foot. (grey aura)
+An ugly sahuagin warrior glides along, his arms hanging limply. (grey aura)
+525H 186V 1X 74.79% 14059C [Pos:standing] Mem:1 T:19 Exits:ESWUD> 
+
+A sahuagin warrior lacedon swims south.
+525H 186V 1X 74.79% 14059C [Pos:standing] Mem:1 T:18 Exits:ESWUD> 
+e
+A Narrow Stone Corridor
+A pale sahuagin warrior floats here, his eyes devoid of life. (grey aura)
+An ugly sahuagin warrior glides along, his arms hanging limply. (grey aura)
+A slobbering sahuagin warrior drifts through, his broken ribs exposed. (grey aura)
+525H 184V 1X 74.79% 14059C [Pos:standing] Mem:1 T:17 Exits:EW> 
+
+Some of your nastier wounds disappear.
+525H 184V 1X 74.79% 14059C [Pos:standing] Mem:1 T:16 Exits:EW> 
+e
+A Large Stone Chamber
+A deformed sahuagin warrior swims by, his legs twitching awkwardly. (grey aura)
+525H 182V 1X 74.79% 14059C [Pos:standing] Mem:1 T:16 Exits:NSW> 
+n
+A Tidy Supply Shop
+A scrawny sea elf floats here, behind the narrow stone counter.
+525H 180V 1X 74.79% 14059C [Pos:standing] Mem:1 T:15 Exits:S> 
+
+Some of your nastier wounds disappear.
+525H 180V 1X 74.79% 14059C [Pos:standing] Mem:1 T:12 Exits:S> 
+buy 1
+Broadsnout cringes in terror!
+525H 180V 1X 74.79% 14059C [Pos:standing] Mem:1 T:12 Exits:S> 
+
+Some of your nastier wounds disappear.
+525H 180V 1X 74.79% 14059C [Pos:standing] Mem:1 T:8 Exits:S> 
+disp 'mon m'
+No one by that name around here.
+525H 180V 1X 74.79% 14059C [Pos:standing] Mem:1 T:7 Exits:S> 
+
+A sahuagin warrior lacedon swims in from the south.
+525H 180V 1X 74.79% 14059C [Pos:standing] Mem:1 T:7 Exits:S> 
+dispel 'mon m'
+mem st 'clot'
+--> MONSTROUS MANTLE <-- GONE
+525H 180V 1X 74.79% 14059C [Pos:standing] Mem:1 T:5 Exits:S> 
+
+Some of your nastier wounds disappear.
+--> REGENERATE <-- GONE
+525H 180V 1X 74.79% 14059C [Pos:standing] Mem:1 T:4 Exits:S> 
+buy 1
+mem
+Your meditation finished, you put away your charms with a smile.
+clot: this spell isn't on your memorization list
+525H 204V 1X 74.79% 14059C [Pos:standing] T:60 Exits:S> 
+Broadsnout tells you 'That'll cost you 95 coins.  Thank you.'
+You now have a dark silver fish tail pendant.
+525H 204V 1X 74.79% 13964C [Pos:standing] T:60 Exits:S> 
+~~ Norka => Broadsnout tells you 'That'll cost you 95 coins.  Thank you.'
+Spells currently memorized:
+1: [ 4]ancestral shroud     [ 1]bone shape           [ 1]cure light          
+   [ 2]satiate              [ 1]spectral glow        [ 3]spiritual guidance  
+2: [ 2]ancestral blessing   [ 2]blindness            [ 5]cure blindness      
+   [ 1]endurance            [ 1]remove curse         [ 1]sanctify corpse     
+3: [ 1]cure serious         [ 1]delay death          [ 1]protection from unde
+   [ 4]remove poison        [ 5]vile spirits        
+4: [ 1]amplify spirits      [ 2]devouring spirits    [ 1]evil eye            
+   [ 1]ghost berries        [ 1]monstrous mantle     [ 3]soul leech          
+   [ 3]sublime resistance  
+5: [ 1]boiling blood        [ 7]cure critical        [ 1]ghostmaster ritual  
+   [ 1]sanctuary            [ 1]tenacious heart     
+6: [ 1]darkened soul        [ 8]ritual voyage        [ 1]zombify             
+7: [ 1]ethereal armor       [ 3]ghostskin            [ 1]soul protection     
+   [ 2]twisted fate        
+8: [ 3]healing wave         [ 1]omen                 [ 2]rotting flesh       
+   [ 1]transmogrify        
+
+
+Spells left (level-number): 1-1 2-0 3-0 4-0 5-0 6-0 7-0 8-0
+You may use your divine powers.
+525H 204V 1X 74.79% 13964C [Pos:standing] T:60 Exits:S> 
+~~ Norka => WAVES: 3, REGENS: 10, CRITS: 7, CUS: 1, CUL: 1
+c 'monstrous mantle' 
+s
+You utter the words, 'monstrous mantle'
+--> MONSTROUS MANTLE <-- APPLIED
+525H 204V 1X 74.79% 13964C [Pos:standing] Mem:1 T:55 Exits:S> 
+A Large Stone Chamber
+A slobbering sahuagin warrior drifts through, his broken ribs exposed. (grey aura)
+525H 202V 1X 74.79% 13964C [Pos:standing] Mem:1 T:50 Exits:NSW> 
+w
+A Narrow Stone Corridor
+An ugly sahuagin warrior glides along, his arms hanging limply. (grey aura)
+525H 200V 1X 74.79% 13964C [Pos:standing] Mem:1 T:49 Exits:EW> 
+
+A sahuagin warrior lacedon swims in from the west.
+525H 200V 1X 74.79% 13964C [Pos:standing] Mem:1 T:49 Exits:EW> 
+w
+The Central Shaft of Blood Shoal
+An injured sahuagin warrior hovers easily, despite having no left foot. (grey aura)
+An ugly sahuagin warrior glides along, his arms hanging limply. (grey aura)
+525H 198V 1X 74.79% 13964C [Pos:standing] Mem:1 T:48 Exits:ESWUD> 
+
+A sahuagin warrior lacedon swims up.
+525H 198V 1X 74.79% 13964C [Pos:standing] Mem:1 T:47 Exits:ESWUD> 
+u
+The Central Shaft of Blood Shoal
+An ugly sahuagin warrior glides along, his arms hanging limply. (grey aura)
+A pale sahuagin warrior floats here, his eyes devoid of life. (grey aura)
+525H 196V 1X 74.79% 13964C [Pos:standing] Mem:1 T:47 Exits:NSWUD> 
+u
+The Central Shaft of Blood Shoal
+A deformed sahuagin warrior swims by, his legs twitching awkwardly. (grey aura)
+A wretched sahuagin lacedon floats here, idly scratching himself. (grey aura)
+A monstrous sahuagin lacedon floats here, pus oozing from its face. (grey aura)
+A hideous sahuagin lacedon floats here, holding its intestines. (grey aura)
+A terrifying sahuagin lacedon floats here, poking at its own brain. (grey aura)
+A grim sahuagin battle priestess floats here, chanting softly to herself.
+A lean sahuagin baron with pale skin swims by, hunting for outsiders.
+A pale sahuagin warrior floats here, his eyes devoid of life. (grey aura)
+cancel
+YOU ARE BASHED BY --> a wretched sahuagin lacedon <-- [FORCED SIT]
+A monstrous sahuagin lacedon shows his plan, you easily avoid his gore.
+A terrifying sahuagin lacedon focuses harshly on you and utters some strange words.
+A terrifying sahuagin lacedon pierces YOU very hard. [A]
+A terrifying sahuagin lacedon gasps in pain as he swings through the shadows surrounding you.
+A seasoned sahuagin battle priestess focuses harshly on you and utters the words, 'devouring spirits'.
+A seasoned sahuagin battle priestess pierces YOU extremely hard. [A][SYNC]
+A seasoned sahuagin battle priestess gasps in pain as she swings through the shadows surrounding you.
+457H 194V 1X 74.79% 13964C [Pos:sitting] [Norka:Good] [a wretched sahuagin lacedon:Perfect] Mem:1 T:46 Exits:NEWUD> 
+stand
+There are no queued commands.
+457H 194V 1X 74.79% 13964C [Pos:sitting] [Norka:Good] [a wretched sahuagin lacedon:Perfect] Mem:1 T:45 Exits:NEWUD> 
+
+A sahuagin warrior lacedon swims north.
+A sahuagin warrior lacedon swims in from the east.
+457H 194V 1X 74.79% 13964C [Pos:sitting] [Norka:Good] [a wretched sahuagin lacedon:Perfect] Mem:1 T:45 Exits:NEWUD> 
+grou full
+
+A sahuagin warrior lacedon swims in from the west.
+457H 194V 1X 74.79% 13964C [Pos:sitting] [Norka:Good] [a wretched sahuagin lacedon:Perfect] Mem:1 T:45 Exits:NEWUD> 
+
+A seasoned sahuagin battle priestess pierces YOU very hard. [A]
+A seasoned sahuagin battle priestess gasps in pain as she swings through the shadows surrounding you.
+A terrifying sahuagin lacedon pierces YOU hard. [A][SYNC]
+A terrifying sahuagin lacedon gasps in pain as he swings through the shadows surrounding you.
+A monstrous sahuagin lacedon stings YOU very hard. [A]
+A monstrous sahuagin lacedon massacres YOU with his sting. [A]
+A wretched sahuagin lacedon pierces YOU very hard. [A]
+A wretched sahuagin lacedon gasps in pain as he swings through the shadows surrounding you.
+You pierce a wretched sahuagin lacedon extremely hard. [A]
+A wretched sahuagin lacedon tries to sunder your armour but fails miserably.
+A hideous sahuagin lacedon pierces YOU very hard. [A]
+A hideous sahuagin lacedon gasps in pain as he swings through the shadows surrounding you.
+A terrifying sahuagin lacedon focuses harshly on you and utters the words, 'blindness'.
+A seasoned sahuagin battle priestess utters the words, 'cure critical'.
+Large open gashes on a seasoned sahuagin battle priestess's body quickly heal.
+Baron Xocotl annihilates YOU with his pierce. [A]
+Baron Xocotl gasps in pain as he swings through the shadows surrounding you.
+313H 194V 1X 74.79% 13964C [Pos:sitting] [Norka:Fair] [a wretched sahuagin lacedon:Good] Mem:1 T:44 Exits:NEWUD> 
+grou full
+fade u
+
+Baron Xocotl annihilates YOU with his pierce. [A]
+Baron Xocotl gasps in pain as he swings through the shadows surrounding you.
+Baron Xocotl annihilates YOU with his pierce. [A][SYNC]
+Baron Xocotl gasps in pain as he swings through the shadows surrounding you.
+A hideous sahuagin lacedon pierces YOU very hard. [A]
+A hideous sahuagin lacedon gasps in pain as he swings through the shadows surrounding you.
+A hideous sahuagin lacedon pierces YOU very hard. [A]
+A hideous sahuagin lacedon gasps in pain as he swings through the shadows surrounding you.
+A seasoned sahuagin battle priestess misses you with her pierce. [A]
+A terrifying sahuagin lacedon massacres YOU with his pierce. [A]
+A terrifying sahuagin lacedon gasps in pain as he swings through the shadows surrounding you.
+A terrifying sahuagin lacedon pierces YOU extremely hard. [A]
+A terrifying sahuagin lacedon gasps in pain as he swings through the shadows surrounding you.
+A monstrous sahuagin lacedon massacres YOU with his sting. [A]
+A monstrous sahuagin lacedon misses you with his sting. [A]
+A wretched sahuagin lacedon misses you with his pierce. [A]
+You massacre a wretched sahuagin lacedon with your pierce. [A]
+A wretched sahuagin lacedon tries to disarm your weapon, but you deftly avoid him.
+With a crazed scream, a hideous sahuagin lacedon jumps into the fray and attacks like a wild person.
+A hideous sahuagin lacedon's speed gets the better of you as you get hit by him from all sides.
+You wish your wounds would stop BLEEDING so much!
+A seasoned sahuagin battle priestess utters the words, 'cure critical'.
+88H 194V 1X 74.79% 13964C [Pos:sitting] [Norka:Awful] [a wretched sahuagin lacedon:Good] Mem:1 T:40 Exits:NEWUD> 
+stand
+grou full
+
+With a crazed scream, a monstrous sahuagin lacedon jumps into the fray and attacks like a wild person.
+You feel your skull starting to split as a monstrous sahuagin lacedon clonks you over your head.
+You wish your wounds would stop BLEEDING so much!
+27H 194V 1X 74.79% 13964C [Pos:sitting] [Norka:Awful] [a wretched sahuagin lacedon:Good] Mem:1 T:40 Exits:NEWUD> 
+
+A sahuagin warrior lacedon swims north.
+27H 194V 1X 74.79% 13964C [Pos:sitting] [Norka:Awful] [a wretched sahuagin lacedon:Good] Mem:1 T:39 Exits:NEWUD> 
+
+A sahuagin warrior lacedon swims east.
+27H 194V 1X 74.79% 13964C [Pos:sitting] [Norka:Awful] [a wretched sahuagin lacedon:Good] Mem:1 T:39 Exits:NEWUD> 
+cancel
+get recall girdle
+rec recall me
+
+A sahuagin warrior lacedon swims in from the north.
+27H 194V 1X 74.79% 13964C [Pos:sitting] [Norka:Awful] [a wretched sahuagin lacedon:Good] Mem:1 T:38 Exits:NEWUD> 
+Cancelled 6 queued commands.
+27H 194V 1X 74.79% 13964C [Pos:sitting] [Norka:Awful] [a wretched sahuagin lacedon:Good] Mem:1 T:38 Exits:NEWUD> 
+You get a scroll of recall from a girdle of faceted red crystals.
+27H 194V 1X 74.79% 13964C [Pos:sitting] [Norka:Awful] [a wretched sahuagin lacedon:Good] Mem:1 T:37 Exits:NEWUD> 
+You stop using a gigantic whale bone spear.
+You grab a scroll of recall.
+You recite a scroll of recall which dissolves.
+The City Portal of Dawnguard
+A magical ward protects the stronghold.
+A large multicolored portal hovers near one wall of the room...it glows dimly
+27H 194V 1X 74.79% 13964C [Pos:sitting] Mem:1 T:37 Exits:NESWUD> 
+rest

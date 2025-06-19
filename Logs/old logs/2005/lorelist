@@ -1,0 +1,238 @@
+ Object 'cap canvas peaked'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 4            Value   : 80
+
+ Affects  : ARMOR         by -5
+ Affects  : INT           by 1
+ Item is  : MAGIC
+
+
+ Object 'visor dark red'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 4            Value   : 250
+
+ Effects  : DETECT_INVISIBLE INFRAVISION
+ Item is  : MAGIC
+ Restricts: NOBARBARIAN
+ Apply    : 2
+
+ Object 'axe bloody minotaur'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 10           Value   : 100
+
+ Affects  : HITROLL       by 2
+ Class    : battle_axe
+ Damage   : 4D4
+
+
+ Object 'boots fine metal black'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: iron
+ Weight   : 10           Value   : 500
+
+ Affects  : skill kick          by +5
+ Affects  : skill track         by +5
+ Affects  : MOVE          by 10
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NOBARBARIAN
+ Apply    : 7
+
+
+ Object 'scabbard gleaming silver'
+ Item Type: CONTAINER   
+ Mat Class: metal        Material: silver
+ Weight   : 5            Value   : 140
+
+ Affects  : skill long blades   by +5
+ Affects  : HITROLL       by 1
+ Restricts: NOMAGE NOTHIEF NODRUID
+ Immune   : IMMUNE_ACID
+
+
+ Object 'sword broadsword white shining'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 18           Value   : 180
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN
+ Class    : broad_sword
+ Damage   : 4D4
+
+
+ Object 'armour armor battle dragonarmy black heavy'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 17           Value   : 160
+
+ Affects  : CON           by 1
+ Item is  : EVIL MAGIC ANTI_GOOD
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOBARBARIAN
+ Immune   : IMMUNE_ACID
+ Apply    : 8
+
+
+ Object 'legplates black charred platemail'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 8            Value   : 125
+
+ Affects  : STR           by 1
+ Affects  : HIT           by 5
+ Affects  : ARMOR         by -5
+ Restricts: NOMAGE NOBARBARIAN
+ Apply    : 6
+
+
+ Object 'sleeves dragon scale blue'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 12           Value   : 380
+
+ Affects  : ARMOR         by -10
+ Item is  : BLESS
+ Immune   : IMMUNE_ELECTRICITY
+ Apply    : 12
+
+
+ Object 'gauntlets spiked minotaur'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 4            Value   : 150
+
+ Affects  : HITROLL       by 1
+ Affects  : DAMROLL       by 1
+ Apply    : 6
+
+
+ Object 'skirt tasses tasse'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 14           Value   : 350
+
+ Affects  : STR           by 1
+ Affects  : RESIST_ELECTR by 4
+ Item is  : MAGIC BLESS
+ Restricts: NOBARBARIAN
+ Apply    : 8
+
+
+ Object 'gauntlets fine elven regal'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: iron
+ Weight   : 4            Value   : 500
+
+ Effects  : INVISIBLE
+ Item is  : INVISIBLE
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN
+ Apply    : 5
+
+
+ Object 'armplates arm plates rose engraved solamnic'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 10           Value   : 1000
+
+ Effects  : DETECT_MAGIC
+ Item is  : MAGIC
+ Restricts: NOBARBARIAN
+ Apply    : 8
+
+
+
+ Object 'band head headband red dragon scale dragonscale'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 1            Value   : 1000
+
+ Affects  : DEX           by 1
+ Affects  : LEARN         by 6
+ Effects  : DETECT_INVISIBLE NOSUMMON
+ Item is  : MAGIC
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT
+ Apply    : 3
+
+
+ Object 'plate red thieving dark'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 9            Value   : 600
+
+ Affects  : STR           by 1
+ Item is  : MAGIC
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NODARK_KNIGHT
+ Apply    : 10
+
+
+ Object 'axe sterling'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: silver
+ Weight   : 23           Value   : 300
+
+ Affects  : DAMROLL       by 2
+ Affects  : CON           by 1
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC HOT
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC
+ Class    : battle_axe
+ Damage   : 2D9
+
+
+ Object 'belt quartz thick'
+ Item Type: WORN        
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 9            Value   : 80
+
+ Affects  : HIT           by 6
+ Affects  : ARMOR         by -5
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC
+
+
+ Object 'medallion ancient necklace'
+ Item Type: WORN        
+ Mat Class: crystal      Material: crystal
+ Weight   : 1            Value   : 150
+
+ Effects  : INFRAVISION NOSUMMON NOCHARM
+ Item is  : MAGIC
+
+ Object 'axe spiked'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 15           Value   : 170
+
+ Affects  : HITROLL       by 2
+ Class    : hatchet
+ Damage   : 2D9
+
+
+ Object 'bracelet lily black steel'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 6            Value   : 600
+
+ Affects  : CON           by 1
+ Item is  : MAGIC ANTI_GOOD
+ Apply    : 5
+
+
+
+
+<worn around neck>         a silver banded locket..it glows dimly
+<worn around neck>         an ancient medallion
+<worn on body>             a suit of golden dwarven plate mail
+<worn on legs>             a pair of segmented black adamantite shin guards
+<worn on hands>            a pair of the weaponsmaster's gloves
+<worn about waist>         a gleaming silver scabbard
+<worn around right wrist>  a black bracelet of the Lily
+<used in primary hand>     a shining white broadsword
+
+
+
+

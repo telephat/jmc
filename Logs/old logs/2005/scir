@@ -1,0 +1,925 @@
+#message alias OFF
+#message action OFF
+#message subst OFF
+#message high OFF
+#message variable OFF
+#message group OFF
+#multiaction on
+#multihighlight on
+#presub off
+#echo off
+#ignore off
+#speedwalk on
+#togglesubs off
+#verbat off
+#alias {ar} {#con mud.arctic.org 2700} {default}
+#alias {ar1} {telnet mud.arctic.org 2700;#status {3} {Hop-to-hop connect} {light red}} {default}
+#alias {ble} {c 'ble'} {default}
+#alias {bless} {c 'bless'} {default}
+#alias {bli} {c 'bli'} {default}
+#alias {cac} {c 'ca c'} {default}
+#alias {cas} {c 'ca s'} {default}
+#alias {chardetoff} {#unact {You are %0, a level %1 Cleric.};#unact {You are %0, a level %1 Mage.} ;#unact {You are %0, a level %1 Warrior.};#unact {You are %0, a level %1 Barbarian.};#unact {You are %0, a level %1 Druid.} ;#unact {You are %0, a level %1 Ranger.} ;#unact {You are %0, a level %1 Paladin.};#unact {You are %0, a level %1 Dark Knight.};#unact {You are %0, a level %1 Thief.}} {default}
+#alias {cls} {#50 {#showme}} {default}
+#alias {cls1} {#status 1 {}} {default}
+#alias {cls2} {#status 2 {}} {default}
+#alias {cls3} {#status 3 {}} {default}
+#alias {clsout} {#10 {#output}} {default}
+#alias {clsst} {#status 1 {};#status 2 {};#status 3 {}} {default}
+#alias {come} {st;us} {default}
+#alias {cuc} {c 'cu c'} {default}
+#alias {curs} {c 'curs'} {default}
+#alias {ddri} {get water $container;dri water;dri water;put all.water $container} {default}
+#alias {debug} {#echo on;#message actions on;#message variables on} {default}
+#alias {dec} {#math %0 {$%0-1}} {default}
+#alias {df} {get 3*$eat $container;drop 3*$eat} {default}
+#alias {die} {c 'di e'} {default}
+#alias {dig} {c 'di g'} {default}
+#alias {div} {#math %1 {$%1/%2}} {default}
+#alias {doflee} {fl} {default}
+#alias {dokill} {#showme -----> %0 on sight!;#if $scanning=0 {pkoff;$pkaction %0}} {default}
+#alias {doscan} {scan;#act {Looking down:} {#var scanning 0}} {default}
+#alias {ea} {#var eat %0;get %0 $container;eat %0;put all.%0 $container} {default}
+#alias {eeat} {get $eat $container;eat $eat;put all.$eat $container} {default}
+#alias {f1} {#hot f1 %0} {default}
+#alias {f10} {#hot f10 %0} {default}
+#alias {f2} {#hot f2 %0} {default}
+#alias {f3} {#hot f3 %0} {default}
+#alias {f4} {#hot f4 %0} {default}
+#alias {f5} {#hot f5 %0} {default}
+#alias {f6} {#hot f6 %0} {default}
+#alias {f7} {#hot f7 %0} {default}
+#alias {f8} {#hot f8 %0} {default}
+#alias {f9} {#hot f9 %0} {default}
+#alias {fea} {c 'fear'} {default}
+#alias {fle} {doflee} {default}
+#alias {flee} {doflee} {default}
+#alias {fls} {doflee} {default}
+#alias {food} {c 'c f'} {default}
+#alias {ga} {get all corpse} {default}
+#alias {gf} {get 3*$eat $container;give 3*$eat $tugger} {default}
+#alias {harm} {c 'harm'} {default}
+#alias {heal} {c 'heal'} {default}
+#alias {her} {c 'her'} {default}
+#alias {hero} {c 'her'} {default}
+#alias {host} {#con 192.168.0.1 23} {default}
+#alias {hp} {c 'h p'} {default}
+#alias {inc} {#math %0 {$%0+1}} {default}
+#alias {loadbarb} {#read config\\chars\\barb.set} {default}
+#alias {loadcleric} {#read config\\chars\\cleric.set} {default}
+#alias {loaddk} {#read config\\chars\\dk.set} {default}
+#alias {loaddruid} {#read config\\chars\\druid.set} {default}
+#alias {loadmage} {#read config\\chars\\mage.set} {default}
+#alias {loadpala} {#read config\\chars\\paladin.set} {default}
+#alias {loadranger} {#read config\\chars\\ranger.set} {default}
+#alias {loadthief} {#read config\\chars\\thief.set} {default}
+#alias {loadwarr} {#read config\\chars\\warrior.set} {default}
+#alias {lootmob} {#var lootmob 1} {default}
+#alias {mem} {nd;rest} {default}
+#alias {od} {ord dwarf} {default}
+#alias {oe} {ord elemental} {default}
+#alias {p} {gro} {default}
+#alias {pdc} {ftp.pdc.ru 23} {default}
+#alias {pkact} {#var pkaction %0} {default}
+#alias {pkoff} {#var pkmode DISABLED;#show ------PK mode disabled;#group disable pkill;#var target1 noone;#var target2 noone;#var target3 noone;#var target4 noone;#var target5 noone;} {default}
+#alias {pkon} {#var pkmode ENABLED;#var target1 noone;#var target2 noone;#var target3 noone;#var target4 noone;#var target5 noone;#showme --> CAPITALISE CHARS! <----, set PK action! ;#var target1 %1;#var target2 %2;#var target3 %3;#var target4 %4;#var target5 %5;#group enable pkill;pkstat} {default}
+#alias {pkstat} {#showme  PK MODE IS $pkmode. Targets are: $target1 , $target2 , $target3 , $target4 , $target5} {default}
+#alias {poi} {c 'poi'} {default}
+#alias {ppd} {, points DOWN} {default}
+#alias {ppe} {, points EAST} {default}
+#alias {ppn} {, points NORTH} {default}
+#alias {pps} {, points SOUTH} {default}
+#alias {ppu} {, points UP} {default}
+#alias {ppw} {, points WEST} {default}
+#alias {pray} {c 'pray'} {default}
+#alias {reset} {#read default.set} {default}
+#alias {rest} {gt pawol naxuy} {default}
+#alias {san} {c 'san'} {default}
+#alias {sca} {#var scanning 1;doscan} {default}
+#alias {sl} {c 's l'} {default}
+#alias {sos} {rec recall me;get recall chest} {default}
+#alias {splitoff} {#var cashsplit 0} {default}
+#alias {spliton} {#var cashsplit 1} {default}
+#alias {sqr} {#math %1 {$%1*$%1}} {default}
+#alias {tickmsg1} {#var {tickmsg} {$tickmsg1}} {default}
+#alias {tickmsg2} {#var {tickmsg} {$tickmsg2}} {default}
+#alias {tickmsg3} {#var {tickmsg} {$tickmsg3}} {default}
+#alias {tickmsg4} {#var {tickmsg} {$tickmsg4}} {default}
+#alias {tickshow} {#nop if $grouped {gt $tickmsg}} {default}
+#alias {wat} {watch %1;#var tank %1;#showme >     Tank setted as: %1. Dont forget about uppercase!} {default}
+#alias {water} {c 'c w'} {default}
+#alias {wor} {c 'w o r' me} {default}
+#alias {xor} {#math %1 {$%1*%2}} {default}
+#action {^You feel up to using %1 again.} {#output {red} {----- %1 is UP ----}} {5} {default}
+#action {^#10 SECONDS TO TICK} {tickshow} {5} {default}
+#action {^%0 closes %1 with a content look} {#tickset} {5} {default}
+#action {^%0 crumbles into dust and scatters.} {#tickset} {5} {default}
+#action {^%0 decays in your hands.} {#output {white} {>        ... [%0] is decayed! ...};#bell} {5} {default}
+#action {^%0 looks really sick, and} {#tickset} {5} {default}
+#action {^%0's ball flickers briefly.} {#tickset} {5} {default}
+#action {^%0's lantern flickers briefly.} {#tickset} {5} {default}
+#action {^A flash of lightning announces} {#tickset} {5} {default}
+#action {^The blizzard tapers off} {#tickset} {5} {default}
+#action {^The cloud-veiled sky becomes even darker} {#tickset} {5} {default}
+#action {^The clouds block your view} {#tickset} {5} {default}
+#action {^The clouds disappear.} {#tickset} {5} {default}
+#action {^The detect invisible wears off.} {#tickset} {5} {default}
+#action {^The rising sun barely lights} {#tickset} {5} {default}
+#action {^The rising sun proclaims a new day.} {#tickset} {5} {default}
+#action {^The snow has stopped.} {#tickset} {5} {default}
+#action {^The sun slowly sinks} {#tickset} {5} {default}
+#action {^You are hungry.} {#tickset} {5} {default}
+#action {^You are now sober.} {#tickset} {5} {default}
+#action {^You are thirsty.} {#tickset} {5} {default}
+#action {^You don't feel as weak anymore.} {#tickset} {5} {default}
+#action {^You feel as if a great weight has} {#tickset} {5} {default}
+#action {^You feel less righteous.} {#tickset} {5} {default}
+#action {^Your studies complete,} {#tickset} {5} {default}
+#action {%0 disarms your weapon.} {#output {white} {>        ... Disarmed! ...};#bell} {5} {default}
+#action {^You raise level!} {#output {white} {>        Leveled!}} {5} {default}
+#action {[ 1]blindness} {#var blinds 1} {5} {spellcount}
+#action {[ 2]blindness} {#var blinds 2} {5} {spellcount}
+#action {[ 3]blindness} {#var blinds 3} {5} {spellcount}
+#action {[ 4]blindness} {#var blinds 4} {5} {spellcount}
+#action {[ 5]blindness} {#var blinds 5} {5} {spellcount}
+#action {[ 6]blindness} {#var blinds 6} {5} {spellcount}
+#action {[ 7]blindness} {#var blinds 7} {5} {spellcount}
+#action {[ 8]blindness} {#var blinds 8} {5} {spellcount}
+#action {[ 9]blindness} {#var blinds 9} {5} {spellcount}
+#action {[10]blindness} {#var blinds 10} {5} {spellcount}
+#action {[11]blindness} {#var blinds 11} {5} {spellcount}
+#action {[ 1]silence} {#var sils 1} {5} {spellcount}
+#action {[ 2]silence} {#var sils 2} {5} {spellcount}
+#action {[ 3]silence} {#var sils 3} {5} {spellcount}
+#action {[ 4]silence} {#var sils 4} {5} {spellcount}
+#action {[ 5]silence} {#var sils 5} {5} {spellcount}
+#action {[ 6]silence} {#var sils 6} {5} {spellcount}
+#action {[ 7]silence} {#var sils 7} {5} {spellcount}
+#action {[ 8]silence} {#var sils 8} {5} {spellcount}
+#action {[ 9]silence} {#var sils 9} {5} {spellcount}
+#action {[10]silence} {#var sils 10} {5} {spellcount}
+#action {[ 1]cause serious} {#var cases 1} {5} {spellcount}
+#action {[ 2]cause serious} {#var cases 2} {5} {spellcount}
+#action {[ 3]cause serious} {#var cases 3} {5} {spellcount}
+#action {[ 4]cause serious} {#var cases 4} {5} {spellcount}
+#action {[ 5]cause serious} {#var cases 5} {5} {spellcount}
+#action {[ 6]cause serious} {#var cases 6} {5} {spellcount}
+#action {[ 7]cause serious} {#var cases 7} {5} {spellcount}
+#action {[ 8]cause serious} {#var cases 8} {5} {spellcount}
+#action {[ 9]cause serious} {#var cases 9} {5} {spellcount}
+#action {[10]cause serious} {#var cases 10} {5} {spellcount}
+#action {[ 1]cure serious} {#var cuses 1} {5} {spellcount}
+#action {[ 2]cure serious} {#var cuses 2} {5} {spellcount}
+#action {[ 3]cure serious} {#var cuses 3} {5} {spellcount}
+#action {[ 4]cure serious} {#var cuses 4} {5} {spellcount}
+#action {[ 5]cure serious} {#var cuses 5} {5} {spellcount}
+#action {[ 6]cure serious} {#var cuses 6} {5} {spellcount}
+#action {[ 7]cure serious} {#var cuses 7} {5} {spellcount}
+#action {[ 8]cure serious} {#var cuses 8} {5} {spellcount}
+#action {[ 9]cure serious} {#var cuses 9} {5} {spellcount}
+#action {[ 1]gust of wind} {#var gows 1} {5} {spellcount}
+#action {[ 2]gust of wind} {#var gows 2} {5} {spellcount}
+#action {[ 3]gust of wind} {#var gows 3} {5} {spellcount}
+#action {[ 4]gust of wind} {#var gows 4} {5} {spellcount}
+#action {[ 5]gust of wind} {#var gows 5} {5} {spellcount}
+#action {[ 6]gust of wind} {#var gows 6} {5} {spellcount}
+#action {[ 7]gust of wind} {#var gows 7} {5} {spellcount}
+#action {[ 8]gust of wind} {#var gows 8} {5} {spellcount}
+#action {[ 9]gust of wind} {#var gows 9} {5} {spellcount}
+#action {[10]gust of wind} {#var gows 10} {5} {spellcount}
+#action {[ 1]dispel magic} {#var dims 1} {5} {spellcount}
+#action {[ 2]dispel magic} {#var dims 2} {5} {spellcount}
+#action {[ 3]dispel magic} {#var dims 3} {5} {spellcount}
+#action {[ 4]dispel magic} {#var dims 4} {5} {spellcount}
+#action {[ 5]dispel magic} {#var dims 5} {5} {spellcount}
+#action {[ 6]dispel magic} {#var dims 6} {5} {spellcount}
+#action {[ 7]dispel magic} {#var dims 7} {5} {spellcount}
+#action {[ 8]dispel magic} {#var dims 8} {5} {spellcount}
+#action {[ 9]dispel magic} {#var dims 9} {5} {spellcount}
+#action {[ 1]hold person} {#var holds 1} {5} {spellcount}
+#action {[ 2]hold person} {#var holds 2} {5} {spellcount}
+#action {[ 3]hold person} {#var holds 3} {5} {spellcount}
+#action {[ 4]hold person} {#var holds 4} {5} {spellcount}
+#action {[ 5]hold person} {#var holds 5} {5} {spellcount}
+#action {[ 6]hold person} {#var holds 6} {5} {spellcount}
+#action {[ 7]hold person} {#var holds 7} {5} {spellcount}
+#action {[ 8]hold person} {#var holds 8} {5} {spellcount}
+#action {[ 9]hold person} {#var holds 9} {5} {spellcount}
+#action {[ 1]dispel good} {#var digs 1} {5} {spellcount}
+#action {[ 2]dispel good} {#var digs 2} {5} {spellcount}
+#action {[ 3]dispel good} {#var digs 3} {5} {spellcount}
+#action {[ 4]dispel good} {#var digs 4} {5} {spellcount}
+#action {[ 5]dispel good} {#var digs 5} {5} {spellcount}
+#action {[ 6]dispel good} {#var digs 6} {5} {spellcount}
+#action {[ 7]dispel good} {#var digs 7} {5} {spellcount}
+#action {[ 8]dispel good} {#var digs 8} {5} {spellcount}
+#action {[ 9]dispel good} {#var digs 9} {5} {spellcount}
+#action {[ 1]cure critical} {#var cucs 1} {5} {spellcount}
+#action {[ 2]cure critical} {#var cucs 2} {5} {spellcount}
+#action {[ 3]cure critical} {#var cucs 3} {5} {spellcount}
+#action {[ 4]cure critical} {#var cucs 4} {5} {spellcount}
+#action {[ 5]cure critical} {#var cucs 5} {5} {spellcount}
+#action {[ 6]cure critical} {#var cucs 6} {5} {spellcount}
+#action {[ 7]cure critical} {#var cucs 7} {5} {spellcount}
+#action {[ 8]cure critical} {#var cucs 8} {5} {spellcount}
+#action {[ 9]cure critical} {#var cucs 9} {5} {spellcount}
+#action {[ 1]cause critical} {#var cacs 1} {5} {spellcount}
+#action {[ 2]cause critical} {#var cacs 2} {5} {spellcount}
+#action {[ 3]cause critical} {#var cacs 3} {5} {spellcount}
+#action {[ 4]cause critical} {#var cacs 4} {5} {spellcount}
+#action {[ 5]cause critical} {#var cacs 5} {5} {spellcount}
+#action {[ 6]cause critical} {#var cacs 6} {5} {spellcount}
+#action {[ 7]cause critical} {#var cacs 7} {5} {spellcount}
+#action {[ 8]cause critical} {#var cacs 8} {5} {spellcount}
+#action {[ 9]cause critical} {#var cacs 9} {5} {spellcount}
+#action {[ 1]harm} {#var harms 1} {5} {spellcount}
+#action {[ 2]harm} {#var harms 2} {5} {spellcount}
+#action {[ 3]harm} {#var harms 3} {5} {spellcount}
+#action {[ 4]harm} {#var harms 4} {5} {spellcount}
+#action {[ 5]harm} {#var harms 5} {5} {spellcount}
+#action {[ 6]harm} {#var harms 6} {5} {spellcount}
+#action {[ 7]harm} {#var harms 7} {5} {spellcount}
+#action {[ 8]harm} {#var harms 8} {5} {spellcount}
+#action {[ 9]harm} {#var harms 9} {5} {spellcount}
+#action {[ 1]heal} {#var heals 1} {5} {spellcount}
+#action {[ 2]heal} {#var heals 2} {5} {spellcount}
+#action {[ 3]heal} {#var heals 3} {5} {spellcount}
+#action {[ 4]heal} {#var heals 4} {5} {spellcount}
+#action {[ 5]heal} {#var heals 5} {5} {spellcount}
+#action {[ 6]heal} {#var heals 6} {5} {spellcount}
+#action {[ 7]heal} {#var heals 7} {5} {spellcount}
+#action {[ 8]heal} {#var heals 8} {5} {spellcount}
+#action {[ 9]heal} {#var heals 9} {5} {spellcount}
+#action {[ 1]soul leech} {#var sls 1} {5} {spellcount}
+#action {[ 2]soul leech} {#var sls 2} {5} {spellcount}
+#action {[ 3]soul leech} {#var sls 3} {5} {spellcount}
+#action {[ 4]soul leech} {#var sls 4} {5} {spellcount}
+#action {[ 5]soul leech} {#var sls 5} {5} {spellcount}
+#action {[ 6]soul leech} {#var sls 6} {5} {spellcount}
+#action {[ 7]soul leech} {#var sls 7} {5} {spellcount}
+#action {[ 8]soul leech} {#var sls 8} {5} {spellcount}
+#action {[ 9]soul leech} {#var sls 9} {5} {spellcount}
+#action {[10]soul leech} {#var sls 10} {5} {spellcount}
+#action {[ 1]magic missile} {#var mms 1} {5} {spellcount}
+#action {[ 2]magic missile} {#var mms 2} {5} {spellcount}
+#action {[ 3]magic missile} {#var mms 3} {5} {spellcount}
+#action {[ 4]magic missile} {#var mms 4} {5} {spellcount}
+#action {[ 5]magic missile} {#var mms 5} {5} {spellcount}
+#action {[ 6]magic missile} {#var mms 6} {5} {spellcount}
+#action {[ 7]magic missile} {#var mms 7} {5} {spellcount}
+#action {[ 8]magic missile} {#var mms 8} {5} {spellcount}
+#action {[ 9]magic missile} {#var mms 9} {5} {spellcount}
+#action {[10]magic missile} {#var mms 10} {5} {spellcount}
+#action {[ 1]invisibility} {#var invises 1} {5} {spellcount}
+#action {[ 2]invisibility} {#var invises 2} {5} {spellcount}
+#action {[ 3]invisibility} {#var invises 3} {5} {spellcount}
+#action {[ 4]invisibility} {#var invises 4} {5} {spellcount}
+#action {[ 5]invisibility} {#var invises 5} {5} {spellcount}
+#action {[ 1]fly} {#var flys 1} {5} {spellcount}
+#action {[ 2]fly} {#var flys 2} {5} {spellcount}
+#action {[ 3]fly} {#var flys 3} {5} {spellcount}
+#action {[ 4]fly} {#var flys 4} {5} {spellcount}
+#action {[ 5]fly} {#var flys 5} {5} {spellcount}
+#action {[ 1]lightning bolt} {#var lbs 1} {5} {spellcount}
+#action {[ 2]lightning bolt} {#var lbs 2} {5} {spellcount}
+#action {[ 3]lightning bolt} {#var lbs 3} {5} {spellcount}
+#action {[ 4]lightning bolt} {#var lbs 4} {5} {spellcount}
+#action {[ 5]lightning bolt} {#var lbs 5} {5} {spellcount}
+#action {[ 6]lightning bolt} {#var lbs 6} {5} {spellcount}
+#action {[ 7]lightning bolt} {#var lbs 7} {5} {spellcount}
+#action {[ 8]lightning bolt} {#var lbs 8} {5} {spellcount}
+#action {[ 9]lightning bolt} {#var lbs 9} {5} {spellcount}
+#action {[10]lightning bolt} {#var lbs 10} {5} {spellcount}
+#action {[ 1]teleport} {#var tels 1} {5} {spellcount}
+#action {[ 2]teleport} {#var tels 2} {5} {spellcount}
+#action {[ 3]teleport} {#var tels 3} {5} {spellcount}
+#action {[ 4]teleport} {#var tels 4} {5} {spellcount}
+#action {[ 1]dimension door} {#var dds 1} {5} {spellcount}
+#action {[ 2]dimension door} {#var dds 2} {5} {spellcount}
+#action {[ 3]dimension door} {#var dds 3} {5} {spellcount}
+#action {[ 4]dimension door} {#var dds 4} {5} {spellcount}
+#action {[ 1]force bolt} {#var fbs 1} {5} {spellcount}
+#action {[ 2]force bolt} {#var fbs 2} {5} {spellcount}
+#action {[ 3]force bolt} {#var fbs 3} {5} {spellcount}
+#action {[ 4]force bolt} {#var fbs 4} {5} {spellcount}
+#action {[ 5]force bolt} {#var fbs 5} {5} {spellcount}
+#action {[ 6]force bolt} {#var fbs 6} {5} {spellcount}
+#action {[ 7]force bolt} {#var fbs 7} {5} {spellcount}
+#action {[ 8]force bolt} {#var fbs 8} {5} {spellcount}
+#action {[ 9]force bolt} {#var fbs 9} {5} {spellcount}
+#action {[10]force bolt} {#var fbs 10} {5} {spellcount}
+#action {[ 1]feeblemind} {#var feebs 1} {5} {spellcount}
+#action {[ 2]feeblemind} {#var feebs 2} {5} {spellcount}
+#action {[ 3]feeblemind} {#var feebs 3} {5} {spellcount}
+#action {[ 4]feeblemind} {#var feebs 4} {5} {spellcount}
+#action {[ 5]feeblemind} {#var feebs 5} {5} {spellcount}
+#action {[ 6]feeblemind} {#var feebs 6} {5} {spellcount}
+#action {[ 7]feeblemind} {#var feebs 7} {5} {spellcount}
+#action {[ 8]feeblemind} {#var feebs 8} {5} {spellcount}
+#action {[ 9]feeblemind} {#var feebs 9} {5} {spellcount}
+#action {[10]feeblemind} {#var feebs 10} {5} {spellcount}
+#action {You are %1 %2 %3, a level %4 %5.} {#var logname {%1,%5(%4).log}} {5} {default}
+#action {%0$target1%0 arrives from the} {dokill $target1} {5} {pkill}
+#action {%0$target2%0 arrives from the} {dokill $target2} {5} {pkill}
+#action {%0$target3%0 arrives from the} {dokill $target3} {5} {pkill}
+#action {%0$target4%0 arrives from the} {dokill $target4} {5} {pkill}
+#action {%0$target5%0 arrives from the} {dokill $target5} {5} {pkill}
+#action {%0$target1%0 flies in from the} {dokill $target1} {5} {pkill}
+#action {%0$target2%0 flies in from the} {dokill $target2} {5} {pkill}
+#action {%0$target3%0 flies in from the} {dokill $target3} {5} {pkill}
+#action {%0$target4%0 flies in from the} {dokill $target4} {5} {pkill}
+#action {%0$target5%0 flies in from the} {dokill $target5} {5} {pkill}
+#action {%0$target1%0 is resting here} {dokill $target1} {5} {pkill}
+#action {%0$target2%0 is resting here} {dokill $target2} {5} {pkill}
+#action {%0$target3%0 is resting here} {dokill $target3} {5} {pkill}
+#action {%0$target4%0 is resting here} {dokill $target4} {5} {pkill}
+#action {%0$target5%0 is resting here} {dokill $target5} {5} {pkill}
+#action {%0$target1%0 is standing here} {dokill $target1} {5} {pkill}
+#action {%0$target2%0 is standing here} {dokill $target2} {5} {pkill}
+#action {%0$target3%0 is standing here} {dokill $target3} {5} {pkill}
+#action {%0$target4%0 is standing here} {dokill $target4} {5} {pkill}
+#action {%0$target5%0 is standing here} {dokill $target5} {5} {pkill}
+#action {%0$target1%0 is sitting here} {dokill $target1} {5} {pkill}
+#action {%0$target2%0 is sitting here} {dokill $target2} {5} {pkill}
+#action {%0$target3%0 is sitting here} {dokill $target3} {5} {pkill}
+#action {%0$target4%0 is sitting here} {dokill $target4} {5} {pkill}
+#action {%0$target5%0 is sitting here} {dokill $target5} {5} {pkill}
+#action {%0$target1%0 is sleeping here} {dokill $target1} {5} {pkill}
+#action {%0$target2%0 is sleeping here} {dokill $target2} {5} {pkill}
+#action {%0$target3%0 is sleeping here} {dokill $target3} {5} {pkill}
+#action {%0$target4%0 is sleeping here} {dokill $target4} {5} {pkill}
+#action {%0$target5%0 is sleeping here} {dokill $target5} {5} {pkill}
+#action {Reconnecting} {sco;eq;look} {5} {default}
+#action {Welcome to the land of Krynn.} {sco;eq;look} {5} {default}
+#action {^You receive %1 experience} {#var mobdied 1;get pile corpse} {5} {default}
+#action {^There were %1 coins} {#if $mobdied {#if $cashsplit {split %1};#var mobdied 0}} {5} {default}
+#action {^%1 is dead! R.I.P.} {exa corpse;#if $lootmob {get all corpse;#var lootmob 0}} {5} {default}
+#action {^The corpse doesn't seem to have} {#var mobdied 0} {5} {default}
+#action {%1 shouts %2} {#output {cyan} {[%1] SHOUTS: %2}} {5} {default}
+#action {%1 says %2} {#output {gray} {[%1] SAYS: %2}} {5} {default}
+#action {%1 yells '%2'} {#output {brown} {[%1] YELLS: %2}} {5} {default}
+#action {%1 tells you '%2'} {#output {brown} {[%1] TELLS: %2}} {5} {default}
+#action {%1 tells your group %2} {#output {light cyan} {[%1] TO GROUP: %2}} {5} {default}
+#action {You are thirsty} {#if !$fighting ddri;#if $fighting #status {1} {thirsty} {b red}} {5} {default}
+#action {You are hungry} {#if !$fighting eeat;#if $fighting #status {1} {hungry} {b red}} {5} {default}
+#action {You do not feel thirsty} {#status 1 {}} {5} {default}
+#action {You are full} {#status 2 {}} {5} {default}
+#action {%1H %2V %3X %4C [%5] [%6] Exits%7>} {#var fighting 1} {5} {default}
+#action {%1H %2V %3X %4C [%5] [%6] Mem:%7 Exits%8>} {#var fighting 1} {5} {default}
+#action {%1H %2V %3X %4C Exits%7>} {#var fighting 0} {5} {default}
+#action {%1H %2V %3X %4C Mem:%6 Exits%7>} {#var fighting 0} {5} {default}
+#action {PANIC! You couldn't escape!} {inc flatt;#if {$flatt<$flattmax} {doflee};#if {$flatt>=$flattmax} {#var flatt 0}} {5} {default}
+#action {You are not a member of a group.} {#var grouped 0} {5} {default}
+#action {%1 is now a member of your group.} {#var grouped 1} {5} {default}
+#action {You are now the new leader of %1 group.} {#var grouped 1} {5} {default}
+#action {^You are now a member of %1 group} {#var grouped 1} {5} {default}
+#action {Your group of %1 members} {#if %1>1 #var grouped 1;#if %1=1 #var grouped 0} {5} {default}
+#action {^You stop following %1} {gro} {5} {default}
+#action {^%1 stops following you} {gro} {5} {default}
+#action {%0 freezes in place} {#output {light blue} {>        ... [%0] Held ...}} {5} {default}
+#action {%0 seems to be blinded!} {#output {light blue} {>        ... [%0] Blinded ...}} {5} {default}
+#action {%0 suddenly becomes very quiet.} {#output {light blue} {>        ... [%0] Silenced ...}} {5} {default}
+#action {%0 focuses harshly on %1 and utters} {#var aggrocaster %0} {5} {default}
+#action {You freeze in place, unable to move.} {#status {1} {HELD} {light red};#output {b red} {>        ... Held by: %0 ...}} {5} {default}
+#action {You have been blinded!} {#output {b red} {>        ... Blinded by: %0 ...};#bell} {5} {default}
+#action {You are sent sprawling as a %0 crashes into you.} {#output {b red} {>        ... Bashed by: %0 ...};#status {1} {BASHED} {light red};#bell;#var bashed 1;#var aggrotank %0} {5} {default}
+#action {You step aside as %0 tries to bash you} {#output {light green} {>        ... Bash try on you by: %0 ...};#var aggrotank %0} {5} {default}
+#action {You stand up} {#if {$bashed}{cls1};#var bashed 0;#var rested 0;#var sitting 0} {5} {default}
+#action {%1 tugs at your sleeve to get your attention.} {#var tugger %1} {5} {default}
+#action {Spells currently memorized:} {#group enable spellcount;#var heals 0} {5} {default}
+#action {Spells being memorized:} {#group disable spellcount} {5} {default}
+#action {Spells left (level-number):} {#group disable spellcount;#math {totheals} {$heals+$harms}} {5} {default}
+#action {Your studies complete, you close your prayerbook with a smile.} {mem} {5} {default}
+#action {You utter the words, 'blindness'} {dec blinds} {5} {default}
+#action {You utter the words, 'silence'} {dec sils} {5} {default}
+#action {You utter the words, 'case serious'} {dec cases} {5} {default}
+#action {You utter the words, 'cure serious'} {dec cuses} {5} {default}
+#action {You utter the words, 'gust of wind'} {dec gows} {5} {default}
+#action {You utter the words, 'dispel magic'} {dec dims} {5} {default}
+#action {You utter the words, 'hold person'} {dec holds} {5} {default}
+#action {You utter the words, 'dispel good'} {dec digs} {5} {default}
+#action {You utter the words, 'cure critical'} {dec cucs} {5} {default}
+#action {You utter the words, 'cause critical'} {dec cacs} {5} {default}
+#action {You utter the words, 'harm'} {dec harms;dec totheals} {5} {default}
+#action {You utter the words, 'heal'} {dec heals;#math totheals {$heals+$harms}} {5} {default}
+#action {You utter the words, 'soul leech'} {dec sls} {5} {default}
+#action {^Imso tells your group:'%0'} {%0} {5} {default}
+#action {^Imso tells your group '%0'} {%0} {5} {default}
+#action {Looking down:} {#var scanning 0} {5} {default}
+#action {Imso:Awful} {c 'hea' imso} {5} {default}
+#variable {aggrocaster} {Kam}
+#variable {aggrotank} {Someone}
+#variable {aogd} {Aog}
+#variable {bashed} {0}
+#variable {blessd} {Bls}
+#variable {blinds} {5}
+#variable {blurd} {Blr}
+#variable {cacs} {1}
+#variable {cashsplit} {1}
+#variable {charcfg} {1}
+#variable {clearcfg} {1}
+#variable {container} {chest}
+#variable {digs} {2}
+#variable {dims} {1}
+#variable {eat} {bread}
+#variable {fighting} {1}
+#variable {flatt} {0}
+#variable {flattmax} {6}
+#variable {gows} {3}
+#variable {grouped} {1}
+#variable {harmd} {Har}
+#variable {harms} {6}
+#variable {heals} {-7}
+#variable {heroed} {Her}
+#variable {holds} {3}
+#variable {hungry} {0}
+#variable {logname} {%1,%5(%4).log}
+#variable {lootmob} {0}
+#variable {mobdied} {0}
+#variable {pfed} {Pfe}
+#variable {pfgd} {Pfg}
+#variable {pkaction} {kill}
+#variable {pkmode} {DISABLED}
+#variable {rested} {0}
+#variable {sanctd} {San}
+#variable {scanning} {0}
+#variable {sils} {3}
+#variable {sitting} {0}
+#variable {strengd} {Str}
+#variable {tank} {imso}
+#variable {thirsty} {0}
+#variable {tickmsg} {Tick coming}
+#variable {tickmsg1} {10 seconds to TICK}
+#variable {tickmsg2} {[>>> TICK in 10 <<<]}
+#variable {tickmsg3} {.... Tick in 10 seconds ....}
+#variable {tickmsg4} {Tick coming}
+#variable {totheals} {-1}
+#variable {tugger} {noone}
+#highlight {white} {+[} {default}
+#highlight {light red} {<<<<<} {default}
+#highlight {light green} {<<<]} {default}
+#highlight {white} {>        ... [%0] is decayed! ...} {default}
+#highlight {b red} {> No weapon, moron!} {default}
+#highlight {light red} {>>>>>} {default}
+#highlight {light red} {Aelorin} {default}
+#highlight {light red} {Akofi} {default}
+#highlight {light red} {Allanon } {default}
+#highlight {light red} {Allanon [RGB][Mage]} {default}
+#highlight {light red} {Almanza} {default}
+#highlight {light green} {Althalus [BSP][Thief][Pablo]} {default}
+#highlight {light red} {Ana} {default}
+#highlight {light red} {Artie} {default}
+#highlight {light red} {Ashka } {default}
+#highlight {light red} {Ashka [RGB][Unknown]} {default}
+#highlight {light red} {Atiojrik} {default}
+#highlight {light red} {Aune } {default}
+#highlight {light red} {Aune [RGB][Unknown]} {default}
+#highlight {light red} {Avox } {default}
+#highlight {light red} {Ayumi} {default}
+#highlight {light red} {Azazur} {default}
+#highlight {light red} {Azazur [RGB][Warrior]} {default}
+#highlight {white} {BASH ATTEMPT BY:} {default}
+#highlight {light blue} {BASHED} {default}
+#highlight {b red, white} {BASHED BY:} {default}
+#highlight {light blue} {BLESS GONE} {default}
+#highlight {light blue} {BLINDED} {default}
+#highlight {b red,white} {BLINDED BY:} {default}
+#highlight {light blue} {BLUR GONE} {default}
+#highlight {light red} {Baelor} {default}
+#highlight {light red} {Bain} {default}
+#highlight {light red} {Banrock} {default}
+#highlight {light green} {Bek [BSP][Mage][Mavlad]} {default}
+#highlight {light red} {Belgarath} {default}
+#highlight {light red} {Benedict} {default}
+#highlight {light red} {Benjamin} {default}
+#highlight {light red} {Beric} {default}
+#highlight {light red} {Bezinka} {default}
+#highlight {light red} {Bleinroth} {default}
+#highlight {light red} {Blip } {default}
+#highlight {light red} {Blip [RGB][Unknown]} {default}
+#highlight {light red} {Blix} {default}
+#highlight {light red} {Bratello } {default}
+#highlight {light red} {Bratello [RGB][Unknown]} {default}
+#highlight {light red} {Brukal} {default}
+#highlight {light red} {Buck } {default}
+#highlight {light red} {Buck [RGB][Unknown]} {default}
+#highlight {light red} {Bulgi} {default}
+#highlight {light red} {Bums} {default}
+#highlight {light red} {Burziv} {default}
+#highlight {b red, white} {CAST ATTACKED BY:} {default}
+#highlight {light red} {Cant wimp!} {default}
+#highlight {light green} {Cappy [BSP][Mage]} {default}
+#highlight {light red} {Carr} {default}
+#highlight {light red} {Cattani} {default}
+#highlight {light red} {Chappa} {default}
+#highlight {light red} {Charl} {default}
+#highlight {light red} {Chitzkoi} {default}
+#highlight {light red} {Cila} {default}
+#highlight {light red} {Clamp} {default}
+#highlight {light red} {Constantine } {default}
+#highlight {light red} {Constantine [RGB][Unknown]} {default}
+#highlight {light red} {Crice } {default}
+#highlight {light red} {Crice [RGB][Unknown]} {default}
+#highlight {light red} {Cripple} {default}
+#highlight {light red} {Cromat } {default}
+#highlight {light red} {Cromat [RGB][Unknown]} {default}
+#highlight {light red} {DISARMED} {default}
+#highlight {light red} {Danko} {default}
+#highlight {light red} {Dari } {default}
+#highlight {light red} {Darius } {default}
+#highlight {light red} {Darla} {default}
+#highlight {light red} {Defrasne } {default}
+#highlight {light red} {Defrasne [RGB][Unknown]} {default}
+#highlight {light red} {Disbind} {default}
+#highlight {light red} {Donnie} {default}
+#highlight {light red} {Dorisis} {default}
+#highlight {light red} {Draegnius } {default}
+#highlight {light red} {Draegnius [RGB][Unknown]} {default}
+#highlight {light red} {Droganis } {default}
+#highlight {light red} {Droganis [RGB][Unknown]} {default}
+#highlight {light red} {Dromar } {#nop}
+#highlight {light red} {Drona } {default}
+#highlight {light red} {Dusket} {default}
+#highlight {light red} {Dzaixs} {default}
+#highlight {light blue} {ENLIGHT} {default}
+#highlight {light red} {Eliza} {default}
+#highlight {light red} {Fekila} {default}
+#highlight {light red} {Flan} {default}
+#highlight {light red} {Foll} {default}
+#highlight {light red} {Forkan} {default}
+#highlight {light red} {Fu } {default}
+#highlight {light red} {Fu [RGB][Barbarian]} {default}
+#highlight {light red} {Fubab} {default}
+#highlight {b red, white} {GAS ATTACK!} {default}
+#highlight {light red} {Gadoh} {default}
+#highlight {light red} {Genja} {default}
+#highlight {light red} {Geno} {default}
+#highlight {light red} {Gigantor} {default}
+#highlight {light red} {Gorion} {default}
+#highlight {light red} {Gort} {default}
+#highlight {light red} {Gourgie} {default}
+#highlight {light red} {Goya} {default}
+#highlight {light red} {Grauth} {default}
+#highlight {light red} {Grishnakh} {default}
+#highlight {light red} {Grond} {default}
+#highlight {light red} {Gvozdedriell [RGB][Cleric]} {default}
+#highlight {light blue} {HELD} {default}
+#highlight {b red,white} {HELD BY:} {default}
+#highlight {light red} {Habib} {default}
+#highlight {light red} {Hakiim} {default}
+#highlight {light red} {Hakimm} {default}
+#highlight {light red} {Hara } {default}
+#highlight {light red} {Hara [RGB][Unknown]} {default}
+#highlight {light red} {Harb} {default}
+#highlight {light red} {Helena} {default}
+#highlight {light red} {Herb} {default}
+#highlight {light red} {Hidalgo} {default}
+#highlight {light red} {Hocus} {default}
+#highlight {light red} {Hocus } {default}
+#highlight {light red} {Hocus [RGB][Unknown]} {default}
+#highlight {light red} {Hoob} {default}
+#highlight {light red} {Humax} {default}
+#highlight {light red} {Iago } {default}
+#highlight {white} {Iago [Randomers][Unknown]} {default}
+#highlight {light red} {Icki} {default}
+#highlight {light red} {Idzys} {default}
+#highlight {light red} {Ike} {default}
+#highlight {light red} {Ildritch} {default}
+#highlight {light red} {Ishmael} {default}
+#highlight {light red} {Isildur} {default}
+#highlight {light red} {Isis} {default}
+#highlight {light red} {Itomu} {default}
+#highlight {light red} {Jaciyecqi} {default}
+#highlight {light red} {Janus} {default}
+#highlight {light red} {Jarmo} {default}
+#highlight {light red} {Jaxis} {default}
+#highlight {light red} {Jeffrey } {default}
+#highlight {light red} {Jeffrey [RGB][Unknown]} {default}
+#highlight {light red} {Jerom} {default}
+#highlight {light red} {Jhor} {default}
+#highlight {light red} {Joharran} {default}
+#highlight {light red} {Jonah} {default}
+#highlight {light red} {Junc} {default}
+#highlight {light red} {Jyrk} {default}
+#highlight {light red} {Kaev} {default}
+#highlight {light red} {Kaf} {default}
+#highlight {light red} {Kamisama} {default}
+#highlight {light red} {Kaotisk} {default}
+#highlight {light red} {Karat } {default}
+#highlight {white} {Karat [Randomers][Unknown]} {default}
+#highlight {light red} {Karias} {default}
+#highlight {light red} {Karina} {default}
+#highlight {light red} {Kart} {default}
+#highlight {light red} {Katastrofi} {default}
+#highlight {light red} {Katerin } {default}
+#highlight {light red} {Katerin [RGB][Unknown]} {default}
+#highlight {light red} {Khazgul} {default}
+#highlight {light red} {Kholod} {default}
+#highlight {light red} {Kiara} {default}
+#highlight {light red} {Kilanu} {default}
+#highlight {light red} {Kirag} {default}
+#highlight {light red} {Kiya } {default}
+#highlight {light red} {Kiya [RGB][Unknown]} {default}
+#highlight {light red} {Ko } {default}
+#highlight {light red} {Koharo} {default}
+#highlight {light red} {Kold} {default}
+#highlight {light red} {Konstri} {default}
+#highlight {light red} {Kopernikus} {default}
+#highlight {light red} {Kostolom} {default}
+#highlight {light red} {Krasha} {default}
+#highlight {light red} {Kto} {default}
+#highlight {light red} {Lanttu} {default}
+#highlight {light red} {Latifa} {default}
+#highlight {light red} {Laureen} {default}
+#highlight {light red} {Lemmy} {default}
+#highlight {light red} {Lendle} {default}
+#highlight {light red} {Leonard} {default}
+#highlight {light red} {Lizev} {default}
+#highlight {light red} {Logh} {default}
+#highlight {light red} {Lono} {default}
+#highlight {light red} {Loran } {default}
+#highlight {light red} {Loran [RGB][Unknown]} {default}
+#highlight {light red} {Luedam } {default}
+#highlight {light red} {Luedam [RGB][Unknown]} {default}
+#highlight {light red} {Lunknutz} {default}
+#highlight {light red} {Luoja} {default}
+#highlight {gray} {MISSED BASH ON:} {default}
+#highlight {light red} {Malcolm} {default}
+#highlight {light red} {Malcolm [RGB][Cleric]} {default}
+#highlight {light red} {Mannanan } {default}
+#highlight {light red} {Mannanan [RGB][Unknown]} {default}
+#highlight {light red} {Marran} {default}
+#highlight {light red} {Maxmillian} {default}
+#highlight {light red} {Meekus} {default}
+#highlight {light red} {Melinda} {default}
+#highlight {light red} {Mezzanine} {default}
+#highlight {light red} {Micca } {default}
+#highlight {light red} {Micca [RGB][Unknown]} {default}
+#highlight {light red} {Minerva} {default}
+#highlight {light red} {Mishi} {default}
+#highlight {light red} {Mlia } {default}
+#highlight {light red} {Mlia [RGB][Mage][Loretta]} {default}
+#highlight {light red} {Mnesia} {default}
+#highlight {light red} {Mogol } {default}
+#highlight {light red} {Mogol [RGB][Unknown]} {default}
+#highlight {light red} {Mono} {default}
+#highlight {light red} {Mustafa} {default}
+#highlight {light red} {Nashid} {default}
+#highlight {light red} {Nathaniel} {default}
+#highlight {light red} {Nemezida} {default}
+#highlight {light red} {Nemezidia} {default}
+#highlight {light red} {Nenne} {default}
+#highlight {light red} {Nilak } {default}
+#highlight {light red} {Nilak [RGB][Unknown]} {default}
+#highlight {light red} {Ninjinnokutsu} {default}
+#highlight {light red} {Nistur} {default}
+#highlight {light red} {Nook} {default}
+#highlight {light red} {Nosille} {default}
+#highlight {light red} {Ogin} {default}
+#highlight {light red} {Omi} {default}
+#highlight {light blue} {PARALYZED} {default}
+#highlight {light red} {Paks} {default}
+#highlight {light red} {Perdun} {default}
+#highlight {light red} {Peridont } {default}
+#highlight {light red} {Peridont [RGB][Unknown]} {default}
+#highlight {light red} {Pilness} {default}
+#highlight {light red} {Pizdec} {default}
+#highlight {light red} {Ploh} {default}
+#highlight {light red} {Pol} {default}
+#highlight {light red} {Pondi} {default}
+#highlight {light red} {Popo} {default}
+#highlight {light red} {Prik } {default}
+#highlight {light red} {Prik [RGB][Unknown]} {default}
+#highlight {light red} {Prtha} {default}
+#highlight {light red} {Pryer} {default}
+#highlight {light red} {Pterkf} {default}
+#highlight {light red} {Quaew} {default}
+#highlight {light red} {Radec} {default}
+#highlight {light red} {Radu} {default}
+#highlight {light red} {Ramsay} {default}
+#highlight {light red} {Rang} {default}
+#highlight {light red} {Ranisha} {default}
+#highlight {light red} {Rascal} {default}
+#highlight {light red} {Redar} {default}
+#highlight {light red} {Rencer} {default}
+#highlight {light red} {Rezo} {default}
+#highlight {light red} {Rhaegar} {default}
+#highlight {light red} {Robur} {default}
+#highlight {light red} {Rold} {default}
+#highlight {light red} {Ruhinris} {default}
+#highlight {light red} {Rumata} {default}
+#highlight {light red} {Runne} {default}
+#highlight {light blue} {SILENCED} {default}
+#highlight {light blue} {SKILLFULL} {default}
+#highlight {light blue} {STR GONE (YOU HAS WEAKENED)} {default}
+#highlight {light red} {Saladin} {default}
+#highlight {light red} {Sanya} {default}
+#highlight {light red} {Scarp} {default}
+#highlight {light red} {Scelesta} {default}
+#highlight {light red} {Semper} {default}
+#highlight {light red} {Sempre} {default}
+#highlight {light red} {Shaku } {default}
+#highlight {light red} {Shargish} {default}
+#highlight {light red} {Shargish [RGB][Warrior][Yanny]} {default}
+#highlight {light red} {Shazam} {default}
+#highlight {light red} {Sheerin} {default}
+#highlight {light red} {Shudd } {default}
+#highlight {white} {Shudd [Randomers][Unknown]} {default}
+#highlight {light red} {Silvia} {default}
+#highlight {light red} {Slik} {default}
+#highlight {light red} {Solenza} {default}
+#highlight {light red} {Sonni} {default}
+#highlight {light red} {Stebb } {default}
+#highlight {light red} {Stebb [RGB][Unknown]} {default}
+#highlight {light red} {Steponas} {default}
+#highlight {light red} {Strana} {default}
+#highlight {light red} {Strelka} {default}
+#highlight {light red} {Sxaz} {default}
+#highlight {light red} {Tain } {default}
+#highlight {light red} {Tain [RGB][Unknown]} {default}
+#highlight {light red} {Tarum} {default}
+#highlight {light green} {Temujin [BSP][Scout][Pablo]} {default}
+#highlight {light red} {Thina} {default}
+#highlight {light red} {Tifosi} {default}
+#highlight {light red} {Tilly} {default}
+#highlight {light red} {Toivo} {default}
+#highlight {light red} {Tracer} {default}
+#highlight {light red} {Tramm} {default}
+#highlight {light red} {Treifes} {default}
+#highlight {light red} {Tuco} {default}
+#highlight {light red} {Tuco [RGB][Druid][Shesh]} {default}
+#highlight {light red} {Upro} {default}
+#highlight {light red} {Usher} {default}
+#highlight {light red} {Venro} {default}
+#highlight {light red} {Verata} {default}
+#highlight {light red} {Vilar} {default}
+#highlight {light red} {Vivo} {default}
+#highlight {light red} {Voland} {default}
+#highlight {light red} {Vyriamkytiel} {default}
+#highlight {light red} {Wergir} {default}
+#highlight {light red} {Weslo} {default}
+#highlight {light red} {Westin} {default}
+#highlight {light red} {Wethabaulang} {default}
+#highlight {green} {Wimped out} {default}
+#highlight {light green} {Xanatos [BSP][Mage][Pablo]} {default}
+#highlight {light red} {Xewexa} {default}
+#highlight {light red} {Xopek } {default}
+#highlight {light red} {Xopek [RGB][Unknown]} {default}
+#highlight {light red} {Yair } {default}
+#highlight {light red} {Yair [RGB][Unknown]} {default}
+#highlight {light red} {Yamny} {default}
+#highlight {light red} {Yamoto} {default}
+#highlight {light red} {Yams } {default}
+#highlight {light red} {Yaz} {default}
+#highlight {b gray} {You stand up.} {default}
+#highlight {light red} {Yuka} {default}
+#highlight {light red} {Zaiyr } {default}
+#highlight {light red} {Zenn } {default}
+#highlight {light red} {Zenn [RGB][Unknown]} {default}
+#highlight {light red} {Zhigis} {default}
+#highlight {light red} {Zidane} {default}
+#highlight {light red} {Zol} {default}
+#highlight {light red} {Zyriakzabil} {default}
+#highlight {light red} {Zzeos} {default}
+#highlight {light green} {[>>>} {default}
+#highlight {light blue} {[Missed blow]} {default}
+#highlight {white} {]+} {default}
+#highlight {magenta} {annihilate} {default}
+#highlight {magenta} {annihilates} {default}
+#highlight {yellow} {extremely hard} {default}
+#highlight {magenta} {massacre} {default}
+#highlight {magenta} {massacres} {default}
+#highlight {b white} {obliterate} {default}
+#highlight {b white} {obliterates} {default}
+#highlight {white} {very hard} {default}
+#substitute {$tank} {->$tank}
+#substitute {%0 decays in your hands.} {>        ... [%0] is decayed! ...}
+#substitute {%0 disarms your weapon.} {[>>> DISARMED <<<]}
+#substitute {%0 flies %2.} {%0 flies--------- %2}
+#substitute {%0 focuses harshly on %1 and utters} {>>>>> %1 CAST ATTACKED BY: %0 <<<<<}
+#substitute {%0 freezes in place} {-------------[>>> %0 is HELD<<<]}
+#substitute {%0 is burned, as he swings at %1 %2 %3 %4} {.}
+#substitute {%0 is chilled, as he swings at %1 %2 %3} {.}
+#substitute {%0 is paralyzed!} {--------------[>>> %0 is PARALYZED <<<]}
+#substitute {%0 is stunned!} {%0 ------------->>> STUNNED!<<<}
+#substitute {%0 leaves %2.} {%0 moves--------- %2}
+#substitute {%0 seems to be blinded!} {----------------[>>> %0 is BLINDED <<<]}
+#substitute {%0 stands up} {------------------------->>> %0 STANDS UP <<<}
+#substitute {%0 suddenly becomes very quiet.} {----------------[>>> %0 is SILENCED <<<]}
+#substitute {%1 crash into %0 in a bone crunching bash, sending him sprawling to the ground.} {---------------[>>> %0 is BASHED by %1 <<<]}
+#substitute {%1 crashes into %0 in a thundering collision, knocking him to the ground!} {---------------->>> %0 is bashed by %1 <<<}
+#substitute {A yellowish-green cloud permeates the air.} {>>>>> GAS ATTACK! <<<<<}
+#substitute {Allanon } {Allanon [RGB][Mage]}
+#substitute {Althalus } {Althalus [BSP][Thief][Pablo]}
+#substitute {Ashka } {Ashka [RGB][Unknown]}
+#substitute {Aune } {Aune [RGB][Unknown]}
+#substitute {Azazur } {Azazur [RGB][Warrior]}
+#substitute {Bek } {Bek [BSP][Mage][Mavlad]}
+#substitute {Blip } {Blip [RGB][Unknown]}
+#substitute {Bratello } {Bratello [RGB][Unknown]}
+#substitute {Buck } {Buck [RGB][Unknown]}
+#substitute {Cappy } {Cappy [BSP][Mage]}
+#substitute {Constantine } {Constantine [RGB][Unknown]}
+#substitute {Crice } {Crice [RGB][Unknown]}
+#substitute {Cromat } {Cromat [RGB][Unknown]}
+#substitute {Defrasne } {Defrasne [RGB][Unknown]}
+#substitute {Draegnius } {Draegnius [RGB][Unknown]}
+#substitute {Droganis } {Droganis [RGB][Unknown]}
+#substitute {Fu } {Fu [RGB][Barbarian]}
+#substitute {Gvozdedriell } {Gvozdedriell [RGB][Cleric]}
+#substitute {Hara } {Hara [RGB][Unknown]}
+#substitute {Heehee} {Heehee[D]}
+#substitute {Hocus } {Hocus [RGB][Unknown]}
+#substitute {Iago } {Iago [Randomers][Unknown]}
+#substitute {Jeffrey } {Jeffrey [RGB][Unknown]}
+#substitute {Karat } {Karat [Randomers][Unknown]}
+#substitute {Katerin } {Katerin [RGB][Unknown]}
+#substitute {Kiya } {Kiya [RGB][Unknown]}
+#substitute {Loran } {Loran [RGB][Unknown]}
+#substitute {Luedam } {Luedam [RGB][Unknown]}
+#substitute {Malcolm } {Malcolm [RGB][Cleric]}
+#substitute {Mannanan } {Mannanan [RGB][Unknown]}
+#substitute {Micca } {Micca [RGB][Unknown]}
+#substitute {Mlia } {Mlia [RGB][Mage][Loretta]}
+#substitute {Mogol } {Mogol [RGB][Unknown]}
+#substitute {Nilak } {Nilak [RGB][Unknown]}
+#substitute {PANIC! You couldn't escape!} {[>>> Cant wimp! <<<]}
+#substitute {Peridont } {Peridont [RGB][Unknown]}
+#substitute {Prik } {Prik [RGB][Unknown]}
+#substitute {Shargish } {Shargish [RGB][Warrior][Yanny]}
+#substitute {Shudd } {Shudd [Randomers][Unknown]}
+#substitute {Stebb } {Stebb [RGB][Unknown]}
+#substitute {Tain } {Tain [RGB][Unknown]}
+#substitute {Temujin } {Temujin [BSP][Scout][Pablo]}
+#substitute {The death cry of %0 echoes from somewhere nearby...} {.}
+#substitute {Tuco } {Tuco [RGB][Druid][Shesh]}
+#substitute {Xanatos } {Xanatos [BSP][Mage][Pablo]}
+#substitute {Xopek } {Xopek [RGB][Unknown]}
+#substitute {Yair } {Yair [RGB][Unknown]}
+#substitute {You are sent sprawling as a %0 crashes into you.} {-------->>>>> YOU BASHED BY: %0 <<<<<}
+#substitute {You feel enlightened} {+[ENLIGHT]+}
+#substitute {You feel especially skillful today.} {+[SKILLFULL]+}
+#substitute {You feel less righteous.} {+[BLESS GONE]+}
+#substitute {You feel weaker.} {+[STR GONE (YOU HAS WEAKENED)]+}
+#substitute {You flee head over heels.} {[>>> Wimped out <<<]}
+#substitute {You freeze in place, unable to move.} {--------->>>>> YOU HELD BY: $aggrocaster <<<<<}
+#substitute {You have been blinded!} {------------->>>>> YOU BLINDED BY: $aggrocaster <<<<<}
+#substitute {You miss %0 with you hit} {> No weapon, moron!}
+#substitute {You miss %1 with you %1} {[Missed blow] -> %1}
+#substitute {You raise level!} {>     You gain new level, motherfucker!}
+#substitute {You step aside as %0 tries to bash you} {--------------[>>> BASH ATTEMPT BY: %0<<<]}
+#substitute {You suddenly notice that your body is in focus once again.} {+[BLUR GONE]+}
+#substitute {You try to bash %0, but you miss and tumble forward onto your face.} {------------[>>> MISSED BASH ON: %0 <<<]}
+#substitute {You try to sweep %0 legs, but are unable to.} {Wow! Kicked yours ass!}
+#substitute {You utter the words, 'blindness'} {You cast 'blindness'. [$blinds LEFT]}
+#substitute {You utter the words, 'case serious'} {You cast 'cas'. [$cases LEFT]}
+#substitute {You utter the words, 'cause critical'} {You cast 'cause critical'. [$cacs LEFT]}
+#substitute {You utter the words, 'cure critical'} {You cast 'cure critical'. [$cucs LEFT]}
+#substitute {You utter the words, 'cure serious'} {You cast 'cure serious'. [$cuses LEFT]}
+#substitute {You utter the words, 'dispel good'} {You cast 'dispel good'. [$digs LEFT]}
+#substitute {You utter the words, 'dispel magic'} {You cast 'dispel magic'. [$dims LEFT]}
+#substitute {You utter the words, 'gust of wind'} {You cast 'gust of wind'. [$gows LEFT]}
+#substitute {You utter the words, 'harm'} {You cast 'harm'. [$harms LEFT]}
+#substitute {You utter the words, 'heal'} {You cast 'heal'. [$totheals LEFT]}
+#substitute {You utter the words, 'hold person'} {You cast 'hold person'. [$holds LEFT]}
+#substitute {You utter the words, 'silence'} {You cast 'silence'. [$sils LEFT]}
+#substitute {You utter the words, 'soul leech'} {You cast 'soul leech'. [$sls LEFT]}
+#substitute {Zenn } {Zenn [RGB][Unknown]}
+#substitute {^%0 is stunned momentarily, recovering quickly.} {.}
+#substitute {^%0 is stunned!} {-------------->>> %0 is STUNNED <<<}
+#substitute {^%0 withers as a ray of sunlight sent by %1 engulfs %2!} {.}
+#substitute {^Falling rocks crash around you as %0's earthquake causes a cave-in!} {------------->>> EARTHQUAKE by %0<<<}
+#substitute {^Pieces of falling rock pelt %0, bruising %1.} {.}
+#substitute {^Shards of rock slice into you as the earth moves and shatters beneath you.} {------------>>> EARTHQUAKE <<<}
+#substitute {^The earth begins to rumble and shake beneath you.} {----------->>> EARTHQUAKE!!! <<<}
+#substitute {^You are pelted by pieces of falling rocks.} {------------->> hit by EARTHQUAKE <<<<}
+#substitute {^You are stunned for a moment, but recover immediately.} {-------------->>>  SAVED -Vs- STUN <<<}
+#substitute {^You fall down, your ears ringing.} {--------------->>> YOU'RE STUNNED!!! <<<}
+#substitute {a banana} {Rem Curse (banana)}
+#substitute {a bunch of grapes} {Dispel Magic (grapes)}
+#substitute {a grapefruit} {SANCT (grapefruit)}
+#substitute {a strawberry} {X3 (strawberry)}
+#substitute {an apple} {Bless (apple)}
+#substitute {an orange} {STR (orange)}
+#substitute {down.} {DOWN}
+#substitute {east.} {EAST}
+#substitute {is shredded by shards of ice.} {.}
+#substitute {north.} {NORTH}
+#substitute {resting here} {---RESTING!}
+#substitute {screams as a swarm of insects engulfs him.} {.}
+#substitute {screams in pain as the lightning bolts summoned by} {.}
+#substitute {sitting} {---SITTING!}
+#substitute {south.} {SOUTH}
+#substitute {standing} {STANDING}
+#substitute {up.} {UP}
+#substitute {west.} {WEST}
+#group local #nop
+#group local default
+#group local pkill
+#group disable spellcount
+#group local spellcount
+#hot {F1} {heal $tank}
+#hot {F5} {heal $badgrp}
+#hot {F11} {#log;#log 1TEMP.LOG}
+#hot {F12} {#log;#log $logname}
+#ticksize 61

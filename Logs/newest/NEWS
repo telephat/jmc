@@ -1,0 +1,1211 @@
+Log: NEWS 
+Logging started: 07.12.2022 18:05\r 
+NEWS
+December 7 2022
+
+  We realize the new item colors are pretty, but this is not an excuse
+to hoard limited items on low level characters.
+
+       Storage characters are forbidden. Do not use them.
+
+  We have reclaimed gear from several of these and returned it to
+circulation for those who will use it on their primary characters.
+We will continue to zap rents as deemed necessary.
+
+- Arctic Staff
+
+December 4, 2022
+
+                    Welcome to the new wipe.
+
+    The game opening went as smoothly as can be possible. Nearly 250
+characters were concurrently online opening day, and after 42 hours of
+uptime, several characters have already reached level 30.
+
+The following bugs were fixed in the recent reboot:
+
+  - Breach no longer attempts to rescue the victim of the barbarian.
+  - Having 'opt ANSI_PLUS' enabled no longer breaks the 'group' display.
+  - Colorized 'glowing' items no longer display color in the room
+    description for invisible or hiding mobiles.
+  - Several other bugs related to 'creation' (zones.)
+
+We hope everyone is enjoying the wipe thus far!
+
+- Anista
+
+November 28, 2022
+
+                      You've all been deleted.
+
+    The new wipe will begin Friday December 2nd, 2022 at 11:00PM UTC.
+
+GENERAL
+-------
+* PROMPT WATCH, WATCH_OPP, COND, TIC_TIMER are now on by default.
+* OPT TARGET_WATCH_OPP is now on by default.
+* OPT IGNORE_MASS_TELEPORT is now disabled by default.
+* All characters will ignore domain checks by default. See: HELP OPTIONS
+    DOMAIN.
+* LFG tag will still work while grouped. See: HELP OPTIONS LFG.
+* Charisma can no longer go under 1. (bug fix) 
+* Being immune to an element no longer provides healing when struck by the
+    element.
+* New social: mooch 
+* The 'systat' command now shows the game PK damage percent value.
+* Player vs player damage is (still) set to 75%.
+* 'Browse' support added for vault. (See: HELP BROWSE)
+* 'Browse' support added for wear location. (browse head)
+* Browse (world merchant and vaults only) can filter IDENTIFIED items by
+    affects, flags, and anti-class flags.
+
+    Examples:
+       'browse damroll' : Display items with DAMROLL.
+       'browse sense_life' : Display items with SENSE_LIFE.
+       'browse !nowarrior' : Display items usable by WARRIOR.
+       'browse infravision !nothief' : Browse INFRAVISION, for THIEF usable.
+
+* The 'fight' code was heavily refactored to be safer and cleaner. We
+tested extensively, but please let the staff know immediately if skills or
+anything in normal combat behaves strangely.
+
+
+NEW SYSTEMS
+------------
+ANSI colorized items:
+
+    !!! Please make your character creation selections carefully. !!!
+    !!! New menu options are present during character creation. !!!
+
+    Colorization of equipment has been added to the game. Equipped, carried
+    objects, and objects otherwise seen in corpses and containers, will
+    display in color if they are notable by type or rarity.
+
+    The immortal staff have attempted to pick the best options for newer
+    and older clients. Colors may be adjusted later based on player
+    feedback, but we hope our initial preset provides a bit of fun,
+    surprise, and most importantly, a quality of life element to the game.
+
+    New options have been added to accompany these changes:
+        - OPTIONS NO_ITEM_COLORS
+            -- Disable the display of all item colorizing
+        - OPTIONS ANSI_PLUS
+            -- Toggled ON, displays full 256-bit extended ANSI color
+            -- Toggled OFF, supports safe 8-bit ANSI color scale
+
+    * Note: Older MUD clients may not support extended ANSI and will not
+    experience the system as intended. The notable ones which do not
+    support extended ANSI are WinTin95, zMUD, and JMC (main development
+    branch.) If items are 'blinking,' 'not displayed,' or otherwise do not
+    appear to be viewed correctly, we recommend toggling 'opt ANSI_PLUS'
+    off or upgrading to a newer client.
+
+    The immortal staff provides some safe client configurations for clients
+    which support extended ANSI: http://arcticmud.org/pages/clients.html
+
+Achievements:
+
+    Completing certain tasks around the game may award achievements.
+
+    Currently these are 'player only' and have no tie-ins to clans. We've
+    added some fun surprises, but we didn't have the time to add nearly as
+    many as we hoped. This is a developmental system which we plan to
+    expand upon in the future. There is a lot of room for improvement with
+    this system, so please use the 'idea' command to submit suggestions.
+
+    New command: achievements
+        -- List completed achievements.
+    New option: OPTIONS NO_ACHIEVEMENT
+        -- Toggle on/off the text presented to the character when
+            achievements are obtained.
+
+
+CLANS STRONGHOLDS
+-----------------
+* Clan strongholds will have a door at their entrance, created by default.
+* A new room is available for purchase: Training Grounds. (See: HELP
+    STRONGHOLD ASSETS)
+* Arenas assets have increased in cost.
+* Players will no longer be able to teleport to strongholds of clans other
+    than their own.
+
+
+RANKS
+-----
+* Rank merchants have evaluated supply and demand trends and thus adjusted
+    prices for a small number of ranks. Most notably "Iron Man" and
+    "Braincage" are more expensive, while "Captain Planet" and
+    "Heartseeker" have been reduced in cost.
+
+
+RACES
+-----
+* Humans will receive a small bonus to all weapon and guild skills.
+* Humans will receive a small rent discount wherever they rent.
+* Daergar can be Dark Knights. 
+* Vry-Kith 'mantises' have evolved into the insect race.
+* Behirs can no longer be ridden as mounts.
+
+
+NEWBIE AREAS
+------------
+* Surges in the populations of minor critters have been reported in many of
+    the major cities of Krynn. The following areas are now infested with an
+    endless supply of insects, vermin, or other animals:
+
+    - Tarsis sewers
+    - Tarsis park
+    - Palanthas sewers
+    - Balifor garbage dump (upper)
+
+* The Kalaman park area has undergone renovations and is now the home of a
+    seemingly endless amount of small animals. The Druid's guild has moved
+    slightly, though is still within the immediate area.
+
+
+ZONE EXPANSIONS AND REVAMPS
+----------------------------
+* Blood Sea - The Blood Sea of Istar is a churning, salt-sprayed wasteland
+    gleaming with crimson waters. The sea allows access to many of Krynn's
+    secrets, stretching from Flotsam to Dragon's Point, and from the
+    Mistlestraits to Mithas. While the outer edges of the seas are safe for
+    mid level adventurers (15+), only brave or foolhardy adventurers (25+)
+    should dare the eastern edges of the sea or the terrible Maelstrom at
+    its center.
+
+* Dragon's Point - Dragon's Point has been rebuilt by the denizens of the
+    village. The more steadfast village is best to be explored by higher
+    neutral-aligned mid-high (18-22) level adventurers seeking new
+    experiences.
+
+* Icefolk Village - Aspiring adventurers (12-17) should be able to invade
+    the neutral-aligned village of Icefolk and hunt the common creatures in
+    the surrounding forests. Challenging the village's elders or the apex
+    predators in the area, however, is best suited to more seasoned
+    adventurers (18-22).
+
+* Illyoc Swamp - Eager adventurers with moderate experience (12-18) should
+    be able to investigate the swamplands and hunt its various neutral
+    inhabitants. However, some of the more powerful denizens might be more
+    suited to hardened veterans (18-22).
+
+* Pigmy Forest - Budding adventurers with limited expertise (12-18) should
+    be able to investigate the Pigmy Forests in their totality and
+    challenge the evil tribe.
+
+* Rockhorde Peninsula - Rumors of undead pirates haunting the caverns of
+    the Rockhorde Peninsula have spread through the region. Adventurers of
+    moderate strength (16-22) should be able to investigate. The pirates
+    have been reported as being malevolent, but neutral in alignment.
+
+* Xak Tsaroth, renamed "The Cursed Lands" - Once a vibrant forest, these
+    lands became forsaken after the Cataclysm struck and all that remains
+    is a dismal swamp. Rumors spread speaking of a Red Dragonarmy invasion
+    of the lands that buffed the space between Solace and the swamp. Only
+    those that have acquired powerful abilities (20-24) should attempt to
+    delve deeper into the cursed lands.
+        -- The "heal quest" entrance location has changed, but the rest of
+            the quest remains the same.
+
+    See:
+        HELP AREA BLOOD SEA
+        HELP AREA CURSED LANDS
+        HELP AREA DRAGON'S POINT
+        HELP AREA ICEFOLK VILLAGE
+        HELP AREA ILLYOC SWAMP
+        HELP AREA PIGMY FOREST
+        HELP AREA ROCKHORDE PENINSULA
+
+NEW ZONES
+----------
+* Dairly Plains - The Dairly Plains are vast fields of swaying grasses and
+    rolling savanna along the easternmost section of the continent of
+    Ansalon. Past the Laughing Lands and the Goblin Hills, these verdant
+    fields have been the homeland of the Dairly plainsmen since before the
+    Cataclysm. Both the Goblin Hills and the Dairly Plains are filled with
+    mysterious and ancient secrets, as well as powerful enemies, requiring
+    groups of high level adventurers to fully explore.
+
+* Library of Khrystan - Rumors have spread throughout the Plains of Dust of
+    a sealed library hidden beneath the city of Tarsis. The library's
+    ancient and abundant knowledge will be revealed to mid level explorers
+    who are able to find it.
+
+* Monastery of the White Orchid - The heavy snows have finally cleared the
+    summits of the Dirim Peaks, revealing a nearly-forgotten path up the
+    mountains. While the way is treacherous, neutral-aligned mid-level
+    explorers can brave the cold to the summits where an ancient ground of
+    monks, disconnected from civilization, now anticipates visits from
+    adventurers, friend or foe.
+
+* Palanthas Wastes - The area east of Palanthas has been expanded to
+    include the Palanthas Wastes. Two signal towers rise up to protect the
+    Bay of Branchala, while the villages of Ash and Scorpi have settled
+    amongst the wastes for mid level neutral-aligned adventurers to visit
+    and explore the surrounding areas.
+
+* Ruins of Xak Tsaroth - The Dragonarmies continue to expand, settling in
+    the ancient yet forgotten ruins of Xak Tsaroth east of Solace.
+    Adventurers have discovered an entrance to the ruins of Xak Tsaroth
+    through the swamps of the Cursed Lands. Exploring the new depths of the
+    lost city should only be attempted by very experienced adventurers
+    [28+].
+
+    See:
+        HELP AREA DAIRLY PLAINS
+        HELP AREA LIBRARY OF KHRYSTAN
+        HELP AREA MONASTERY OF THE WHITE ORCHID
+        HELP AREA PALANTHAS WASTES
+        HELP AREA RUINS OF XAK TSAROTH
+
+
+MISCELLANEOUS WORLD AND QUEST CHANGES
+-------------------------------------
+* The quests code received a major refactor. This required recreating all
+    quests in the game in a very short amount of time. (Thanks Rhak!) We
+    believe all quests are working, but please 'bug' report anything minor
+    that is not working, and shout for a 34+ immortal for major bugs or
+    stuck characters.
+* The infamous 'zombie ship' may be found patrolling new waters.
+* A particular black cat is now much more approachable by adventurers, but
+    has had her possession rebalanced accordingly.
+* The path to Crystal Quest has changed. Maps will need to be redrawn. 
+* The Sandy Cove 'Sand Castle' zone south of Balifor has vanished. Time
+    will tell as to whether it will be missed or not.
+* Cartographers and sign builders have been busy. It should be easier to
+    navigate major road and water systems across the game.
+* Amity has reclaimed ownership of her favorite shield. Do not expect her
+    to give it up without a change in tactics.
+* Rumors have been circulating of a plot to reanimate a powerful blue
+    dragon that died in combat many years ago. Whether there is any truth
+    to these stories is not clear, but the mightiest adventurers may wish
+    to investigate further to ensure the ongoing safety of Krynn.
+* The quest for a certain fungal weapon has had appropriate hints added and
+    can now be solved through legitimate means.
+* An issue which prevented some of Boras Trueforge's items being crafted
+    was fixed, however all of his creations have been rebalanced.
+* Several zones with an excessive amount of rank mobs, predominantly lower
+    level zones, have been changed to be more in line with other areas.
+
+
+ITEM CHANGES
+------------
+* 'Dynamic item' loads have been adjusted across the game and added to new
+    zones.
+* A significant portion of the items from Blood Shoal have changed
+    locations across Krynn. Some will have new names to reflect their new
+    home. Some will not.
+* Most items which provided damage reductions have been rebalanced,
+    generally resulting in these reductions being reduced or removed
+    entirely. This includes a couple set bonuses.
+* Several items with specials that reduced incoming damage were changed to
+    be more balanced.
+* Many items have been touched, especially regarding 'limits.' Most have
+    increased to varying degrees, while a small handful of powerful items
+    have been reduced.
+* Numerous 'low limit' items that never decayed in rent (or at all) now do.
+* Fine leather will have the same cast restrictions as rough leather.
+* For unknown reasons, the base weight of corpse objects has been five
+    times heavier than designed. This has been corrected. (bug fix)
+* Creamy potions of flight are now rentable.
+* New character training weapons can no longer be disarmed.
+* All major towns now sell scrolls of legend lore.
+* World merchants now buy bows.
+* Jenna sells affinity medals again. We're taking our best stab at fixing
+    the 'deadbeat' bug with medals, but the "no reimbursements" stance will
+    apply to restorations of medals lost in rent bankruptcy this wipe,
+    until we have more data.
+* Shopkeepers no longer destroy items by default when items are given to
+    them.
+* Shopkeepers no longer sell vellum scrolls. The associated piece of master
+    alchemy was removed.
+* Wooden chests are now available for purchase in most cities and towns. In
+    some others, existing containers had their size altered to match that
+    of a wooden chest.
+* Motes generated from draining 'casting level' gear are greatly reduced in
+    power. (bug fix)
+
+SPELLS/SKILLS (GENERAL)
+-----------------------
+* Players' memlist will ignore lost bonus spell slots at death.
+* Casters can now forget a specified number spells. (See HELP FORGET, HELP
+    MEM)  Example:  forget 3 'magic missile'
+
+Barbarians:
+----------
+* Barbarians have learned to use pole arms. 
+* Barbarians have learned to sharpen rapiers, pikes, and spears.
+* The misspelling of the "legendary lore" rank has been fixed. Its effects
+    and bonuses have been changed to suit the correct spelling of
+    "legendary gore."
+
+Clerics:
+----------
+* Bandage is now learned at level 4.
+* 'Healing mist' no longer provides more than one healing effect per combat
+    round, per caster. (Multiple casters can effectively cast together, but
+    only one healing mist will be effective per caster.)
+* 'Legendary Healing Mist' bonuses will only apply when the cleric is in
+    the room with the mist.
+* 'Healing mist' now benefits from the caster's healing bonus.
+* The heal over time effect applied by 'Legendary Heal' has been reduced.
+
+Druids:
+-------
+* 'Plant walk' will allow druids to safely pass through their own 'barrier'
+    spell.
+* Druids have received the 'web,' 'poison,' and 'whispering wind' spells,
+    which can be learned at the guild.
+* Druids can now recast their 'healing cloud' if they already have an
+    active cloud or have had it destroyed, however only one cloud will be
+    active per round.
+* 'Granite hand' has replaced 'stone skin' in the spell requirements for
+    Legendary Druid.
+
+Mages (Magic Users & Robes):
+----------------------------
+* The 'deep pockets' timer applied to items has more than doubled.
+* Damage bonuses for having casting level over 30 have been halved.
+* Due to a majority vote by players, 'locate object' has been removed from
+    spell books, objects, and scrolls. We're trying something new here with
+    the new creation content and reshuffling of gear. The spell may be
+    readded later, time will tell. A number of formerly 'locatable' spell
+    load %s have slightly increased due to this change, but not higher than
+    their 'death load' counterparts in any case.
+
+Black Robes:
+------------
+* While under the effects of 'mind inversion,' players will see a special
+    prompt.
+* 'Arcane tunnel' will no longer fail when cast on party members.
+* 'Soulkeep' is no longer siphonable.
+* 'Acid mist' can now trigger black robe secondary effects.
+
+Red Robes:
+----------
+* The paralysis chance from Legendary 'lightning orb' has been reduced.
+* When an eye summoned by the 'wizard eye' spell is slain, its master will
+    receive a message.
+* 'Read magic' will provide a learn bonus to the spell caster for studying
+    their own book they have successfully penetrated with magic.
+* 'Blastwave' has switched places in spell circle and load-tier with
+    'lightning orb.'
+
+White Robes:
+------------
+* White robe secondary effects no longer stack on targets. 
+* 'Delayed blast fireball' can trigger white robe secondary effects.
+
+Dark Knights:
+-------------
+* 'Blindness' has been moved to 2nd circle.
+* 'Free action' has been moved to 3rd circle.
+* 'Poison' has been added at 3rd circle.
+* Daergar can be Dark Knights. 
+
+Paladins:
+--------
+* 'Cure serious' has been moved to 3rd circle. 
+* 'Holy arms' can be recast while already affected by it.
+
+Scouts:
+------
+* Lag from using the 'instinct' command has been reduced. 
+* Scout instincts no longer appear in the instincts list if the scout has
+    not successfully learned them. (bug fix)
+* The Wolverine instinct has changed to be more beneficial in melee
+    fighting, rather than ranged attacks.
+* 'Evade' no longer works while sitting or mounted.
+
+Shamans:
+-------
+* 'Ethereal armor' can now be renewed by recasting and can be self dispelled.
+* 'Cure light' has been moved to 1st circle. 
+* 'Heal boost' is now and brewable.
+* 'Ritual voyage' now has a chance to fail on targets in combat. 
+* The healing by 'healing wave' has been increased by a respectable amount.
+* Healing from 'healing wave' can stack between casters.
+* Binding a 'ranger' spirit will grant the same effects as binding a
+    'scout' spirit.
+
+Thieves:
+------
+* The 'hide' skill will no longer be broken when using simple commands such
+    as 'skill' and 'eq'.
+* The cooldown of legendary 'coup' has been reduced and its damage has been
+    increased.
+* 'Evade' no longer works while sitting or mounted.
+
+Warriors:
+--------
+* The Caergoth warrior guildmaster now teaches knowledge of 'sunder' and
+    'warcry.'
+
+
+CONCLUSION:
+------------
+The immortal staff spent thousands of volunteer hours behind the curtains
+developing content in these patch notes. Many of these hours were
+planning, small (or major) bug fixes, or efforts otherwise unlisted
+here. We have gone through and cleared the 'idea' list for the upcoming
+wipe. Many game bugs were fixed, while a small amount have carried
+forward on the list. Please feel free to resubmit bug, typo, and/or
+idea reports if you think something has not been addressed.
+
+I would not be able to get anything done without a terrific immortal staff
+working beside me. The patch notes would not be as extensive without the
+following people volunteering their time:
+
+Code and backend support:
+  Adepali
+
+Creators (new zones):
+  Alecto, Edwai, Jorquin, Kholos, Kyuss, Mordack, Rinad 
+
+Creation special thanks and/or side projects:
+  Alecto, Attai, Bertil, Gatir, Jorquin, Loopley, Kyuss, Rhak, Roz
+
+Ideas sorters (from player 'idea' submissions):
+  Attai, Bedal, Edwai, Gatir, Kyuss, Lloth, Mick, Oom
+
+Project managers:
+  Cinas (Development Notes), Jorquin (Interim Head of Creation)
+
+Zone testers:
+  Attai, Bedal, Gatir, Kragg, Kyuss, Lloth, Oom, Roz, Torq
+
+'Content' (and the creation of it) is an important piece of Arctic|
+however, the most important piece of the game is our 'player base.'
+Arctic's unique player base drives the game and urges the immortal staff to
+continue volunteer development after being online more than 30 years. We
+hope everyone continues to return to this old text world for years to come:
+to slay text monsters, complete quests, and most importantly, to reunite
+with our ArcticMUD family.
+
+We reopen Friday December 2nd, 2022 at 11:00PM UTC. We'll see you on the
+battlefields!
+
+Thanks for choosing Arctic!
+
+- Anista
+
+November 21, 2022
+
+To complement the ANSI colorization project next wipe, and to support the
+continuous wave of long-time players returning to the game, the immortal
+staff has created two client starter packages. (One package for JMC and one
+for WinTin++ / TinTin++.) The settings are all rule-friendly and support
+'split screen' sharing between characters for those who wish to play up to
+two characters within the game rules.
+
+Here are some examples of the of the package contents:
+ - A file with aliases to more easily cast spells
+ - A file of triggers that are generic in nature to assist gameplay
+ - A file of highlights and substitutions to help important text 'stand out'
+    in special situations
+ - Multiple files that connect all the functionality
+ - A README file to help guide the setup
+
+The downloads and some screenshots can be found on the Arctic MUD website:
+http://arcticmud.org/pages/clients.html
+
+As an additional note, prior to last week, older releases of JMC did not
+support extended ANSI color options. JMC is now another client of choice
+when it comes to playing Arctic, assuming it is obtained from the right
+source. A link to the latest JMC release which supports extended color
+options can be found on the aforementioned page of our website.
+
+A special thanks to everyone who contributed to this project.
+
+- Arctic Staff
+
+November 6, 2022
+
+We feel the need to give fair warning about one of our noteworthy changes
+for the upcoming wipe.
+
+   - New system: ANSI color features will be added to equipment.
+
+Most MUD clients support 'extended ANSI' coloring schemes. Unfortunately,
+older clients only support a handful of colors. We will do our best to
+provide 'safe' colors for both the newer and older clients| however, anyone
+who is using an older client will not experience the color system in the
+way we intend.
+
+The known clients that DO NOT support extended ANSI are:
+    JMC, zMUD, Wintin95
+
+The known clients that DO support extended ANSI are:
+    Blowtorch, CMUD, Mudlet, Mudrammer, MUSHclient, TinTin[++], Wintin.net
+
+Please join us in Discord (https://discord.gg/xCF6gh5) to see examples I
+posted today in the #lobby for some color differences between the clients.
+Please rest assured that anyone will be able to 'opt out' of the item
+coloring system in game next wipe if he or she does not wish to use it.
+
+Lastly, I have created a synthetic copy of myself in Solace Inn, which will
+stand there for the remainder of the wipe. If you would like to test your
+client, simply 'look anista' in Solace Inn. The details of the test are
+explained in the mobile's description.
+
+- Anista
+
+November 4, 2022
+
+                --- THIS IS A PWIPE ANNOUNCEMENT ---
+
+                          May you all die.
+
+   You will all be deleted Sunday November 27th, 2022 at 1:00PM UTC.
+   The new wipe will begin Friday December 2nd, 2022 at 11:00PM UTC.
+
+With another year passing in Arctic's continued 30+ years of development,
+it's time for another player wipe: the inevitable death and rebirth of
+characters, paving the way for new content and bringing a fresh start.
+Rising like a phoenix from its ashes, the game continues to improve with
+each wipe, become more enriched and vibrant with time passing. We hope
+you'll join us in the new wipe.
+
+Here are some noteworthy teasers to come in the new wipe:
+ - New system: Player 'achievements' will be added.
+ - New system: ANSI color features will be added to equipment.
+ - A few new zones of varying difficulty will be introduced. Expect to see
+     new creator names credited to much of the content.
+ - Several older zones have either been expanded or received a full redesign.
+     (Icefolk Village, you were probably the most overdue.)
+ - Many items will have been reworked, replaced, or redistributed.
+ - A variety of other changes are coming, including some Quality of Life
+     improvements.
+
+We'll let you know the full development details following your timely
+demise, only after we have verified our code changes and merges are
+functional on the live game port.
+
+Experience, rank experience, and coins gains are doubled for the remainder
+of this wipe. We ask that everyone try to keep the chaos and random
+pkilling under control until the final hours of the wipe.
+
+Please remember, the immortal staff contributes thousands of volunteer
+hours every year to create content for players each wipe. The immortal
+staff are extremely busy with final developments during this time: annoying
+the staff, pestering them for buffs, or asking for inside information about
+the wipe may result in an early personal wipe at their discretion! No
+reimbursements.
+
+Thanks for choosing Arctic!
+
+- Arctic Staff
+
+October 26, 2022
+
+The farmers in the lands near Kalaman Graveyard report midnight sightings
+
+ [return for more, q to stop]
+of mysterious shapes and shadows in their pumpkin patches - yes, this means
+it is once again spooky season here on Arctic MUD!
+
+As of this announcement, our much-beloved Haunted Mansion Halloween zone
+has been linked to the game. Multiple groups or solo players will be able
+to explore this area simultaneously and individually, due to its instanced
+nature. The Haunted Mansion will be available to challenge until Tuesday,
+November 1st at 12:00AM UTC.
+
+--
+
+A relic of a time gone by, our forums suffered daily bot + spam attacks
+that distracted our hard-working staff from spending their time improving
+the game. We have officially retired the Arctic MUD forums found on our
+website. If you would like to join the active community on our Discord,
+please follow this link: https://discord.gg/xCF6gh5
+
+--
+
+The divine clouds of Godshome part, and an immortal missive emerges.
+Challenging setbacks have met the army of volunteers who labor to bring you
+additional world-forging (read: creation). Nevertheless, several new zones
+are currently undergoing our exhaustive approval process. Rest assured that
+our creators are now hard at work checking (and re-checking) all the tiny
+bugs and humongous monsters that keep Arctic interesting. As their tireless
+efforts reach their conclusion, and our brave zone testers stow away their
+battered equipment, we will then be able to make the much-awaited formal
+wipe announcement.
+
+- Arctic Staff
+
+September 8, 2022
+
+The kings, emperors, and other royal rulers of Krynn toll the bells of
+lamentation today for one of their own. Hearing this earnest supplication,
+the Arctic Gods will hold a bonus event this weekend in celebratory
+remembrance of the seventy year reign of Queen Elizabeth II.
+
+Friday, September 9th 12:00PM UTC to Monday, September 12th 10:00AM UTC,
+experience, coins, and rank experience gains will be doubled.
+
+Go forth and adventure in observance of the only English sovereignty most
+have ever known.
+
+- Arctic Staff
+
+July 17, 2022
+
+At the height of summer, when the sun is at its hottest, the barriers
+between elemental planes grow thin.
+
+At these times it is common for druids to perform rituals to worship the
+greater Elementals. However, there are reports of one such ritual going
+horribly wrong in the Sandy Cove south of Balifor. If a rift between planes
+has been opened there is no telling what might come through, and the
+dangers it might represent to this world if left unchecked...
+
+The seasonal Midsummer instance zone has a 24-hour lockout, meaning each
+character can only enter once per 24 hours. There is also a 90 minute
+'timeout' timer to complete an instance. Should players perish in the
+instance, corpses will automatically be cast out of the rift after the
+instance expires (approximately 5 minutes after being empty, or when the
+'timeout' timer expires, whichever happens first.) The seasonal event will
+be available for a few weeks while many of us remain indoors to avoid the
+summer heat waves.
+
+Thanks to Jorquin for creating this seasonal zone for us, with Alecto's
+help on many room descriptions.
+
+- Anista
+
+June 19, 2022
+
+We have decided to extend the current bonus event for one extra day.
+
+Double experience, rank exp, and coins will continue through Monday June
+20th 11:59PM UTC.
+
+- Anista
+
+June 12, 2022
+
+Congratulations are in order for the winners of Saturday's PvP tournament:
+
+Winning the 2v2 tournament were Vra and Mosher! Hinde, Rahvin, and Belka
+stepped away with the big win for 3v3s!
+
+Following the exceptional tournament of blood and gore, a 'triple double'
+weekend is on the horizon. Double experience, rank exp, and coins will be
+enabled from Friday June 17th 12:00PM UTC to Sunday June 19th 11:59PM UTC.
+
+Immortal applications are now open for those willing to set their mortals
+and friends aside to contribute to the game. Do you have what it takes to
+make an impact on ArcticMUD? (HELP IMM APP)
+
+Last but not least, the next pwipe will be several months away, but
+preparation is beginning soon. Please be sure to submit all your ideas,
+bugs, and typos via the respective commands in-game| those will be
+addressed on our development port over the next few months. With the new
+wipe, we are expecting to introduce at least four new and/or expanded zones
+of various difficulties. Expect to see some new creator names surface with
+some of the new content.
+
+Thanks for playing Arctic, and may you all die!
+
+- Anista
+
+May 30, 2022
+                 *** Tournament Announcement ***
+
+Saturday June 11th, beginning at 5PM UTC (1PM EST, 10AM PST), we will be
+hosting Player versus Player (PvP) tournaments for 2v2 & 3v3 matches.
+
+Details:
+ - Any level 28+ player can compete in either or both tournaments.
+ - Bring your own gear.
+ - Equipment will NOT be lost on death in the arena.
+ - Items and containers will NOT frag in the arena.
+ - Self-prep & group-prep spells are allowed in peaceful rooms upon entry
+   to the arena.
+ - No outside prep permitted. (i.e.: pre-buff, wands, scrolls, potions)
+ - Use of "orbs" is restricted in tournament play.
+ - Corpses and spirits will exist in the arena for those who need them.
+ - Fights can be spectated by players. Check the signage in an inn of any
+   major city on tournament day.
+
+2v2 Specifics:
+ - You may pick your own group member or we will attempt to pair you up
+   with someone else as numbers allow.
+ - Players MAY register a team of their own characters. (Multi allowed.)
+ - No character swaps are allowed after the tournament has started.
+
+3v3 Specifics:
+ - Players may only register one character.
+ - Pre-made teams are not allowed. Teams will be generated the day of
+   the event.
+
+If you plan to participate and know your team in advance, we ask you to let
+us know your planned bracket(s) and group members ahead of time. The
+deadline to register a team is Friday June 10th, 11:59PM UTC. To register
+individually, or as a team, please DM @Bedal Brightblade in the official
+Arctic MUD discord, email gods@arcticmud.org, or message a non-retired
+immortal in-game to reserve your spot. Pre-registered players & teams must
+check in with the immortal staff within 30 minutes of tournament kick-off
+on Saturday June 11th.
+
+Even if you do not enjoy participating in PvP, we still encourage you to
+enter the contest to check out the hard work we've done on the automated
+arena design and fight 'spectate' system. Everyone who competes in the
+tournament will receive something in return. And, of course, the fiercest
+gladiators will undoubtedly walk away with the largest prizes. No refunds.
+
+May you all die,
+
+- Anista & Bedal
+
+
+March 26, 2022
+
+From Saturday March 26th 2:00AM UTC to Monday March 28th 11:59PM UTC,
+players will receive a 100% increase to experience, ranks, and coins.
+
+- Arctic Staff
+
+February 12, 2022
+
+From Saturday February 12th 6:59PM UTC to Monday February 14th 11:59PM UTC,
+players will receive a 50% increase to experience, ranks, and coins.
+
+Happy Valentine's Weekend!
+
+- Arctic Staff
+
+January 4, 2022
+
+- Duration of comeuppance fixed
+- Druids can now cast in fine_leather
+
+Adepali
+
+January 3, 2022
+
+- train <pet> info <number> will display the help message for the specified
+pet rank.
+
+Adepali
+
+December 26, 2021
+
+    The holiday instance timers should expire correctly now. Please speak
+to a 34+ if you are affected by an old timer and are unable to enter the
+holiday instance.
+
+- Anista
+
+December 25, 2021
+
+- Heal and remove poison will no longer remove immunity from your group's
+cloudkill.
+- Sublimating instance mobs will no longer destroy their items.
+
+Adepali
+
+December 19, 2021
+
+Happy Holidays! 
+
+Gnomish toy factories are renown for mass producing toys at Christmas time
+to bring happiness and joy to the children of Krynn, the most famous of
+which is the legendary toy factory of Sandy Klorze.
+
+Recently, rumors have been circulating of nefarious groups planning to
+attack these facilities which, when coupled with reports of a frantic
+gnomish tinkerer near the western gate of Palanthas seeking the aid of
+stalwart adventurers, can only mean trouble. Or perhaps it represents
+opportunity, as there will certainly be fantastic festive rewards for the
+valiant heroes who save Christmas!
+
+The seasonal Christmas instance zone has a 24-hour lockout, meaning each
+character can only enter once per 24 hours. There is also a 90 minute timer
+to complete an instance. The event will be available between now and New
+Year's Day.
+
+Special thanks to Jorquin for creating this masterpiece, and most
+importantly, Merry Chistmas and Happy New Year to you all!
+
+- Arctic Staff
+
+December 17, 2021
+
+- Wilddance will now work properly
+- Sunder will respect mirror image and fold space
+
+Adepali
+
+December 7, 2021
+
+A few bugs have been addressed since the wipe patch:
+
+- Clan 'promote|demote' is no longer case sensitive for character names.
+- Learning 'nap' will show the spell name instead of an "unknown spell."
+- The Kalaman shaman master now teaches transmogrify.
+- Dynamic object names should now use the object noun as the primary
+   name. Please typo report anything we may have missed.
+
+We could not have asked for a smoother wipe opening! We hope you are
+enjoying the changes and the new content thus far.
+
+- Anista
+
+November 28, 2021
+
+           -------- PWIPE ANNOUNCEMENT UPDATE --------
+
+                    You've all been deleted.
+
+     The game will reopen for play December 3rd, 2021 at 11PM UTC.
+
+We've successfully merged the development code into the live game branch
+and are testing the implementation. All systems seem to be good so far.
+Here are the patch changes for next wipe!
+
+GENERAL
+--------------
+* The game year has been reset to be more in line with our 'War of the
+   Lance' creation period. (The rolling year counter was originally set
+   August 11, 1990 and this is the first reset ever.)
+* Additional signs have been added around the Solace area to assist new
+   players.
+* Players will see min and max stats of their guild/race selection after
+   selecting a race in the menu. This will display for both new and
+   reincarnating characters. (Our menu options have changed, please make
+   your character selections carefully.)
+* Several 'death traps' alongside major roads and lowbie areas have been
+   removed or made recoverable.
+* Mobs won't try to use the gaze skill while it is still on cooldown.
+* Fixed a bug preventing mobs from quaffing some helpful potions.
+* Mobs won't quaff healing potions if they're at high health.
+* Mobs will use helpful items in combat if they are hurt and cannot
+   self-heal.
+* Linkdead characters in Arenas will still be visible, but will auto-flee
+   when attacked.
+* Optimized some skills and spells for better game performance. 
+* Fixed several issues causing game crashes. Nearly all fooms from the
+   previous wipe are fixed.
+
+RACES
+----------
+* Hill dwarves can now be scouts.
+* Kagonesti can now be druids.
+* Gully dwarves are no longer playable since they didn't fit the lore.
+* Daergar dwarves have been added as an exotic race. Cannot follow Good
+   alignments. HELP RACE DAERGAR for more information.
+* Daergar dwarf players should be able to 'fit' in all places where Gully
+   dwarves did.
+* Dargonesti can no longer follow Evil alignments.
+* Qualinesti will have HEALING_BONUS instead of HEALING_FACTOR, as was
+   originally intended.
+* The teased return of age bonuses didn't make it into this patch. Maybe
+   next time.
+
+CLANS/CLAN STRONGHOLDS
+-------------------------------------------
+* New 'clan' command: contributions. This will report clan money
+   contributions and withdrawals by all clan members at the clan's vault.
+* New clan stronghold 'arena' asset added. Clan members can organize arena
+  fights against other clan members and/or other players.
+* The clan stronghold 'temple' asset now has the 'pray' special.
+* Players will get a warning when they ctell with the NOCLAN option
+   enabled.
+* 'Maintain <item_name>' and 'maintain all.<item_name>' added to vaults.
+
+AFFINITY/MEDALS
+---------------
+* Timeout hints were added to affinity objectives indicating time
+   remaining.
+
+HELP FILES
+----------
+* Help files for Low level zones around Solace now list the directions to
+   the area. We may add additional areas later.
+
+DYNAMIC ITEM SYSTEM
+---------------
+* Overall rent cost of all dynamic items reduced.
+* Typos, types, and names fixed. For example, "a battleaxe" now has the
+   "axe" keyword.
+* Weapon weights should generally be lighter| weight now scales with item
+   power.
+* Chance to roll stats on items more evenly distributed| elite stats remain
+   rarer.
+* Increased chance to load dynamic items at higher "tiers".
+* Higher end mobs should more appropriately load higher end rewards.
+* Two brand-new item effects have been added which are only available on
+   dynamic items.
+
+ZONES/CREATION
+--------------
+* Many 'force load' issues were fixed in various zones.
+* Additional holiday instances will be introduced, beginning with
+   Christmas.
+* Que-Kul now favors like-minded individuals who wish to aid them.
+* Dirim Peaks road network has been changed. Gnoll camp moved and contains
+   more gnolls. Various other mobs changed slightly. See HELP AREA DIRIM
+   PEAKS.
+* Alane valley relocated and expanded. It now sits east of Palanthas near
+   Lok' Tath. See HELP AREA ALANE VALLEY.
+* Lok' Tath expanded and re-level balanced. See HELP AREA LOK' TATH.
+* The previous Sanction zone has been rethemed to a new zone: Castle Dread.
+   See HELP AREA CASTLE DREAD.
+* A new Elite level Sanction zone has been added. This area should be much
+   more challenging. See HELP AREA SANCTION.
+* Slaith Swamp has been revamped. It is a High level zone with some Elite
+   level content. See HELP AREA SLAITH SWAMP.
+* Mobiles with 'Daergar' in their names have changed to the new Daergar
+   dwarf race.
+* Garnet dwarves have mostly been changed to NC alignment.
+* Kagonesti elves mostly changed to NC and NG alignment.
+* Kalaman Dockyards mobiles mostly changed to NC alignment.
+* Added a HASTE set for neutral characters.
+* Huma's items will now work as a set. 
+* A few additional item sets were added across the game.
+* Added HEALING_BONUS to some additional items.
+* Mage class set items will now roll +CASTING_LEVEL. 
+
+RANKS SYSTEM
+------------------------------
+* The ranks list has changed. Most notably, HASTE is removed. Some other
+   ranks have been separated and/or had their values adjusted.
+* Fixed a major bug where "increased healing bonuses" applied by the
+   legendary cleric, druid, and shaman ranks were not being calculated
+   correctly. This results in reduced overall curing at legendary compared
+   to the last several wipes. However, the ranks now work as originally
+   stated and intended. We'll be monitoring to see if anything needs to be
+   rebalanced as a result of this.
+
+SPELLS/SKILLS (GENERAL)
+-----------------------
+* Shield block damage has been recalculated. The damage taken by shields
+   will be less overall.
+* Shield block will destroy a shield when condition reaches zero, and
+   will not block beyond the excess damage. (bug fix)
+* Wizard eyes will be visible by players affected by both DETECT_SCRY
+   and AWARENESS.
+* Bandage will now stop bleeding as designed. (bug fix)
+* "brew recipe ['spell']" added - will show the number of components
+   available in addition to the number of components required. This also
+   works with scribe.
+
+SPELLS/SKILLS/NOTES (GUILD)
+----------------------------------------------
+
+Barbarian:
+----------
+* Battle cry will show a message when it can be reused. (bug fix)
+
+Clerics:
+----------
+* The quest for the heal spell is now instanced. The quest still functions
+   the same way.
+* Negative plane protection is now divine. It also now removes malevolent
+   tentacles.
+* Gate mobs altered slightly:
+   - Marilith weakened, Chakan and Antioch skills buffed to match Marilith.
+   - Aspasia, Chaun, Nalfeshnee no longer autohide. (They were spamming it,
+      preventing orders.)
+   - Shiroc, Chaldrun, Glabrezu now use a special attack against enemies.
+* Rapture damage factor bonus reduced significantly.
+* Legendary animate dead rank removed.
+* Legendary healing mist rank added: mist won't be removed by gust/constant
+   winds & prevents the caster's group from being hit by cloudkill and
+   stinking cloud effects.
+
+Dark Knights:
+-------------
+* Recasting unholy might will renew the duration, but won't change the
+   existing effects.
+* Legendary defensive stance will increase rescue skill slightly.
+* The impunity spell will give a damage bonus vs HOLY victims.
+* Inspire duration increased.
+* Stance 'balanced' has received reduced limit_damage_factor bonus. 
+
+Druids:
+-------
+* Essence quest has been removed. The spell that loaded there is now a
+   tablet spell.
+* Reclaim land will not fail to winds group if using +skill items beyond
+   max skill. (bug fix)
+* Veil of ice duration increased and the RESIST HEAT modifier increased.
+* If you can still fly when the fly spell expires, you dont land and you
+   don't get a "You feel much heavier" message. (Addresses 'mass fly' vs
+   CAN_FLY bug.)
+* Casting resist with wrong arguments will not expend the spell.
+* Primal fury' base spell stats improved. The spell has been changed to
+   group effect by default, similar to the previous legendary rank, and
+   thus no longer requires a target to cast. The spell was also moved to a
+   higher circle.
+* Primal fury legend rank removed. 
+* Cure massive removed. 
+
+Mages (Magic Users & Robes):
+-----------------------------------------
+* Added a warning to new players about Magic Users being a challenging
+   class in the menu.
+* Mobs that teach magic blast and magic bolt will now stick around a short
+   while longer.
+* Magic Users no longer receive bonus spells from INT. Upon selecting a
+   robe, the additional slots from INT will be applied. (This maintains the
+   integrity of the conclave tests as created.)
+* CURSED players can now use the conjure skill. 
+* Only the first missile of magic missile will use
+   potency/boost/dark accord.
+* Haste spell negative effects duration reduced.
+
+Black Robes:
+------------
+* Fixed a bug with mind inversion breaking memorization with 1 tic left. 
+* Comeuppance spell_saves_mod values reduced. Spell penetration bonus
+   added. Cooldown reduced.
+* Focused malevolent tentacles will do lower damage against tentacled
+   targets.
+* Nightmare will expire in rounds when out of combat rather than tics.
+
+Red Robes:
+----------
+* Clairvoyance will not flag the caster unless the victim is spotted.
+* Clairvoyance victims will no longer be unable to rent.
+* Clairvoyance cooldown duration increased.
+* Only the first missile of force missile will use potency/boost/dark
+   accord.
+* Legendary read magic rank removed.
+* Legendary force bolt rank added: causes a second force bolt will hit half
+   damage. Both bolts can cause secondary effects.
+
+White Robes:
+------------
+* Residual attack cooldown reduced.
+* Shards of arcana healing reduced| only the first shard will use
+   potency/boost/dark accord.
+* Wane no longer stacks on the victim. Waned mobs will have a room
+   description indicating they are affected.
+* Wither now has a limit for the number of spells it can dispel.
+
+Paladin:
+--------
+* Paladin Crown Quest: It is now easier to see the Mayor. (Prospective
+   Knights will no longer have to "break in".)
+* Guard will protect a guarded target from a skill only once per round.
+* Reckoning damroll reduced slightly, duration increased by several rounds.
+
+Scout:
+------
+* The spirit animals that are hunted by scouts should no longer disappear
+   while in combat. (bug fix)
+
+Shaman:
+-------
+* Ritual voyage will fail on a NOSUMMON target, unless the target is
+   sleeping. (bug fix)
+* Nap moved to divine, 1 game day cooldown timer.
+* Casting sublime resistance with incorrect arguments will not expend the
+   spell.
+* Darkened soul duration increased.
+* Monstrous mantle will no longer provide a CHA bonus. Instead, it has a
+   chance to fear enemies attacking the shaman, and to cause feared enemies
+   attacking the shaman to whiff.
+* Shaman guildmasters added to Tarsis and Haven.
+* All shaman guildmasters should now teach the spell transmogrify.
+
+Thief:
+------
+* Coup cooldown timer reduced for both base and legend versions of the
+   skill.
+
+Warrior:
+------
+* New skill: warcry. Reduces the chance for enemies to target another group
+   member if the enemy is fighting the warrior. This includes enemies
+   affected by confusion effects. Also increases group's hitroll and
+   provides fear immunity to the warrior at higher skills. Additionally
+   provides fear immunity to group members (and removes fear) at max skill.
+   HELP SKILL WARCRY
+* New skill: sunder. Reduces victim's armor values, stacking up to several
+   times. HELP SKILL SUNDER
+* Parry will continue to work while warcrying, sundering, disarming, and
+   kicking.
+
+
+IDEA, BUG, TYPO REPORTS
+----------------------------------------
+* Fixed many instances of bugs and typos submitted by players via the 'bug'
+   and 'typo' commands in this patch. We cleared the logs. If your problem
+   still exists after this patch, please resubmit and we'll try to get it
+   fixed.
+
+STAFF UPDATES & SPECIAL THANKS
+------------------------------
+* Special thanks to the following imms who designed and/or contributed
+   major additions (or zone approvals) for this patch:
+   Adepali, Alecto, Anista, Jorquin, Kafilat, Kholos, Loopley, Rhak
+
+* An extended thanks goes to the following imms who tested systems and/or
+   content for this patch:
+   Attai, Bedal, Bro, Chyna, Cinas, Edwai, Kyuss, Lloth, Mick, Oom
+
+And finally, the biggest 'special thanks' goes out to the playerbase.
+   Without players like you, our work here would be meaningless.
+
+Thanks for playing ArcticMUD.
+
+- Anista
+
+November 27, 2021
+
+Arenas are live and automated for the last day of the wipe!
+
+Simply 'touch sign' in any inn to be transported to The Arena Spectator's
+Gallery.
+
+Instructions for fighting in an arena and/or spectating a live battle can
+be found on the sign in the Gallery.
+
+Fights can be 1v1, 2v2, .., 5v5. Bring your friends (or enemies) and fight
+to the death!
+
+Gear and experience will not be lost if you are killed in an arena.
+Lockboxes will be automatically rewarded to contestants. Try to re-enter
+the game quickly if you are killed.
+
+PS - The 'tomes of experience' from lockboxes give rank exp if you are 1x.
+
+- Anista
+
+November 3, 2021
+
+                --- THIS IS A PWIPE ANNOUNCEMENT ---
+
+We hope you earned your fill of candy and treasures from the Halloween
+event! The Haunted Mansion vanished and the Candy Collector returned home
+until next year.
+
+As Arctic enters 30 years of development, we'll be closing another chapter
+in the game's rich history books. The posting for new immortal applications
+is also closed at this time.
+
+Sunday November 28th, at approximately 1:00PM UTC (system time), you will
+all be deleted. Arctic will remain closed to mortals until Friday, December
+3rd at 11:00PM UTC.
+
+Here are a few teasers for things to come in the new wipe:
+- Several zones have either been expanded or received a full redesign.
+   Expect some new, elite level challenges!
+- Additional holiday instances will be introduced.
+- A few additional item sets will be added.
+- The 'dynamic items' system will be reworked to roll a bit more favorably
+   and many load locations will have changed.
+- A variety of other changes are coming, including the return of a
+   racial age bonus system.
+
+ [return for more, q to stop]
+q
+Foghorn mutters to himself 'By the spirits of my ancestors! I'm still
+missing some critical ingredients for my experimental potion. A mundane
+tail of a dog, the left paw of a fox and let's see.. ah yes the feather
+from the underbelly of a turkey. If only some hero would deliver these
+ingredients to me.'
+
+636H 131V 34565855X 24.96% 15615C T:19 Exits:S> 

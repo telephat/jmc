@@ -1,0 +1,26 @@
+Log: eq 
+Logging started: 11.11.2022 01:08\r 
+eq
+You are using:
+<used as light>            an orange jack-o'-lantern..it glows dimly
+<worn on finger>           a marble ring (invisible)
+<worn on finger>           a golden dwarven ring
+<worn around neck>         a sapphire inlaid choker
+<worn around neck>         a heavy greenstone medallion..it glows dimly
+<worn on body>             a vest of silver dragonscale
+<worn on head>             a malachite inlaid mithril helm..it glows dimly
+<worn on legs>             brass dragonscale leggings
+<worn on feet>             a pair of vicious black sabatons
+<worn on hands>            a pair of clawed copper gauntlets
+<worn on arms>             a set of goblin skin armbands
+<worn as shield>           a Kagonesti war shield
+<worn about body>          a white-trimmed purple robe
+<worn about waist>         a black scabbard adorned with roses
+<worn around right wrist>  a braided silver bracelet..it glows dimly
+<worn around left wrist>   a golden bracer encrusted with pearls..it hums softly
+<used in primary hand>     a heavy steel battle axe
+
+733H 172V 8392779X 6.41% 34852C T:28 Exits:NE> 
+hold lantern;wea marble;wea golden;wea choker;wea greenstone;wea malachite;
+wea brass.leggings;wea sabatons;wea clawed;wea armbands;wea kagonesti;
+wea purple;wea scabbard;wea braided;wea bracer; wie axe;wea vest

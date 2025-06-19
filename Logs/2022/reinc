@@ -1,0 +1,47 @@
+
+Name: Urtas Str: 20 Int: 17 Wis: 17 Dex: 12 Con: 18 Cha: 19
+Name: Urtas Str: 20 Int: 17 Wis: 17 Dex: 13 Con: 18 Cha: 19
+Name: Urtas Str: 21 Int: 16 Wis: 17 Dex: 12 Con: 18 Cha: 18
+Name: Urtas Str: 20 Int: 16 Wis: 17 Dex: 13 Con: 19 Cha: 19
+Name: Urtas Str: 21 Int: 17 Wis: 16 Dex: 13 Con: 19 Cha: 18
+Name: Urtas Str: 20 Int: 16 Wis: 16 Dex: 12 Con: 19 Cha: 18
+Name: Urtas Str: 21 Int: 16 Wis: 16 Dex: 13 Con: 19 Cha: 19
+
+Name: Yabba Str: 23 Int: 15 Wis: 15 Dex: 16 Con: 20 Cha: 17
+Name: Yabba Str: 22 Int: 14 Wis: 14 Dex: 16 Con: 20 Cha: 18
+Name: Yabba Str: 23 Int: 14 Wis: 15 Dex: 16 Con: 20 Cha: 18
+Name: Yabba Str: 23 Int: 14 Wis: 15 Dex: 16 Con: 20 Cha: 18
+Name: Yabba Str: 22 Int: 15 Wis: 15 Dex: 16 Con: 20 Cha: 18
+Name: Yabba Str: 23 Int: 14 Wis: 15 Dex: 16 Con: 19 Cha: 17
+Name: Yabba Str: 23 Int: 15 Wis: 15 Dex: 15 Con: 20 Cha: 17
+Name: Yabba Str: 22 Int: 15 Wis: 14 Dex: 15 Con: 20 Cha: 17
+Name: Yabba Str: 22 Int: 14 Wis: 15 Dex: 16 Con: 20 Cha: 17
+Name: Yabba Str: 22 Int: 14 Wis: 15 Dex: 16 Con: 20 Cha: 18 Sum: 105
+Name: Yabba Str: 23 Int: 14 Wis: 14 Dex: 16 Con: 19 Cha: 17 Sum: 103
+Name: Yabba Str: 23 Int: 14 Wis: 15 Dex: 16 Con: 20 Cha: 18 Sum: 106
+            Str: 23 Int: 14 Wis: 15 Dex: 16 Con: 20 Cha: 18 Sum: 106
+
+----------------------------------------
+2nd reinc
+Yabba Str: 23 Int: 14 Wis: 15 Dex: 16 Con: 20 Cha: 18
+Urtas Str: 21 Int: 16 Wis: 16 Dex: 13 Con: 19 Cha: 19
+------------------------------------------
+
+Urtas: 
+Str: 21 Int: 16 Wis: 15 Dex: 12 Con: 19 Cha: 18 Sum: 101
+Str: 20 Int: 16 Wis: 15 Dex: 12 Con: 19 Cha: 19 Sum: 101
+Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19 Sum: 103
+
+
+Yabba:
+Str: 23 Int: 14 Wis: 15 Dex: 15 Con: 20 Cha: 17 Sum: 104
+Str: 22 Int: 14 Wis: 15 Dex: 16 Con: 19 Cha: 17 Sum: 103
+Str: 23 Int: 14 Wis: 15 Dex: 16 Con: 19 Cha: 18 Sum: 105
+Str: 22 Int: 15 Wis: 14 Dex: 16 Con: 20 Cha: 18 Sum: 105
+Str: 22 Int: 15 Wis: 15 Dex: 16 Con: 20 Cha: 17 Sum: 105
+Str: 23 Int: 15 Wis: 15 Dex: 15 Con: 20 Cha: 18 Sum: 106
+Str: 22 Int: 15 Wis: 14 Dex: 16 Con: 20 Cha: 17 Sum: 104
+Str: 23 Int: 14 Wis: 15 Dex: 16 Con: 19 Cha: 18 Sum: 105
+Str: 23 Int: 15 Wis: 14 Dex: 16 Con: 19 Cha: 17 Sum: 104
+Str: 23 Int: 15 Wis: 14 Dex: 16 Con: 19 Cha: 18 Sum: 105
+Str: 23 Int: 15 Wis: 15 Dex: 16 Con: 20 Cha: 17 Sum: 106

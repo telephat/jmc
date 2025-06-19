@@ -1,0 +1,137 @@
+ Object 'spear bone'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: bone
+ Weight   : 10           Value   : 100
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Class    : spear
+ Damage   : 1D8
+
+ Object 'dagger talon'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 4            Value   : 70
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC
+ Restricts: NOMAGE NODRUID
+ Class    : dagger
+ Damage   : 2D6
+
+ Object 'dagger tarnished half-tarnished silver'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: silver
+ Weight   : 8            Value   : 450
+
+ Affects  : skill envenom       by +3
+ Affects  : SAVING_SPELL  by 2
+ Effects  : IMMUNE_POISON
+ Item is  : MAGIC ANTI_GOOD
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOBARBARIAN
+ Class    : dagger
+ Damage   : 5D3
+ Object 'spear bone'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: bone
+ Weight   : 10           Value   : 100
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Class    : spear
+ Damage   : 1D8
+
+ Object 'dagger talon'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 4            Value   : 70
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC
+ Restricts: NOMAGE NODRUID
+ Class    : dagger
+ Damage   : 2D6
+
+ Object 'dagger tarnished half-tarnished silver'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: silver
+ Weight   : 8            Value   : 450
+
+ Affects  : skill envenom       by +3
+ Affects  : SAVING_SPELL  by 2
+ Effects  : IMMUNE_POISON
+ Item is  : MAGIC ANTI_GOOD
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOBARBARIAN
+ Class    : dagger
+ Damage   : 5D3
+
+ Object 'band black scaled scorched'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 6            Value   : 100
+
+ Affects  : RESIST_ACID   by 4
+ Affects  : RESIST_GAS    by 4
+ Item is  : INVISIBLE
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC
+ Immune   : IMMUNE_ACID
+ Apply    : 3
+
+ Object 'maul red heavy hammer'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 19           Value   : 300
+
+ Affects  : HITROLL       by 1
+ Affects  : DAMROLL       by 1
+ Item is  : MAGIC
+ Class    : warhammer
+ Damage   : 4D4
+
+ Object 'wristband band mithril'
+ Item Type: WORN        
+ Mat Class: metal        Material: mithril
+ Weight   : 6            Value   : 500
+
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+
+ Object 'girdle giant strength storm'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 18           Value   : 200
+
+ Affects  : STR           by 1
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NODRUID NOCLERIC
+
+ Object 'sleeves charred black platemail'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 5            Value   : 125
+
+ Affects  : ARMOR         by -10
+ Affects  : HITROLL       by 1
+ Restricts: NOMAGE NOBARBARIAN
+ Apply    : 6
+
+ Object 'armour armor bronze glistening'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 25           Value   : 40
+
+ Affects  : STR           by 1
+ Apply    : 5
+
+ Object 'ring small quartz'
+ Item Type: WORN        
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 1            Value   : 150
+
+ Affects  : ARMOR         by -5
+ Affects  : HIT           by 5
+ Item is  : GLOW MAGIC
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+

@@ -1,0 +1,5097 @@
+Log: omen-part3-try4 
+Logging started: 19.11.2022 10:54\r 
+d
+The Entrance to the Halls of Dawnguard
+A magical ward protects the stronghold.
+A clan fountain is here.
+
+475H 172V 1X 11.08% 25869C Mem:1 T:27 Exits:EWU> 
+w
+Road to Kalaman
+A wooden sign has been nailed to a tree here.
+
+475H 171V 1X 11.08% 25869C Mem:1 T:27 Exits:NES> 
+n
+Outside the Southern Gates of Kalaman
+
+475H 169V 1X 11.08% 25869C Mem:1 T:26 Exits:NESW> 
+n
+n
+Southern City Gates
+A large pigeon is here pecking at some bread crumbs.
+A cityguard of Kalaman stands here, guarding the southern gates.
+A cityguard of Kalaman stands here, guarding the southern gates.
+A cityguard of Kalaman stands here, guarding the southern gates.
+A cityguard of Kalaman stands here, guarding the southern gates.
+
+475H 168V 1X 11.08% 25869C Mem:1 T:26 Exits:NS> 
+Intersection of Vingaard Avenue and Wall Road
+A large pigeon is here pecking at some bread crumbs.
+
+475H 167V 1X 11.08% 25869C Mem:1 T:26 Exits:NESW> 
+give all.recall me
+You give a glowing scroll of recall to Urtas.
+
+475H 167V 1X 11.08% 25869C Mem:1 T:23 Exits:NESW> 
+n
+Vingaard Avenue South
+
+475H 166V 1X 11.08% 25869C Mem:1 T:22 Exits:NESW> 
+n
+n
+Vingaard Avenue South
+
+475H 165V 1X 11.08% 25869C Mem:1 T:22 Exits:NS> 
+Vingaard Avenue South
+A tired traveller is looking around for the town's inn.
+
+475H 164V 1X 11.08% 25869C Mem:1 T:21 Exits:NS> 
+n
+n
+Vingaard Avenue South
+A large pigeon is here pecking at some bread crumbs.
+
+475H 163V 1X 11.08% 25869C Mem:1 T:21 Exits:NESW> 
+Vingaard Avenue South
+A street cleaner is walking about, cleaning up the trash.
+
+475H 162V 1X 11.08% 25869C Mem:1 T:20 Exits:NESW> 
+s
+s
+Vingaard Avenue South
+A large pigeon is here pecking at some bread crumbs.
+
+475H 161V 1X 11.08% 25869C Mem:1 T:20 Exits:NESW> 
+s
+Vingaard Avenue South
+A tired traveller is looking around for the town's inn.
+
+475H 160V 1X 11.08% 25869C Mem:1 T:19 Exits:NS> 
+s
+Vingaard Avenue South
+
+475H 159V 1X 11.08% 25869C Mem:1 T:19 Exits:NS> 
+s
+s
+Vingaard Avenue South
+
+475H 158V 1X 11.08% 25869C Mem:1 T:19 Exits:NESW> 
+s
+Intersection of Vingaard Avenue and Wall Road
+A large pigeon is here pecking at some bread crumbs.
+
+475H 157V 1X 11.08% 25869C Mem:1 T:19 Exits:NESW> 
+Southern City Gates
+A large pigeon is here pecking at some bread crumbs.
+A cityguard of Kalaman stands here, guarding the southern gates.
+A cityguard of Kalaman stands here, guarding the southern gates.
+A cityguard of Kalaman stands here, guarding the southern gates.
+A cityguard of Kalaman stands here, guarding the southern gates.
+
+475H 156V 1X 11.08% 25869C Mem:1 T:18 Exits:NS> 
+Outside the Southern Gates of Kalaman
+
+475H 155V 1X 11.08% 25869C Mem:1 T:18 Exits:NESW> 
+s
+Road to Kalaman
+A wooden sign has been nailed to a tree here.
+
+475H 153V 1X 11.08% 25869C Mem:1 T:17 Exits:NES> 
+e
+The Entrance to the Halls of Dawnguard
+A magical ward protects the stronghold.
+A clan fountain is here.
+
+475H 152V 1X 11.08% 25869C Mem:1 T:17 Exits:EWU> 
+u
+The Inn of Dawnguard
+A ring lies here, radiating intense cold.
+You see a tiny steel key in the back corner.
+You see a small iron key lying here in the dirt.
+A key, crafted from solid gold, rests here.
+A key made from silver rests here.
+A small key made of copper is here.
+A key made from solid platinum rests here.
+A pool of darkness, shaped into a key, is here.
+A fiery key made from burnished bronze has been left here.
+A faceted key made from a single crystal rests here. [2]
+A large key, roughly carved from wood, rests here.
+A large key made of gold has been discarded here.
+A small vial of milky liquid has carelessly been left here. [3]
+<DAWN> Yabba the Male Half Ogre is resting here. (flying)
+. . . has a ghostly hue.
+The stronghold receptionist is here, showing clan members to their rooms.
+
+475H 151V 1X 11.08% 25869C Mem:1 T:17 Exits:NESWUD> 
+w
+The Alchemy Lab of Dawnguard
+The clan alchemist is standing here.
+
+475H 150V 1X 11.08% 25869C Mem:1 T:16 Exits:NE> 
+li
+Items for sale:
+  1. Potion               32  An empty potion bottle
+  2. Scroll               32  A blank scroll
+  3. Vial                 70  A vial of chilled blue liquid
+  4. Bag                 845  A small bag of white stones
+  5. Potion               15  A blue potion of remove poison
+  6. Wand                156  A wand of invisibility
+  7. Scroll               97  A scroll of identify
+  8. Potion               58  A milky potion of see invisible
+  9. Scroll              130  A glowing scroll of recall
+ 10. Potion               80  A chunky yellow potion
+ 11. Vial                104  A small vial of blood red water
+ 12. Potion               65  A putrid potion
+ 13. Potion               65  A creamy potion of flight
+ 14. Scroll               65  A scroll of drain magic
+ 15. Scroll              130  A luminescent white scroll
+ 16. Potion               26  A clear potion of invisibility
+ 17. Scroll              195  A scroll of legend lore
+ 18. Potion               65  A potion of knowledge
+ 19. Scroll               32  A scroll of recall
+
+475H 150V 1X 11.08% 25869C Mem:1 T:16 Exits:NE> 
+buy vial
+The clan alchemist tells you 'That'll cost you 70 coins.'
+You now have a vial of chilled blue liquid.
+
+475H 150V 1X 11.08% 25799C Mem:1 T:14 Exits:NE> 
+buy bag
+The clan alchemist tells you 'That'll cost you 845 coins.'
+You now have a small bag of white stones.
+
+475H 150V 1X 11.08% 24954C Mem:1 T:13 Exits:NE> 
+e
+The Inn of Dawnguard
+A ring lies here, radiating intense cold.
+You see a tiny steel key in the back corner.
+You see a small iron key lying here in the dirt.
+A key, crafted from solid gold, rests here.
+A key made from silver rests here.
+A small key made of copper is here.
+A key made from solid platinum rests here.
+A pool of darkness, shaped into a key, is here.
+A fiery key made from burnished bronze has been left here.
+A faceted key made from a single crystal rests here. [2]
+A large key, roughly carved from wood, rests here.
+A large key made of gold has been discarded here.
+A small vial of milky liquid has carelessly been left here. [3]
+<DAWN> Yabba the Male Half Ogre is resting here. (flying)
+. . . has a ghostly hue.
+The stronghold receptionist is here, showing clan members to their rooms.
+
+475H 149V 1X 11.08% 24954C Mem:1 T:1 Exits:NESWUD> 
+d
+The Entrance to the Halls of Dawnguard
+A magical ward protects the stronghold.
+A clan fountain is here.
+
+475H 148V 1X 11.08% 24954C Mem:1 T:1 Exits:EWU> 
+w
+w
+Your meditation finished, you put away your charms with a smile.
+Road to Kalaman
+A wooden sign has been nailed to a tree here.
+
+475H 172V 1X 11.08% 24954C T:60 Exits:NES> 
+Alas, you cannot go that way...
+
+475H 172V 1X 11.08% 24954C T:60 Exits:NES> 
+n
+Outside the Southern Gates of Kalaman
+
+475H 170V 1X 11.08% 24954C T:60 Exits:NESW> 
+n
+n
+Southern City Gates
+A large pigeon is here pecking at some bread crumbs.
+A cityguard of Kalaman stands here, guarding the southern gates.
+A cityguard of Kalaman stands here, guarding the southern gates.
+A cityguard of Kalaman stands here, guarding the southern gates.
+A cityguard of Kalaman stands here, guarding the southern gates.
+
+475H 169V 1X 11.08% 24954C T:59 Exits:NS> 
+n
+Intersection of Vingaard Avenue and Wall Road
+A large pigeon is here pecking at some bread crumbs.
+
+475H 168V 1X 11.08% 24954C T:59 Exits:NESW> 
+n
+Vingaard Avenue South
+
+475H 167V 1X 11.08% 24954C T:59 Exits:NESW> 
+n
+Vingaard Avenue South
+
+475H 166V 1X 11.08% 24954C T:59 Exits:NS> 
+n
+Vingaard Avenue South
+A tired traveller is looking around for the town's inn.
+
+475H 165V 1X 11.08% 24954C T:58 Exits:NS> 
+n
+Vingaard Avenue South
+A large pigeon is here pecking at some bread crumbs.
+
+475H 164V 1X 11.08% 24954C T:58 Exits:NESW> 
+n
+Vingaard Avenue South
+
+475H 163V 1X 11.08% 24954C T:58 Exits:NESW> 
+n
+n
+Market Square of Kalaman
+A street cleaner is walking about, cleaning up the trash.
+A sailor fresh off the boat is looking for a good time in town.
+
+475H 162V 1X 11.08% 24954C T:58 Exits:NESW> 
+Vingaard Avenue North
+
+475H 161V 1X 11.08% 24954C T:57 Exits:NESW> 
+Vingaard Avenue North
+
+475H 160V 1X 11.08% 24954C T:57 Exits:NS> 
+n
+Vingaard Avenue North
+A woman with a bag of groceries is making her way home.
+
+475H 159V 1X 11.08% 24954C T:56 Exits:NES> 
+s
+s
+Vingaard Avenue North
+
+475H 158V 1X 11.08% 24954C T:56 Exits:NS> 
+s
+Vingaard Avenue North
+
+475H 157V 1X 11.08% 24954C T:56 Exits:NESW> 
+s
+Market Square of Kalaman
+A street cleaner is walking about, cleaning up the trash.
+A sailor fresh off the boat is looking for a good time in town.
+
+475H 156V 1X 11.08% 24954C T:55 Exits:NESW> 
+Vingaard Avenue South
+
+475H 155V 1X 11.08% 24954C T:55 Exits:NESW> 
+n
+Market Square of Kalaman
+A street cleaner is walking about, cleaning up the trash.
+A sailor fresh off the boat is looking for a good time in town.
+
+475H 154V 1X 11.08% 24954C T:54 Exits:NESW> 
+w
+w
+Market Street West
+A tired traveller is looking around for the town's inn.
+
+475H 153V 1X 11.08% 24954C T:54 Exits:NESW> 
+w
+Market Street West
+A large pigeon is here pecking at some bread crumbs.
+
+475H 152V 1X 11.08% 24954C T:54 Exits:NESW> 
+w
+Market Street West
+A cityguard of Kalaman looks about for signs of trouble.
+
+475H 151V 1X 11.08% 24954C T:53 Exits:NESW> 
+w
+w
+w
+Market Street West
+A large pigeon is here pecking at some bread crumbs.
+
+475H 150V 1X 11.08% 24954C T:53 Exits:ESW> 
+Market Street West
+
+475H 149V 1X 11.08% 24954C T:53 Exits:EW> 
+w
+w
+Intersection of Market Street and Wall Road
+A street cleaner is walking about, cleaning up the trash.
+
+475H 148V 1X 11.08% 24954C T:53 Exits:NESW> 
+Western City Gates
+A tired traveller is looking around for the town's inn.
+A cityguard of Kalaman stands here, guarding the western gates.
+A cityguard of Kalaman stands here, guarding the western gates.
+A cityguard of Kalaman stands here, guarding the western gates.
+A cityguard of Kalaman stands here, guarding the western gates.
+
+475H 147V 1X 11.08% 24954C T:52 Exits:EW> 
+Outside the Western Gates of Kalaman
+
+475H 146V 1X 11.08% 24954C T:52 Exits:EW> 
+Beyond the City of Kalaman
+
+475H 144V 1X 11.08% 24954C T:52 Exits:ESW> 
+w
+w
+Before an Old Cemetery
+
+475H 142V 1X 11.08% 24954C T:51 Exits:NEW> 
+w
+Near a Vast City
+
+475H 140V 1X 11.08% 24954C T:51 Exits:NEW> 
+A Well Groomed Path
+A sign post is planted in the ground here.
+
+475H 138V 1X 11.08% 24954C T:51 Exits:EW> 
+e
+Near a Vast City
+
+475H 136V 1X 11.08% 24954C T:50 Exits:NEW> 
+n
+Beside a Thick Forest
+
+475H 134V 1X 11.08% 24954C T:50 Exits:NS> 
+n
+Traveling the Plains
+A small grasshopper sits in the grass.
+
+475H 132V 1X 11.08% 24954C T:50 Exits:NS> 
+n
+n
+Walking the Plains of Estwilde
+A small grasshopper sits in the grass.
+
+475H 130V 1X 11.08% 24954C T:49 Exits:NS> 
+n
+Crossing the Plains
+A small grasshopper sits in the grass.
+
+475H 128V 1X 11.08% 24954C T:49 Exits:NS> 
+n
+Curving Away from the Shore
+
+475H 126V 1X 11.08% 24954C T:49 Exits:SW> 
+Alas, you cannot go that way...
+
+475H 126V 1X 11.08% 24954C T:49 Exits:SW> 
+w
+w
+Beside the Vingaard
+
+475H 124V 1X 11.08% 24954C T:48 Exits:EW> 
+The Banks of the Vingaard River
+A small wooden signpost stands upright at the edge of the road.
+
+475H 122V 1X 11.08% 24954C T:48 Exits:NES> 
+
+475H 122V 1X 11.08% 24954C T:48 Exits:NES> 
+n
+The Vingaard River
+
+475H 120V 1X 11.08% 24954C T:47 Exits:NS> 
+n
+Banks of the Vingaard River
+
+475H 118V 1X 11.08% 24954C T:47 Exits:NS> 
+n
+n
+South of A Junction of Paths
+
+475H 116V 1X 11.08% 24954C T:47 Exits:NS> 
+A Junction of Paths
+A large guard stands here, keeping a constant eye out for trouble.
+A large guard stands here, keeping a constant eye out for trouble.
+An old man stands here, offering you a look at his wares.
+
+475H 114V 1X 11.08% 24954C T:47 Exits:NSW> 
+w
+w
+A Highway Through the Plains
+A poor refugee stands here, tired from his long days on the road.
+
+475H 112V 1X 11.08% 24954C T:46 Exits:EW> 
+A Highway Through the Plains
+A prancing gazelle lifts its head and stares at you.
+A solemn knight of the sword patrols the area for draconians.
+
+475H 110V 1X 11.08% 24954C T:46 Exits:ES> 
+s
+w
+A Highway Through the Plains
+A solemn knight of the sword patrols the area for draconians.
+A solemn knight of the sword patrols the area for draconians.
+A poor refugee stands here, tired from his long days on the road.
+
+475H 108V 1X 11.08% 24954C T:45 Exits:NW> 
+A Highway Through the Plains
+A jolly, old bard travels along the road, strumming a mandolin.
+
+475H 106V 1X 11.08% 24954C T:44 Exits:EW> 
+w
+A Highway Through the Plains
+A knight's horse is standing here, carrying a Knight of the Sword.
+A poor refugee stands here, tired from his long days on the road.
+
+475H 104V 1X 11.08% 24954C T:44 Exits:NEW> 
+n
+A Path Off the Highway
+
+475H 102V 1X 11.08% 24954C T:43 Exits:NS> 
+n
+A Worn Path Through the Reeds
+
+475H 100V 1X 11.08% 24954C T:43 Exits:NESW> 
+n
+A Worn Path Through the Reeds
+
+475H 98V 1X 11.08% 24954C T:43 Exits:NESW> 
+n
+A Twist in the Path
+
+475H 96V 1X 11.08% 24954C T:42 Exits:NESW> 
+w
+Another Twist in the Path
+
+475H 94V 1X 11.08% 24954C T:42 Exits:NE> 
+n
+A Dusty Path
+
+475H 92V 1X 11.08% 24954C T:41 Exits:NS> 
+n
+A Bend in the Path
+
+475H 90V 1X 11.08% 24954C T:41 Exits:SW> 
+w
+The Final Leg of the Path
+
+475H 88V 1X 11.08% 24954C T:40 Exits:NE> 
+n
+The Entrance to the Que Kul Village
+A Que Kul guard stands before the mighty village of his people, protecting it.
+A Que Kul guard stands before the mighty village of his people, protecting it.
+
+475H 87V 1X 11.08% 24954C T:40 Exits:NS> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.08% of your next rank.
+You are 20 years old.
+You have 475(475) hit and 87(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 24954(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 39 minute(s).
+You have been playing for 12 day(s), 14 hour(s) and 50 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are following Yabba.
+You are affected by the following:
+    ethereal armor       [4 hrs]
+    spectral glow        [26 hrs]
+    ancestral blessing   [permanent]
+
+475H 87V 1X 11.08% 24954C T:38 Exits:NS> 
+c 'eth'
+You utter the words, 'ethereal armor'
+
+475H 87V 1X 11.08% 24954C Mem:2 T:37 Exits:NS> 
+c 'ghostsk' me
+You utter the words, 'ghostskin'
+Your skin takes a ghostly hue.
+
+475H 87V 1X 11.08% 24954C Mem:3 T:33 Exits:NS> 
+cast 'mon man'
+cast 'spe si'
+cast 'an shro' me
+You utter the words, 'monstrous mantle'
+Your features are hideously distorted as your true form is revealed!
+
+475H 87V 1X 11.08% 24954C Mem:3 T:28 Exits:NS> 
+
+You are no longer a member of Yabba's group.
+gro
+You stop following Yabba.
+Your clanmate Yabba has left the game.
+
+475H 87V 1X 11.08% 24954C Mem:3 T:27 Exits:NS> 
+You utter the words, 'spectral sight'
+Your eyes tingle.
+
+475H 87V 1X 11.08% 24954C Mem:3 T:24 Exits:NS> 
+You utter the words, 'ancestral shroud'
+A spirit shroud soaks into your skin.
+
+475H 87V 1X 11.08% 24954C Mem:4 T:20 Exits:NS> 
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  SH Urtas            perfect   rested    standing   Y   Y    Y    Y   Y     1    4
+
+475H 87V 1X 11.08% 24954C Mem:4 T:16 Exits:NS> 
+l
+The Entrance to the Que Kul Village
+A Que Kul guard stands before the mighty village of his people, protecting it.
+A Que Kul guard stands before the mighty village of his people, protecting it.
+
+475H 87V 1X 11.08% 24954C Mem:4 T:12 Exits:NS> 
+re
+You rest your tired bones but stay aloft.
+
+475H 87V 1X 11.08% 24954C Mem:2 T:10 Exits:NS> 
+l
+The Entrance to the Que Kul Village
+A Que Kul guard stands before the mighty village of his people, protecting it.
+A Que Kul guard stands before the mighty village of his people, protecting it.
+
+475H 87V 1X 11.08% 24954C Mem:2 T:9 Exits:NS> 
+m
+Spells currently memorized:
+1: [ 1]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 1]blindness            [ 3]cure blindness      
+   [ 1]curse                [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 2]soul leech           [ 4]sublime resistance  
+5: [ 1]boiling blood        [ 7]destroy undead       [ 1]tenacious heart     
+6: [ 1]darkened soul        [ 5]regenerate           [ 2]ritual voyage       
+7: [ 2]ghostskin            [ 1]soul protection     
+8: [ 3]healing wave        
+
+Spells being memorized:
+1: [ 1]ancestral shroud    
+3: [ 1]spectral sight      
+4: [ 1]monstrous mantle    
+7: [ 1]ethereal armor       [ 1]ghostskin           
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-1 2-2 3-0 4-0 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+475H 87V 1X 11.08% 24954C Mem:2 T:9 Exits:NS> 
+l
+The Entrance to the Que Kul Village
+A Que Kul guard stands before the mighty village of his people, protecting it.
+A Que Kul guard stands before the mighty village of his people, protecting it.
+
+475H 87V 1X 11.08% 24954C Mem:2 T:3 Exits:NS> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.08% of your next rank.
+You are 20 years old.
+You have 475(475) hit and 87(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 24954(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 40 minute(s).
+You have been playing for 12 day(s), 14 hour(s) and 51 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are resting.
+You are flying.
+You are affected by the following:
+    ancestral shroud     [24 hrs]
+    spectral sight       [24 hrs]
+    monstrous mantle     [30 hrs]
+    ghostskin            [29 hrs]
+    ethereal armor       [4 hrs]
+    spectral glow        [26 hrs]
+    ancestral blessing   [permanent]
+
+475H 87V 1X 11.08% 24954C Mem:2 T:2 Exits:NS> 
+l
+The Entrance to the Que Kul Village
+A Que Kul guard stands before the mighty village of his people, protecting it.
+A Que Kul guard stands before the mighty village of his people, protecting it.
+
+475H 135V 1X 11.08% 24954C Mem:1 T:60 Exits:NS> 
+sta
+You stand up.
+
+475H 135V 1X 11.08% 24954C Mem:1 T:59 Exits:NS> 
+c 'reg' me
+You utter the words, 'regenerate'
+But he looks fine!
+You feel a very slight tingling sensation.
+Your wounds begin to heal.
+
+475H 135V 1X 11.08% 24954C Mem:2 T:58 Exits:NS> 
+
+Some of your nastier wounds disappear.
+
+475H 135V 1X 11.08% 24954C Mem:2 T:56 Exits:NS> 
+kil guard
+You cleave a Que Kul guard extremely hard.
+
+475H 135V 1X 11.08% 24954C [Urtas:Perfect] [a Que Kul guard:V.Good] Mem:2 T:54 Exits:NS> 
+
+Some of your nastier wounds disappear.
+You massacre a Que Kul guard with your cleave.
+A Que Kul guard cleaves YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+You move aside quickly as a Que Kul guard attacks!
+You are sent sprawling as a Que Kul guard crashes into you.
+
+436H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:Good] Mem:2 T:52 Exits:NS> 
+
+A Que Kul guard gives you a solid punch in the face.
+
+426H 135V 1X 11.08% 24954C [Urtas:Good] [a Que Kul guard:Good] Mem:2 T:52 Exits:NS> 
+
+Some of your nastier wounds disappear.
+A Que Kul guard hits YOU hard.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+A Que Kul guard misses you with his hit.
+You cleave a Que Kul guard extremely hard.
+You massacre a Que Kul guard with your cleave.
+A Que Kul guard cleaves YOU hard.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+A Que Kul guard cleaves YOU hard.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+
+439H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:Fair] Mem:2 T:48 Exits:NS> 
+
+You dodge out of the way of a Que Kul guard's mistargeted kick.
+
+439H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:Fair] Mem:2 T:46 Exits:NS> 
+sta
+
+Some of your nastier wounds disappear.
+A Que Kul guard hits YOU hard.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+A Que Kul guard hits YOU hard.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+You massacre a Que Kul guard with your cleave.
+A Que Kul guard cleaves YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+A Que Kul guard cleaves YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+
+440H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:Fair] Mem:2 T:44 Exits:NS> 
+
+You feel ribs crack as you are kicked in the chest by a Que Kul guard.
+
+438H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:Fair] Mem:2 T:43 Exits:NS> 
+fren
+You stand up.
+
+438H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:Fair] Mem:2 T:41 Exits:NS> 
+A red mist blurs your vision and you let out a mighty yell!
+
+438H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:Fair] Mem:2 T:41 Exits:NS> 
+
+Some of your nastier wounds disappear.
+A Que Kul guard hits YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+A Que Kul guard barely hits YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+You cleave a Que Kul guard extremely hard.
+You massacre a Que Kul guard with your cleave.
+A Que Kul guard barely cleaves YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+
+449H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:Bad] Mem:2 T:40 Exits:NS> 
+
+A Que Kul guard sunders your armour!
+
+449H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:Bad] Mem:2 T:40 Exits:NS> 
+
+A Que Kul guard gives you a solid punch in the face.
+
+434H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:Bad] Mem:2 T:37 Exits:NS> 
+
+Some of your nastier wounds disappear.
+A Que Kul guard barely hits YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+Your mighty cleave almost cuts a Que Kul guard in two!
+You massacre a Que Kul guard with your cleave.
+You massacre a Que Kul guard with your cleave.
+A Que Kul guard misses you with his cleave.
+
+458H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:V.Bad] Mem:2 T:36 Exits:NS> 
+kk
+Huh?!
+
+458H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:V.Bad] Mem:2 T:35 Exits:NS> 
+
+A Que Kul guard gives you a solid punch in the face.
+
+444H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:V.Bad] Mem:2 T:34 Exits:NS> 
+
+Some of your nastier wounds disappear.
+A Que Kul guard barely hits YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+A Que Kul guard barely hits YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+You cleave a Que Kul guard extremely hard.
+You cleave a Que Kul guard extremely hard.
+A Que Kul guard cleaves YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+You move aside quickly as a Que Kul guard attacks!
+A Que Kul guard stumbles and accidentally attacks a Que Kul guard!
+A Que Kul guard cleaves a Que Kul guard very hard.
+
+459H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:V.Bad] Mem:2 T:32 Exits:NS> 
+hex
+You scream wildly and cuss at a Que Kul guard.
+
+459H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:V.Bad] Mem:2 T:32 Exits:NS> 
+
+Some of your nastier wounds disappear.
+A Que Kul guard barely cleaves YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+A Que Kul guard hits YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+You cleave a Que Kul guard very hard.
+You cleave a Que Kul guard extremely hard.
+
+464H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:Awful] Mem:2 T:28 Exits:NS> 
+
+You are sent sprawling as a Que Kul guard crashes into you.
+
+439H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:Awful] Mem:2 T:28 Exits:NS> 
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+A Que Kul guard barely cleaves YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+A Que Kul guard barely cleaves YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+A Que Kul guard hits YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+Your mighty cleave almost cuts a Que Kul guard in two!
+You massacre a Que Kul guard with your cleave.
+get pile corpse
+You receive 0 experience.
+exa corpse
+A Que Kul guard is dead! R.I.P.
+The death cry of a Que Kul guard echoes from somewhere nearby...
+A spirit rises from the body of a Que Kul guard.
+You direct your attention to a Que Kul guard.
+
+448H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:Good] Mem:2 T:24 Exits:NS> 
+sta
+fren
+
+You fumble and fail to even swing at your target.
+A Que Kul guard misses you with his hit.
+A Que Kul guard hits YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+
+439H 135V 1X 11.08% 24954C [Urtas:V.Good] [a Que Kul guard:Good] Mem:2 T:20 Exits:NS> 
+You get a pile of coins from the corpse of a Que Kul guard.
+split 68
+There were 68 coins.
+
+439H 135V 1X 11.08% 25022C [Urtas:V.Good] [a Que Kul guard:Good] Mem:2 T:20 Exits:NS> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a plainsman longbow
+a plainsman's war hatchet
+
+439H 135V 1X 11.08% 25022C [Urtas:V.Good] [a Que Kul guard:Good] Mem:2 T:20 Exits:NS> 
+You stand up.
+
+439H 135V 1X 11.08% 25022C [Urtas:V.Good] [a Que Kul guard:Good] Mem:2 T:19 Exits:NS> 
+A red mist blurs your vision and you let out a mighty yell!
+
+439H 135V 1X 11.08% 25022C [Urtas:V.Good] [a Que Kul guard:Good] Mem:2 T:19 Exits:NS> 
+
+You massacre a Que Kul guard with your cleave.
+A Que Kul guard barely hits YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+
+434H 135V 1X 11.08% 25022C [Urtas:V.Good] [a Que Kul guard:Fair] Mem:2 T:16 Exits:NS> 
+spook
+You belong to no group.
+
+434H 135V 1X 11.08% 25022C [Urtas:V.Good] [a Que Kul guard:Fair] Mem:2 T:15 Exits:NS> 
+You give out a wild cry and point a shaking finger at a Que Kul guard.
+A Que Kul guard cowers before your scolding.
+
+434H 135V 1X 11.08% 25022C [Urtas:V.Good] [a Que Kul guard:Fair] Mem:2 T:15 Exits:NS> 
+
+A Que Kul guard tries to disarm your weapon, but you deftly avoid him.
+
+434H 135V 1X 11.08% 25022C [Urtas:V.Good] [a Que Kul guard:Fair] Mem:2 T:13 Exits:NS> 
+
+You massacre a Que Kul guard with your cleave.
+You massacre a Que Kul guard with your cleave.
+A Que Kul guard barely hits YOU.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+A Que Kul guard bruises YOU with his hit.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+
+428H 135V 1X 11.08% 25022C [Urtas:V.Good] [a Que Kul guard:Fair] Mem:2 T:12 Exits:NS> 
+hex
+You scream wildly and cuss at a Que Kul guard.
+A Que Kul guard briefly reveals a red aura!
+A Que Kul guard groans and stumbles back.
+
+428H 135V 1X 11.08% 25022C [Urtas:V.Good] [a Que Kul guard:Fair] Mem:2 T:10 Exits:NS> 
+
+You massacre a Que Kul guard with your cleave.
+You massacre a Que Kul guard with your cleave.
+A Que Kul guard bruises YOU with his hit.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+
+426H 135V 1X 11.08% 25022C [Urtas:Good] [a Que Kul guard:Bad] Mem:2 T:8 Exits:NS> 
+l
+The Entrance to the Que Kul Village
+The corpse of a Que Kul guard is lying here.
+The spirit of a Que Kul guard is hovering here. (grey aura)
+A Que Kul guard is standing here, fighting YOU. (cursed)
+. . . is cowering in fear.
+
+426H 135V 1X 11.08% 25022C [Urtas:Good] [a Que Kul guard:Bad] Mem:2 T:6 Exits:NS> 
+
+You massacre a Que Kul guard with your cleave.
+You massacre a Que Kul guard with your cleave.
+A Que Kul guard misses you with his hit.
+A Que Kul guard misses you with his hit.
+
+426H 135V 1X 11.08% 25022C [Urtas:Good] [a Que Kul guard:V.Bad] Mem:2 T:4 Exits:NS> 
+l
+The Entrance to the Que Kul Village
+The corpse of a Que Kul guard is lying here.
+The spirit of a Que Kul guard is hovering here. (grey aura)
+A Que Kul guard is standing here, fighting YOU. (cursed)
+. . . is cowering in fear.
+
+426H 135V 1X 11.08% 25022C [Urtas:Good] [a Que Kul guard:V.Bad] Mem:2 T:3 Exits:NS> 
+
+You massacre a Que Kul guard with your cleave.
+You massacre a Que Kul guard with your cleave.
+A Que Kul guard bruises YOU with his hit.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+A Que Kul guard bruises YOU with his hit.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+
+460H 173V 1X 11.08% 25022C [Urtas:V.Good] [a Que Kul guard:Awful] Mem:2 T:60 Exits:NS> 
+
+You annihilate a Que Kul guard with your cleave.
+A Que Kul guard misses you with his hit.
+A Que Kul guard bruises YOU with his hit.
+A Que Kul guard gasps in pain as he swings through the shadows surrounding you.
+
+457H 173V 1X 11.08% 25022C [Urtas:V.Good] [a Que Kul guard:Awful] Mem:2 T:56 Exits:NS> 
+
+You massacre a Que Kul guard with your cleave.
+You massacre a Que Kul guard with your cleave.
+get pile corpse
+You receive 0 experience.
+exa corpse
+A Que Kul guard is dead! R.I.P.
+The death cry of a Que Kul guard echoes from somewhere nearby...
+A spirit rises from the body of a Que Kul guard.
+
+457H 173V 1X 11.08% 25022C Mem:2 T:52 Exits:NS> 
+You get a pile of coins from the corpse of a Que Kul guard.
+split 44
+There were 44 coins.
+
+457H 173V 1X 11.08% 25066C Mem:2 T:52 Exits:NS> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a plainsman longbow
+
+457H 173V 1X 11.08% 25066C Mem:2 T:52 Exits:NS> 
+You belong to no group.
+
+457H 173V 1X 11.08% 25066C Mem:2 T:52 Exits:NS> 
+n
+Road Through the Que Kul Village
+A Que Kul villager walks along the dirt road of the village.
+An adolescent Que Kul boy wanders the village, running errands.
+A haggard warrior of the Que Kul wanders the village, perhaps heading home.
+An adolescent Que Kul boy wanders the village, running errands.
+
+457H 172V 1X 11.08% 25066C Mem:2 T:50 Exits:N(E)S(W)> 
+n
+n
+Road Through the Que Kul Village
+A Que Kul villager walks along the dirt road of the village.
+
+457H 171V 1X 11.08% 25066C Mem:2 T:50 Exits:N(E)S(W)> 
+Road Through the Que Kul Village
+An adolescent Que Kul boy wanders the village, running errands.
+A haggard warrior of the Que Kul wanders the village, perhaps heading home.
+
+457H 170V 1X 11.08% 25066C Mem:2 T:49 Exits:NESW> 
+n
+n
+The Well House
+A circular stone well provides fresh water for the Que Kul village.
+
+457H 169V 1X 11.08% 25066C Mem:2 T:49 Exits:S> 
+Alas, you cannot go that way...
+
+457H 169V 1X 11.08% 25066C Mem:2 T:49 Exits:S> 
+s
+e
+Road Through the Que Kul Village
+An adolescent Que Kul boy wanders the village, running errands.
+A haggard warrior of the Que Kul wanders the village, perhaps heading home.
+
+457H 168V 1X 11.08% 25066C Mem:2 T:48 Exits:NESW> 
+Around the Center of the Village
+
+457H 167V 1X 11.08% 25066C Mem:2 T:48 Exits:N(E)W> 
+n
+An Intersection Through the Que Kul Village
+A Que Kul villager walks along the dirt road of the village.
+
+457H 166V 1X 11.08% 25066C Mem:2 T:47 Exits:NESW> 
+e
+e
+Road Through the Que Kul Village
+A haggard warrior of the Que Kul wanders the village, perhaps heading home.
+
+457H 165V 1X 11.08% 25066C Mem:2 T:47 Exits:(N)E(S)W> 
+e
+Road Through the Que Kul Village
+A Que Kul villager walks along the dirt road of the village.
+
+457H 164V 1X 11.08% 25066C Mem:2 T:46 Exits:(N)E(S)W> 
+A Wooden Bridge Over a River
+
+457H 163V 1X 11.08% 25066C Mem:2 T:46 Exits:EW> 
+e
+A Small Clearing in the Trees
+
+457H 161V 1X 11.08% 25066C Mem:2 T:45 Exits:NESW> 
+w
+A Wooden Bridge Over a River
+
+457H 159V 1X 11.08% 25066C Mem:2 T:45 Exits:EW> 
+s
+Deciding to test fate, you deliberately leap off the bridge and into the river.
+A Roaring River
+
+457H 157V 1X 11.08% 25066C Mem:2 T:45 Exits:N> 
+
+You splash into the water, and the current drags you downstream.
+A Roaring River
+
+457H 157V 1X 11.08% 25066C Mem:2 T:44 Exits:NS> 
+
+You splash into the water, and the current drags you downstream.
+A Roaring River
+
+457H 157V 1X 11.08% 25066C Mem:2 T:40 Exits:SWD> 
+
+You scramble to shore as the river disappears into an underground cavern.
+A Path into the Mountains
+
+457H 157V 1X 11.08% 25066C Mem:2 T:39 Exits:NSW> 
+l
+A Path into the Mountains
+
+457H 157V 1X 11.08% 25066C Mem:2 T:31 Exits:NSW> 
+dive river
+You foolishly leap into the roaring river and quickly realize you made a
+mistake. Desperately, you begin to swim back to shore before the raging
+waters pull you under.
+
+A Roaring River
+
+457H 157V 1X 11.08% 25066C Mem:2 T:28 Exits:SWD> 
+
+You scramble to shore as the river disappears into an underground cavern.
+A Path into the Mountains
+
+457H 157V 1X 11.08% 25066C Mem:2 T:27 Exits:NSW> 
+dive river
+You foolishly leap into the roaring river and quickly realize you made a
+mistake. Desperately, you begin to swim back to shore before the raging
+waters pull you under.
+
+A Roaring River
+
+457H 157V 1X 11.08% 25066C Mem:2 T:21 Exits:SWD> 
+
+Your screams are muffled by the waters as you are sucked under!
+An Underground Spring
+
+457H 157V 1X 11.08% 25066C Mem:1 T:20 Exits:E> 
+e
+An Underground River
+
+457H 155V 1X 11.08% 25066C Mem:2 T:17 Exits:EW> 
+
+You splash into the water, and the current drags you downstream.
+An Underground River
+
+457H 155V 1X 11.08% 25066C Mem:2 T:16 Exits:NW> 
+
+The current drags you east.
+An Underground River
+
+457H 155V 1X 11.08% 25066C Mem:2 T:12 Exits:ES> 
+l
+
+Caught in the current, the stream drops you over the side of the waterfall.
+Above the Waterfall
+
+457H 155V 1X 11.08% 25066C Mem:2 T:8 Exits:WD> 
+d
+Above the Waterfall
+
+457H 155V 1X 11.08% 25066C Mem:2 T:6 Exits:WD> 
+A Frozen Underground Lake
+
+457H 153V 1X 11.08% 25066C Mem:2 T:6 Exits:SU> 
+re
+You rest your tired bones but stay aloft.
+
+457H 153V 1X 11.08% 25066C Mem:1 T:2 Exits:SU> 
+l
+A Frozen Underground Lake
+
+457H 153V 1X 11.08% 25066C Mem:1 T:1 Exits:SU> 
+
+Your meditation finished, you put away your charms with a smile.
+
+475H 173V 1X 11.08% 25066C T:60 Exits:SU> 
+sta
+You stand up.
+
+475H 173V 1X 11.08% 25066C T:59 Exits:SU> 
+en waterfall
+Behind an Underground Waterfall
+A tall barbarian woman dressed in tattooed hides stands here. (grey aura)
+
+475H 171V 1X 11.08% 25066C T:57> 
+nod
+You nod solemnly.
+The air around you shimmers softly.
+You notice a glimmer of blue light in the shadows.
+
+475H 171V 1X 11.08% 25066C T:55> 
+get staff
+You get a polished bone staff encrusted with jewels.
+
+475H 171V 1X 11.08% 25066C T:53> 
+
+Beyond the waterfall, a hideous spectral creature lurches awkwardly northwards.
+
+475H 171V 1X 11.08% 25066C T:52> 
+rem axe
+You stop using the axe of hurling.
+
+475H 171V 1X 11.08% 25066C T:50> 
+wie staff
+You use both hands to grip a polished bone staff encrusted with jewels.
+
+475H 171V 1X 11.08% 25066C T:49> 
+l
+sco
+Behind an Underground Waterfall
+
+475H 171V 1X 11.08% 25066C T:44> 
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.08% of your next rank.
+You are 20 years old.
+You have 475(475) hit and 171(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 25066(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 42 minute(s).
+You have been playing for 12 day(s), 14 hour(s) and 53 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    ancestral shroud     [21 hrs]
+    spectral sight       [21 hrs]
+    monstrous mantle     [27 hrs]
+    ghostskin            [10 hrs]
+    ethereal armor       [1 hour]
+    spectral glow        [23 hrs]
+    ancestral blessing   [permanent]
+
+475H 171V 1X 11.08% 25066C T:44> 
+
+Beyond the waterfall, a hideous spectral creature lurches awkwardly in from the north.
+
+475H 171V 1X 11.08% 25066C T:41> 
+en waterfall
+You lift the jewel encrusted staff towards the waterfall.
+
+As the staff's sapphire head touches the shimmering veil of water, the
+falling water separates, revealing a twisted corridor of stone.
+
+You quickly step through the opening in the shimmering veil of water.
+As you pass through, waves of spectral energy wash over you!
+Your eyes burn for a moment and then feel normal again.
+The blessing of the ancients subsides.
+The ghostly hue vanishes from your flesh.
+The shadows surrounding you disperse.
+You feel less threatening.
+Your shroud fades away.
+The glow of your skin slowly fades.
+A Twisting Corridor of Jagged Stone
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideous spectral creature looks angrily at you and moans, 'INTRUUUDERRRR!'
+A hideous spectral creature hits YOU very hard.
+A hideous spectral creature looks angrily at you and moans, 'INTRUUUDERRRR!'
+A hideous spectral creature hits YOU very hard.
+A hideous spectral creature looks angrily at you and moans, 'INTRUUUDERRRR!'
+A hideous spectral creature hits YOU very hard.
+The shimmering opening in the air closes behind you.
+
+430H 171V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Perfect] T:40 Exits:NU> 
+
+A hideous spectral creature hits YOU hard.
+A hideous spectral creature hits YOU very hard.
+A hideous spectral creature hits YOU hard.
+You massacre a hideous spectral creature with your bludgeon.
+
+393H 171V 1X 11.08% 25066C [Urtas:Good] [a hideous spectral creature:V.Good] T:36 Exits:NU> 
+c 'p f u' me
+You utter the words, 'protection from undead'
+You feel a stark chill run down your arm!
+
+393H 171V 1X 11.08% 25066C [Urtas:Good] [a hideous spectral creature:V.Good] Mem:1 T:35 Exits:NU> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+393H 171V 1X 11.08% 25066C [Urtas:Good] [a hideous spectral creature:V.Good] Mem:1 T:34 Exits:WD> 
+
+A hideous spectral creature hits YOU extremely hard.
+A hideous spectral creature hits YOU extremely hard.
+A hideous spectral creature hits YOU hard.
+
+345H 171V 1X 11.08% 25066C [Urtas:Fair] [a hideous spectral creature:V.Good] Mem:1 T:32 Exits:WD> 
+fl
+You flee head over heels.
+A Twisting Corridor of Jagged Stone
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideous spectral creature looks blankly at you, then ignores you.
+
+345H 169V 1X 11.08% 25066C Mem:1 T:31 Exits:SU> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+345H 169V 1X 11.08% 25066C Mem:1 T:29 Exits:SU> 
+c 'reg' me
+You utter the words, 'regenerate'
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+401H 169V 1X 11.08% 25066C Mem:2 T:26 Exits:SU> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+401H 169V 1X 11.08% 25066C Mem:2 T:25 Exits:NW> 
+
+Some of your nastier wounds disappear.
+
+457H 169V 1X 11.08% 25066C Mem:2 T:24 Exits:NW> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+457H 169V 1X 11.08% 25066C Mem:2 T:22 Exits:NW> 
+c 'de un' creature
+You utter the words, 'destroy undead'
+A hideous spectral creature turns to ashes!
+get pile corpse
+You receive 0 experience.
+exa corpse
+A hideous spectral creature is dead! R.I.P.
+The death cry of a hideous spectral creature echoes from somewhere nearby...
+A hideous spectral creature's corpse disintegrates instantly!
+
+457H 169V 1X 11.08% 25066C Mem:3 T:22 Exits:NW> 
+
+Some of your nastier wounds disappear.
+
+475H 169V 1X 11.08% 25066C Mem:3 T:20 Exits:NW> 
+What are you trying to get from?
+
+475H 169V 1X 11.08% 25066C Mem:3 T:18 Exits:NW> 
+You do not see that here.
+
+475H 169V 1X 11.08% 25066C Mem:3 T:17 Exits:NW> 
+l
+A hideous spectral creature looks blankly at you, then ignores you.
+A Twisting Corridor of Jagged Stone
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+
+475H 169V 1X 11.08% 25066C Mem:3 T:17 Exits:NW> 
+
+Some of your nastier wounds disappear.
+
+475H 169V 1X 11.08% 25066C Mem:3 T:16 Exits:NW> 
+c 'eth'
+You utter the words, 'ethereal armor'
+You are surrounded by swirling shadows.
+
+475H 169V 1X 11.08% 25066C Mem:3 T:14 Exits:NW> 
+
+Some of your nastier wounds disappear.
+
+475H 169V 1X 11.08% 25066C Mem:3 T:12 Exits:NW> 
+c 'ghostsk' me
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 169V 1X 11.08% 25066C Mem:3 T:12 Exits:ND> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 169V 1X 11.08% 25066C Mem:3 T:11 Exits:ND> 
+
+A hideous spectral creature lurches awkwardly in from below.
+
+475H 169V 1X 11.08% 25066C Mem:3 T:10 Exits:ND> 
+You utter the words, 'ghostskin'
+Your skin takes a ghostly hue.
+
+475H 169V 1X 11.08% 25066C Mem:4 T:10 Exits:ND> 
+l
+
+Some of your nastier wounds disappear.
+
+475H 169V 1X 11.08% 25066C Mem:4 T:8 Exits:ND> 
+re
+A Twisting Corridor of Jagged Stone
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+
+475H 169V 1X 11.08% 25066C Mem:4 T:6 Exits:ND> 
+You rest your tired bones but stay aloft.
+
+475H 169V 1X 11.08% 25066C Mem:2 T:5 Exits:ND> 
+
+A hideous spectral creature lurches awkwardly northwards.
+Some of your nastier wounds disappear.
+
+475H 169V 1X 11.08% 25066C Mem:2 T:4 Exits:ND> 
+l
+A Twisting Corridor of Jagged Stone
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+
+475H 169V 1X 11.08% 25066C Mem:2 T:4 Exits:ND> 
+l
+A Twisting Corridor of Jagged Stone
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+
+475H 169V 1X 11.08% 25066C Mem:2 T:3 Exits:ND> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 169V 1X 11.08% 25066C Mem:2 T:2 Exits:ES> 
+l
+
+Some of your nastier wounds disappear.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:60 Exits:ES> 
+A Twisting Corridor of Jagged Stone
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+
+475H 173V 1X 11.08% 25066C Mem:1 T:60 Exits:ES> 
+
+A hideous spectral creature lurches awkwardly in from the east.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:58 Exits:ES> 
+sta
+You stand up.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:58 Exits:ES> 
+c 'de un' creature
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:56 Exits:ES> 
+You utter the words, 'destroy undead'
+A hideous spectral creature turns to ashes!
+get pile corpse
+You receive 0 experience.
+exa corpse
+A hideous spectral creature is dead! R.I.P.
+The death cry of a hideous spectral creature echoes from somewhere nearby...
+A hideous spectral creature's corpse disintegrates instantly!
+
+475H 173V 1X 11.08% 25066C Mem:2 T:56 Exits:ES> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 173V 1X 11.08% 25066C Mem:2 T:52 Exits:SU> 
+What are you trying to get from?
+
+475H 173V 1X 11.08% 25066C Mem:2 T:52 Exits:SU> 
+You do not see that here.
+
+475H 173V 1X 11.08% 25066C Mem:2 T:52 Exits:SU> 
+s
+A Twisting Corridor of Jagged Stone
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 171V 1X 11.08% 25066C Mem:2 T:51 Exits:NW> 
+c 'de un' creature
+You utter the words, 'destroy undead'
+A hideous spectral creature turns to ashes!
+get pile corpse
+You receive 0 experience.
+exa corpse
+A hideous spectral creature is dead! R.I.P.
+The death cry of a hideous spectral creature echoes from somewhere nearby...
+A hideous spectral creature's corpse disintegrates instantly!
+
+475H 171V 1X 11.08% 25066C Mem:3 T:50 Exits:NW> 
+l
+w
+What are you trying to get from?
+
+475H 171V 1X 11.08% 25066C Mem:3 T:45 Exits:NW> 
+You do not see that here.
+
+475H 171V 1X 11.08% 25066C Mem:3 T:45 Exits:NW> 
+A Twisting Corridor of Jagged Stone
+
+475H 171V 1X 11.08% 25066C Mem:3 T:45 Exits:NW> 
+A Twisting Corridor of Jagged Stone
+A small clay jar hangs suspended in the air.
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideous spectral creature looks blankly at you, then ignores you.
+A hideous spectral creature looks blankly at you, then ignores you.
+A hideous spectral creature looks blankly at you, then ignores you.
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 169V 1X 11.08% 25066C Mem:3 T:45 Exits:ED> 
+c 'de un' creature
+You utter the words, 'destroy undead'
+A hideous spectral creature withers in agony.
+
+475H 169V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:Good] Mem:3 T:43 Exits:ED> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 169V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:Good] Mem:3 T:43 Exits:ED> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 169V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:Good] Mem:3 T:42 Exits:ED> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 169V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:Good] Mem:3 T:42 Exits:ND> 
+
+A hideous spectral creature lurches awkwardly northwards.
+
+475H 169V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:Good] Mem:3 T:41 Exits:ND> 
+
+You bludgeon a hideous spectral creature extremely hard.
+A hideous spectral creature hits YOU hard.
+A hideous spectral creature gasps in pain as it swings through the shadows surrounding you.
+
+462H 169V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Good] Mem:3 T:40 Exits:ND> 
+
+A hideous spectral creature lurches awkwardly downwards.
+
+462H 169V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Good] Mem:3 T:37 Exits:ND> 
+
+You massacre a hideous spectral creature with your bludgeon.
+You annihilate a hideous spectral creature with your bludgeon.
+A hideous spectral creature hits YOU very hard.
+A hideous spectral creature gasps in pain as it swings through the shadows surrounding you.
+A hideous spectral creature emerges from a nearby wall.
+A hideous spectral creature emerges from a nearby wall.
+A hideous spectral creature emerges from a nearby wall.
+A hideous spectral creature emerges from a nearby wall.
+A hideous spectral creature melts into a nearby wall.
+A hideous spectral creature emerges from a nearby wall.
+A hideous spectral creature emerges from a nearby wall.
+A hideous spectral creature emerges from a nearby wall.
+A hideous spectral creature emerges from a nearby wall.
+A hideous spectral creature melts into a nearby wall.
+A hideous spectral creature emerges from a nearby wall.
+
+447H 169V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Fair] Mem:3 T:36 Exits:ND> 
+fl
+You flee head over heels.
+A Twisting Corridor of Jagged Stone
+
+447H 167V 1X 11.08% 25066C Mem:3 T:36 Exits:ES> 
+l
+A Twisting Corridor of Jagged Stone
+
+447H 167V 1X 11.08% 25066C Mem:3 T:34 Exits:ES> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.08% of your next rank.
+You are 20 years old.
+You have 447(475) hit and 167(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 25066(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 44 minute(s).
+You have been playing for 12 day(s), 14 hour(s) and 54 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    ghostskin            [24 hrs]
+    ethereal armor       [10 hrs]
+    protection from undead [14 hrs]
+
+447H 167V 1X 11.08% 25066C Mem:3 T:33 Exits:ES> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+447H 167V 1X 11.08% 25066C Mem:3 T:33 Exits:SD> 
+l
+A Twisting Corridor of Jagged Stone
+
+447H 167V 1X 11.08% 25066C Mem:3 T:31 Exits:SD> 
+s
+A Twisting Corridor of Jagged Stone
+
+447H 165V 1X 11.08% 25066C Mem:3 T:30 Exits:NW> 
+n
+A Twisting Corridor of Jagged Stone
+
+447H 163V 1X 11.08% 25066C Mem:3 T:29 Exits:SD> 
+w
+Alas, you cannot go that way...
+
+447H 163V 1X 11.08% 25066C Mem:3 T:29 Exits:SD> 
+d
+A Twisting Corridor of Jagged Stone
+A small clay jar hangs suspended in the air.
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideous spectral creature looks blankly at you, then ignores you.
+
+447H 161V 1X 11.08% 25066C Mem:3 T:28 Exits:WU> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+447H 161V 1X 11.08% 25066C Mem:3 T:28 Exits:WU> 
+c 'de un' creature
+You utter the words, 'destroy undead'
+A hideous spectral creature turns to ashes!
+get pile corpse
+You receive 0 experience.
+exa corpse
+A hideous spectral creature is dead! R.I.P.
+The death cry of a hideous spectral creature echoes from somewhere nearby...
+A hideous spectral creature's corpse disintegrates instantly!
+
+447H 161V 1X 11.08% 25066C Mem:4 T:26 Exits:WU> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+447H 161V 1X 11.08% 25066C Mem:4 T:25 Exits:SU> 
+What are you trying to get from?
+
+447H 161V 1X 11.08% 25066C Mem:4 T:22 Exits:SU> 
+c 'de un' creature
+A hideous spectral creature looks blankly at you, then ignores you.
+You do not see that here.
+
+447H 161V 1X 11.08% 25066C Mem:4 T:22 Exits:SU> 
+You utter the words, 'destroy undead'
+A hideous spectral creature turns to ashes!
+get pile corpse
+You receive 0 experience.
+exa corpse
+A hideous spectral creature is dead! R.I.P.
+The death cry of a hideous spectral creature echoes from somewhere nearby...
+A hideous spectral creature's corpse disintegrates instantly!
+
+447H 161V 1X 11.08% 25066C Mem:5 T:22 Exits:SU> 
+What are you trying to get from?
+
+447H 161V 1X 11.08% 25066C Mem:5 T:17 Exits:SU> 
+You do not see that here.
+
+447H 161V 1X 11.08% 25066C Mem:5 T:17 Exits:SU> 
+c 'de un' creature
+You utter the words, 'destroy undead'
+A hideous spectral creature turns to ashes!
+get pile corpse
+You receive 0 experience.
+exa corpse
+A hideous spectral creature is dead! R.I.P.
+The death cry of a hideous spectral creature echoes from somewhere nearby...
+A hideous spectral creature's corpse disintegrates instantly!
+
+447H 161V 1X 11.08% 25066C Mem:5 T:16 Exits:SU> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+447H 161V 1X 11.08% 25066C Mem:5 T:16 Exits:SU> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+447H 161V 1X 11.08% 25066C Mem:5 T:15 Exits:ED> 
+What are you trying to get from?
+
+447H 161V 1X 11.08% 25066C Mem:5 T:12 Exits:ED> 
+You do not see that here.
+
+447H 161V 1X 11.08% 25066C Mem:5 T:12 Exits:ED> 
+c 'de un' creature
+You can't remember how to cast that spell!
+
+447H 161V 1X 11.08% 25066C Mem:5 T:11 Exits:ED> 
+re
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+447H 161V 1X 11.08% 25066C Mem:5 T:10 Exits:ED> 
+You rest your tired bones but stay aloft.
+
+447H 161V 1X 11.08% 25066C Mem:2 T:10 Exits:ED> 
+l
+A Twisting Corridor of Jagged Stone
+A small clay jar hangs suspended in the air.
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+
+447H 161V 1X 11.08% 25066C Mem:2 T:9 Exits:ED> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 1]blindness            [ 3]cure blindness      
+   [ 1]curse                [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 1]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+   [ 1]spectral sight      
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 2]soul leech           [ 4]sublime resistance  
+5: [ 1]boiling blood        [ 1]tenacious heart     
+6: [ 1]darkened soul        [ 4]regenerate           [ 2]ritual voyage       
+7: [ 2]ghostskin            [ 1]soul protection     
+8: [ 3]healing wave        
+
+Spells being memorized:
+3: [ 1]protection from unde
+5: [ 7]destroy undead      
+6: [ 1]regenerate          
+7: [ 1]ethereal armor       [ 1]ghostskin           
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-2 2-3 3-0 4-0 5-0 6-1 7-0 8-0
+You may use your divine powers.
+
+447H 161V 1X 11.08% 25066C Mem:2 T:9 Exits:ED> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+447H 161V 1X 11.08% 25066C Mem:2 T:4 Exits:ED> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:60 Exits:ND> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:58 Exits:ND> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:53 Exits:WU> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:52 Exits:WU> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:46 Exits:WU> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:40 Exits:WU> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:39 Exits:SU> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:34 Exits:SU> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:28 Exits:SU> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:24 Exits:ED> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:22 Exits:ED> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:16 Exits:ED> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:15 Exits:ND> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:10 Exits:ND> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:4 Exits:ND> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 173V 1X 11.08% 25066C Mem:1 T:1 Exits:WU> 
+
+Your meditation finished, you put away your charms with a smile.
+
+475H 173V 1X 11.08% 25066C T:60 Exits:WU> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C T:58 Exits:WU> 
+sta
+You stand up.
+
+475H 173V 1X 11.08% 25066C T:55 Exits:WU> 
+l
+A Twisting Corridor of Jagged Stone
+A small clay jar hangs suspended in the air.
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+
+475H 173V 1X 11.08% 25066C T:54 Exits:WU> 
+c 'de un' creature
+You utter the words, 'destroy undead'
+A hideous spectral creature turns to ashes!
+get pile corpse
+You receive 0 experience.
+exa corpse
+A hideous spectral creature is dead! R.I.P.
+The death cry of a hideous spectral creature echoes from somewhere nearby...
+A hideous spectral creature's corpse disintegrates instantly!
+
+475H 173V 1X 11.08% 25066C Mem:2 T:53 Exits:WU> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:2 T:52 Exits:WU> 
+c 'de un' creature
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 173V 1X 11.08% 25066C Mem:2 T:49 Exits:SU> 
+What are you trying to get from?
+
+475H 173V 1X 11.08% 25066C Mem:2 T:49 Exits:SU> 
+You do not see that here.
+
+475H 173V 1X 11.08% 25066C Mem:2 T:49 Exits:SU> 
+You utter the words, 'destroy undead'
+A hideous spectral creature turns to ashes!
+get pile corpse
+You receive 0 experience.
+exa corpse
+A hideous spectral creature is dead! R.I.P.
+The death cry of a hideous spectral creature echoes from somewhere nearby...
+A hideous spectral creature's corpse disintegrates instantly!
+
+475H 173V 1X 11.08% 25066C Mem:2 T:48 Exits:SU> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:2 T:46 Exits:SU> 
+c 'de un' creature
+What are you trying to get from?
+
+475H 173V 1X 11.08% 25066C Mem:2 T:44 Exits:SU> 
+You do not see that here.
+
+475H 173V 1X 11.08% 25066C Mem:2 T:44 Exits:SU> 
+You utter the words, 'destroy undead'
+A hideous spectral creature turns to ashes!
+get pile corpse
+You receive 0 experience.
+exa corpse
+A hideous spectral creature is dead! R.I.P.
+The death cry of a hideous spectral creature echoes from somewhere nearby...
+A hideous spectral creature's corpse disintegrates instantly!
+
+475H 173V 1X 11.08% 25066C Mem:3 T:44 Exits:SU> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:3 T:40 Exits:SU> 
+c 'de un' creature
+What are you trying to get from?
+
+475H 173V 1X 11.08% 25066C Mem:3 T:39 Exits:SU> 
+You do not see that here.
+
+475H 173V 1X 11.08% 25066C Mem:3 T:39 Exits:SU> 
+You utter the words, 'destroy undead'
+A hideous spectral creature turns to ashes!
+get pile corpse
+You receive 0 experience.
+exa corpse
+A hideous spectral creature is dead! R.I.P.
+The death cry of a hideous spectral creature echoes from somewhere nearby...
+A hideous spectral creature's corpse disintegrates instantly!
+
+475H 173V 1X 11.08% 25066C Mem:4 T:39 Exits:SU> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 173V 1X 11.08% 25066C Mem:4 T:36 Exits:ED> 
+What are you trying to get from?
+
+475H 173V 1X 11.08% 25066C Mem:4 T:35 Exits:ED> 
+You do not see that here.
+
+475H 173V 1X 11.08% 25066C Mem:4 T:34 Exits:ED> 
+c 'de un' creature
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:4 T:34 Exits:ED> 
+You utter the words, 'destroy undead'
+A hideous spectral creature turns to ashes!
+get pile corpse
+You receive 0 experience.
+exa corpse
+A hideous spectral creature is dead! R.I.P.
+The death cry of a hideous spectral creature echoes from somewhere nearby...
+A hideous spectral creature's corpse disintegrates instantly!
+
+475H 173V 1X 11.08% 25066C Mem:4 T:34 Exits:ED> 
+What are you trying to get from?
+
+475H 173V 1X 11.08% 25066C Mem:4 T:30 Exits:ED> 
+You do not see that here.
+
+475H 173V 1X 11.08% 25066C Mem:4 T:29 Exits:ED> 
+c 'de un' creature
+You utter the words, 'destroy undead'
+A hideous spectral creature turns to ashes!
+get pile corpse
+You receive 0 experience.
+exa corpse
+A hideous spectral creature is dead! R.I.P.
+The death cry of a hideous spectral creature echoes from somewhere nearby...
+A hideous spectral creature's corpse disintegrates instantly!
+
+475H 173V 1X 11.08% 25066C Mem:5 T:29 Exits:ED> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:5 T:28 Exits:ED> 
+l
+What are you trying to get from?
+
+475H 173V 1X 11.08% 25066C Mem:5 T:25 Exits:ED> 
+You do not see that here.
+
+475H 173V 1X 11.08% 25066C Mem:5 T:25 Exits:ED> 
+A Twisting Corridor of Jagged Stone
+A small clay jar hangs suspended in the air.
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+
+475H 173V 1X 11.08% 25066C Mem:5 T:24 Exits:ED> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 173V 1X 11.08% 25066C Mem:5 T:23 Exits:ND> 
+c 'ance spi'
+You utter the words, 'ancestral spirit'
+An ancestral spirit materializes.
+
+475H 173V 1X 11.08% 25066C Mem:6 T:23 Exits:ND> 
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:6 T:22 Exits:ND> 
+c 'reg' spirit
+You utter the words, 'regenerate'
+But he looks fine!
+An ancestral spirit's wounds begin to heal.
+
+475H 173V 1X 11.08% 25066C Mem:6 T:18 Exits:ND> 
+l
+
+A hideous spectral creature looks blankly at you, then ignores you.
+
+475H 173V 1X 11.08% 25066C Mem:6 T:16 Exits:ND> 
+A Twisting Corridor of Jagged Stone
+A small clay jar hangs suspended in the air.
+An ancestral half ogre spirit is floating here. (grey aura)
+A hideously deformed creature lurches awkwardly through the area. (grey aura)
+
+475H 173V 1X 11.08% 25066C Mem:6 T:14 Exits:ND> 
+c 'de un' creature
+You utter the words, 'destroy undead'
+A hideous spectral creature withers in agony.
+
+475H 173V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:Good] Mem:7 T:13 Exits:ND> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+You massacre a hideous spectral creature with your bludgeon.
+A hideous spectral creature misses you with its hit.
+An ancestral spirit hits a hideous spectral creature very hard.
+
+475H 173V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:Good] Mem:7 T:12 Exits:WU> 
+fl
+
+A hideous spectral creature stops fighting its opponent and turns to an ancestral spirit instead.
+
+475H 173V 1X 11.08% 25066C [an ancestral spirit:Perfect] [a hideous spectral creature:Good] Mem:7 T:10 Exits:WU> 
+You flee head over heels.
+A Twisting Corridor of Jagged Stone
+
+475H 171V 1X 11.08% 25066C Mem:7 T:9 Exits:SD> 
+d
+A Twisting Corridor of Jagged Stone
+A small clay jar hangs suspended in the air.
+An ancestral spirit is standing here, fighting a hideous spectral creature. (grey aura)
+A hideous spectral creature is standing here, fighting an ancestral spirit. (grey aura)
+
+475H 169V 1X 11.08% 25066C Mem:7 T:7 Exits:WU> 
+ass spirit
+You miss a hideous spectral creature with your bludgeon.
+
+475H 169V 1X 11.08% 25066C [an ancestral spirit:Good] [a hideous spectral creature:Good] Mem:7 T:5 Exits:WU> 
+
+You massacre a hideous spectral creature with your bludgeon.
+An ancestral spirit gracefully steps aside as a hideous spectral creature attacks!
+An ancestral spirit misses a hideous spectral creature with his hit.
+An ancestral spirit misses a hideous spectral creature with his hit.
+
+475H 169V 1X 11.08% 25066C [an ancestral spirit:Good] [a hideous spectral creature:Fair] Mem:7 T:4 Exits:WU> 
+fren
+
+You annihilate a hideous spectral creature with your bludgeon.
+A hideous spectral creature hits an ancestral spirit extremely hard.
+An ancestral spirit hits a hideous spectral creature very hard.
+
+475H 173V 1X 11.08% 25066C [an ancestral spirit:Good] [a hideous spectral creature:Good] Mem:7 T:60 Exits:WU> 
+Your rage builds but quickly subsides.
+
+475H 173V 1X 11.08% 25066C [an ancestral spirit:Good] [a hideous spectral creature:Good] Mem:7 T:60 Exits:WU> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 173V 1X 11.08% 25066C [an ancestral spirit:Good] [a hideous spectral creature:Good] Mem:7 T:59 Exits:SU> 
+
+A hideous spectral creature gives an ancestral spirit a solid punch in the face.
+
+475H 173V 1X 11.08% 25066C [an ancestral spirit:Good] [a hideous spectral creature:Good] Mem:7 T:58 Exits:SU> 
+fren
+
+You massacre a hideous spectral creature with your bludgeon.
+You miss a hideous spectral creature with your bludgeon.
+A hideous spectral creature massacres an ancestral spirit with its hit.
+An ancestral spirit misses a hideous spectral creature with his hit.
+A hideous spectral creature's piercing gaze penetrates an ancestral spirit's defenses!
+
+475H 173V 1X 11.08% 25066C [an ancestral spirit:Fair] [a hideous spectral creature:Good] Mem:7 T:56 Exits:SU> 
+A red mist blurs your vision and you let out a mighty yell!
+
+475H 173V 1X 11.08% 25066C [an ancestral spirit:Fair] [a hideous spectral creature:Good] Mem:7 T:56 Exits:SU> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 173V 1X 11.08% 25066C [an ancestral spirit:Fair] [a hideous spectral creature:Good] Mem:7 T:54 Exits:ED> 
+
+You annihilate a hideous spectral creature with your bludgeon.
+A hideous spectral creature massacres an ancestral spirit with its hit.
+An ancestral spirit hits a hideous spectral creature extremely hard.
+A hideous spectral creature's piercing gaze penetrates an ancestral spirit's defenses!
+
+475H 173V 1X 11.08% 25066C [an ancestral spirit:Bad] [a hideous spectral creature:Fair] Mem:7 T:52 Exits:ED> 
+
+A hideous spectral creature stops fighting its opponent and turns to you instead.
+
+475H 173V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:Fair] Mem:7 T:52 Exits:ED> 
+c 'cu c' spirit
+You can't remember how to cast that spell!
+
+475H 173V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:Fair] Mem:7 T:50 Exits:ED> 
+
+A hideous spectral creature hits YOU very hard.
+A hideous spectral creature gasps in pain as it swings through the shadows surrounding you.
+An ancestral spirit hits a hideous spectral creature very hard.
+
+458H 173V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Fair] Mem:7 T:48 Exits:ED> 
+l
+A Twisting Corridor of Jagged Stone
+A small clay jar hangs suspended in the air.
+An ancestral spirit is standing here, fighting a hideous spectral creature. (grey aura)
+A hideous spectral creature is standing here, fighting YOU. (grey aura)
+
+458H 173V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Fair] Mem:7 T:47 Exits:ED> 
+
+You are sent sprawling as a hideous spectral creature crashes into you.
+
+415H 173V 1X 11.08% 25066C [Urtas:Good] [a hideous spectral creature:Fair] Mem:7 T:46 Exits:ED> 
+
+A hideous spectral creature hits YOU very hard.
+A hideous spectral creature gasps in pain as it swings through the shadows surrounding you.
+You annihilate a hideous spectral creature with your bludgeon.
+You massacre a hideous spectral creature with your bludgeon.
+An ancestral spirit hits a hideous spectral creature very hard.
+A hideous spectral creature's piercing gaze penetrates your defenses!
+You feel less protected from undeath.
+
+400H 173V 1X 11.08% 25066C [Urtas:Good] [a hideous spectral creature:Fair] Mem:7 T:44 Exits:ED> 
+sta
+
+A hideous spectral creature hits YOU very hard.
+A hideous spectral creature gasps in pain as it swings through the shadows surrounding you.
+You slam your staff on a hideous spectral creature's face and it stumbles back.
+You annihilate a hideous spectral creature with your bludgeon.
+You massacre a hideous spectral creature with your bludgeon.
+An ancestral spirit hits a hideous spectral creature very hard.
+A hideous spectral creature's body twitches uncontrollably!
+A few chunks of flesh tear themself from a hideous spectral creature's bones.
+The chunks of flesh lift off the ground and begin to circle a hideous spectral creature.
+
+386H 173V 1X 11.08% 25066C [Urtas:Good] [a hideous spectral creature:Bad] Mem:7 T:40 Exits:ED> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+386H 173V 1X 11.08% 25066C [Urtas:Good] [a hideous spectral creature:Bad] Mem:7 T:39 Exits:ND> 
+fren
+You stand up.
+
+386H 173V 1X 11.08% 25066C [Urtas:Good] [a hideous spectral creature:Bad] Mem:7 T:38 Exits:ND> 
+You are already fighting like crazy.
+
+386H 173V 1X 11.08% 25066C [Urtas:Good] [a hideous spectral creature:Bad] Mem:7 T:38 Exits:ND> 
+
+A hideous spectral creature hits YOU hard.
+Your blow glances off a piece of flesh circling a hideous spectral creature.
+Your blow glances off a piece of flesh circling a hideous spectral creature.
+You miss a hideous spectral creature with your bludgeon.
+An ancestral spirit's blow glances off a piece of flesh circling a hideous spectral creature.
+An ancestral spirit's blow glances off a piece of flesh circling a hideous spectral creature.
+
+374H 173V 1X 11.08% 25066C [Urtas:Good] [a hideous spectral creature:Bad] Mem:7 T:36 Exits:ND> 
+stup
+You wiggle your fingers as you outline a hideous spectral creature's head in the air.
+
+374H 173V 1X 11.08% 25066C [Urtas:Good] [a hideous spectral creature:Bad] Mem:7 T:35 Exits:ND> 
+
+A hideous spectral creature kicks you in the face, breaking teeth and bone. Blood flies as your head is rocked back.
+
+358H 173V 1X 11.08% 25066C [Urtas:Good] [a hideous spectral creature:Bad] Mem:7 T:34 Exits:ND> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You lose your footing and fall on your butt!
+A hideous spectral creature staggers about confused!
+A hideous spectral creature hits YOU very hard.
+Your blow glances off a piece of flesh circling a hideous spectral creature.
+A hideous spectral creature hits YOU very hard.
+Your blow glances off a piece of flesh circling a hideous spectral creature.
+You miss a hideous spectral creature with your bludgeon.
+Your blow glances off a piece of flesh circling a hideous spectral creature.
+An ancestral spirit's blow glances off a piece of flesh circling a hideous spectral creature.
+
+311H 173V 1X 11.08% 25066C [Urtas:Fair] [a hideous spectral creature:Bad] Mem:7 T:32 Exits:WU> 
+spook
+
+A hideous spectral creature staggers about confused!
+A hideous spectral creature misses you with its hit.
+Your blow glances off a piece of flesh circling a hideous spectral creature.
+You massacre a hideous spectral creature with your bludgeon.
+An ancestral spirit misses a hideous spectral creature with his hit.
+
+311H 173V 1X 11.08% 25066C [Urtas:Fair] [a hideous spectral creature:Bad] Mem:7 T:28 Exits:WU> 
+
+A hideous spectral creature gives you a solid punch in the face.
+
+293H 173V 1X 11.08% 25066C [Urtas:Fair] [a hideous spectral creature:Bad] Mem:7 T:28 Exits:WU> 
+sta
+You can't do that while sitting.
+
+293H 173V 1X 11.08% 25066C [Urtas:Fair] [a hideous spectral creature:Bad] Mem:7 T:27 Exits:WU> 
+You stand up.
+
+293H 173V 1X 11.08% 25066C [Urtas:Fair] [a hideous spectral creature:Bad] Mem:7 T:26 Exits:WU> 
+spook
+You give out a wild cry and point a shaking finger at a hideous spectral creature.
+A hideous spectral creature cowers before your scolding.
+
+293H 173V 1X 11.08% 25066C [Urtas:Fair] [a hideous spectral creature:Bad] Mem:7 T:26 Exits:WU> 
+
+Your clanmate Mercer has entered the game.
+
+293H 173V 1X 11.08% 25066C [Urtas:Fair] [a hideous spectral creature:Bad] Mem:7 T:25 Exits:WU> 
+
+A hideous spectral creature staggers about confused!
+A hideous spectral creature misses you with its hit.
+You miss a hideous spectral creature with your bludgeon.
+You massacre a hideous spectral creature with your bludgeon.
+An ancestral spirit misses a hideous spectral creature with his hit.
+
+293H 173V 1X 11.08% 25066C [Urtas:Fair] [a hideous spectral creature:Bad] Mem:7 T:24 Exits:WU> 
+fl
+You flee head over heels.
+A Twisting Corridor of Jagged Stone
+
+293H 171V 1X 11.08% 25066C Mem:7 T:21 Exits:ES> 
+s
+A Twisting Corridor of Jagged Stone
+
+293H 169V 1X 11.08% 25066C Mem:7 T:20 Exits:ND> 
+n
+A Twisting Corridor of Jagged Stone
+
+293H 167V 1X 11.08% 25066C Mem:7 T:19 Exits:ES> 
+e
+A Twisting Corridor of Jagged Stone
+A small clay jar hangs suspended in the air.
+An ancestral spirit is standing here, fighting a hideous spectral creature. (grey aura)
+A hideous spectral creature is standing here, fighting an ancestral spirit. (grey aura)
+A hideous spectral creature tries to sweep an ancestral spirit's legs, but misses badly.
+
+293H 165V 1X 11.08% 25066C Mem:7 T:19 Exits:WU> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+293H 165V 1X 11.08% 25066C Mem:7 T:18 Exits:SU> 
+c 'reg' me
+You utter the words, 'regenerate'
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+361H 165V 1X 11.08% 25066C Mem:8 T:17 Exits:SU> 
+
+Some of your nastier wounds disappear.
+Your fingers prickle as your power returns.
+A hideous spectral creature staggers about confused!
+A hideous spectral creature hits an ancestral spirit hard.
+An ancestral spirit hits a hideous spectral creature very hard.
+A hideous spectral creature's body twitches uncontrollably!
+A few chunks of flesh tear themself from a hideous spectral creature's bones.
+The chunks of flesh lift off the ground and begin to circle a hideous spectral creature.
+
+433H 165V 1X 11.08% 25066C Mem:8 T:16 Exits:SU> 
+ass spirit
+Your blow glances off a piece of flesh circling a hideous spectral creature.
+
+433H 165V 1X 11.08% 25066C [an ancestral spirit:V.Bad] [a hideous spectral creature:V.Bad] Mem:8 T:13 Exits:SU> 
+
+Some of your nastier wounds disappear.
+A hideous spectral creature staggers about confused!
+A hideous spectral creature massacres an ancestral spirit with its hit.
+Your blow glances off a piece of flesh circling a hideous spectral creature.
+An ancestral spirit's blow glances off a piece of flesh circling a hideous spectral creature.
+An ancestral spirit's blow glances off a piece of flesh circling a hideous spectral creature.
+
+475H 165V 1X 11.08% 25066C [an ancestral spirit:Awful] [a hideous spectral creature:V.Bad] Mem:8 T:12 Exits:SU> 
+fren
+Some of your nastier wounds disappear.
+A hideous spectral creature staggers about confused!
+A hideous spectral creature massacres an ancestral spirit with its hit.
+Your blow glances off a piece of flesh circling a hideous spectral creature.
+An ancestral spirit's blow glances off a piece of flesh circling a hideous spectral creature.
+A red mist blurs your vision and you let out a mighty yell!
+
+475H 165V 1X 11.08% 25066C [an ancestral spirit:Awful] [a hideous spectral creature:V.Bad] Mem:8 T:8 Exits:SU> 
+hex
+
+Some of your nastier wounds disappear.
+A hideous spectral creature massacres an ancestral spirit with its hit.
+exa corpse
+An ancestral spirit is dead! R.I.P.
+Your blow glances off a piece of flesh circling a hideous spectral creature.
+You miss a hideous spectral creature with your bludgeon.
+The death cry of an ancestral spirit echoes from somewhere nearby...
+
+475H 165V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:V.Bad] Mem:8 T:4 Exits:SU> 
+You scream wildly and cuss at a hideous spectral creature.
+
+475H 165V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:V.Bad] Mem:8 T:4 Exits:SU> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 165V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:V.Bad] Mem:8 T:4 Exits:ED> 
+
+Some of your nastier wounds disappear.
+A hideous spectral creature misses you with its hit.
+You massacre a hideous spectral creature with your bludgeon.
+You annihilate a hideous spectral creature with your bludgeon.
+Your clanmate Azura has left the game.
+
+475H 173V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:V.Bad] Mem:8 T:60 Exits:ED> 
+You do not see that here.
+
+475H 173V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:V.Bad] Mem:8 T:60 Exits:ED> 
+hex
+You scream wildly and cuss at a hideous spectral creature.
+
+475H 173V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:V.Bad] Mem:8 T:59 Exits:ED> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+475H 173V 1X 11.08% 25066C [Urtas:Perfect] [a hideous spectral creature:V.Bad] Mem:8 T:58 Exits:ND> 
+
+A hideous spectral creature gives you a solid punch in the face.
+
+449H 173V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:V.Bad] Mem:8 T:58 Exits:ND> 
+
+Some of your nastier wounds disappear.
+A hideous spectral creature hits YOU hard.
+A hideous spectral creature gasps in pain as it swings through the shadows surrounding you.
+You massacre a hideous spectral creature with your bludgeon.
+You massacre a hideous spectral creature with your bludgeon.
+
+464H 173V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:V.Bad] Mem:8 T:56 Exits:ND> 
+
+Some of your nastier wounds disappear.
+A hideous spectral creature barely hits YOU.
+A hideous spectral creature gasps in pain as it swings through the shadows surrounding you.
+You slam your staff on a hideous spectral creature's face and it stumbles back.
+You massacre a hideous spectral creature with your bludgeon.
+You annihilate a hideous spectral creature with your bludgeon.
+A hideous spectral creature's body twitches uncontrollably!
+A few chunks of flesh tear themself from a hideous spectral creature's bones.
+The chunks of flesh lift off the ground and begin to circle a hideous spectral creature.
+
+471H 173V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Awful] Mem:8 T:52 Exits:ND> 
+
+A hideous spectral creature tries to disarm your weapon, but you deftly avoid it.
+
+471H 173V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Awful] Mem:8 T:52 Exits:ND> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+471H 173V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Awful] Mem:8 T:52 Exits:WU> 
+hex
+You scream wildly and cuss at a hideous spectral creature.
+A hideous spectral creature briefly reveals a red aura!
+A hideous spectral creature groans and stumbles back.
+
+471H 173V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Awful] Mem:8 T:50 Exits:WU> 
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+A hideous spectral creature hits YOU very hard.
+Your blow glances off a piece of flesh circling a hideous spectral creature.
+Your blow glances off a piece of flesh circling a hideous spectral creature.
+
+459H 173V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Awful] Mem:8 T:48 Exits:WU> 
+spook
+You give out a wild cry and point a shaking finger at a hideous spectral creature.
+A hideous spectral creature cowers before your scolding.
+
+459H 173V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Awful] Mem:8 T:46 Exits:WU> 
+
+A hideous spectral creature hits YOU.
+Your blow glances off a piece of flesh circling a hideous spectral creature.
+Your blow glances off a piece of flesh circling a hideous spectral creature.
+You annihilate a hideous spectral creature with your bludgeon.
+
+451H 173V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Awful] Mem:8 T:44 Exits:WU> 
+
+The ghostly hue vanishes from your flesh.
+A hideous spectral creature hits YOU.
+A hideous spectral creature gasps in pain as it swings through the shadows surrounding you.
+You annihilate a hideous spectral creature with your bludgeon.
+You massacre a hideous spectral creature with your bludgeon.
+
+443H 173V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Awful] Mem:8 T:40 Exits:WU> 
+
+Your clanmate Mercer has left the game.
+
+443H 173V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Awful] Mem:8 T:38 Exits:WU> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+443H 173V 1X 11.08% 25066C [Urtas:V.Good] [a hideous spectral creature:Awful] Mem:8 T:37 Exits:SU> 
+
+A hideous spectral creature hits YOU.
+A hideous spectral creature gasps in pain as it swings through the shadows surrounding you.
+You slam your staff on a hideous spectral creature's face and it stumbles back.
+You annihilate a hideous spectral creature with your bludgeon.
+get pile corpse
+You receive 0 experience.
+exa corpse
+A hideous spectral creature is dead! R.I.P.
+The death cry of a hideous spectral creature echoes from somewhere nearby...
+
+A frightening spectre emerges from a hideous spectral creature's crumbling body.
+A hideous spectral creature's corpse disintegrates instantly!
+
+436H 173V 1X 11.14% 25066C Mem:8 T:36 Exits:SU> 
+What are you trying to get from?
+
+436H 173V 1X 11.14% 25066C Mem:8 T:36 Exits:SU> 
+You do not see that here.
+
+436H 173V 1X 11.14% 25066C Mem:8 T:36 Exits:SU> 
+l
+A Twisting Corridor of Jagged Stone
+A small clay jar hangs suspended in the air.
+A hideously deformed spectral creature hovers here. (grey aura)
+
+436H 173V 1X 11.14% 25066C Mem:8 T:35 Exits:SU> 
+cont spirit
+The spirit of a hideous spectral guardian fades into existence as you bind it to this world.
+The spirit of a hideous spectral guardian starts following you.
+
+436H 173V 1X 11.14% 25066C Mem:8 T:33 Exits:SU> 
+bind spirit me
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+436H 173V 1X 11.14% 25066C Mem:8 T:29 Exits:ED> 
+You shudder.
+gro
+The spirit of a hideous spectral guardian stops following you.
+
+436H 173V 1X 11.14% 25066C Mem:8 T:28 Exits:ED> 
+l
+sco
+
+Your clanmate Bellevue has entered the game.
+
+436H 173V 1X 11.14% 25066C Mem:8 T:23 Exits:ED> 
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  SH Urtas            v.good    rested    standing   Y   Y    Y    Y   Y     0    8
+
+436H 173V 1X 11.14% 25066C Mem:8 T:20 Exits:ED> 
+A Twisting Corridor of Jagged Stone
+A small clay jar hangs suspended in the air.
+
+436H 173V 1X 11.14% 25066C Mem:8 T:20 Exits:ED> 
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.14% of your next rank.
+You are 20 years old.
+You have 436(475) hit and 173(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 25066(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 48 minute(s).
+You have been playing for 12 day(s), 14 hour(s) and 58 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    spiritual aid
+    ancestral spirit     [9 hrs]
+    ethereal armor       [6 hrs]
+
+436H 173V 1X 11.14% 25066C Mem:8 T:20 Exits:ED> 
+e
+A Twisting Corridor of Jagged Stone
+
+436H 171V 1X 11.14% 25066C Mem:8 T:18 Exits:NW> 
+
+The corridor lurches abruptly, and you struggle to maintain your balance.
+You catch yourself just in time to avoid falling over.
+
+436H 171V 1X 11.14% 25066C Mem:8 T:18 Exits:EU> 
+e
+A Twisting Corridor of Jagged Stone
+
+436H 169V 1X 11.14% 25066C Mem:8 T:17 Exits:NW> 
+n
+A Twisting Corridor of Jagged Stone
+
+436H 167V 1X 11.14% 25066C Mem:8 T:16 Exits:SD> 
+d
+A Twisting Corridor of Jagged Stone
+
+436H 165V 1X 11.14% 25066C Mem:8 T:14 Exits:WU> 
+w
+A Twisting Corridor of Jagged Stone
+
+436H 163V 1X 11.14% 25066C Mem:8 T:13 Exits:ES> 
+s
+A Twisting Corridor of Jagged Stone
+A small clay jar hangs suspended in the air.
+
+436H 161V 1X 11.14% 25066C Mem:8 T:11 Exits:ND> 
+op jar
+You reach towards a red clay jar, expecting something magical to happen.
+
+As your fingers touch the clay jar's lid, you feel a malevolent presence
+from within the jar reaching towards you. The spirit of a hideous spectral
+guardian bound within you shivers with fear.
+
+Suddenly, the lid bursts open, and a strange metallic mist erupts from
+the jar, quickly wrapping itself around you. As you watch in horror, the
+clay jar begins to grow rapidly (though perhaps it is YOU who begins to
+shrink rapidly) until it is massive enough to swallow an elephant!
+
+The metallic mist around you slowly solidifies, transforming itself into
+a shimmering, reflective sphere, and the last thing you see before the
+sphere's surface becomes completely opaque is the open end of the massive
+clay jar turning towards you and floating forth to swallow you!
+
+Trapped in a Shimmering Sphere
+
+436H 161V 1X 11.14% 25066C Mem:4 T:9> 
+touch surface
+As you touch the surface of the undulating sphere, the strange liquid
+metal suddenly evaporates into a silver mist and vanishes. Waves of
+psycho-kinetic energy wash over you, and you cover your eyes in an
+attempt to protect them from harm.
+The shadows surrounding you disperse.
+
+When you regain your senses, you find yourself floating among strange,
+psychedelic lights that seem oddly familiar.
+Caught in a Spectral Storm
+
+436H 161V 1X 11.14% 25066C Mem:4 T:4 Exits:NESWUD> 
+re
+You rest your tired bones but stay aloft.
+
+436H 161V 1X 11.14% 25066C Mem:2 T:4 Exits:NESWUD> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 1]blindness            [ 3]cure blindness      
+   [ 1]curse                [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+   [ 1]spectral sight      
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 2]soul leech           [ 4]sublime resistance  
+5: [ 1]boiling blood        [ 1]tenacious heart     
+6: [ 3]regenerate           [ 2]ritual voyage       
+7: [ 1]ethereal armor       [ 3]ghostskin            [ 1]soul protection     
+8: [ 3]healing wave        
+
+Spells being memorized:
+5: [ 7]destroy undead      
+6: [ 1]darkened soul        [ 2]regenerate          
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-2 2-3 3-0 4-0 5-0 6-2 7-0 8-0
+You may use your divine powers.
+
+436H 161V 1X 11.14% 25066C Mem:2 T:3 Exits:NESWUD> 
+mem st' de un'
+Please enclose spells in single quotes: '
+Please enclose spells in single quotes: '
+Please enclose spells in single quotes: '
+
+475H 173V 1X 11.14% 25066C Mem:1 T:56 Exits:NESWUD> 
+mem st' de un'
+Please enclose spells in single quotes: '
+Please enclose spells in single quotes: '
+Please enclose spells in single quotes: '
+
+475H 173V 1X 11.14% 25066C Mem:1 T:56 Exits:NESWUD> 
+mem st 'de un'
+destroy undead: removed from your list
+
+475H 173V 1X 11.14% 25066C Mem:1 T:51 Exits:NESWUD> 
+mem st 'de un'
+destroy undead: removed from your list
+
+475H 173V 1X 11.14% 25066C Mem:1 T:51 Exits:NESWUD> 
+mem st 'de un'
+destroy undead: removed from your list
+
+475H 173V 1X 11.14% 25066C Mem:1 T:50 Exits:NESWUD> 
+mem st 'de un'
+destroy undead: removed from your list
+
+475H 173V 1X 11.14% 25066C Mem:1 T:50 Exits:NESWUD> 
+mem st 'de un'
+destroy undead: removed from your list
+
+475H 173V 1X 11.14% 25066C Mem:1 T:50 Exits:NESWUD> 
+mem st 'de un'
+destroy undead: removed from your list
+
+475H 173V 1X 11.14% 25066C Mem:1 T:49 Exits:NESWUD> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 1]blindness            [ 3]cure blindness      
+   [ 1]curse                [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+   [ 1]spectral sight      
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 2]soul leech           [ 4]sublime resistance  
+5: [ 1]boiling blood        [ 1]tenacious heart     
+6: [ 3]regenerate           [ 2]ritual voyage       
+7: [ 1]ethereal armor       [ 3]ghostskin            [ 1]soul protection     
+8: [ 3]healing wave        
+
+Spells being memorized:
+5: [ 1]destroy undead      
+6: [ 1]darkened soul        [ 2]regenerate          
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-2 2-3 3-0 4-0 5-6 6-2 7-0 8-0
+You may use your divine powers.
+
+475H 173V 1X 11.14% 25066C Mem:1 T:48 Exits:NESWUD> 
+mem 'cu c'
+cure critical: added to your list
+
+475H 173V 1X 11.14% 25066C Mem:1 T:46 Exits:NESWUD> 
+mem 'cu c'
+cure critical: added to your list
+
+475H 173V 1X 11.14% 25066C Mem:1 T:46 Exits:NESWUD> 
+mem 'cu c'
+cure critical: added to your list
+
+475H 173V 1X 11.14% 25066C Mem:1 T:46 Exits:NESWUD> 
+mem 'cu c'
+cure critical: added to your list
+
+475H 173V 1X 11.14% 25066C Mem:1 T:45 Exits:NESWUD> 
+mem 'cu c'
+cure critical: added to your list
+
+475H 173V 1X 11.14% 25066C Mem:1 T:44 Exits:NESWUD> 
+mem 'cu c'
+cure critical: added to your list
+
+475H 173V 1X 11.14% 25066C Mem:1 T:44 Exits:NESWUD> 
+mem 'cu c'
+cure critical: you can't memorize any more level 5 spells
+
+475H 173V 1X 11.14% 25066C Mem:1 T:44 Exits:NESWUD> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 1]blindness            [ 3]cure blindness      
+   [ 1]curse                [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+   [ 1]spectral sight      
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 2]soul leech           [ 4]sublime resistance  
+5: [ 1]boiling blood        [ 1]tenacious heart     
+6: [ 3]regenerate           [ 2]ritual voyage       
+7: [ 1]ethereal armor       [ 3]ghostskin            [ 1]soul protection     
+8: [ 3]healing wave        
+
+Spells being memorized:
+5: [ 6]cure critical        [ 1]destroy undead      
+6: [ 1]darkened soul        [ 2]regenerate          
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-2 2-3 3-0 4-0 5-0 6-2 7-0 8-0
+You may use your divine powers.
+
+475H 173V 1X 11.14% 25066C Mem:1 T:43 Exits:NESWUD> 
+mem 'reg'
+regenerate: added to your list
+
+475H 173V 1X 11.14% 25066C Mem:1 T:39 Exits:NESWUD> 
+mem 'reg'
+regenerate: added to your list
+
+475H 173V 1X 11.14% 25066C Mem:2 T:38 Exits:NESWUD> 
+mem 'reg'
+regenerate: you can't memorize any more level 6 spells
+
+475H 173V 1X 11.14% 25066C Mem:2 T:38 Exits:NESWUD> 
+mem 'reg'
+regenerate: you can't memorize any more level 6 spells
+
+475H 173V 1X 11.14% 25066C Mem:2 T:38 Exits:NESWUD> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 1]blindness            [ 3]cure blindness      
+   [ 1]curse                [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+   [ 1]spectral sight      
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 2]soul leech           [ 4]sublime resistance  
+5: [ 1]boiling blood        [ 1]tenacious heart     
+6: [ 3]regenerate           [ 2]ritual voyage       
+7: [ 1]ethereal armor       [ 3]ghostskin            [ 1]soul protection     
+8: [ 3]healing wave        
+
+Spells being memorized:
+5: [ 6]cure critical        [ 1]destroy undead      
+6: [ 1]darkened soul        [ 4]regenerate          
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-2 2-3 3-0 4-0 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+475H 173V 1X 11.14% 25066C Mem:2 T:37 Exits:NESWUD> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 1]blindness            [ 3]cure blindness      
+   [ 1]curse                [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+   [ 1]spectral sight      
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 2]soul leech           [ 4]sublime resistance  
+5: [ 1]boiling blood        [ 1]tenacious heart     
+6: [ 3]regenerate           [ 2]ritual voyage       
+7: [ 1]ethereal armor       [ 3]ghostskin            [ 1]soul protection     
+8: [ 3]healing wave        
+
+Spells being memorized:
+5: [ 6]cure critical        [ 1]destroy undead      
+6: [ 1]darkened soul        [ 4]regenerate          
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-2 2-3 3-0 4-0 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+475H 173V 1X 11.14% 25066C Mem:2 T:25 Exits:NESWUD> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.14% of your next rank.
+You are 20 years old.
+You have 475(475) hit and 173(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 25066(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 49 minute(s).
+You have been playing for 12 day(s), 14 hour(s) and 59 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are resting.
+You are flying.
+You are affected by the following:
+    spectral mantle
+    spiritual aid
+
+475H 173V 1X 11.14% 25066C Mem:2 T:24 Exits:NESWUD> 
+sta
+You stand up.
+
+475H 173V 1X 11.14% 25066C Mem:3 T:23 Exits:NESWUD> 
+cast 'mon man'
+cast 'an ble'
+cast 'spe glo'
+cast 'spe si'
+cast 'an shro' me
+You utter the words, 'monstrous mantle'
+Your features are hideously distorted as your true form is revealed!
+
+475H 173V 1X 11.14% 25066C Mem:3 T:23 Exits:NESWUD> 
+You utter the words, 'ancestral blessing'
+You are granted the blessing of the ancients.
+
+475H 173V 1X 11.14% 25066C Mem:4 T:18 Exits:NESWUD> 
+You utter the words, 'spectral glow'
+Your skin starts to glow with an eerie light.
+
+475H 173V 1X 11.14% 25066C Mem:4 T:14 Exits:NESWUD> 
+You utter the words, 'spectral sight'
+Your eyes tingle.
+
+475H 173V 1X 11.14% 25066C Mem:4 T:10 Exits:NESWUD> 
+cancel
+Cancelled 1 queued command.
+
+475H 173V 1X 11.14% 25066C Mem:4 T:9 Exits:NESWUD> 
+re
+You rest your tired bones but stay aloft.
+
+475H 173V 1X 11.14% 25066C Mem:2 T:6 Exits:NESWUD> 
+l
+Caught in a Spectral Storm
+
+475H 173V 1X 11.14% 25066C Mem:2 T:2 Exits:NESWUD> 
+l
+Caught in a Spectral Storm
+
+475H 173V 1X 11.14% 25066C Mem:2 T:1 Exits:NESWUD> 
+l
+Caught in a Spectral Storm
+
+475H 173V 1X 11.14% 25066C Mem:1 T:60 Exits:NESWUD> 
+sta
+You stand up.
+
+475H 173V 1X 11.14% 25066C Mem:1 T:59 Exits:NESWUD> 
+c 'a shro' me
+You utter the words, 'ancestral shroud'
+A spirit shroud soaks into your skin.
+
+475H 173V 1X 11.14% 25066C Mem:2 T:56 Exits:NESWUD> 
+l
+Caught in a Spectral Storm
+
+475H 173V 1X 11.14% 25066C Mem:2 T:52 Exits:NESWUD> 
+seance
+You fail to find a connection to the dead.
+
+475H 173V 1X 11.14% 25066C Mem:2 T:50 Exits:NESWUD> 
+c 'ance spi'
+You utter the words, 'ancestral spirit'
+An ancestral spirit materializes.
+
+475H 173V 1X 11.14% 25066C Mem:2 T:47 Exits:NESWUD> 
+c 'he b' spirit
+You utter the words, 'heal boost'
+A protective presence envelops an ancestral spirit.
+
+475H 173V 1X 11.14% 25066C Mem:2 T:43 Exits:NESWUD> 
+c 'ghostsk' spirit
+You utter the words, 'ghostskin'
+An ancestral spirit's skin takes a ghostly hue.
+
+475H 173V 1X 11.14% 25066C Mem:3 T:38 Exits:NESWUD> 
+re
+
+Your clanmate Fact has entered the game.
+
+475H 173V 1X 11.14% 25066C Mem:3 T:37 Exits:NESWUD> 
+scan
+You rest your tired bones but stay aloft.
+
+475H 173V 1X 11.14% 25066C Mem:1 T:34 Exits:NESWUD> 
+Looking north:
+The dancing psychedelic lights seem strangely familiar.
+Urtas, the Other Half is standing here.
+Looking east:
+The dancing psychedelic lights seem strangely familiar.
+Urtas, the Other Half is standing here.
+Looking south:
+The dancing psychedelic lights seem strangely familiar.
+Urtas, the Other Half is standing here.
+Looking west:
+The dancing psychedelic lights seem strangely familiar.
+Urtas, the Other Half is standing here.
+Looking up:
+The dancing psychedelic lights seem strangely familiar.
+Urtas, the Other Half is standing here.
+Looking down:
+The dancing psychedelic lights seem strangely familiar.
+Urtas, the Other Half is standing here.
+
+475H 173V 1X 11.14% 25066C Mem:1 T:34 Exits:NESWUD> 
+l
+Caught in a Spectral Storm
+An ancestral half ogre spirit is floating here. (grey aura)
+. . . has a ghostly hue.
+
+475H 173V 1X 11.14% 25066C Mem:1 T:33 Exits:NESWUD> 
+l
+Caught in a Spectral Storm
+An ancestral half ogre spirit is floating here. (grey aura)
+. . . has a ghostly hue.
+
+475H 173V 1X 11.14% 25066C Mem:1 T:32 Exits:NESWUD> 
+gro
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  SH Urtas            perfect   rested    resting    Y   Y    Y    Y   Y     1    1
+
+475H 173V 1X 11.14% 25066C Mem:1 T:32 Exits:NESWUD> 
+in
+You are carrying:
+the axe of hurling..it hums softly
+a small bag of white stones
+a vial of chilled blue liquid
+a glowing scroll of recall..it glows dimly
+a red and green striped minotaur's cloak
+a hawk faced mask
+a pinch of golden dust
+a small wooden chest
+a milky potion of see invisible [4]
+
+475H 173V 1X 11.14% 25066C Mem:1 T:31 Exits:NESWUD> 
+
+Your clanmate Fact has left the game.
+
+475H 173V 1X 11.14% 25066C Mem:1 T:23 Exits:NESWUD> 
+in
+You are carrying:
+the axe of hurling..it hums softly
+a small bag of white stones
+a vial of chilled blue liquid
+a glowing scroll of recall..it glows dimly
+a red and green striped minotaur's cloak
+a hawk faced mask
+a pinch of golden dust
+a small wooden chest
+a milky potion of see invisible [4]
+
+475H 173V 1X 11.14% 25066C Mem:1 T:20 Exits:NESWUD> 
+m
+Spells currently memorized:
+1: [ 1]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 4]spiritual guidance  
+2: [ 1]blindness            [ 3]cure blindness       [ 1]curse               
+   [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 2]soul leech           [ 4]sublime resistance  
+5: [ 1]boiling blood        [ 1]tenacious heart     
+6: [ 2]regenerate           [ 1]ritual voyage       
+7: [ 1]ethereal armor       [ 2]ghostskin            [ 1]soul protection     
+8: [ 3]healing wave        
+
+Spells being memorized:
+1: [ 1]ancestral shroud     [ 1]spectral glow       
+2: [ 1]ancestral blessing  
+3: [ 1]spectral sight      
+4: [ 1]monstrous mantle    
+5: [ 6]cure critical        [ 1]destroy undead      
+6: [ 1]darkened soul        [ 5]regenerate           [ 1]ritual voyage       
+7: [ 1]ghostskin           
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-2 2-3 3-0 4-0 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+475H 173V 1X 11.14% 25066C Mem:1 T:5 Exits:NESWUD> 
+
+Your clanmate Davey has entered the game.
+
+475H 173V 1X 11.14% 25066C Mem:1 T:4 Exits:NESWUD> 
+
+Your meditation finished, you put away your charms with a smile.
+
+475H 173V 1X 11.14% 25066C T:60 Exits:NESWUD> 
+l
+Caught in a Spectral Storm
+An ancestral half ogre spirit is floating here. (grey aura)
+. . . has a ghostly hue.
+
+475H 173V 1X 11.14% 25066C T:60 Exits:NESWUD> 
+sta
+You stand up.
+
+475H 173V 1X 11.14% 25066C T:59 Exits:NESWUD> 
+l
+Caught in a Spectral Storm
+An ancestral half ogre spirit is floating here. (grey aura)
+. . . has a ghostly hue.
+
+475H 173V 1X 11.14% 25066C T:58 Exits:NESWUD> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.14% of your next rank.
+You are 20 years old.
+You have 475(475) hit and 173(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 25066(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 50 minute(s).
+You have been playing for 12 day(s), 15 hour(s) and 1 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    ancestral spirit     [10 hrs]
+    blessing of the half ogre spirits
+    ancestral shroud     [23 hrs]
+    spectral sight       [22 hrs]
+    spectral glow        [52 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [28 hrs]
+    spectral mantle
+    spiritual aid
+
+475H 173V 1X 11.14% 25066C T:57 Exits:NESWUD> 
+c 'spi gu'
+You utter the words, 'spiritual guidance'
+An invisible hand from the spirit world guides your weapon.
+
+475H 173V 1X 11.14% 25066C Mem:1 T:54 Exits:NESWUD> 
+c 'da s'
+c 'bo b'
+You utter the words, 'darkened soul'
+A darkness covers your soul.
+
+475H 173V 1X 11.14% 25066C Mem:1 T:50 Exits:NESWUD> 
+You utter the words, 'boiling blood'
+Your blood begins to boil and a feeling of power washes over you.
+
+475H 173V 1X 11.14% 25066C Mem:2 T:46 Exits:NESWUD> 
+c 'reg' spirit
+You utter the words, 'regenerate'
+But he looks fine!
+An ancestral spirit's wounds begin to heal.
+
+475H 173V 1X 11.14% 25066C Mem:2 T:42 Exits:NESWUD> 
+d
+fl
+Caught in a Spectral Storm
+Urtas, the Other Half is standing here.
+
+475H 172V 1X 11.14% 25066C Mem:2 T:37 Exits:NESWUD> 
+You're not fighting, why bother fleeing?
+
+475H 172V 1X 11.14% 25066C Mem:2 T:37 Exits:NESWUD> 
+
+Your clanmate Bellevue has left the game.
+
+475H 172V 1X 11.14% 25066C Mem:2 T:36 Exits:NESWUD> 
+l
+Caught in a Spectral Storm
+Urtas, the Other Half is standing here.
+
+475H 172V 1X 11.14% 25066C Mem:2 T:36 Exits:NESWUD> 
+
+Urtas focuses harshly on you and utters the words, 'devouring spirits'.
+Urtas gestures toward you with a weird hand action.
+Urtas annihilates YOU with its pierce.
+
+442H 172V 1X 11.14% 25066C [Urtas:V.Good] [Urtas:Perfect] Mem:2 T:34 Exits:NESWUD> 
+kil urtas
+Your mother would be so sad...
+
+442H 172V 1X 11.14% 25066C [Urtas:V.Good] [Urtas:Perfect] Mem:2 T:33 Exits:NESWUD> 
+fl
+You flee head over heels.
+Caught in a Spectral Storm
+An ancestral half ogre spirit is floating here. (grey aura)
+. . . has a ghostly hue.
+
+442H 171V 1X 11.14% 25066C Mem:2 T:33 Exits:NESWUD> 
+
+Your clanmate Davey has left the game.
+
+442H 171V 1X 11.14% 25066C Mem:2 T:30 Exits:NESWUD> 
+
+You feel less threatening.
+A spirit devours some of the magic affecting you.
+
+442H 171V 1X 11.14% 25066C Mem:2 T:28 Exits:NESWUD> 
+l
+Caught in a Spectral Storm
+An ancestral half ogre spirit is floating here. (grey aura)
+. . . has a ghostly hue.
+
+442H 171V 1X 11.14% 25066C Mem:2 T:27 Exits:NESWUD> 
+
+Your clanmate Davey has entered the game.
+
+442H 171V 1X 11.14% 25066C Mem:2 T:25 Exits:NESWUD> 
+l
+Caught in a Spectral Storm
+An ancestral half ogre spirit is floating here. (grey aura)
+. . . has a ghostly hue.
+
+442H 171V 1X 11.14% 25066C Mem:2 T:24 Exits:NESWUD> 
+
+Urtas arrives from the south.
+Urtas appears to be tracking someone.
+Urtas utters the words, 'kawbuyl'.
+Urtas lets loose the fever of undeath!
+You groan and moan out 'BRRRAAAAIIINSS!!!'
+
+442H 171V 1X 11.14% 25066C [Urtas:V.Good] [Urtas:Perfect] Mem:2 T:22 Exits:NESWUD> 
+
+The glow of your skin slowly fades.
+A spirit devours some of the magic affecting you.
+Urtas pierces YOU extremely hard.
+Urtas massacres YOU with its pierce.
+You bludgeon Urtas very hard.
+You bludgeon Urtas very hard.
+An ancestral spirit hits Urtas very hard.
+
+393H 171V 1X 11.14% 25066C [Urtas:Good] [Urtas:V.Good] Mem:2 T:20 Exits:NESWUD> 
+fl
+You flee head over heels.
+Caught in a Spectral Storm
+
+393H 170V 1X 11.14% 25066C Mem:2 T:17 Exits:NESWUD> 
+u
+Caught in a Spectral Storm
+Urtas is standing here, fighting an ancestral spirit.
+An ancestral spirit is standing here, fighting Urtas. (grey aura)
+. . . has a ghostly hue.
+Urtas lets out a mighty yell and fights like crazy!
+
+393H 169V 1X 11.14% 25066C Mem:2 T:16 Exits:NESWUD> 
+ass spirit
+You massacre Urtas with your bludgeon.
+
+393H 169V 1X 11.14% 25066C [an ancestral spirit:Good] [Urtas:Good] Mem:2 T:14 Exits:NESWUD> 
+
+You massacre Urtas with your bludgeon.
+Urtas massacres an ancestral spirit with its pierce.
+Urtas massacres an ancestral spirit with its pierce.
+An ancestral spirit misses Urtas with his hit.
+
+393H 169V 1X 11.14% 25066C [an ancestral spirit:Fair] [Urtas:Good] Mem:2 T:12 Exits:NESWUD> 
+
+Urtas glares at an ancestral spirit and clenches its fist.
+
+393H 169V 1X 11.14% 25066C [an ancestral spirit:Fair] [Urtas:Good] Mem:2 T:10 Exits:NESWUD> 
+c 'reg' spirit
+You utter the words, 'regenerate'
+A few of an ancestral spirit's nastier scrapes disappear.
+An ancestral spirit's wounds begin to heal.
+
+393H 169V 1X 11.14% 25066C [an ancestral spirit:Good] [Urtas:Good] Mem:2 T:9 Exits:NESWUD> 
+
+Urtas massacres an ancestral spirit with its pierce.
+Urtas massacres an ancestral spirit with its pierce.
+An ancestral spirit hits Urtas hard.
+An ancestral spirit hits Urtas very hard.
+
+393H 169V 1X 11.14% 25066C [an ancestral spirit:Fair] [Urtas:Fair] Mem:2 T:8 Exits:NESWUD> 
+fren
+A red mist blurs your vision and you let out a mighty yell!
+
+393H 169V 1X 11.14% 25066C [an ancestral spirit:Fair] [Urtas:Fair] Mem:2 T:5 Exits:NESWUD> 
+
+You massacre Urtas with your bludgeon.
+You annihilate Urtas with your bludgeon.
+Urtas massacres an ancestral spirit with its pierce.
+Urtas massacres an ancestral spirit with its pierce.
+An ancestral spirit hits Urtas very hard.
+
+393H 169V 1X 11.14% 25066C [an ancestral spirit:Fair] [Urtas:Fair] Mem:2 T:4 Exits:NESWUD> 
+
+Urtas utters the words, 'awunso'.
+
+393H 169V 1X 11.14% 25066C [an ancestral spirit:Fair] [Urtas:Fair] Mem:2 T:4 Exits:NESWUD> 
+stup
+You wiggle your fingers as you outline Urtas's head in the air.
+
+393H 169V 1X 11.14% 25066C [an ancestral spirit:Fair] [Urtas:Fair] Mem:2 T:1 Exits:NESWUD> 
+
+You annihilate Urtas with your bludgeon.
+You slam your staff on Urtas's face and it stumbles back.
+You annihilate Urtas with your bludgeon.
+Urtas massacres an ancestral spirit with its pierce.
+Urtas pierces an ancestral spirit extremely hard.
+An ancestral spirit misses Urtas with his hit.
+
+430H 173V 1X 11.14% 25066C [an ancestral spirit:Fair] [Urtas:Bad] Mem:2 T:60 Exits:NESWUD> 
+
+Your clanmate Davey has left the game.
+
+430H 173V 1X 11.14% 25066C [an ancestral spirit:Fair] [Urtas:Bad] Mem:2 T:59 Exits:NESWUD> 
+
+Urtas utters the words, 'kawbuyl'.
+Urtas lets loose the fever of undeath!
+
+430H 173V 1X 11.14% 25066C [an ancestral spirit:Fair] [Urtas:Bad] Mem:2 T:58 Exits:NESWUD> 
+spook
+You give out a wild cry and point a shaking finger at Urtas.
+Urtas doesn't seem overly impressed by your theatrics.
+
+430H 173V 1X 11.14% 25066C [an ancestral spirit:Fair] [Urtas:Bad] Mem:2 T:57 Exits:NESWUD> 
+
+You massacre Urtas with your bludgeon.
+You massacre Urtas with your bludgeon.
+Urtas massacres an ancestral spirit with its pierce.
+Urtas massacres an ancestral spirit with its pierce.
+Urtas gracefully steps aside as an ancestral spirit attacks!
+
+430H 173V 1X 11.14% 25066C [an ancestral spirit:Bad] [Urtas:V.Bad] Mem:2 T:56 Exits:NESWUD> 
+
+You massacre Urtas with your bludgeon.
+You annihilate Urtas with your bludgeon.
+Urtas massacres an ancestral spirit with its pierce.
+Urtas pierces an ancestral spirit extremely hard.
+An ancestral spirit misses Urtas with his hit.
+
+430H 173V 1X 11.14% 25066C [an ancestral spirit:V.Bad] [Urtas:V.Bad] Mem:2 T:52 Exits:NESWUD> 
+
+Urtas utters the words, 'boiling blood'.
+Urtas lets out a mighty scream.
+
+430H 173V 1X 11.14% 25066C [an ancestral spirit:V.Bad] [Urtas:V.Bad] Mem:2 T:52 Exits:NESWUD> 
+hex
+You scream wildly and cuss at Urtas.
+Urtas briefly reveals a red aura!
+
+430H 173V 1X 11.14% 25066C [an ancestral spirit:V.Bad] [Urtas:V.Bad] Mem:2 T:51 Exits:NESWUD> 
+
+Your fingers prickle as your power returns.
+You annihilate Urtas with your bludgeon.
+You annihilate Urtas with your bludgeon.
+Urtas massacres an ancestral spirit with its pierce.
+Urtas massacres an ancestral spirit with its pierce.
+An ancestral spirit misses Urtas with his hit.
+
+430H 173V 1X 11.14% 25066C [an ancestral spirit:V.Bad] [Urtas:Awful] Mem:2 T:48 Exits:NESWUD> 
+
+Urtas focuses harshly on an ancestral spirit and utters the words, 'zurz gsufuhg'.
+Urtas calls forth some dark and vile spirits and sends them at an ancestral spirit!
+An ancestral spirit screams in pain as a vile spirit tears into his flesh.
+An ancestral spirit's body convulses in agony as a vile spirit tears away his remaining life.
+exa corpse
+An ancestral spirit is dead! R.I.P.
+The death cry of an ancestral spirit echoes from somewhere nearby...
+
+430H 173V 1X 11.14% 25066C [Urtas:V.Good] [Urtas:Awful] Mem:2 T:46 Exits:NESWUD> 
+You do not see that here.
+
+430H 173V 1X 11.14% 25066C [Urtas:V.Good] [Urtas:Awful] Mem:2 T:46 Exits:NESWUD> 
+
+Urtas misses you with its pierce.
+Urtas massacres YOU with its pierce.
+Urtas dodges your attack!
+Urtas dodges your attack!
+
+406H 173V 1X 11.14% 25066C [Urtas:Good] [Urtas:Awful] Mem:2 T:44 Exits:NESWUD> 
+
+Urtas massacres YOU with its pierce.
+Urtas pierces YOU very hard.
+You slam your staff on Urtas's face and it stumbles back.
+You massacre Urtas with your bludgeon.
+You massacre Urtas with your bludgeon.
+
+362H 173V 1X 11.14% 25066C [Urtas:Good] [Urtas:Awful] Mem:2 T:40 Exits:NESWUD> 
+
+Urtas focuses harshly on you and utters the words, 'devouring spirits'.
+
+362H 173V 1X 11.14% 25066C [Urtas:Good] [Urtas:Awful] Mem:2 T:40 Exits:NESWUD> 
+
+The fever wanes and your craving for brains follows.
+Urtas pierces YOU extremely hard.
+You annihilate Urtas with your bludgeon.
+get pile corpse
+You receive 0 experience.
+exa corpse
+Urtas is dead! R.I.P.
+The death cry of Urtas echoes from somewhere nearby...
+
+344H 173V 1X 11.21% 25066C Mem:2 T:36 Exits:NESWUD> 
+What are you trying to get from?
+
+344H 173V 1X 11.21% 25066C Mem:2 T:36 Exits:NESWUD> 
+You do not see that here.
+
+344H 173V 1X 11.21% 25066C Mem:2 T:36 Exits:NESWUD> 
+l
+Caught in a Spectral Storm
+Some bark has been left to rot here.
+A dark grey stone with red flecks on it sits here.
+A small fleshy sac lies here.
+A swirling ring of shadows floats here.
+
+344H 173V 1X 11.21% 25066C Mem:2 T:35 Exits:NESWUD> 
+get ring
+You get a ring of spectral shadows.
+
+344H 173V 1X 11.21% 25066C Mem:2 T:33 Exits:NESWUD> 
+get all
+You get some yew bark.
+You get a bloodstone.
+You get a pineal gland.
+
+344H 173V 1X 11.21% 25066C Mem:2 T:32 Exits:NESWUD> 
+l
+Caught in a Spectral Storm
+
+344H 173V 1X 11.21% 25066C Mem:2 T:28 Exits:NESWUD> 
+l
+Caught in a Spectral Storm
+
+344H 173V 1X 11.21% 25066C Mem:2 T:26 Exits:NESWUD> 
+peer ring
+That person isn't here.
+
+344H 173V 1X 11.21% 25066C Mem:2 T:22 Exits:NESWUD> 
+l
+Caught in a Spectral Storm
+
+344H 173V 1X 11.21% 25066C Mem:2 T:21 Exits:NESWUD> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.21% of your next rank.
+You are 20 years old.
+You have 344(475) hit and 173(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 25066(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 52 minute(s).
+You have been playing for 12 day(s), 15 hour(s) and 2 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    spectral mantle
+    boiling blood        [8 hrs]
+    darkened soul        [6 hrs]
+    spiritual guidance   [4 hrs]
+    ancestral spirit     [9 hrs]
+    ancestral shroud     [22 hrs]
+    spectral sight       [21 hrs]
+    ancestral blessing   [permanent]
+    spiritual aid
+
+344H 173V 1X 11.21% 25066C Mem:2 T:18 Exits:NESWUD> 
+peer 2.ring
+That person isn't here.
+
+344H 173V 1X 11.21% 25066C Mem:2 T:13 Exits:NESWUD> 
+peer 3.ring
+You peer through a ring of spectral shadows and look at your surroundings.
+Trapped in a Spectral Prison
+A goblin dressed in elf skins floats here, immobilized by an unseen force.
+You shiver as powerful magic surges through you.
+Your eyes burn for a moment and then feel normal again.
+The blessing of the ancients subsides.
+The force guiding your weapon leaves you.
+Your shroud fades away.
+Your blood ceases to boil and you feel calmer.
+The darkness in your soul breaks.
+
+344H 173V 1X 11.21% 25066C Mem:2 T:10> 
+l
+Trapped in a Spectral Prison
+A goblin dressed in elf skins floats here, immobilized by an unseen force.
+
+344H 173V 1X 11.21% 25066C Mem:2 T:9> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.21% of your next rank.
+You are 20 years old.
+You have 344(475) hit and 173(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 25066(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 52 minute(s).
+You have been playing for 12 day(s), 15 hour(s) and 3 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    spiritual aid
+
+344H 173V 1X 11.21% 25066C Mem:2 T:8> 
+eq
+You are using:
+<worn on finger>           a spun silver ring..it glows dimly
+<worn on finger>           a small plain ring
+<worn on body>             a cuirass of tattooed kender skin..it hums softly
+<worn on head>             a crown of woven grape leaves
+<worn on feet>             a pair of blue shoes
+<worn on hands>            a pair of spider shaped braces
+<worn about body>          a deep purple cloth robe
+<worn about waist>         a fetish lined pixie skull girdle of spirits
+<worn around right wrist>  a gold inlaid bone bracer..it glows dimly
+<worn around left wrist>   a black iron band..it glows dimly
+<used in both hands>       a polished bone staff encrusted with jewels..it glows dimly
+
+344H 173V 1X 11.21% 25066C Mem:2 T:6> 
+rem 2.ring
+You stop using a small plain ring.
+
+344H 173V 1X 11.21% 25066C Mem:2 T:3> 
+
+Your clanmate Azura has entered the game.
+
+344H 173V 1X 11.21% 25066C Mem:2 T:3> 
+wea 2.ring
+Dark energy swirls around you as you slip on a ring of spectral shadows.
+A ring of spectral shadows squeezes your finger with incredible strength!
+You shiver as powerful magic surges through you.
+
+344H 173V 1X 11.21% 25066C Mem:2 T:1> 
+
+The faintest connection to the undead world has been re-established.
+
+381H 173V 1X 11.21% 25066C Mem:1 T:60> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.21% of your next rank.
+You are 20 years old.
+You have 381(468) hit and 173(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 25066(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 52 minute(s).
+You have been playing for 12 day(s), 15 hour(s) and 3 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are affected by the following:
+    spiritual aid
+
+381H 173V 1X 11.21% 25066C Mem:1 T:60> 
+l
+Trapped in a Spectral Prison
+A goblin dressed in elf skins floats here, immobilized by an unseen force.
+
+381H 173V 1X 11.21% 25066C Mem:1 T:58> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.21% of your next rank.
+You are 20 years old.
+You have 381(468) hit and 173(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 25066(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 52 minute(s).
+You have been playing for 12 day(s), 15 hour(s) and 3 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are affected by the following:
+    spiritual aid
+
+381H 173V 1X 11.21% 25066C Mem:1 T:57> 
+in
+You are carrying:
+a small plain ring
+a pineal gland
+a bloodstone
+some yew bark
+the axe of hurling..it hums softly
+a small bag of white stones
+a vial of chilled blue liquid
+a glowing scroll of recall..it glows dimly
+a red and green striped minotaur's cloak
+a hawk faced mask
+a pinch of golden dust
+a small wooden chest
+a milky potion of see invisible [4]
+
+381H 173V 1X 11.21% 25066C Mem:1 T:56> 
+eq
+You are using:
+<worn on finger>           a spun silver ring..it glows dimly
+<worn on finger>           a ring of spectral shadows..it hums softly
+<worn on body>             a cuirass of tattooed kender skin..it hums softly
+<worn on head>             a crown of woven grape leaves
+<worn on feet>             a pair of blue shoes
+<worn on hands>            a pair of spider shaped braces
+<worn about body>          a deep purple cloth robe
+<worn about waist>         a fetish lined pixie skull girdle of spirits
+<worn around right wrist>  a gold inlaid bone bracer..it glows dimly
+<worn around left wrist>   a black iron band..it glows dimly
+<used in both hands>       a polished bone staff encrusted with jewels..it glows dimly
+
+381H 173V 1X 11.21% 25066C Mem:1 T:54> 
+cast 'mon man'
+cast 'an ble'
+cast 'spe glo'
+cast 'spe si'
+cast 'an shro' me
+You utter the words, 'monstrous mantle'
+Your features are hideously distorted as your true form is revealed!
+
+381H 173V 1X 11.21% 25066C Mem:1 T:51> 
+You utter the words, 'ancestral blessing'
+You are granted the blessing of the ancients.
+
+381H 173V 1X 11.21% 25066C Mem:2 T:47> 
+m
+You utter the words, 'spectral glow'
+Your skin starts to glow with an eerie light.
+
+381H 173V 1X 11.21% 25066C Mem:2 T:43> 
+You utter the words, 'spectral sight'
+Your eyes tingle.
+
+381H 173V 1X 11.21% 25066C Mem:2 T:38> 
+You utter the words, 'ancestral shroud'
+A spirit shroud soaks into your skin.
+
+381H 173V 1X 11.21% 25066C Mem:2 T:34> 
+gro
+Spells currently memorized:
+1: [ 1]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 3]spiritual guidance  
+2: [ 1]blindness            [ 3]cure blindness       [ 1]curse               
+   [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 2]soul leech           [ 4]sublime resistance  
+5: [ 6]cure critical        [ 1]destroy undead       [ 1]tenacious heart     
+6: [ 5]regenerate           [ 2]ritual voyage       
+7: [ 1]ethereal armor       [ 3]ghostskin            [ 1]soul protection     
+8: [ 3]healing wave        
+
+Spells being memorized:
+1: [ 1]ancestral shroud     [ 1]spectral glow        [ 1]spiritual guidance  
+2: [ 1]ancestral blessing  
+3: [ 1]spectral sight      
+4: [ 1]monstrous mantle    
+5: [ 1]boiling blood       
+6: [ 1]darkened soul        [ 2]regenerate          
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-2 2-3 3-0 4-0 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+381H 173V 1X 11.21% 25066C Mem:2 T:30> 
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  SH Urtas            good      rested    standing   Y   Y    Y    Y   Y     1    2
+
+381H 173V 1X 11.21% 25066C Mem:2 T:30> 
+get all chest
+You get Mishakal's White potion from a small wooden chest.
+You get an unmarked brown vial from a small wooden chest.
+You get a brewed potion of cure critical from a small wooden chest.
+You get a brewed potion of soul protection from a small wooden chest.
+You get a brewed potion of soul protection from a small wooden chest.
+You get a vile black potion from a small wooden chest.
+You get a milky potion of see invisible from a small wooden chest.
+You get a small bag of white stones from a small wooden chest.
+
+381H 173V 1X 11.21% 25066C Mem:2 T:24> 
+l soul
+Scribbled on the label is: 'soul protection'
+
+381H 173V 1X 11.21% 25066C Mem:2 T:20> 
+c 'da s'
+You can't remember how to cast that spell!
+
+381H 173V 1X 11.21% 25066C Mem:2 T:15> 
+m
+Spells currently memorized:
+1: [ 1]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 3]spiritual guidance  
+2: [ 1]blindness            [ 3]cure blindness       [ 1]curse               
+   [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 2]soul leech           [ 4]sublime resistance  
+5: [ 6]cure critical        [ 1]destroy undead       [ 1]tenacious heart     
+6: [ 5]regenerate           [ 2]ritual voyage       
+7: [ 1]ethereal armor       [ 3]ghostskin            [ 1]soul protection     
+8: [ 3]healing wave        
+
+Spells being memorized:
+1: [ 1]ancestral shroud     [ 1]spectral glow        [ 1]spiritual guidance  
+2: [ 1]ancestral blessing  
+3: [ 1]spectral sight      
+4: [ 1]monstrous mantle    
+5: [ 1]boiling blood       
+6: [ 1]darkened soul        [ 2]regenerate          
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-2 2-3 3-0 4-0 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+381H 173V 1X 11.21% 25066C Mem:2 T:14> 
+re
+You rest your tired bones but stay aloft.
+
+381H 173V 1X 11.21% 25066C Mem:1 T:12> 
+sta
+You stand up.
+
+381H 173V 1X 11.21% 25066C Mem:2 T:8> 
+re
+You rest your tired bones but stay aloft.
+
+381H 173V 1X 11.21% 25066C Mem:1 T:6> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.21% of your next rank.
+You are 20 years old.
+You have 381(468) hit and 173(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 25066(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 53 minute(s).
+You have been playing for 12 day(s), 15 hour(s) and 4 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are resting.
+You are flying.
+You are affected by the following:
+    ancestral shroud     [24 hrs]
+    spectral sight       [24 hrs]
+    spectral glow        [54 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [30 hrs]
+    spiritual aid
+
+381H 173V 1X 11.21% 25066C Mem:1 T:1> 
+
+Your meditation finished, you put away your charms with a smile.
+
+439H 173V 1X 11.21% 25066C T:60> 
+sta
+You stand up.
+
+439H 173V 1X 11.21% 25066C T:59> 
+c 'eth'
+You utter the words, 'ethereal armor'
+You are surrounded by swirling shadows.
+
+439H 173V 1X 11.21% 25066C Mem:1 T:58> 
+c 'ghostsk' me
+You utter the words, 'ghostskin'
+Your skin takes a ghostly hue.
+
+439H 173V 1X 11.21% 25066C Mem:2 T:54> 
+mem st
+You sigh and hastily abandon your studies.
+
+439H 173V 1X 11.21% 25066C T:50> 
+for 'ghostsk'
+ghostskin: You forget this spell.
+
+439H 173V 1X 11.21% 25066C T:46> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 1]blindness            [ 3]cure blindness      
+   [ 1]curse                [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+   [ 1]spectral sight      
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 2]soul leech           [ 4]sublime resistance  
+5: [ 1]boiling blood        [ 6]cure critical        [ 1]destroy undead      
+   [ 1]tenacious heart     
+6: [ 1]darkened soul        [ 7]regenerate           [ 2]ritual voyage       
+7: [ 1]ghostskin            [ 1]soul protection     
+8: [ 3]healing wave        
+
+
+Spells left (level-number): 1-2 2-3 3-0 4-0 5-0 6-0 7-3 8-0
+You may use your divine powers.
+
+439H 173V 1X 11.21% 25066C T:45> 
+mem 'so prot'
+You focus your thoughts on your charms and begin to meditate.
+soul protection: added to your list
+
+439H 173V 1X 11.21% 25066C Mem:1 T:41> 
+mem 'so prot'
+soul protection: added to your list
+
+439H 173V 1X 11.21% 25066C Mem:2 T:40> 
+mem 'so prot'
+soul protection: added to your list
+
+439H 173V 1X 11.21% 25066C Mem:2 T:40> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 1]blindness            [ 3]cure blindness      
+   [ 1]curse                [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+   [ 1]spectral sight      
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 2]soul leech           [ 4]sublime resistance  
+5: [ 1]boiling blood        [ 6]cure critical        [ 1]destroy undead      
+   [ 1]tenacious heart     
+6: [ 1]darkened soul        [ 7]regenerate           [ 2]ritual voyage       
+7: [ 1]ghostskin            [ 1]soul protection     
+8: [ 3]healing wave        
+
+Spells being memorized:
+7: [ 3]soul protection     
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-2 2-3 3-0 4-0 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+439H 173V 1X 11.21% 25066C Mem:2 T:39> 
+spe
+Your spells
+-----------
+1:  ancestral shroud       bone shape             clot                 
+    detect poison          satiate                slow poison          
+    spectral glow          spiritual guidance   
+2:  ancestral blessing     blindness              cure blindness       
+    cure light             curse                  endurance            
+    remove curse           sanctify corpse      
+3:  cure serious           delay death            protection from undead
+    remove poison          restore strength       sap strength         
+    spectral sight       
+4:  amplify spirits        cure disease           devouring spirits    
+    ghost berries          monstrous mantle       soul leech           
+    sublime resistance   
+5:  boiling blood          cure critical          destroy undead       
+    ghostmaster ritual     sanctuary              tenacious heart      
+6:  ancestral spirit       darkened soul          heal boost           
+    regenerate             ritual voyage        
+7:  ethereal armor         ghostskin              last chance          
+    soul protection      
+8:  healing wave           rotting flesh          transmogrify         
+D:  nap                  
+
+439H 173V 1X 11.21% 25066C Mem:2 T:35> 
+l
+Trapped in a Spectral Prison
+A goblin dressed in elf skins floats here, immobilized by an unseen force.
+
+439H 173V 1X 11.21% 25066C Mem:2 T:33> 
+
+Your clanmate Mercer has entered the game.
+
+439H 173V 1X 11.21% 25066C Mem:2 T:32> 
+for 'he wa'
+healing wave: You forget this spell.
+
+439H 173V 1X 11.21% 25066C Mem:2 T:29> 
+for 'he wa'
+healing wave: You forget this spell.
+
+439H 173V 1X 11.21% 25066C Mem:2 T:29> 
+mem 'ro fle'
+rotting flesh: added to your list
+
+439H 173V 1X 11.21% 25066C Mem:2 T:26> 
+mem 'ro fle'
+rotting flesh: added to your list
+
+439H 173V 1X 11.21% 25066C Mem:3 T:26> 
+re
+You rest your tired bones but stay aloft.
+
+439H 173V 1X 11.21% 25066C Mem:1 T:25> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 1]blindness            [ 3]cure blindness      
+   [ 1]curse                [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+   [ 1]spectral sight      
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 2]soul leech           [ 4]sublime resistance  
+5: [ 1]boiling blood        [ 6]cure critical        [ 1]destroy undead      
+   [ 1]tenacious heart     
+6: [ 1]darkened soul        [ 7]regenerate           [ 2]ritual voyage       
+7: [ 1]ghostskin            [ 1]soul protection     
+8: [ 1]healing wave        
+
+Spells being memorized:
+7: [ 3]soul protection     
+8: [ 2]rotting flesh       
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-2 2-3 3-0 4-0 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+439H 173V 1X 11.21% 25066C Mem:1 T:25> 
+
+Mercer tells your clan 'loading on my comp'
+
+439H 173V 1X 11.21% 25066C Mem:1 T:24> 
+sta
+You stand up.
+
+439H 173V 1X 11.21% 25066C Mem:3 T:19> 
+c 'tenac'
+You utter the words, 'tenacious heart'
+Your heart starts beating faster.
+
+439H 173V 1X 11.21% 25066C Mem:3 T:18> 
+mem st 'tenac'
+tenacious heart: removed from your list
+
+439H 173V 1X 11.21% 25066C Mem:3 T:11> 
+mem 'cu c'
+cure critical: added to your list
+
+439H 173V 1X 11.21% 25066C Mem:3 T:10> 
+re
+You rest your tired bones but stay aloft.
+
+439H 173V 1X 11.21% 25066C Mem:1 T:9> 
+
+Your meditation finished, you put away your charms with a smile.
+
+494H 173V 1X 11.21% 25066C T:60> 
+l
+Trapped in a Spectral Prison
+A goblin dressed in elf skins floats here, immobilized by an unseen force.
+
+494H 173V 1X 11.21% 25066C T:59> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 1]blindness            [ 3]cure blindness      
+   [ 1]curse                [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+   [ 1]spectral sight      
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 2]soul leech           [ 4]sublime resistance  
+5: [ 1]boiling blood        [ 7]cure critical        [ 1]destroy undead      
+6: [ 1]darkened soul        [ 7]regenerate           [ 2]ritual voyage       
+7: [ 1]ghostskin            [ 4]soul protection     
+8: [ 1]healing wave         [ 2]rotting flesh       
+
+
+Spells left (level-number): 1-2 2-3 3-0 4-0 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+494H 173V 1X 11.21% 25066C T:58> 
+sta
+You stand up.
+
+494H 173V 1X 11.21% 25066C T:56> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.21% of your next rank.
+You are 20 years old.
+You have 494(494) hit and 173(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 25066(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 54 minute(s).
+You have been playing for 12 day(s), 15 hour(s) and 5 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    tenacious heart      [29 hrs]
+    ghostskin            [25 hrs]
+    ethereal armor       [10 hrs]
+    ancestral shroud     [22 hrs]
+    spectral sight       [22 hrs]
+    spectral glow        [52 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [28 hrs]
+    spiritual aid
+
+494H 173V 1X 11.21% 25066C T:55> 
+c 'sanct'
+You can't remember how to cast that spell!
+
+494H 173V 1X 11.21% 25066C T:51> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 1]blindness            [ 3]cure blindness      
+   [ 1]curse                [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+   [ 1]spectral sight      
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 2]soul leech           [ 4]sublime resistance  
+5: [ 1]boiling blood        [ 7]cure critical        [ 1]destroy undead      
+6: [ 1]darkened soul        [ 7]regenerate           [ 2]ritual voyage       
+7: [ 1]ghostskin            [ 4]soul protection     
+8: [ 1]healing wave         [ 2]rotting flesh       
+
+
+Spells left (level-number): 1-2 2-3 3-0 4-0 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+494H 173V 1X 11.21% 25066C T:49> 
+mem 'sanct'
+You focus your thoughts on your charms and begin to meditate.
+sanctify corpse: added to your list
+
+494H 173V 1X 11.21% 25066C Mem:1 T:45> 
+mem 'sanct'
+sanctify corpse: added to your list
+
+494H 173V 1X 11.21% 25066C Mem:1 T:41> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 1]blindness            [ 3]cure blindness      
+   [ 1]curse                [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+   [ 1]spectral sight      
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 2]soul leech           [ 4]sublime resistance  
+5: [ 1]boiling blood        [ 7]cure critical        [ 1]destroy undead      
+6: [ 1]darkened soul        [ 7]regenerate           [ 2]ritual voyage       
+7: [ 1]ghostskin            [ 4]soul protection     
+8: [ 1]healing wave         [ 2]rotting flesh       
+
+Spells being memorized:
+2: [ 2]sanctify corpse     
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-2 2-1 3-0 4-0 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+494H 173V 1X 11.21% 25066C Mem:1 T:39> 
+mem 'sanct'
+sanctify corpse: added to your list
+
+494H 173V 1X 11.21% 25066C Mem:1 T:35> 
+l
+Trapped in a Spectral Prison
+A goblin dressed in elf skins floats here, immobilized by an unseen force.
+
+494H 173V 1X 11.21% 25066C Mem:1 T:35> 
+spe
+Your spells
+-----------
+1:  ancestral shroud       bone shape             clot                 
+    detect poison          satiate                slow poison          
+    spectral glow          spiritual guidance   
+2:  ancestral blessing     blindness              cure blindness       
+    cure light             curse                  endurance            
+    remove curse           sanctify corpse      
+3:  cure serious           delay death            protection from undead
+    remove poison          restore strength       sap strength         
+    spectral sight       
+4:  amplify spirits        cure disease           devouring spirits    
+    ghost berries          monstrous mantle       soul leech           
+    sublime resistance   
+5:  boiling blood          cure critical          destroy undead       
+    ghostmaster ritual     sanctuary              tenacious heart      
+6:  ancestral spirit       darkened soul          heal boost           
+    regenerate             ritual voyage        
+7:  ethereal armor         ghostskin              last chance          
+    soul protection      
+8:  healing wave           rotting flesh          transmogrify         
+D:  nap                  
+
+494H 173V 1X 11.21% 25066C Mem:1 T:24> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.21% of your next rank.
+You are 20 years old.
+You have 494(494) hit and 173(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 25066(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 55 minute(s).
+You have been playing for 12 day(s), 15 hour(s) and 5 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    tenacious heart      [29 hrs]
+    ghostskin            [25 hrs]
+    ethereal armor       [10 hrs]
+    ancestral shroud     [22 hrs]
+    spectral sight       [22 hrs]
+    spectral glow        [52 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [28 hrs]
+    spiritual aid
+
+494H 173V 1X 11.21% 25066C Mem:1 T:20> 
+c 'he b' me
+You utter the words, 'heal boost'
+A protective presence envelops you.
+
+494H 173V 1X 11.21% 25066C Mem:2 T:19> 
+l
+Trapped in a Spectral Prison
+A goblin dressed in elf skins floats here, immobilized by an unseen force.
+
+494H 173V 1X 11.21% 25066C Mem:2 T:14> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 1]blindness            [ 3]cure blindness      
+   [ 1]curse                [ 2]remove curse        
+3: [ 1]cure serious         [ 1]delay death          [ 2]protection from unde
+   [ 2]remove poison        [ 2]restore strength     [ 1]sap strength        
+   [ 1]spectral sight      
+4: [ 1]amplify spirits      [ 1]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 2]soul leech           [ 4]sublime resistance  
+5: [ 1]boiling blood        [ 7]cure critical        [ 1]destroy undead      
+6: [ 7]regenerate           [ 2]ritual voyage       
+7: [ 1]ghostskin            [ 4]soul protection     
+8: [ 1]healing wave         [ 2]rotting flesh       
+
+Spells being memorized:
+2: [ 3]sanctify corpse     
+6: [ 1]darkened soul       
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-2 2-0 3-0 4-0 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+494H 173V 1X 11.21% 25066C Mem:2 T:14> 
+c 'amp spi'
+You utter the words, 'amplify spirits'
+You draw your spirits closer to the mortal realm.
+
+494H 173V 1X 11.21% 25066C Mem:2 T:6> 
+re
+You rest your tired bones but stay aloft.
+
+494H 173V 1X 11.21% 25066C Mem:1 T:2> 
+
+Your meditation finished, you put away your charms with a smile.
+
+494H 173V 1X 11.21% 25066C T:60> 
+sta
+You stand up.
+
+494H 173V 1X 11.21% 25066C T:59> 
+c 'ance spi'
+You utter the words, 'ancestral spirit'
+An ancestral spirit materializes.
+
+494H 173V 1X 11.21% 25066C Mem:1 T:54> 
+c 'sancti'
+You utter the words, 'sanctify corpse'
+The corpse of a skinny green goblin glows faintly with an eerie light.
+The corpse of a huge, red-skinned goblin glows faintly with an eerie light.
+
+494H 173V 1X 11.21% 25066C Mem:1 T:50> 
+l
+Trapped in a Spectral Prison
+The corpse of a huge, red-skinned goblin floats here.
+The corpse of a skinny green goblin floats here.
+An ancestral half ogre spirit is floating here. (grey aura)
+A goblin dressed in elf skins floats here, immobilized by an unseen force.
+
+494H 173V 1X 11.21% 25066C Mem:1 T:46> 
+c 'so prot'
+You utter the words, 'soul protection'
+You feel your soul leave your body.
+
+494H 173V 1X 11.21% 25066C Mem:2 T:45> 
+l
+Trapped in a Spectral Prison
+The corpse of a huge, red-skinned goblin floats here.
+The corpse of a skinny green goblin floats here.
+An ancestral half ogre spirit is floating here. (grey aura)
+A goblin dressed in elf skins floats here, immobilized by an unseen force.
+
+494H 173V 1X 11.21% 25066C Mem:2 T:41> 
+l runes
+The runes encircling the sapphire clearly spell out four separate words,
+and they appear to have been etched into the bone by four very different
+hands. Starting at the top and moving in a clockwise direction, the first
+word is written in a graceful script. The runes of the second word look
+very erratic and seem to shift before your eyes. The third word is etched
+deep into the bone, yet the runes appear weathered and smooth. The last
+word was clearly made with a sharp knife. Together, the runes read:
+
+    "Senthalliel kISu's'DorRz ENPRUHM puun-pe-uel"
+
+All four of the runic words emit an eerie, pulsating glow. The ominous
+glow illuminates a faint inscription etched into the sapphire.
+
+494H 173V 1X 11.21% 25066C Mem:2 T:38> 
+c 'su res' magic
+You utter the words, 'sublime resistance'
+An ancestral spirit shudders slightly and begins to shine from within.
+You shudder slightly and begin to shine from within.
+
+494H 173V 1X 11.21% 25066C Mem:2 T:35> 
+c 'su res' breath
+You utter the words, 'sublime resistance'
+An ancestral spirit shudders slightly and begins to glow orange.
+You shudder slightly and begin to glow orange.
+
+494H 173V 1X 11.21% 25066C Mem:2 T:31> 
+c 'su res' gas
+You utter the words, 'sublime resistance'
+An ancestral spirit shudders slightly and begins to glow green.
+You shudder slightly and begin to glow green.
+
+494H 173V 1X 11.21% 25066C Mem:2 T:27> 
+in
+You are carrying:
+a small bag of white stones
+a milky potion of see invisible
+a vile black potion
+a brewed potion of soul protection [2]
+a brewed potion of cure critical
+an unmarked brown vial
+Mishakal's White potion
+a small plain ring
+a pineal gland
+a bloodstone
+some yew bark
+the axe of hurling..it hums softly
+a small bag of white stones
+a vial of chilled blue liquid
+a glowing scroll of recall..it glows dimly
+a red and green striped minotaur's cloak
+a hawk faced mask
+a pinch of golden dust
+a small wooden chest
+a milky potion of see invisible [4]
+
+494H 173V 1X 11.21% 25066C Mem:2 T:21> 
+say Senthalliel kISu's'DorRz ENPRUHM puun-pe-uel
+You utter the words, 'Senthalliel kISu's'DorRz ENPRUHM puun-pe-uel'
+
+As you recite the ancient rune words, the tiny jewels on the polished
+bone staff begin to glow. First, the emeralds flash to life, followed
+by the rubies and then the topazes. Finally, a bright blue ray of
+light bursts forth from the the large sapphire and strikes the small
+Bokor Queen full in the chest.
+
+As the light strikes her, the nimbus surrounding the Bokor Queen dims
+slightly, and she suddenly lurches forward and breaks free of the
+invisible forces binding her!
+
+494H 173V 1X 11.21% 25066C Mem:2 T:9> 
+l
+Trapped in a Spectral Prison
+The corpse of a huge, red-skinned goblin floats here.
+The corpse of a skinny green goblin floats here.
+An ancestral half ogre spirit is floating here. (grey aura)
+A goblin dressed in elf skins floats here, cackling with glee.
+
+494H 173V 1X 11.21% 25066C Mem:2 T:7> 
+l
+Trapped in a Spectral Prison
+The corpse of a huge, red-skinned goblin floats here.
+The corpse of a skinny green goblin floats here.
+An ancestral half ogre spirit is floating here. (grey aura)
+A goblin dressed in elf skins floats here, cackling with glee.
+
+494H 173V 1X 11.21% 25066C Mem:2 T:5> 
+
+Yek'Thoh the Bokor Queen gives out a wild cry and points a shaking finger at you.
+You are spooked by Yek'Thoh the Bokor Queen's scolding.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+477H 173V 1X 11.21% 25066C [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Perfect] Mem:2 T:3> 
+l
+Trapped in a Spectral Prison
+The corpse of a huge, red-skinned goblin floats here.
+The corpse of a skinny green goblin floats here.
+An ancestral half ogre spirit is floating here. (grey aura)
+Yek'Thoh the Bokor Queen is standing here, fighting YOU.
+
+477H 173V 1X 11.21% 25066C [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Perfect] Mem:2 T:2> 
+hex
+Yek'Thoh the Bokor Queen misses you with her whip.
+Yek'Thoh the Bokor Queen whips YOU hard.
+Yek'Thoh the Bokor Queen whips YOU hard.
+You miss Yek'Thoh the Bokor Queen with your bludgeon.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+You scream wildly and cuss at Yek'Thoh the Bokor Queen.
+Yek'Thoh the Bokor Queen seems totally unaffected by your curse.
+
+494H 173V 1X 11.21% 25066C [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Perfect] Mem:2 T:60> 
+
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen whips YOU hard.
+Yek'Thoh the Bokor Queen misses you with her whip.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You bludgeon Yek'Thoh the Bokor Queen very hard.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+
+466H 173V 1X 11.21% 25066C [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:2 T:56> 
+
+Yek'Thoh the Bokor Queen utters the words, 'dulak iaza'
+Yek'Thoh the Bokor Queen claps her hands together, unleashing a dark nova!
+Waves of dark energy wash harmlessly over you.
+Waves of dark energy slam into an ancestral spirit!
+
+466H 173V 1X 11.21% 25066C [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:2 T:55> 
+c 'reg' me
+You utter the words, 'regenerate'
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+494H 173V 1X 11.21% 25066C [Urtas:Perfect] [Yek'Thoh the Bokor Queen:V.Good] Mem:3 T:53> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit misses Yek'Thoh the Bokor Queen with his hit.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+443H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:3 T:52> 
+
+Yek'Thoh the Bokor Queen screams wildly and cusses at you.
+
+443H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:3 T:51> 
+l
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+You bludgeon Yek'Thoh the Bokor Queen very hard.
+You miss Yek'Thoh the Bokor Queen with your bludgeon.
+Trapped in a Spectral Prison
+The corpse of a huge, red-skinned goblin floats here.
+The corpse of a skinny green goblin floats here.
+An ancestral spirit is standing here, fighting Yek'Thoh the Bokor Queen. (grey aura)
+Yek'Thoh the Bokor Queen is standing here, fighting YOU.
+
+437H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:48> 
+hex
+You scream wildly and cuss at Yek'Thoh the Bokor Queen.
+Yek'Thoh the Bokor Queen seems totally unaffected by your curse.
+
+437H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:48> 
+
+Yek'Thoh the Bokor Queen wiggles her fingers as she outlines your head in the air.
+
+437H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:45> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+You miss Yek'Thoh the Bokor Queen with your bludgeon.
+You bludgeon Yek'Thoh the Bokor Queen extremely hard.
+
+439H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:44> 
+
+Yek'Thoh the Bokor Queen utters the words, 'aiuwahz yrzthol'
+Chunks of flesh fly together and assemble into a grotesque spectral creature.
+A grotesque spectral creature now follows Yek'Thoh the Bokor Queen.
+
+439H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:43> 
+stup
+You wiggle your fingers as you outline Yek'Thoh the Bokor Queen's head in the air.
+
+439H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:42> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+You miss Yek'Thoh the Bokor Queen with your bludgeon.
+You bludgeon Yek'Thoh the Bokor Queen very hard.
+
+444H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:40> 
+
+Yek'Thoh the Bokor Queen issues the order 'assist'
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+
+441H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:39> 
+banish creature
+You glare at a grotesque spectral creature and clench your fist.
+A grotesque spectral creature's convulses violently, and the magic animating it begins to fade.
+Large chunks of rotting flesh fall off of a grotesque spectral creature's body.
+
+441H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:38> 
+
+Some of your nastier wounds disappear.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature misses you with its claw.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature misses you with its claw.
+An ancestral spirit massacres Yek'Thoh the Bokor Queen with his hit.
+Yek'Thoh the Bokor Queen whips YOU hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU hard.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+
+448H 173V 1X 11.21% 25066C [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:36> 
+
+Yek'Thoh the Bokor Queen utters the words, 'zahlfsgz znsraguai'
+The corpse of a skinny green goblin starts to steam and sizzle.
+Yek'Thoh the Bokor Queen gestures, and the sizzling corpse slams into you!
+You stagger backwards under the weight of the sizzling corpse.
+The sizzling corpse detonates in an fiery explosion of blood and guts!
+An ancestral spirit is burned by huge chunks of smoldering flesh.
+An ancestral spirit appears to grow stronger.
+You are burned by huge chunks of smoldering flesh.
+You feel new life flow within you.
+
+401H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:35> 
+banish creature
+
+Some of your nastier wounds disappear.
+A grotesque spectral creature misses you with its claw.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature misses you with its claw.
+An ancestral spirit misses Yek'Thoh the Bokor Queen with his hit.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+You miss Yek'Thoh the Bokor Queen with your bludgeon.
+
+374H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:32> 
+You can't do that while sitting.
+
+374H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:29> 
+
+Some of your nastier wounds disappear.
+A grotesque spectral creature misses you with its claw.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+sta
+You should probably stand up!
+You miss Yek'Thoh the Bokor Queen with your bludgeon.
+You miss Yek'Thoh the Bokor Queen with your bludgeon.
+
+360H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:28> 
+You stand up.
+
+360H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:28> 
+banish creature
+You glare at a grotesque spectral creature and clench your fist.
+A grotesque spectral creature's convulses violently, and the magic animating it dissolves.
+Bereft of magical support, a grotesque spectral creature falls apart.
+Large chunks of rotting flesh float off into the darkness.
+A grotesque spectral creature stops following Yek'Thoh the Bokor Queen.
+
+360H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:26> 
+
+Yek'Thoh the Bokor Queen utters the words, 'uiyzfiar kawbuyuqahuai'
+Yek'Thoh the Bokor Queen is surrounded by a brilliant red aura of power.
+Yek'Thoh the Bokor Queen lets loose the fever of undeath!
+
+360H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:26> 
+l
+
+Your fingers prickle as your power returns.
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+You bludgeon Yek'Thoh the Bokor Queen extremely hard.
+You bludgeon Yek'Thoh the Bokor Queen extremely hard.
+
+366H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:24> 
+Trapped in a Spectral Prison
+The corpse of a huge, red-skinned goblin floats here.
+An ancestral spirit is standing here, fighting Yek'Thoh the Bokor Queen. (grey aura)
+Yek'Thoh the Bokor Queen is standing here, fighting YOU.
+
+366H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:22> 
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+An ancestral spirit massacres Yek'Thoh the Bokor Queen with his hit.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You bludgeon Yek'Thoh the Bokor Queen very hard.
+
+378H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:20> 
+c 'reg' me
+You utter the words, 'regenerate'
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+450H 173V 1X 11.21% 25066C [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:20> 
+l
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+445H 173V 1X 11.21% 25066C [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Bad] Mem:3 T:16> 
+
+Yek'Thoh the Bokor Queen utters the words, 'regenerate'.
+Yek'Thoh the Bokor Queen's wounds begin to heal.
+
+445H 173V 1X 11.21% 25066C [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Bad] Mem:3 T:16> 
+fren
+Trapped in a Spectral Prison
+The corpse of a huge, red-skinned goblin floats here.
+An ancestral spirit is standing here, fighting Yek'Thoh the Bokor Queen. (grey aura)
+Yek'Thoh the Bokor Queen is standing here, fighting YOU.
+
+445H 173V 1X 11.21% 25066C [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Bad] Mem:3 T:15> 
+A red mist blurs your vision and you let out a mighty yell!
+
+445H 173V 1X 11.21% 25066C [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Bad] Mem:3 T:15> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen hard.
+Your weapon slips from your shaking hands!
+You miss Yek'Thoh the Bokor Queen with your hit.
+
+468H 173V 1X 11.21% 25066C [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:12> 
+stup
+
+Yek'Thoh the Bokor Queen utters the words, 'zahlfsgz znsraguai'
+The corpse of a huge, red-skinned goblin starts to steam and sizzle.
+Yek'Thoh the Bokor Queen gestures, and the sizzling corpse slams into you!
+You stagger backwards under the weight of the sizzling corpse.
+The sizzling corpse detonates in an fiery explosion of blood and guts!
+An ancestral spirit is burned by huge chunks of smoldering flesh.
+An ancestral spirit appears to grow stronger.
+You are burned by huge chunks of smoldering flesh.
+You feel new life flow within you.
+
+425H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:11> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+You miss Yek'Thoh the Bokor Queen with your hit.
+You miss Yek'Thoh the Bokor Queen with your hit.
+
+391H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:8> 
+wie axe
+You can't do that while sitting.
+
+391H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:5> 
+You strain under the weight of the axe, managing to ready it for combat.
+
+391H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:5> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen misses you with her whip.
+You cleave Yek'Thoh the Bokor Queen extremely hard.
+You cleave Yek'Thoh the Bokor Queen extremely hard.
+
+364H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:4> 
+sta
+
+Yek'Thoh the Bokor Queen wiggles her fingers as she outlines your head in the air.
+
+364H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:3> 
+l
+
+Some of your nastier wounds disappear.
+An ancestral spirit misses Yek'Thoh the Bokor Queen with his hit.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+You cleave Yek'Thoh the Bokor Queen hard.
+You cleave Yek'Thoh the Bokor Queen extremely hard.
+You feel more in control of yourself.
+You are hungry.
+You are thirsty.
+
+376H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:60> 
+Yek'Thoh the Bokor Queen screams wildly and cusses at you.
+You stand up.
+
+376H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:57> 
+spook
+Trapped in a Spectral Prison
+A long, polished femur bone lies here...it glows dimly
+An ancestral spirit is standing here, fighting Yek'Thoh the Bokor Queen. (grey aura)
+Yek'Thoh the Bokor Queen is standing here, fighting YOU.
+
+376H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:57> 
+You give out a wild cry and point a shaking finger at Yek'Thoh the Bokor Queen.
+Yek'Thoh the Bokor Queen doesn't seem overly impressed by your theatrics.
+
+376H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:57> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You wheel back and throw your axe at Yek'Thoh the Bokor Queen, hitting them squarely. The axe
+then returns after its job is done.
+You cleave Yek'Thoh the Bokor Queen extremely hard.
+You cleave Yek'Thoh the Bokor Queen extremely hard.
+
+350H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:8 T:56> 
+
+Yek'Thoh the Bokor Queen utters the words, 'dulak iaza'
+Yek'Thoh the Bokor Queen claps her hands together, unleashing a dark nova!
+Waves of dark energy slam into an ancestral spirit!
+Waves of dark energy wash harmlessly over you.
+
+350H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:8 T:55> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.21% of your next rank.
+You are 20 years old.
+You are hungry.
+You are thirsty.
+You have 350(494) hit and 173(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 25066(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 57 minute(s).
+You have been playing for 12 day(s), 15 hour(s) and 8 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are fighting Yek'Thoh the Bokor Queen.
+You are fighting like crazy.
+You are affected by the following:
+    regenerate           [1 rnd]
+    resist gas           [5 hrs]
+    resist breath        [5 hrs]
+    resist magic         [5 hrs]
+    soul protection      [6 rnds]
+    ancestral spirit     [9 hrs]
+    blessing of the half ogre spirits
+    amplify spirits      [6 hrs]
+    tenacious heart      [26 hrs]
+    ghostskin            [5 hrs]
+    ethereal armor       [7 hrs]
+    ancestral shroud     [19 hrs]
+    spectral sight       [19 hrs]
+    spectral glow        [49 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [25 hrs]
+    spiritual aid
+    heal boost
+
+350H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:8 T:53> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You cleave Yek'Thoh the Bokor Queen extremely hard.
+
+331H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:8 T:52> 
+hex
+
+Yek'Thoh the Bokor Queen gives out a wild cry and points a shaking finger at you.
+
+331H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:8 T:51> 
+You scream wildly and cuss at Yek'Thoh the Bokor Queen.
+Yek'Thoh the Bokor Queen seems totally unaffected by your curse.
+
+331H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:8 T:51> 
+l
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+An ancestral spirit misses Yek'Thoh the Bokor Queen with his hit.
+An ancestral spirit hits Yek'Thoh the Bokor Queen hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen misses you with her whip.
+You massacre Yek'Thoh the Bokor Queen with your cleave.
+You cleave Yek'Thoh the Bokor Queen extremely hard.
+
+315H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:8 T:48> 
+seance
+Trapped in a Spectral Prison
+A long, polished femur bone lies here...it glows dimly
+An ancestral spirit is standing here, fighting Yek'Thoh the Bokor Queen. (grey aura)
+Yek'Thoh the Bokor Queen is standing here, fighting YOU.
+
+315H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:8 T:47> 
+Yek'Thoh the Bokor Queen utters the words, 'uiyzfiar kawbuyuqahuai'
+Yek'Thoh the Bokor Queen is surrounded by a brilliant red aura of power.
+Yek'Thoh the Bokor Queen lets loose the fever of undeath!
+You groan and moan out 'BRRRAAAAIIINSS!!!'
+A darkness falls over your vision as you commune with the dead.
+
+315H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:7 T:47> 
+c 'reg' me
+
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You massacre Yek'Thoh the Bokor Queen with your cleave.
+You cleave Yek'Thoh the Bokor Queen very hard.
+
+271H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:44> 
+Everything becomes clear as you prepare to cast.
+You utter the words, 'regenerate'
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+299H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:44> 
+
+Yek'Thoh the Bokor Queen utters the words, 'oculozaghahz jioculoae'
+Yek'Thoh the Bokor Queen maliciously points a crooked finger at your chest.
+You wither in agony.
+That Really did HURT!
+
+178H 173V 1X 11.21% 25066C [Urtas:V.Bad] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:43> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit misses Yek'Thoh the Bokor Queen with his hit.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+157H 173V 1X 11.21% 25066C [Urtas:V.Bad] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:40> 
+quaff white
+You can only quaff potions.
+
+157H 173V 1X 11.21% 25066C [Urtas:V.Bad] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:37> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+You massacre Yek'Thoh the Bokor Queen with your cleave.
+You cleave Yek'Thoh the Bokor Queen extremely hard.
+
+125H 173V 1X 11.21% 25066C [Urtas:V.Bad] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:36> 
+
+Yek'Thoh the Bokor Queen utters the words, 'oculozaghahz jioculoae'
+Yek'Thoh the Bokor Queen maliciously points a crooked finger at your chest.
+You wither in agony.
+You wish your wounds would stop BLEEDING so much!
+
+60H 173V 1X 11.21% 25066C [Urtas:Awful] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:36> 
+c 'cu c' me
+Everything becomes clear as you prepare to cast.
+You utter the words, 'cure critical'
+Large open gashes on your body quickly heal.
+
+110H 173V 1X 11.21% 25066C [Urtas:V.Bad] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:34> 
+
+Yek'Thoh the Bokor Queen wiggles her fingers as she outlines your head in the air.
+
+110H 173V 1X 11.21% 25066C [Urtas:V.Bad] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:33> 
+
+Some of your nastier wounds disappear.
+You stagger about confused!
+The ghostly hue vanishes from your flesh.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+You wish your wounds would stop BLEEDING so much!
+
+81H 173V 1X 11.21% 25066C [Urtas:Awful] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:32> 
+
+Yek'Thoh the Bokor Queen utters the words, 'oculozaghahz jioculoae'
+Yek'Thoh the Bokor Queen maliciously points a crooked finger at your chest.
+You wither in agony.
+You wish your wounds would stop BLEEDING so much!
+
+10H 173V 1X 11.21% 25066C [Urtas:Awful] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:32> 
+quaff mishakal
+You feel the healing hand of Mishakal upon your body.
+You heal yourself.
+Your entire body tingles for a few seconds.
+
+494H 173V 1X 11.21% 25066C [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:30> 
+l
+Trapped in a Spectral Prison
+A long, polished femur bone lies here...it glows dimly
+An ancestral spirit is standing here, fighting Yek'Thoh the Bokor Queen. (grey aura)
+Yek'Thoh the Bokor Queen is standing here, fighting YOU.
+
+494H 173V 1X 11.21% 25066C [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:29> 
+
+Some of your nastier wounds disappear.
+You feel your soul has returned.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+You massacre Yek'Thoh the Bokor Queen with your cleave.
+You massacre Yek'Thoh the Bokor Queen with your cleave.
+
+421H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Bad] Mem:7 T:28> 
+
+Yek'Thoh the Bokor Queen utters the words, 'regenerate'.
+Yek'Thoh the Bokor Queen's wounds begin to heal.
+
+421H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Bad] Mem:7 T:28> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit misses Yek'Thoh the Bokor Queen with his hit.
+You massacre Yek'Thoh the Bokor Queen with your cleave.
+You massacre Yek'Thoh the Bokor Queen with your cleave.
+
+448H 173V 1X 11.21% 25066C [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:24> 
+c 'so prot' me
+Everything becomes clear as you prepare to cast.
+You utter the words, 'soul protection'
+You feel your soul leave your body.
+
+448H 173V 1X 11.21% 25066C [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:22> 
+
+Yek'Thoh the Bokor Queen glares at you and clenches her fist.
+
+448H 173V 1X 11.21% 25066C [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:21> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+Yek'Thoh the Bokor Queen tangles your feet with her weapon.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+423H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:20> 
+
+Yek'Thoh the Bokor Queen focuses harshly on you and utters the words, 'gajr qfjthol'
+Tendrils of dark spectral energy wrap painfully around your soul.
+The dark tendrils are unable to latch onto your soul.
+
+352H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:18> 
+hex
+You scream wildly and cuss at Yek'Thoh the Bokor Queen.
+Yek'Thoh the Bokor Queen seems totally unaffected by your curse.
+
+352H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:7 T:18> 
+
+Some of your nastier wounds disappear.
+You calm down.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You cleave Yek'Thoh the Bokor Queen extremely hard.
+
+316H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:7 T:16> 
+
+Yek'Thoh the Bokor Queen gives out a wild cry and points a shaking finger at you.
+
+316H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:7 T:15> 
+c 'reg' me
+Everything becomes clear as you prepare to cast.
+You utter the words, 'regenerate'
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+377H 173V 1X 11.21% 25066C [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:7 T:13> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+356H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:7 T:12> 
+
+Yek'Thoh the Bokor Queen utters the words, 'oculozaghahz jioculoae'
+Yek'Thoh the Bokor Queen maliciously points a crooked finger at your chest.
+You wither in agony.
+
+306H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:7 T:12> 
+
+Yek'Thoh the Bokor Queen wiggles her fingers as she outlines your head in the air.
+
+306H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:7 T:9> 
+
+Some of your nastier wounds disappear.
+You stagger about confused!
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You miss Yek'Thoh the Bokor Queen with your cleave.
+You cleave Yek'Thoh the Bokor Queen extremely hard.
+
+319H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:7 T:8> 
+
+Yek'Thoh the Bokor Queen utters the words, 'aiuwahz yrzthol'
+Chunks of flesh fly together and assemble into a grotesque spectral creature.
+A grotesque spectral creature now follows Yek'Thoh the Bokor Queen.
+
+319H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:7 T:6> 
+
+Some of your nastier wounds disappear.
+You stagger about confused!
+An ancestral spirit misses Yek'Thoh the Bokor Queen with his hit.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+You cleave Yek'Thoh the Bokor Queen hard.
+You wheel back and throw your axe at Yek'Thoh the Bokor Queen, hitting them squarely. The axe
+then returns after its job is done.
+You cleave Yek'Thoh the Bokor Queen extremely hard.
+
+287H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:7 T:4> 
+
+Yek'Thoh the Bokor Queen issues the order 'assist'
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+
+281H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:7 T:3> 
+c 'he wa'
+Your mind reels and you can't focus.
+
+281H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:7 T:2> 
+
+Your clanmate Dewson has entered the game.
+
+281H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:7 T:1> 
+
+Some of your nastier wounds disappear.
+You stagger about confused!
+A grotesque spectral creature claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature misses you with its claw.
+A grotesque spectral creature misses you with its claw.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature misses you with its claw.
+An ancestral spirit massacres Yek'Thoh the Bokor Queen with his hit.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Your mind clears.
+The fever wanes and your craving for brains follows.
+An ancestral spirit transcends this world and enters another plane.
+You are hungry.
+You are thirsty.
+
+282H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:7 T:60> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 35. You have completed 11.21% of your next rank.
+You are 20 years old.
+You are hungry.
+You are thirsty.
+You have 282(494) hit and 173(173) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 25066(260602) steel coins.
+You need 1 more experience to advance.
+You have died 31 horrible deaths.
+You have been connected for 2 hour(s) and 58 minute(s).
+You have been playing for 12 day(s), 15 hour(s) and 9 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are fighting Yek'Thoh the Bokor Queen.
+You are affected by the following:
+    regenerate           [3 rnds]
+    soul protection      [29 rnds]
+    seance
+    resist gas           [4 hrs]
+    resist breath        [4 hrs]
+    resist magic         [4 hrs]
+    ancestral spirit     [8 hrs]
+    amplify spirits      [5 hrs]
+    tenacious heart      [25 hrs]
+    ethereal armor       [6 hrs]
+    ancestral shroud     [18 hrs]
+    spectral sight       [18 hrs]
+    spectral glow        [48 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [24 hrs]
+    spiritual aid
+    heal boost
+
+282H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:7 T:60> 
+
+Yek'Thoh the Bokor Queen screams wildly and cusses at you.
+
+282H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:7 T:57> 
+
+Some of your nastier wounds disappear.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+You miss Yek'Thoh the Bokor Queen with your cleave.
+
+255H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:7 T:56> 
+l
+Trapped in a Spectral Prison
+A long, polished femur bone lies here...it glows dimly
+A grotesque spectral creature is standing here, fighting YOU. (grey aura)
+Yek'Thoh the Bokor Queen is standing here, fighting YOU.
+
+255H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:7 T:56> 
+c 'he wa'
+Everything becomes clear as you prepare to cast.
+Your connection to the dead breaks.
+You utter the words, 'healing wave'
+Your skin begins to tingle as a rejuvenating wave of magic washes over you.
+
+255H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:55> 
+l
+
+Your body tingles slightly.
+Some of your nastier wounds disappear.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature misses you with its claw.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+260H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:52> 
+Yek'Thoh the Bokor Queen utters the words, 'dulak iaza'
+Yek'Thoh the Bokor Queen claps her hands together, unleashing a dark nova!
+Waves of dark energy wash harmlessly over you.
+Trapped in a Spectral Prison
+A long, polished femur bone lies here...it glows dimly
+A grotesque spectral creature is standing here, fighting YOU. (grey aura)
+Yek'Thoh the Bokor Queen is standing here, fighting YOU.
+
+260H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:51> 
+banish creature
+You glare at a grotesque spectral creature and clench your fist.
+A grotesque spectral creature's convulses violently, and the magic animating it begins to fade.
+Large chunks of rotting flesh fall off of a grotesque spectral creature's body.
+
+260H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:49> 
+
+Your body tingles slightly.
+Some of your nastier wounds disappear.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen tangles your feet with her weapon.
+Yek'Thoh the Bokor Queen pulls her weapon back, and you tumble on the ground!
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen annihilates YOU with her whip.
+You cleave Yek'Thoh the Bokor Queen very hard.
+
+255H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:48> 
+
+Yek'Thoh the Bokor Queen lets out a mighty yell and fights like crazy!
+
+255H 173V 1X 11.21% 25066C [Urtas:Fair] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:45> 
+banish creature
+
+Your body tingles slightly.
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen tangles your feet with her weapon.
+Yek'Thoh the Bokor Queen pulls her weapon back, and you tumble on the ground!
+Yek'Thoh the Bokor Queen annihilates YOU with her whip.
+Yek'Thoh the Bokor Queen annihilates YOU with her whip.
+Yek'Thoh the Bokor Queen annihilates YOU with her whip.
+You miss Yek'Thoh the Bokor Queen with your cleave.
+
+168H 173V 1X 11.21% 25066C [Urtas:V.Bad] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:44> 
+c 'cu c' me
+sta
+
+Your body tingles slightly.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen annihilates YOU with her whip.
+Yek'Thoh the Bokor Queen annihilates YOU with her whip.
+You wish your wounds would stop BLEEDING so much!
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+You wish your wounds would stop BLEEDING so much!
+You cleave Yek'Thoh the Bokor Queen extremely hard.
+
+30H 173V 1X 11.21% 25066C [Urtas:Awful] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:40> 
+
+Yek'Thoh the Bokor Queen glares at you and clenches her fist.
+You sense a spirit presence leaving you.
+
+30H 173V 1X 11.21% 25066C [Urtas:Awful] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:39> 
+cont spirit
+You can't do that while sitting.
+
+30H 173V 1X 11.21% 25066C [Urtas:Awful] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:38> 
+You can't do this sitting!
+
+30H 173V 1X 11.21% 25066C [Urtas:Awful] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:38> 
+You stand up.
+
+30H 173V 1X 11.21% 25066C [Urtas:Awful] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:38> 
+You can't do that while fighting.
+
+30H 173V 1X 11.21% 25066C [Urtas:Awful] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:38> 
+sta
+You are already standing.
+
+30H 173V 1X 11.21% 25066C [Urtas:Awful] [Yek'Thoh the Bokor Queen:V.Good] Mem:8 T:37> 
+Your body tingles slightly.
+Your body stops tingling.
+A grotesque spectral creature misses you with its claw.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+You wish your wounds would stop BLEEDING so much!
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+You wish your wounds would stop BLEEDING so much!
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+You wish your wounds would stop BLEEDING so much!
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+You wish your wounds would stop BLEEDING so much!
+Yek'Thoh the Bokor Queen tangles your feet with her weapon.
+Yek'Thoh the Bokor Queen pulls her weapon back, and you tumble on the ground!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You wish your wounds would stop BLEEDING so much!
+Yek'Thoh the Bokor Queen annihilates YOU with her whip.
+You're dead.
+A ring of spectral shadows releases its grip on your finger.
+You feel your soul has returned.
+You are no longer resistant to gas.
+You are no longer resistant to breath.
+You are no longer resistant to magic.
+Your spirits diminish in power, but remain.
+The protective presence around you fades.
+Your heart stops beating so fast.
+The shadows surrounding you disperse.
+Your shroud fades away.
+Your eyes burn for a moment and then feel normal again.
+The glow of your skin slowly fades.
+The blessing of the ancients subsides.
+You feel less threatening.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 
+c 'cu c' me
+
+Please select a number from the given list.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 

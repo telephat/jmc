@@ -1,0 +1,219 @@
+li
+ #   Sigil:                                  Upg   Dur   Aff     Motes
+---  ------                                  ---  -----  ---  -----------
+  1  detect invisible                         -     *    5    19/40 wispy
+  2  detect magic                             -     *    5    19/40 wispy
+  3  detect poison                            -     *    5    19/40 wispy
+  4  detect holy                              -     *    5    19/40 wispy
+  5  infravision                              -     *    5    19/40 wispy
+  6  nightvision                              -     *    20   19/80 wispy
+                                                              15/40 faint
+                                                              3/20 glowing
+  7  invisibility                             -     *    10   19/40 wispy
+                                                              15/30 faint
+  8  improved invisibility                    -   15/48  48   19/40 wispy
+                                                              15/30 faint
+                                                              3/20 glowing
+                                                              0/1 bright
+  9  sense life                               -     *    5    19/40 wispy
+ 10  awareness                                -     *    15   19/40 wispy
+                                                              15/30 faint
+                                                              3/20 glowing
+                                                              0/1 bright
+ 11  stealth                                  -     *    15   19/30 wispy
+                                                              15/20 faint
+                                                              3/10 glowing
+ 12  blindness                                -   30/3   5    19/40 wispy
+ 13  featherfall                              -   15/12  5    19/40 wispy
+ 14  waterbreath                              -     *    5    19/40 wispy
+ 15  sustenance                               -     *    10   19/40 wispy
+                                                              15/30 faint
+ 16  flight                                   -     *    10   19/40 wispy
+                                                              15/30 faint
+ 17  improved flight                          -     *    15   19/40 wispy
+                                                              15/30 faint
+                                                              3/10 glowing
+ 18  vitriolic shield                         -   15/48  25   19/100 wispy
+                                                              15/50 faint
+                                                              3/20 glowing
+                                                              0/5 bright
+ 19  improved vitriolic shield                -   45/48  25   19/100 wispy
+                                                              15/50 faint
+                                                              3/20 glowing
+                                                              0/10 bright
+                                                              0/5 brilliant
+ 20  iceshield                                -   15/48  25   19/100 wispy
+                                                              15/50 faint
+                                                              3/20 glowing
+                                                              0/5 bright
+ 21  improved iceshield                       -   45/48  25   19/100 wispy
+                                                              15/50 faint
+                                                              3/20 glowing
+                                                              0/10 bright
+                                                              0/5 brilliant
+ 22  lightning shield                         -   15/48  25   19/100 wispy
+                                                              15/50 faint
+                                                              3/20 glowing
+                                                              0/5 bright
+ 23  improved lightning shield                -   45/48  25   19/100 wispy
+                                                              15/50 faint
+                                                              3/20 glowing
+                                                              0/10 bright
+                                                              0/5 brilliant
+ 24  fireshield                               -   15/48  25   19/100 wispy
+                                                              15/50 faint
+                                                              3/20 glowing
+                                                              0/5 bright
+ 25  improved fireshield                      -   45/48  25   19/100 wispy
+                                                              15/50 faint
+                                                              3/20 glowing
+                                                              0/10 bright
+                                                              0/5 brilliant
+ 26  haste                                    -   15/48  25   19/100 wispy
+                                                              15/50 faint
+                                                              3/20 glowing
+                                                              0/10 bright
+                                                              0/5 brilliant
+ 27  iceskin                                  -    4/24  20   19/60 wispy
+                                                              15/30 faint
+                                                              3/15 glowing
+                                                              0/1 bright
+ 28  blindness immunity                       -     *    15   19/40 wispy
+                                                              15/30 faint
+                                                              3/20 glowing
+ 29  silence immunity                         -     *    15   19/40 wispy
+                                                              15/30 faint
+                                                              3/20 glowing
+ 30  sleep immunity                           -     *    15   19/40 wispy
+                                                              15/30 faint
+                                                              3/20 glowing
+ 31  curse immunity                           -     *    15   19/40 wispy
+                                                              15/30 faint
+                                                              3/20 glowing
+ 32  poison immunity                          -     *    15   19/40 wispy
+                                                              15/30 faint
+                                                              3/20 glowing
+ 33  fear immunity                            -     *    15   19/40 wispy
+                                                              15/30 faint
+                                                              3/20 glowing
+ 34  acid immunity                            -   15/48  20   19/60 wispy
+                                                              15/30 faint
+                                                              3/15 glowing
+                                                              0/1 bright
+ 35  cold immunity                            -   15/48  20   19/60 wispy
+                                                              15/30 faint
+                                                              3/15 glowing
+                                                              0/1 bright
+ 36  electricity immunity                     -   15/48  20   19/60 wispy
+                                                              15/30 faint
+                                                              3/15 glowing
+                                                              0/1 bright
+ 37  heat immunity                            -   15/48  20   19/60 wispy
+                                                              15/30 faint
+                                                              3/15 glowing
+                                                              0/1 bright
+ 38  gas immunity                             -   15/48  20   19/60 wispy
+                                                              15/30 faint
+                                                              3/15 glowing
+                                                              0/5 bright
+ 39  magic immunity                           -   15/48  20   19/60 wispy
+                                                              15/30 faint
+                                                              3/15 glowing
+                                                              0/1 bright
+ 40  negative energy immunity                 -   15/48  20   19/60 wispy
+                                                              15/30 faint
+                                                              3/15 glowing
+                                                              0/1 bright
+ 41  nocharm                                  -     *    10   19/40 wispy
+                                                              15/20 faint
+ 42  nosummon                                 -     *    15   19/40 wispy
+                                                              15/30 faint
+                                                              3/20 glowing
+ 43  protection from evil                     -     *    15   19/30 wispy
+                                                              15/20 faint
+                                                              3/10 glowing
+ 44  protection from good                     -     *    15   19/30 wispy
+                                                              15/20 faint
+                                                              3/10 glowing
+ 45  protection from neutral                  -     *    15   19/30 wispy
+                                                              15/20 faint
+                                                              3/10 glowing
+ 46  protection from undead                   -     *    15   19/30 wispy
+                                                              15/20 faint
+                                                              3/10 glowing
+ 47  steelskin                                -   15/24  20   19/60 wispy
+                                                              15/30 faint
+                                                              3/15 glowing
+                                                              0/5 bright
+ 48  hit by 5                                 -     *    5    19/60 wispy
+ 49  hit by 10                                -     *    10   19/60 wispy
+                                                              15/40 faint
+ 50  hit by 15                                -     *    15   19/60 wispy
+                                                              15/40 faint
+                                                              3/20 glowing
+ 51  menace                                   -   15/12  15   19/60 wispy
+                                                              15/40 faint
+                                                              3/20 glowing
+ 52  acid resistance by 20                    -     *    15   19/40 wispy
+                                                              15/20 faint
+                                                              3/10 glowing
+ 53  cold resistance by 20                    -     *    15   19/40 wispy
+                                                              15/20 faint
+                                                              3/10 glowing
+ 54  electricity resistance by 20             -     *    15   19/40 wispy
+                                                              15/20 faint
+                                                              3/10 glowing
+ 55  heat resistance by 20                    -     *    15   19/40 wispy
+                                                              15/20 faint
+                                                              3/10 glowing
+ 56  breath resistance by 20                  -     *    15   19/40 wispy
+                                                              15/20 faint
+                                                              3/15 glowing
+ 57  gas resistance by 20                     -     *    15   19/40 wispy
+                                                              15/20 faint
+                                                              3/15 glowing
+ 58  magic resistance by 20                   -     *    15   19/40 wispy
+                                                              15/20 faint
+                                                              3/10 glowing
+ 59  negative energy resistance by 20         -     *    15   19/40 wispy
+                                                              15/20 faint
+                                                              3/10 glowing
+ 60  str by 1                                 -     *    10   19/40 wispy
+                                                              15/40 faint
+ 61  str by 2                                 -     *    15   19/40 wispy
+                                                              15/40 faint
+                                                              3/40 glowing
+ 62  int by 1                                 -     *    10   19/40 wispy
+                                                              15/40 faint
+ 63  int by 2                                 -     *    15   19/40 wispy
+                                                       
+       15/40 faint
+                                                              3/40 glowing
+ 64  wis by 1                                 -     *    10   19/40 wispy
+                                                              15/40 faint
+ 65  wis by 2                                 -     *    15   19/40 wispy
+                                                              15/40 faint
+                                                              3/40 glowing
+ 66  dex by 1                                 -     *    10   19/40 wispy
+                                                              15/40 faint
+ 67  dex by 2                                 -     *    15   19/40 wispy
+                                                              15/40 faint
+                                                              3/40 glowing
+ 68  con by 1                                 -     *    10   19/40 wispy
+                                                              15/40 faint
+ 69  con by 2                                 -     *    15   19/40 wispy
+                                                              15/40 faint
+                                                              3/40 glowing
+ 70  cha by 1                                 -     *    10   19/40 wispy
+                                                              15/40 faint
+ 71  cha by 2                                 -     *    15   19/40 wispy
+                                                              15/40 faint
+                                                              3/40 glowing
+ 72  casting level by 1                       -     *    5    19/40 wispy
+ 73  casting level by 2                       -     *    10   19/40 wispy
+                                                              15/40 faint
+ 74  casting level by 3                       -     *    15   19/40 wispy
+                                                              15/40 faint
+                                                              3/40 glowing
+
+820H 144V 1X 85.26% 3629C T:39 Exits:N> 

@@ -15,6 +15,9 @@
 #act {The ghostly hue vanishes from your flesh.} {#showme {colorcodes} {     &W[&BGhostskin gone&W]&w}}
 #gag {The ghostly hue vanishes from your flesh.}
 
+#sub {You are hungry.} {>[You are hungry.]<}
+#sub {You are thirsty.} {>[You are thirsty.]<}
+
 #act {You miss %0 with your hit.} {#showme >>>> No weapon warning <<<<}
 #sub {You are sent sprawling as %0 crashes into you.} {>>>>[Bashed by %0]<<<<}
 #high {white} {[Bashed by %0]}

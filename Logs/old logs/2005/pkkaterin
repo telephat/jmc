@@ -1,0 +1,2783 @@
+Start logging: 17.01.2006 14:36
+dBreaching the Steep Climb
+
+224H 31V 2180671X 196C Mem:2 Exits:EU> eThrough a Narrow Trail
+
+224H 29V 2180671X 196C Mem:2 Exits:EW> eeTraversing the Slope
+
+224H 27V 2180671X 196C Mem:2 Exits:WD> eAlas, you cannot go that way...
+
+224H 27V 2180671X 196C Mem:2 Exits:WD> dAlas, you cannot go that way...
+
+224H 27V 2180671X 196C Mem:2 Exits:WD> eCurving Around the Higher Peaks
+
+224H 25V 2180671X 196C Mem:2 Exits:SU> Alas, you cannot go that way...
+
+224H 25V 2180671X 196C Mem:2 Exits:SU> sBeside A Deadly Volcano
+
+224H 23V 2180671X 196C Mem:2 Exits:NS> ssBeside a Deadly Volcano
+
+224H 21V 2180671X 196C Mem:2 Exits:NS> sIn View of a Dark City
+
+224H 19V 2180671X 196C Mem:2 Exits:NS> sBefore the Northern Gate of Neraka
+
+224H 17V 2180671X 196C Mem:2 Exits:NS> ssThe North Gate of Neraka
+
+224H 15V 2180671X 196C Mem:2 Exits:NS> A Cobbled Lane
+A young kender stands here, looking innocent.
+
+224H 14V 2180671X 196C Mem:2 Exits:NESW> A Cobbled Lane
+
+224H 13V 2180671X 196C Mem:2 Exits:NSW> sFour Lanes End
+A stone fountain with an ugly draconian water statue stands here.
+
+224H 12V 2180671X 196C Mem:2 Exits:NESW> sA Cobbled Lane
+
+224H 11V 2180671X 196C Mem:2 Exits:NESW> nFour Lanes End
+A stone fountain with an ugly draconian water statue stands here.
+
+224H 10V 2180671X 196C Mem:2 Exits:NESW> nA Cobbled Lane
+
+224H 9V 2180671X 196C Mem:2 Exits:NSW> nA Cobbled Lane
+A young kender stands here, looking innocent.
+
+224H 8V 2180671X 196C Mem:2 Exits:NESW> wA Forest Garden
+You see a slender elf here, cutting saplings to make them strong.
+
+224H 6V 2180671X 196C Mem:2 Exits:E> reThe rising sun proclaims a new day.
+You walk over to a pile of moss and sit down.
+
+224H 31V 2180671X 196C Mem:1 Exits:E> lA Forest Garden
+You see a slender elf here, cutting saplings to make them strong.
+
+224H 31V 2180671X 196C Mem:1 Exits:E> mSpells currently memorized:
+1: [ 1]blur                 [ 5]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]sleep               
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 5]hold person         
+5: [ 1]dimension door       [ 5]force bolt          
+6: [ 6]feeblemind          
+7: [ 1]confusion            [ 2]conjure elemental    [ 2]glitterdust         
+
+Spells being memorized:
+4: [ 1]improved invisibilit
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-0 2-4 3-0 4-0 5-0 6-0 7-0 8-4 9-1
+
+224H 31V 2180671X 196C Mem:1 Exits:E> for 'f b'force bolt: You forget this spell.
+
+224H 31V 2180671X 196C Mem:1 Exits:E> mSpells currently memorized:
+1: [ 1]blur                 [ 5]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]sleep               
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 5]hold person         
+5: [ 1]dimension door       [ 4]force bolt          
+6: [ 6]feeblemind          
+7: [ 1]confusion            [ 2]conjure elemental    [ 2]glitterdust         
+
+Spells being memorized:
+4: [ 1]improved invisibilit
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-0 2-4 3-0 4-0 5-1 6-0 7-0 8-4 9-1
+
+224H 31V 2180671X 196C Mem:1 Exits:E> mem 'cha m'You've never heard of such a spell.
+
+224H 31V 2180671X 196C Mem:1 Exits:E> mem 'cha p'charm person: added to your list
+
+224H 31V 2180671X 196C Mem:1 Exits:E> mSpells currently memorized:
+1: [ 1]blur                 [ 5]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]sleep               
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 5]hold person         
+5: [ 1]dimension door       [ 4]force bolt          
+6: [ 6]feeblemind          
+7: [ 1]confusion            [ 2]conjure elemental    [ 2]glitterdust         
+
+Spells being memorized:
+4: [ 1]improved invisibilit
+5: [ 1]charm person        
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-0 2-4 3-0 4-0 5-0 6-0 7-0 8-4 9-1
+
+224H 31V 2180671X 196C Mem:1 Exits:E> speYour spells
+-----------
+1:  blur                   burning hands          detect magic         
+    infravision            light                  magic missile        
+    shield                 sleep awareness      
+2:  continual light        detect invisibility    invisibility         
+    shocking grasp         silence                sleep                
+    stinking cloud         weaken               
+3:  dispel magic           fly                    gust of wind         
+    lightning bolt         mending                ray of enfeeblement  
+    water breath           web                  
+4:  floating disc          free action            hold person          
+    improved invisibility  whispering wind      
+5:  charm person           dimension door         enchant armor        
+    enchant weapon         force bolt             hold monster         
+6:  feeblemind           
+7:  calm                   confusion              conjure elemental    
+    glitterdust          
+
+224H 31V 2180671X 196C Mem:1 Exits:E> scoYou are Master Sorry, Scorched Earth, a level 27 Mage.
+You are 35 years old.
+You have 224(224) hit and 31(123) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 37819329 exp, and have 196(4286) steel coins.
+You need 2180671 more experience to advance.
+You have died 11 horrible deaths.
+You have been connected for 17 minute(s).
+You have been playing for 6 day(s), 10 hour(s) and 56 minute(s).
+Your equipment is currently not being concealed.
+You are resting.
+You are flying.
+You are affected by the following:
+    recuperate
+    improved invisibility
+    fly
+    detect invisibility
+
+224H 31V 2180671X 196C Mem:1 Exits:E> who bImmortals
+---------
+[Ovs  35] Chert Chiselbeard, King of the Hill Dwarves
+
+Mortals
+-------
+Shino                Renton                     Sandig                     
+Haifat               Gvozdedriell               Miche                      
+Sofie                Blarg                      Lattia                     
+Juventus             Sasuke                     Rapaxes                    
+Zaiyra               Mala                       Sorry                      
+Guri                 Tokusen                    Artin                      
+
+Total visible people : 20        Total people online  : 20
+
+224H 31V 2180671X 196C Mem:1 Exits:E> 
+Your studies complete, you close your spellbook with a smile.
+mem
+224H 97V 2180671X 196C Exits:E> Spells currently memorized:
+1: [ 1]blur                 [ 5]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]sleep               
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 5]hold person          [ 1]improved invisibilit
+5: [ 1]charm person         [ 1]dimension door       [ 4]force bolt          
+6: [ 6]feeblemind          
+7: [ 1]confusion            [ 2]conjure elemental    [ 2]glitterdust         
+
+
+Spells left (level-number): 1-0 2-4 3-0 4-0 5-0 6-0 7-0 8-4 9-1
+
+224H 97V 2180671X 196C Exits:E> lA Forest Garden
+You see a slender elf here, cutting saplings to make them strong.
+
+224H 97V 2180671X 196C Exits:E> gro  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Sorry            perfect   rested    resting    Y   Y    N    Y     0    0
+
+224H 97V 2180671X 196C Exits:E> inYou are carrying:
+a milky potion of see invisible
+a glowing scroll of recall..it glows dimly
+a small wooden chest
+
+224H 97V 2180671X 196C Exits:E> scanLooking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+224H 97V 2180671X 196C Exits:E> staYou stand up.
+
+224H 97V 2180671X 196C Exits:E> eA Cobbled Lane
+
+224H 95V 2180671X 196C Exits:NESW> sA Cobbled Lane
+
+224H 94V 2180671X 196C Exits:NSW> eAlas, you cannot go that way...
+
+224H 94V 2180671X 196C Exits:NSW> wThe Seedy Inn
+A large bulletin board is mounted on a wall here.
+Holly the barwoman is here, flaunting her body and eager to serve.
+
+224H 93V 2180671X 196C Exits:NEU> uThe Reception
+The receptionist sits here, looking very flustered.
+Standing in shadows, a draconian guard hisses occasionally.
+
+224H 92V 2180671X 196C Exits:D> off      a milky potion of see invisible : 18 coins/day
+           a glowing scroll of recall : 18 coins/day
+                 a small wooden chest : 1 coin/day
+                   an iron ration [2] : 2 coins/day
+                  a small canteen [3] : 3 coins/day
+The receptionist tells you 'It will cost you 42 coins per day.'
+The receptionist tells you 'You will be able to rent for 320 days.'
+
+224H 92V 2180671X 196C Exits:D> rent      a milky potion of see invisible : 18 coins/day
+           a glowing scroll of recall : 18 coins/day
+                 a small wooden chest : 1 coin/day
+                   an iron ration [2] : 2 coins/day
+                  a small canteen [3] : 3 coins/day
+The receptionist tells you 'It will cost you 42 coins per day.'
+The receptionist tells you 'You will be able to rent for 320 days.'
+The receptionist stores your stuff in the safe, and shows you to your room.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+   Make a choice: 0
+
+Thank you for playing.
+
+
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |        Mail may be directed to gods@mud.arctic.org       |
+     |\\  |                                                          |
+     | \\ |        ** Dont forget to visit our web page! **          |
+     | |/ |                 http://mud.arctic.org                    |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? 
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |        Mail may be directed to gods@mud.arctic.org       |
+     |\\  |                                                          |
+     | \\ |        ** Dont forget to visit our web page! **          |
+     | |/ |                 http://mud.arctic.org                    |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? revoNo character with that name exists.
+If you wish to create a new character type 'start'.
+Name: kuzmichNo character with that name exists.
+If you wish to create a new character type 'start'.
+Name: rivoPassword: kuzmich
+
+You were last connected Sat Jan 14 12:46:26 2006 EST from 83.237.10.34.
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking for assistance.
+
+*** Press Enter: 
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+   Make a choice: 1You ran up charges of 58 steel in rent.
+
+Welcome to the land of Krynn.
+scoeqlook
+The Reception
+A wooden bulletin board with the heading 'Wanted' is posted on the wall.
+The manager of Traveler's Lodge stands here ready to sign you in.
+A tall and strong bouncer, hired to protect the lodge's customers, stands here.
+
+344H 126V 800760X 60C Exits:N> You are Rivo the Male Minotaur, a level 20 Scout.
+You are 24 years old.
+You have 344(344) hit and 126(126) movement points.
+Your behaviour has been Evil.
+You are traversing the path of the Ocean.
+The chill of evil pervades your soul.
+You have scored 3699240 exp, and have 60(0) steel coins.
+You need 800760 more experience to advance.
+You have never died.
+You have been connected for 0 minute(s).
+You have been playing for 0 day(s), 7 hour(s) and 23 minute(s).
+You are currently not hunting.
+Your equipment is currently not being concealed.
+You are standing.
+
+344H 126V 800760X 60C Exits:N> You are using:
+<used in both hands>       a dwarven mithril pole axe
+
+344H 126V 800760X 60C Exits:N> who bThe Reception
+A wooden bulletin board with the heading 'Wanted' is posted on the wall.
+The manager of Traveler's Lodge stands here ready to sign you in.
+A tall and strong bouncer, hired to protect the lodge's customers, stands here.
+
+344H 126V 800760X 60C Exits:N> Immortals
+---------
+[Ovs  35] Chert Chiselbeard, King of the Hill Dwarves
+
+Mortals
+-------
+Gvozdedriell         Sasuke                     Mune                       
+Lattia               Blarg                      Hilgorsh                   
+Katerin              Shino                      Tokusen                    
+Gaz                  Rapaxes                    Zaiyra                     
+Sandig               Po                                                    
+
+Total visible people : 17        Total people online  : 17
+
+344H 126V 800760X 60C Exits:N> lThe Reception
+A wooden bulletin board with the heading 'Wanted' is posted on the wall.
+The manager of Traveler's Lodge stands here ready to sign you in.
+A tall and strong bouncer, hired to protect the lodge's customers, stands here.
+
+344H 126V 800760X 60C Exits:N> gro  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Rivo             perfect   rested    standing   N   N    N    Y     0    0
+
+344H 126V 800760X 60C Exits:N> lThe Reception
+A wooden bulletin board with the heading 'Wanted' is posted on the wall.
+The manager of Traveler's Lodge stands here ready to sign you in.
+A tall and strong bouncer, hired to protect the lodge's customers, stands here.
+
+344H 126V 800760X 60C Exits:N> rent           a dwarven mithril pole axe : 48 coins/day
+                     a hooded lantern : 1 coin/day
+              a cuirass made of chain : 15 coins/day
+The lodge manager tells you 'It will cost you 64 coins per day.'
+The lodge manager tells you 'Which I can see you can't afford.'
+
+344H 126V 800760X 60C Exits:N> eqYou are using:
+<used in both hands>       a dwarven mithril pole axe
+
+344H 126V 800760X 60C Exits:N> in
+Tokusen arrives from the north.
+
+344H 126V 800760X 60C Exits:N> You are carrying:
+a hooded lantern
+a cuirass made of chain
+
+344H 126V 800760X 60C Exits:N> 
+The lodge manager shows Tokusen to his room.
+
+344H 126V 800760X 60C Exits:N> scoYou are Rivo the Male Minotaur, a level 20 Scout.
+You are 24 years old.
+You have 344(344) hit and 126(126) movement points.
+Your behaviour has been Evil.
+You are traversing the path of the Ocean.
+The chill of evil pervades your soul.
+You have scored 3699240 exp, and have 60(0) steel coins.
+You need 800760 more experience to advance.
+You have never died.
+You have been connected for 0 minute(s).
+You have been playing for 0 day(s), 7 hour(s) and 24 minute(s).
+You are currently not hunting.
+Your equipment is currently not being concealed.
+You are standing.
+
+344H 126V 800760X 60C Exits:N> nTraveler's Lodge
+A Knight of Solamnia walks about the inn, keeping it safe.
+
+344H 125V 800760X 60C Exits:NESW> eVingaard Avenue South
+A buckskin gelding stands patiently awaiting a rider.
+
+344H 124V 800760X 60C Exits:NESW> nVingaard Avenue South
+
+344H 123V 800760X 60C Exits:NESW> nMarket Square of Kalaman
+
+344H 122V 800760X 60C Exits:NESW> eMarket Street East
+A street cleaner is walking about, cleaning up the trash.
+
+344H 121V 800760X 60C Exits:NESW> eMarket Street East
+
+344H 120V 800760X 60C Exits:NEW> eMarket Street East
+
+344H 119V 800760X 60C Exits:NESW> wMarket Street East
+
+344H 118V 800760X 60C Exits:NEW> wMarket Street East
+A street cleaner is walking about, cleaning up the trash.
+
+344H 117V 800760X 60C Exits:NESW> sOpen Air Bazaar of Kalaman
+A large pigeon is here pecking at some bread crumbs.
+A solamnic knight is patrolling this area.
+A merchant is here trying to sell you something.
+
+344H 116V 800760X 60C Exits:NW> sAlas, you cannot go that way...
+
+344H 116V 800760X 60C Exits:NW> wVingaard Avenue South
+
+344H 115V 800760X 60C Exits:NESW> sVingaard Avenue South
+A buckskin gelding stands patiently awaiting a rider.
+
+344H 114V 800760X 60C Exits:NESW> wsTraveler's Lodge
+A Knight of Solamnia walks about the inn, keeping it safe.
+
+344H 113V 800760X 60C Exits:NESW> The Reception
+A wooden bulletin board with the heading 'Wanted' is posted on the wall.
+The manager of Traveler's Lodge stands here ready to sign you in.
+A tall and strong bouncer, hired to protect the lodge's customers, stands here.
+
+344H 112V 800760X 60C Exits:N> nTraveler's Lodge
+A Knight of Solamnia walks about the inn, keeping it safe.
+
+344H 111V 800760X 60C Exits:NESW> nThe Lodge's Cafe
+The waitress sits behind the counter waiting to serve you a drink.
+
+344H 110V 800760X 60C Exits:S> scoYou are Rivo the Male Minotaur, a level 20 Scout.
+You are 24 years old.
+You have 344(344) hit and 110(126) movement points.
+Your behaviour has been Evil.
+You are traversing the path of the Ocean.
+The chill of evil pervades your soul.
+You have scored 3699240 exp, and have 60(0) steel coins.
+You need 800760 more experience to advance.
+You have never died.
+You have been connected for 0 minute(s).
+You have been playing for 0 day(s), 7 hour(s) and 24 minute(s).
+You are currently not hunting.
+Your equipment is currently not being concealed.
+You are standing.
+
+344H 110V 800760X 60C Exits:S> sTraveler's Lodge
+A Knight of Solamnia walks about the inn, keeping it safe.
+
+344H 109V 800760X 60C Exits:NESW> eVingaard Avenue South
+A buckskin gelding stands patiently awaiting a rider.
+
+344H 108V 800760X 60C Exits:NESW> nVingaard Avenue South
+
+344H 107V 800760X 60C Exits:NESW> nMarket Square of Kalaman
+
+344H 106V 800760X 60C Exits:NESW> wMarket Street West
+
+344H 105V 800760X 60C Exits:NESW> wMarket Street West
+A horse is tethered here.
+
+344H 104V 800760X 60C Exits:NESW> wMarket Street West
+
+344H 103V 800760X 60C Exits:NESW> nPath of the Holy
+A cityguard of Kalaman looks about for signs of trouble.
+
+344H 102V 800760X 60C Exits:NS> nPath of the Holy
+
+344H 101V 800760X 60C Exits:NSW> wCourtyard to the Temple
+
+344H 100V 800760X 60C Exits:NESW> nIt is pitch black.
+
+344H 99V 800760X 60C Exits:SW> sCourtyard to the Temple
+
+344H 98V 800760X 60C Exits:NESW> wThe Temple of Kalaman
+A cityguard of Kalaman looks about for signs of trouble.
+
+344H 97V 800760X 60C Exits:NEW> w
+A Kalaman cityguard leaves north.
+
+344H 97V 800760X 60C Exits:NEW> The Reading Room
+A large bulletin board is mounted on a wall here.
+A cityguard stands here, keeping a wary eye out for troublemakers.
+A cityguard stands here, keeping a wary eye out for troublemakers.
+
+344H 96V 800760X 60C Exits:E> quitYou drop everything you were carrying and/or wearing.
+Goodbye, friend.  Come back soon!
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+   Make a choice: 0
+
+Thank you for playing.
+
+
+                               Welcome to
+     ___
+    (___)     @@@@@ @@@@@@@@@   @@@@@@@@ @@@@@@@@@@@ @@@@@@@ @@@@@@@@
+     ==_     @@@@@@ @@@   @@@@ @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     =/.\   @@@@@@@ @@@    @@@ @@@    @@@    @@@       @@@  @@@    @@@
+     //-"  @@@@ @@@ @@@   @@@@ @@@           @@@       @@@  @@@
+ /--//==---\@@  @@@ @@@@@@@@@  @@@           @@@       @@@  @@@
+    \\ | @@@@   @@@ @@@ @@@@   @@@    @@@    @@@       @@@  @@@    @@@
+     \\|@@@@@@@@@@@ @@@  @@@@  @@@@  @@@@    @@@       @@@  @@@@  @@@@
+     |\\@@@     @@@ @@@   @@@@  @@@@@@@@     @@@     @@@@@@@ @@@@@@@@
+     | \\
+     | |/ O==========================================================O
+     | |  | Based on DikuMUD I by Michael Seifert, Sebastian Hammer, |
+    /| |  |   Hans Henrik Staerfeldt, Katja Nyboe, and Tom Madsen.   |
+    \\ |  |                                                          |
+     \\|  |        Mail may be directed to gods@mud.arctic.org       |
+     |\\  |                                                          |
+     | \\ |        ** Dont forget to visit our web page! **          |
+     | |/ |                 http://mud.arctic.org                    |
+     \ |  O==========================================================O
+      \|
+
+Type 'start' to create a new character.
+What is your character's name? ollyPassword: kuzmich
+
+You were last connected Tue Jan 17 06:17:49 2006 EST from 83.237.175.252.
+
+Welcome to Arctic.
+
+Arctic is a heavily modified DIKU with the experienced player in mind.
+Our administration policy is not to interfere with mortal affairs.
+Please bear that in mind when asking for assistance.
+
+*** Press Enter: 1
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+   Make a choice: You ran up charges of 16 steel in rent.
+
+Welcome to the land of Krynn.
+scoeqlook
+Clerk's Office
+A bulletin board with the heading 'Wanted' has been posted on the far wall.
+A large key carved out of stone lies here.
+Smoking a fat cigar, a low ranking guard vigilantly watches the inn.
+A tired looking clerk sits here waiting for you to say something intelligent.
+
+284H 137V 10873216X 1339C Exits:D> You are Olly Jokkinen, Thin But Strong, a level 28 Mage.
+You are 23 years old.
+You have 284(319) hit and 137(151) movement points.
+You are influenced by the black moon, Nuitari.
+You have scored 43126784 exp, and have 1339(3443) steel coins.
+You need 10873216 more experience to advance.
+You have died 3 horrible deaths.
+You have been connected for 0 minute(s).
+You have been playing for 3 day(s), 2 hour(s) and 14 minute(s).
+Your equipment is currently being concealed.
+You are standing.
+You are flying.
+Your wounds have been bandaged.
+You are affected by the following:
+    mental acuity
+    antimagic shell
+    fly
+    detect invisibility
+
+284H 137V 10873216X 1339C Exits:D> You are using:
+<worn on finger>           a wooden ring
+<worn on finger>           a small quartz ring..it glows dimly
+<worn around neck>         a blood red cape..it glows dimly
+<worn around neck>         a blood red cape..it glows dimly
+<worn on body>             a leather jacket
+<worn on head>             a slime covered caul
+<worn on legs>             a pair of leather pants
+<worn on feet>             a pair of cord sandals
+<worn on hands>            a pair of pitch black gloves
+<worn on arms>             a pair of leather sleeves
+<worn as shield>           a ruby shield..it glows dimly
+<worn about body>          a white guardian robe
+<worn about waist>         a ruby encrusted belt
+<worn around left wrist>   a glass bracelet..it glows dimly
+<used in primary hand>     a lich's claw..it glows dimly
+<held in secondary hand>   a rotted academic tome
+
+284H 137V 10873216X 1339C Exits:D> Clerk's Office
+A bulletin board with the heading 'Wanted' has been posted on the far wall.
+A large key carved out of stone lies here.
+Smoking a fat cigar, a low ranking guard vigilantly watches the inn.
+A tired looking clerk sits here waiting for you to say something intelligent.
+
+284H 137V 10873216X 1339C Exits:D> dThe Ebullient Elephant Inn
+Floyd, the barkeep, idly whistles a merry tune while polishing the bar.
+
+284H 136V 10873216X 1339C Exits:NU> c 'rel' zardonnaYou utter the words, 'relocate'
+Master's Office
+An orrery is mounted on a stand here.
+Zardonna, the elven high sorceress is ready to teach her arts.
+A cityguard stands here, keeping a wary eye out for troublemakers.
+
+284H 50V 10873216X 1339C Mem:2 Exits:D> growho b  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             good      fatigued  standing   Y   N    N    Y     0    2
+
+284H 50V 10873216X 1339C Mem:2 Exits:D> Immortals
+---------
+[Ovs  35] Chert Chiselbeard, King of the Hill Dwarves
+
+Mortals
+-------
+Shino                Sandig                     Lattia                     
+Gaz                  Rapaxes                    Gvozdedriell               
+Po                   Guri                       Hilgorsh                   
+Mune                 Blarg                      Artin                      
+Sasuke               Shu                        Katerin                    
+Zaiyra               Olly                       Kai                        
+
+Total visible people : 20        Total people online  : 20
+
+284H 50V 10873216X 1339C Mem:2 Exits:D> who s*Mortals
+-------
+Sasuke the Relentless, Rogue Avenger
+Sandig the Male Half Elf
+Shu the Male Minotaur
+Shino the Male Hylar Dwarf
+
+Total visible people : 4        Total people online  : 20
+
+284H 50V 10873216X 1339C Mem:2 Exits:D> lMaster's Office
+An orrery is mounted on a stand here.
+Zardonna, the elven high sorceress is ready to teach her arts.
+A cityguard stands here, keeping a wary eye out for troublemakers.
+
+284H 50V 10873216X 1339C Mem:2 Exits:D> dSorcerer's Lounge
+
+284H 49V 10873216X 1339C Mem:2 Exits:NU> nEntrance to the School
+
+284H 48V 10873216X 1339C Mem:2 Exits:NS> nMarket Street West
+
+284H 47V 10873216X 1339C Mem:2 Exits:NESW> nPath of the Holy
+A cityguard of Kalaman looks about for signs of trouble.
+
+284H 46V 10873216X 1339C Mem:2 Exits:NS> nPath of the Holy
+
+284H 45V 10873216X 1339C Mem:2 Exits:NSW> wCourtyard to the Temple
+
+284H 44V 10873216X 1339C Mem:2 Exits:NESW> wThe Temple of Kalaman
+
+284H 43V 10873216X 1339C Mem:2 Exits:NEW> wThe Reading Room
+A dwarven mithril pole axe is stuck with its blade in the ground.
+A cuirass made of chain lies in a heap on the ground.
+A tin hooded lantern has been left here.
+A large bulletin board is mounted on a wall here.
+A cityguard stands here, keeping a wary eye out for troublemakers.
+A cityguard stands here, keeping a wary eye out for troublemakers.
+
+284H 42V 10873216X 1339C Mem:2 Exits:E> get axeYou get a dwarven mithril pole axe.
+
+284H 42V 10873216X 1339C Mem:2 Exits:E> c 'rel' shuYou utter the words, 'relocate'
+The Tollhouse
+A wooden sign on a pole directs travellers to their destinations.
+(flying) Shu the Male Minotaur is stretched out on a wooden bench.
+
+284H 42V 10873216X 1339C Mem:3 Exits:NESW(U)> beck
+You throw away your bloody bandages.
+
+295H 67V 10873216X 1339C Mem:2 Exits:NESW(U)> You beckon for everyone to follow.
+
+295H 67V 10873216X 1339C Mem:2 Exits:NESW(U)> gro  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             v.good    rested    standing   Y   N    N    Y     0    2
+
+295H 67V 10873216X 1339C Mem:2 Exits:NESW(U)> who bImmortals
+---------
+[Ovs  35] Chert Chiselbeard, King of the Hill Dwarves
+
+Mortals
+-------
+Shino                Sandig                     Shu                        
+Artin                Gvozdedriell               Katerin                    
+Lattia               Gaz                        Blarg                      
+Zaiyra               Olly                       Kai                        
+Po                   Hilgorsh                   Mune                       
+Guri                 Sasuke                                                
+
+Total visible people : 19        Total people online  : 19
+
+295H 67V 10873216X 1339C Mem:2 Exits:NESW(U)> gro  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             v.good    rested    standing   Y   N    N    Y     0    2
+
+295H 67V 10873216X 1339C Mem:2 Exits:NESW(U)> scoYou are Olly Jokkinen, Thin But Strong, a level 28 Mage.
+You are 23 years old.
+You have 295(319) hit and 67(151) movement points.
+You are influenced by the black moon, Nuitari.
+You have scored 43126784 exp, and have 1339(3443) steel coins.
+You need 10873216 more experience to advance.
+You have died 3 horrible deaths.
+You have been connected for 0 minute(s).
+You have been playing for 3 day(s), 2 hour(s) and 15 minute(s).
+Your equipment is currently being concealed.
+You are standing.
+You are flying.
+You are affected by the following:
+    relocate
+    mental acuity
+    antimagic shell
+    fly
+    detect invisibility
+
+295H 67V 10873216X 1339C Mem:2 Exits:NESW(U)> 
+Shu starts following you.
+
+295H 67V 10873216X 1339C Mem:2 Exits:NESW(U)> gro formShu is now a member of your group.
+
+295H 67V 10873216X 1339C Mem:2 Exits:NESW(U)> nBefore the South Gates of Vingaard
+
+295H 66V 10873216X 1339C Mem:2 Exits:NS> nnInside the Gates
+
+295H 65V 10873216X 1339C Mem:2 Exits:NS> nSouthern Avenue and Southern Perimeter Road
+A woman with long red hair strolls through the town.
+
+295H 64V 10873216X 1339C Mem:2 Exits:NESW> nnSouthern Avenue
+A quarter horse is tethered here.
+
+295H 63V 10873216X 1339C Mem:2 Exits:NS> nSouthern Avenue and The Avenue of the Triumvirate
+A street sweeper stands here, sweeping up dirt and trash.
+
+295H 62V 10873216X 1339C Mem:2 Exits:NESW> Southern Avenue
+
+295H 61V 10873216X 1339C Mem:2 Exits:NS> Southern Avenue and Garrison Street
+A cityguard marches down the street, keeping a vigilant eye for danger.
+A pigeon walks about pecking the ground and running from your feet.
+A street sweeper stands here, sweeping up dirt and trash.
+
+295H 60V 10873216X 1339C Mem:2 Exits:NESW> nSouthern Park Gate
+A young boy dashes through the park here.
+A flea-bitten rat peers up at you.
+A dirty beggar huddles here, trying to stay warm.
+A dirty beggar huddles here, trying to stay warm.
+
+295H 59V 10873216X 1339C Mem:2 Exits:NESW> nSouthern Avenue
+A woman wanders through the park here, trying to keep track of her children.
+
+295H 57V 10873216X 1339C Mem:2 Exits:NESW> nSouthern Avenue
+A young girl wanders here, straying from her mother.
+A young girl wanders here, straying from her mother.
+
+295H 55V 10873216X 1339C Mem:2 Exits:NESW> nAs you enter park square, a fine mist of water fills the air, dampening your skin.
+Vingaard Park Square
+A large copper fountain dominates the center of park square.
+A woman wanders through the park here, trying to keep track of her children.
+
+295H 53V 10873216X 1339C Mem:2 Exits:NESW> en tentYou pull the front flap on the tent back, and step inside.
+Inside A Dim Merchant's Tent
+Divrak the dark merchant stands here, awaiting your business.
+
+295H 52V 10873216X 1339C Mem:2> buy 10*putridDivrak the Merchant tells you 'That'll cost you 650 coins.'
+You now have 10 potions.
+
+295H 52V 10873216X 689C Mem:2> buy 10*putridPotion : You can't carry that many items.
+
+295H 52V 10873216X 689C Mem:2> buy putridDivrak the Merchant tells you 'That'll cost you 65 coins.'
+You now have a putrid potion.
+
+295H 52V 10873216X 624C Mem:2> buy putridDivrak the Merchant tells you 'That'll cost you 65 coins.'
+You now have a putrid potion.
+
+295H 52V 10873216X 559C Mem:2> buy putridDivrak the Merchant tells you 'That'll cost you 65 coins.'
+You now have a putrid potion.
+
+295H 52V 10873216X 494C Mem:2> buy putridDivrak the Merchant tells you 'That'll cost you 65 coins.'
+You now have a putrid potion.
+
+295H 52V 10873216X 429C Mem:2> buy putridDivrak the Merchant tells you 'That'll cost you 65 coins.'
+You now have a putrid potion.
+
+295H 52V 10873216X 364C Mem:2> op flapYou pull back the flap, and step out of the tent.
+As you enter park square, a fine mist of water fills the air, dampening your skin.
+Vingaard Park Square
+A large copper fountain dominates the center of park square.
+A woman wanders through the park here, trying to keep track of her children.
+
+295H 51V 10873216X 364C Mem:2 Exits:NESW> sSouthern Avenue
+A young girl wanders here, straying from her mother.
+A young girl wanders here, straying from her mother.
+
+295H 49V 10873216X 364C Mem:2 Exits:NESW> sSouthern Avenue
+A woman wanders through the park here, trying to keep track of her children.
+
+295H 47V 10873216X 364C Mem:2 Exits:NESW> sSouthern Park Gate
+A young boy dashes through the park here.
+A flea-bitten rat peers up at you.
+A dirty beggar huddles here, trying to stay warm.
+A dirty beggar huddles here, trying to stay warm.
+
+295H 45V 10873216X 364C Mem:2 Exits:NESW> sSouthern Avenue and Garrison Street
+A cityguard marches down the street, keeping a vigilant eye for danger.
+A street sweeper stands here, sweeping up dirt and trash.
+
+295H 44V 10873216X 364C Mem:2 Exits:NESW> ssSouthern Avenue
+
+295H 43V 10873216X 364C Mem:2 Exits:NS> Southern Avenue and The Avenue of the Triumvirate
+A cityguard marches down the street, keeping a vigilant eye for danger.
+A street sweeper stands here, sweeping up dirt and trash.
+
+295H 42V 10873216X 364C Mem:2 Exits:NESW> 
+A cityguard marches south.
+
+295H 42V 10873216X 364C Mem:2 Exits:NESW> sSouthern Avenue
+A cityguard marches down the street, keeping a vigilant eye for danger.
+A quarter horse is tethered here.
+
+295H 41V 10873216X 364C Mem:2 Exits:NS> sSouthern Avenue and Southern Perimeter Road
+A kender skips gleefully down the street, doing his best to avoid guards.
+You notice a happy kender eyeing your possessions.
+
+295H 40V 10873216X 364C Mem:2 Exits:NESW> sInside the Gates
+
+295H 39V 10873216X 364C Mem:2 Exits:NS> sBefore the South Gates of Vingaard
+
+295H 38V 10873216X 364C Mem:2 Exits:NS> sThe Tollhouse
+A wooden sign on a pole directs travellers to their destinations.
+Shu the Male Minotaur is standing here. (flying)
+
+295H 37V 10873216X 364C Mem:2 Exits:NESW(U)> nShu flies in from the south.
+Before the South Gates of Vingaard
+Shu the Male Minotaur is standing here. (flying)
+
+295H 36V 10873216X 364C Mem:2 Exits:NS> nShu flies in from the south.
+Inside the Gates
+Shu the Male Minotaur is standing here. (flying)
+
+295H 35V 10873216X 364C Mem:2 Exits:NS> nShu flies in from the south.
+Southern Avenue and Southern Perimeter Road
+Shu the Male Minotaur is standing here. (flying)
+A cityguard marches down the street, keeping a vigilant eye for danger.
+A kender skips gleefully down the street, doing his best to avoid guards.
+Shu notices a happy kender eyeing his possessions.
+
+295H 34V 10873216X 364C Mem:2 Exits:NESW> c 'f b' kenderYou utter the words, 'force bolt'
+You hear bones crack as your force bolt slams into a happy kender.
+
+295H 34V 10871837X 364C [Olly:V.Good] [a happy kender:Awful] Mem:3 Exits:NESW> 
+A cityguard marches in from the east.
+
+295H 34V 10871837X 364C [Olly:V.Good] [a happy kender:Awful] Mem:3 Exits:NESW> 
+You claw a happy kender hard.
+A happy kender is incapacitated and will slowly die, if not aided.
+
+295H 34V 10871729X 364C [a happy kender:Dying] Mem:3 Exits:NESW> who bImmortals
+---------
+[Ovs  35] Chert Chiselbeard, King of the Hill Dwarves
+
+Mortals
+-------
+Hilgorsh             Olly                       Gvozdedriell               
+Sandig               Gaz                        Zaiyra                     
+Mune                 Artin                      Guri                       
+Shu                  Sasuke                     Kai                        
+Blarg                Rapaxes                    Po                         
+Katerin              Lattia                                                
+
+Total visible people : 19        Total people online  : 19
+
+295H 34V 10871729X 364C [a happy kender:Dying] Mem:3 Exits:NESW> 
+With a click of the heels, a cityguard spins around and marches back.
+
+295H 34V 10871729X 364C [a happy kender:Dying] Mem:3 Exits:NESW> 
+A cityguard marches west.
+
+295H 34V 10871729X 364C [a happy kender:Dying] Mem:3 Exits:NESW> 
+You claw a happy kender extremely hard.
+You receive 4871 experience.
+get pile corpseA happy kender is dead! R.I.P.
+exa corpseThe death cry of a happy kender echoes from somewhere nearby...
+
+295H 34V 10866858X 364C Mem:3 Exits:NESW> You get a pile of coins from the corpse of a happy kender.
+There were 24 coins.
+split 24
+295H 34V 10866858X 388C Mem:3 Exits:NESW> It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+295H 34V 10866858X 388C Mem:3 Exits:NESW> You divide 24 coins equally among the group members present.
+
+295H 34V 10866858X 376C Mem:3 Exits:NESW> 
+A cityguard marches north.
+
+295H 34V 10866858X 376C Mem:3 Exits:NESW> give 10*putrids shuYou do not seem to have anything like that.
+
+295H 34V 10866858X 376C Mem:3 Exits:NESW> give 10*putrid shuYou give a putrid potion to Shu.
+You give a putrid potion to Shu.
+You give a putrid potion to Shu.
+You give a putrid potion to Shu.
+You give a putrid potion to Shu.
+You give a putrid potion to Shu.
+You give a putrid potion to Shu.
+You give a putrid potion to Shu.
+You give a putrid potion to Shu.
+You give a putrid potion to Shu.
+
+295H 34V 10866858X 376C Mem:3 Exits:NESW> sShu flies in from the north.
+Inside the Gates
+Shu the Male Minotaur is standing here. (flying)
+
+295H 33V 10866858X 376C Mem:3 Exits:NS> sShu flies in from the north.
+Before the South Gates of Vingaard
+Shu the Male Minotaur is standing here. (flying)
+
+295H 32V 10866858X 376C Mem:3 Exits:NS> sShu flies in from the north.
+The Tollhouse
+A wooden sign on a pole directs travellers to their destinations.
+Shu the Male Minotaur is standing here. (flying)
+
+295H 31V 10866858X 376C Mem:3 Exits:NESW(U)> 
+Shu flies east.
+
+295H 31V 10866858X 376C Mem:3 Exits:NESW(U)> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             v.good    fatigued  standing   Y   N    N    Y     0    3
+  Shu              perfect   rested    standing   Y   N    Y    N     2    0
+
+295H 31V 10866858X 376C Mem:3 Exits:NESW(U)> inYou are carrying:
+a putrid potion [5]
+a dwarven mithril pole axe
+a large first-aid kit
+a long sword
+a glowing scroll of recall..it glows dimly [3]
+some pixie dust..it glows dimly [2]
+a milky potion of see invisible
+a small silver thimble
+a medallion of the earth
+a pair of supple leather gloves
+a large first-aid kit
+a red maul
+a crystal shard necklace..it glows dimly
+a yellow potion
+a pair of leather boots
+a small wooden chest
+
+295H 31V 10866858X 376C Mem:3 Exits:NESW(U)> who bMortals
+-------
+Rapaxes              Po                         Mune                       
+Blarg                Hilgorsh                   Lattia                     
+Guri                 Sandig                     Zaiyra                     
+Olly                 Gvozdedriell               Shu                        
+Katerin              Kai                        Gaz                        
+Artin                Sasuke                                                
+
+Total visible people : 18        Total people online  : 18
+
+306H 56V 10866858X 376C Mem:2 Exits:NESW(U)> c 'rel' silanEverything becomes clear as you prepare to cast.
+You utter the words, 'relocate'
+The Hall of Astral Insight
+An orrery is mounted on a stand here.
+A stocky human in looming black robes moves about the hall.
+
+306H 50V 10866858X 376C Mem:1 Exits:D> dbuy loreThe Component Cabinet
+A black key with deep grooves on the handle is sitting here.
+Karm waits impatiently to assist you in your purchase.
+
+306H 49V 10866858X 376C Mem:1 Exits:WU> Karm tells you 'That's 260 coins, be sure to keep it away from direct sunlight.'
+You now have a scroll of legend lore.
+
+306H 49V 10866858X 116C Mem:1 Exits:WU> uThe Hall of Astral Insight
+An orrery is mounted on a stand here.
+A stocky human in looming black robes moves about the hall.
+
+306H 48V 10866858X 116C Mem:1 Exits:D> inYou are carrying:
+a scroll of legend lore
+a putrid potion [5]
+a dwarven mithril pole axe
+a large first-aid kit
+a long sword
+a glowing scroll of recall..it glows dimly [3]
+some pixie dust..it glows dimly [2]
+a milky potion of see invisible
+a small silver thimble
+a medallion of the earth
+a pair of supple leather gloves
+a large first-aid kit
+a red maul
+a crystal shard necklace..it glows dimly
+a yellow potion
+a pair of leather boots
+a small wooden chest
+
+306H 48V 10866858X 116C Mem:1 Exits:D> rec lore mithrilYou stop using a rotted academic tome.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'axe pole dwarven mithril'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 24           Value   : 70
+
+ Affects  : DAMROLL       by 1
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC
+ Class    : pole_axe
+ Damage   : 3D6
+
+306H 48V 10866858X 116C Mem:1 Exits:D> reYou rest your tired bones but stay aloft.
+
+306H 48V 10866858X 116C Mem:1 Exits:D> 
+306H 48V 10866858X 116C Mem:1 Exits:D> gro
+Shu stops following you.
+gro
+306H 48V 10866858X 116C Mem:1 Exits:D>   Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             v.good    fatigued  resting    Y   N    N    Y     0    1
+
+306H 48V 10866858X 116C Mem:1 Exits:D> in  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             v.good    fatigued  resting    Y   N    N    Y     0    1
+
+306H 48V 10866858X 116C Mem:1 Exits:D> You are carrying:
+a rotted academic tome
+a putrid potion [5]
+a dwarven mithril pole axe
+a large first-aid kit
+a long sword
+a glowing scroll of recall..it glows dimly [3]
+some pixie dust..it glows dimly [2]
+a milky potion of see invisible
+a small silver thimble
+a medallion of the earth
+a pair of supple leather gloves
+a large first-aid kit
+a red maul
+a crystal shard necklace..it glows dimly
+a yellow potion
+a pair of leather boots
+a small wooden chest
+
+306H 48V 10866858X 116C Mem:1 Exits:D> gro  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             v.good    fatigued  resting    Y   N    N    Y     0    1
+
+306H 48V 10866858X 116C Mem:1 Exits:D> 
+Your studies complete, you close your spellbook with a smile.
+memYour mind slides back into a more normal state.
+
+318H 79V 10866858X 116C Exits:D> Spells currently memorized:
+1: [ 1]blur                 [ 5]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 1]silence              [ 1]sleep                [ 2]strength            
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 2]haste                [ 3]hold person          [ 1]improved invisibilit
+   [ 1]teleport            
+5: [ 5]force bolt           [ 1]locate object       
+6: [ 2]antimagic shell      [ 4]relocate            
+7: [ 3]conjure elemental    [ 2]mass invisibility   
+8: [ 3]cloud kill           [ 1]mental acuity       
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-2
+
+318H 79V 10866858X 116C Exits:D> lThe Hall of Astral Insight
+An orrery is mounted on a stand here.
+A stocky human in looming black robes moves about the hall.
+
+318H 79V 10866858X 116C Exits:D> gro  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             perfect   rested    resting    Y   N    N    Y     0    0
+
+318H 79V 10866858X 116C Exits:D> inYou are carrying:
+a rotted academic tome
+a putrid potion [5]
+a dwarven mithril pole axe
+a large first-aid kit
+a long sword
+a glowing scroll of recall..it glows dimly [3]
+some pixie dust..it glows dimly [2]
+a milky potion of see invisible
+a small silver thimble
+a medallion of the earth
+a pair of supple leather gloves
+a large first-aid kit
+a red maul
+a crystal shard necklace..it glows dimly
+a yellow potion
+a pair of leather boots
+a small wooden chest
+
+318H 79V 10866858X 116C Exits:D> staYou stand up.
+
+318H 79V 10866858X 116C Exits:D> c 'rel' shuYou utter the words, 'relocate'
+A Crossroads in the Khalkist Foothills
+A mountain spring bubbles out of the rocks into a small pool.
+A small sign stands just off the road.
+Shu the Male Minotaur is resting here. (flying)
+
+318H 49V 10866858X 116C Mem:2 Exits:NSW> give thimble shuYou give a small silver thimble to Shu.
+
+318H 49V 10866858X 116C Mem:2 Exits:NSW> inYou are carrying:
+a rotted academic tome
+a putrid potion [5]
+a dwarven mithril pole axe
+a large first-aid kit
+a long sword
+a glowing scroll of recall..it glows dimly [3]
+some pixie dust..it glows dimly [2]
+a milky potion of see invisible
+a medallion of the earth
+a pair of supple leather gloves
+a large first-aid kit
+a red maul
+a crystal shard necklace..it glows dimly
+a yellow potion
+a pair of leather boots
+a small wooden chest
+
+318H 49V 10866858X 116C Mem:2 Exits:NSW> 
+Shu starts following you.
+
+318H 49V 10866858X 116C Mem:2 Exits:NSW> exa chestThe chest is beginning to show signs of warping.
+chest (carried) : 
+a large hide waterskin [4]
+an iron ration [2]
+a large hide waterskin
+a crystal shard necklace..it glows dimly [3]
+
+318H 49V 10866858X 116C Mem:2 Exits:NSW> gro formShu is now a member of your group.
+
+318H 49V 10866858X 116C Mem:2 Exits:NSW> who bMortals
+-------
+Po                   Guri                       Lattia                     
+Olly                 Gaz                        Zaiyra                     
+Brabham              Blarg                      Artin                      
+Sasuke               Shu                        Mune                       
+Padre                Hilgorsh                   Kai                        
+Rapaxes              Gvozdedriell               Sandig                     
+
+Total visible people : 19        Total people online  : 19
+
+318H 49V 10866858X 116C Mem:2 Exits:NSW> l shuYou see nothing special about him.
+Shu the adult male minotaur has a few scratches (bandaged).
+
+Shu is using:
+<worn on finger>           an emerald ring..it glows dimly
+<worn on finger>           a shiny dwarven ring
+<worn around neck>         a light medallion..it glows dimly
+<worn around neck>         an enchanted rat bone charm..it glows dimly
+<worn on head>             a dwarven helm and visor
+<worn on hands>            some spiked minotaur gauntlets
+<worn about body>          a set of demon wings
+<worn about waist>         a dwarven belt
+<worn around right wrist>  a wrist lantern
+<used in both hands>       an enormous stone battleaxe
+
+318H 49V 10866858X 116C Mem:2 Exits:NSW> 
+Shu removes his ring, and the emerald stops glowing.
+
+318H 49V 10866858X 116C Mem:2 Exits:NSW> reYou walk over to the spring and relax next to it.
+
+318H 49V 10866858X 116C Mem:1 Exits:NSW> 
+Shu drops an emerald ring.
+
+318H 49V 10866858X 116C Mem:1 Exits:NSW> lA Crossroads in the Khalkist Foothills
+A silver ring inset with a stunning green emerald lies here...it glows dimly
+A mountain spring bubbles out of the rocks into a small pool.
+A small sign stands just off the road.
+Shu the Male Minotaur is resting here. (flying)
+
+318H 49V 10866858X 116C Mem:1 Exits:NSW> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             perfect   fatigued  resting    Y   N    N    Y     0    1
+  Shu              v.good    exhausted resting    Y   N    N    Y     2    0
+
+318H 49V 10866858X 116C Mem:1 Exits:NSW> who bMortals
+-------
+Brabham              Lattia                     Gaz                        
+Mune                 Zaiyra                     Sasuke                     
+Shu                  Olly                       Padre                      
+Hilgorsh             Kai                        Po                         
+Blarg                Artin                      Guri                       
+Rapaxes              Gvozdedriell               Sandig                     
+Bulba                                                                      
+
+Total visible people : 20        Total people online  : 20
+
+318H 49V 10866858X 116C Mem:1 Exits:NSW> 
+Shu wears a small silver thimble on a finger of his right hand.
+Shu attempts to use a small silver thimble but fails.
+Shu wears a small silver thimble on a finger of his right hand.
+Shu attempts to use a small silver thimble but fails.
+
+318H 49V 10866858X 116C Mem:1 Exits:NSW> staYou stand up.
+
+318H 49V 10866858X 116C Mem:2 Exits:NSW> 
+Shu drops a small silver thimble.
+
+318H 49V 10866858X 116C Mem:2 Exits:NSW> c 'rel' silanYou utter the words, 'relocate'
+The Hall of Astral Insight
+An orrery is mounted on a stand here.
+A stocky human in looming black robes moves about the hall.
+
+318H 49V 10866858X 116C Mem:2 Exits:D> reYou rest your tired bones but stay aloft.
+
+318H 49V 10866858X 116C Mem:1 Exits:D> mSpells currently memorized:
+1: [ 1]blur                 [ 5]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 1]silence              [ 1]sleep                [ 2]strength            
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 2]haste                [ 3]hold person          [ 1]improved invisibilit
+   [ 1]teleport            
+5: [ 5]force bolt           [ 1]locate object       
+6: [ 2]antimagic shell      [ 2]relocate            
+7: [ 3]conjure elemental    [ 2]mass invisibility   
+8: [ 3]cloud kill           [ 1]mental acuity       
+
+Spells being memorized:
+6: [ 2]relocate            
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-2
+
+318H 49V 10866858X 116C Mem:1 Exits:D> who b
+Your studies complete, you close your spellbook with a smile.
+mem
+318H 80V 10866858X 116C Exits:D> Mortals
+-------
+Po                   Sasuke                     Hilgorsh                   
+Blarg                Olly                       Padre                      
+Lattia               Gaz                        Mune                       
+Zaiyra               Shu                        Artin                      
+Guri                 Kai                        Rapaxes                    
+Gvozdedriell         Sandig                     Brabham                    
+Bulba                                                                      
+
+Total visible people : 20        Total people online  : 20
+
+318H 80V 10866858X 116C Exits:D> Spells currently memorized:
+1: [ 1]blur                 [ 5]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 1]silence              [ 1]sleep                [ 2]strength            
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 2]haste                [ 3]hold person          [ 1]improved invisibilit
+   [ 1]teleport            
+5: [ 5]force bolt           [ 1]locate object       
+6: [ 2]antimagic shell      [ 4]relocate            
+7: [ 3]conjure elemental    [ 2]mass invisibility   
+8: [ 3]cloud kill           [ 1]mental acuity       
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-2
+
+318H 80V 10866858X 116C Exits:D> scoYou are Olly Jokkinen, Thin But Strong, a level 28 Mage.
+You are 22 years old.
+You have 318(318) hit and 80(148) movement points.
+You are influenced by the black moon, Nuitari.
+You have scored 43133142 exp, and have 116(3443) steel coins.
+You need 10866858 more experience to advance.
+You have died 3 horrible deaths.
+You have been connected for 3 minute(s).
+You have been playing for 3 day(s), 2 hour(s) and 18 minute(s).
+Your equipment is currently being concealed.
+You are resting.
+You are flying.
+You are affected by the following:
+    relocate
+    mental acuity
+    antimagic shell
+    fly
+    detect invisibility
+
+318H 80V 10866858X 116C Exits:D> 
+318H 80V 10866858X 116C Exits:D> 
+318H 80V 10866858X 116C Exits:D> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             perfect   rested    resting    Y   N    N    Y     0    0
+  Shu              perfect   fatigued  standing   Y   N    Y    N     2    0
+
+318H 80V 10866858X 116C Exits:D> inYou are carrying:
+a rotted academic tome
+a putrid potion [5]
+a dwarven mithril pole axe
+a large first-aid kit
+a long sword
+a glowing scroll of recall..it glows dimly [3]
+some pixie dust..it glows dimly [2]
+a milky potion of see invisible
+a medallion of the earth
+a pair of supple leather gloves
+a large first-aid kit
+a red maul
+a crystal shard necklace..it glows dimly
+a yellow potion
+a pair of leather boots
+a small wooden chest
+
+318H 80V 10866858X 116C Exits:D> inYou are carrying:
+a rotted academic tome
+a putrid potion [5]
+a dwarven mithril pole axe
+a large first-aid kit
+a long sword
+a glowing scroll of recall..it glows dimly [3]
+some pixie dust..it glows dimly [2]
+a milky potion of see invisible
+a medallion of the earth
+a pair of supple leather gloves
+a large first-aid kit
+a red maul
+a crystal shard necklace..it glows dimly
+a yellow potion
+a pair of leather boots
+a small wooden chest
+
+318H 80V 10866858X 116C Exits:D> 
+Padre shouts 'braided silver bracelet/three-strap leather bracer for trade to auto invis '
+
+318H 111V 10866858X 116C Exits:D> lThe Hall of Astral Insight
+An orrery is mounted on a stand here.
+A stocky human in looming black robes moves about the hall.
+
+318H 111V 10866858X 116C Exits:D> staYou stand up.
+
+318H 111V 10866858X 116C Exits:D> c 'rel' shuYou utter the words, 'relocate'
+A Rocky Path
+Shu the Male Minotaur is standing here. (flying)
+
+318H 49V 10866858X 116C Mem:2 Exits:EW> c 'inv' shuYou utter the words, 'invisibility'
+Shu slowly fades out of sight.
+
+318H 49V 10866858X 116C Mem:3 Exits:EW> 
+Shu flies east.
+
+318H 49V 10866858X 116C Mem:3 Exits:EW> c 'rel' darvinusYou utter the words, 'relocate'
+Academy of Ars Arcana
+An orrery is mounted on a stand here.
+Darvinus the master mage is here, looking for students.
+
+318H 49V 10866858X 116C Mem:2 Exits:W> reYou rest your tired bones but stay aloft.
+
+318H 49V 10866858X 116C Mem:1 Exits:W> 
+Your studies complete, you close your spellbook with a smile.
+mem
+318H 80V 10866858X 116C Exits:W> Spells currently memorized:
+1: [ 1]blur                 [ 5]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 1]silence              [ 1]sleep                [ 2]strength            
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 2]haste                [ 3]hold person          [ 1]improved invisibilit
+   [ 1]teleport            
+5: [ 5]force bolt           [ 1]locate object       
+6: [ 2]antimagic shell      [ 4]relocate            
+7: [ 3]conjure elemental    [ 2]mass invisibility   
+8: [ 3]cloud kill           [ 1]mental acuity       
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-2
+
+318H 80V 10866858X 116C Exits:W> 
+Shu flies in from the west.
+
+318H 80V 10866858X 116C Exits:W> scoYou are Olly Jokkinen, Thin But Strong, a level 28 Mage.
+You are 22 years old.
+You have 318(318) hit and 80(148) movement points.
+You are influenced by the black moon, Nuitari.
+You have scored 43133142 exp, and have 116(3443) steel coins.
+You need 10866858 more experience to advance.
+You have died 3 horrible deaths.
+You have been connected for 5 minute(s).
+You have been playing for 3 day(s), 2 hour(s) and 20 minute(s).
+Your equipment is currently being concealed.
+You are resting.
+You are flying.
+You are affected by the following:
+    relocate
+    mental acuity
+    antimagic shell
+    fly
+    detect invisibility
+
+318H 80V 10866858X 116C Exits:W> staYou stand up.
+
+318H 80V 10866858X 116C Exits:W> c 'i i'You utter the words, 'improved invisibility'
+You vanish.
+
+318H 80V 10866858X 116C Mem:1 Exits:W> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             perfect   rested    standing   Y   Y    N    Y     0    1
+  Shu              perfect   rested    standing   Y   Y    Y    Y     2    0
+
+318H 80V 10866858X 116C Mem:1 Exits:W> reYou rest your tired bones but stay aloft.
+
+318H 80V 10866858X 116C Mem:1 Exits:W> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             perfect   rested    resting    Y   Y    N    Y     0    1
+  Shu              perfect   rested    standing   Y   Y    Y    Y     2    0
+
+318H 80V 10866858X 116C Mem:1 Exits:W> mSpells currently memorized:
+1: [ 1]blur                 [ 5]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 1]silence              [ 1]sleep                [ 2]strength            
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 2]haste                [ 3]hold person          [ 1]teleport            
+5: [ 5]force bolt           [ 1]locate object       
+6: [ 2]antimagic shell      [ 4]relocate            
+7: [ 3]conjure elemental    [ 2]mass invisibility   
+8: [ 3]cloud kill           [ 1]mental acuity       
+
+Spells being memorized:
+4: [ 1]improved invisibilit
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-2
+
+318H 80V 10866858X 116C Mem:1 Exits:W> inYou are carrying:
+a rotted academic tome
+a putrid potion [5]
+a dwarven mithril pole axe
+a large first-aid kit
+a long sword
+a glowing scroll of recall..it glows dimly [3]
+some pixie dust..it glows dimly [2]
+a milky potion of see invisible
+a medallion of the earth
+a pair of supple leather gloves
+a large first-aid kit
+a red maul
+a crystal shard necklace..it glows dimly
+a yellow potion
+a pair of leather boots
+a small wooden chest
+
+318H 80V 10866858X 116C Mem:1 Exits:W> who bMortals
+-------
+Hilgorsh             Shu                        Gvozdedriell               
+Mune                 Rapaxes                    Sandig                     
+Gaz                  Padre                      Kai                        
+Po                   Lattia                     Blarg                      
+Onin                 Zaiyra                     Olly                       
+Katerin                                                                    
+
+Total visible people : 17        Total people online  : 17
+
+318H 80V 10866858X 116C Mem:1 Exits:W> 
+Shu begins resting but stays aloft.
+
+318H 80V 10866858X 116C Mem:1 Exits:W> inYou are carrying:
+a rotted academic tome
+a putrid potion [5]
+a dwarven mithril pole axe
+a large first-aid kit
+a long sword
+a glowing scroll of recall..it glows dimly [3]
+some pixie dust..it glows dimly [2]
+a milky potion of see invisible
+a medallion of the earth
+a pair of supple leather gloves
+a large first-aid kit
+a red maul
+a crystal shard necklace..it glows dimly
+a yellow potion
+a pair of leather boots
+a small wooden chest
+
+318H 80V 10866858X 116C Mem:1 Exits:W> 
+Shu relaxes and seems to focus on the air in front of him.
+
+318H 80V 10866858X 116C Mem:1 Exits:W> exa lanternYou do not see that here.
+
+318H 80V 10866858X 116C Mem:1 Exits:W> inYou are carrying:
+a rotted academic tome
+a putrid potion [5]
+a dwarven mithril pole axe
+a large first-aid kit
+a long sword
+a glowing scroll of recall..it glows dimly [3]
+some pixie dust..it glows dimly [2]
+a milky potion of see invisible
+a medallion of the earth
+a pair of supple leather gloves
+a large first-aid kit
+a red maul
+a crystal shard necklace..it glows dimly
+a yellow potion
+a pair of leather boots
+a small wooden chest
+
+318H 80V 10866858X 116C Mem:1 Exits:W> scoYou are Olly Jokkinen, Thin But Strong, a level 28 Mage.
+You are 22 years old.
+You have 318(318) hit and 80(148) movement points.
+You are influenced by the black moon, Nuitari.
+You have scored 43133142 exp, and have 116(3443) steel coins.
+You need 10866858 more experience to advance.
+You have died 3 horrible deaths.
+You have been connected for 6 minute(s).
+You have been playing for 3 day(s), 2 hour(s) and 21 minute(s).
+Your equipment is currently being concealed.
+You are resting.
+You are flying.
+You are affected by the following:
+    improved invisibility
+    relocate
+    mental acuity
+    antimagic shell
+    fly
+    detect invisibility
+
+318H 80V 10866858X 116C Mem:1 Exits:W> lAcademy of Ars Arcana
+An orrery is mounted on a stand here.
+Shu the Male Minotaur is resting here. (flying) (invisible)
+Darvinus the master mage is here, looking for students.
+
+318H 80V 10866858X 116C Mem:1 Exits:W> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             perfect   rested    resting    Y   Y    N    Y     0    1
+  Shu              perfect   rested    resting    Y   Y    Y    Y     2    0
+
+318H 80V 10866858X 116C Mem:1 Exits:W> 
+Your studies complete, you close your spellbook with a smile.
+mem
+318H 111V 10866858X 116C Exits:W> l shuSpells currently memorized:
+1: [ 1]blur                 [ 5]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 1]silence              [ 1]sleep                [ 2]strength            
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 2]haste                [ 3]hold person          [ 1]improved invisibilit
+   [ 1]teleport            
+5: [ 5]force bolt           [ 1]locate object       
+6: [ 2]antimagic shell      [ 4]relocate            
+7: [ 3]conjure elemental    [ 2]mass invisibility   
+8: [ 3]cloud kill           [ 1]mental acuity       
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-2
+
+318H 111V 10866858X 116C Exits:W> You see nothing special about him.
+Shu the adult male minotaur is in an excellent condition (invisible).
+
+Shu is using:
+<worn on finger>           an emerald ring..it glows dimly
+<worn on finger>           a shiny dwarven ring
+<worn around neck>         a light medallion..it glows dimly
+<worn around neck>         an enchanted rat bone charm..it glows dimly
+<worn on head>             a dwarven helm and visor
+<worn on hands>            some spiked minotaur gauntlets
+<worn about body>          a set of demon wings
+<worn about waist>         a dwarven belt
+<worn around right wrist>  a wrist lantern
+<used in both hands>       an enormous stone battleaxe
+
+318H 111V 10866858X 116C Exits:W> lAcademy of Ars Arcana
+An orrery is mounted on a stand here.
+Shu the Male Minotaur is resting here. (flying) (invisible)
+Darvinus the master mage is here, looking for students.
+
+318H 111V 10866858X 116C Exits:W> 
+Shu stops using a wrist lantern.
+
+318H 111V 10866858X 116C Exits:W> who bMortals
+-------
+Hilgorsh             Blarg                      Po                         
+Shu                  Mune                       Rapaxes                    
+Kai                  Padre                      Zaiyra                     
+Olly                 Onin                       Gvozdedriell               
+Lattia               Sandig                     Katerin                    
+Gaz                                                                        
+
+Total visible people : 17        Total people online  : 17
+
+318H 111V 10866858X 116C Exits:W> lAcademy of Ars Arcana
+An orrery is mounted on a stand here.
+Shu the Male Minotaur is resting here. (flying) (invisible)
+Darvinus the master mage is here, looking for students.
+
+318H 111V 10866858X 116C Exits:W> inYou are carrying:
+a rotted academic tome
+a putrid potion [5]
+a dwarven mithril pole axe
+a large first-aid kit
+a long sword
+a glowing scroll of recall..it glows dimly [3]
+some pixie dust..it glows dimly [2]
+a milky potion of see invisible
+a medallion of the earth
+a pair of supple leather gloves
+a large first-aid kit
+a red maul
+a crystal shard necklace..it glows dimly
+a yellow potion
+a pair of leather boots
+a small wooden chest
+
+318H 111V 10866858X 116C Exits:W> scoYou are Olly Jokkinen, Thin But Strong, a level 28 Mage.
+You are 22 years old.
+You have 318(318) hit and 111(148) movement points.
+You are influenced by the black moon, Nuitari.
+You have scored 43133142 exp, and have 116(3443) steel coins.
+You need 10866858 more experience to advance.
+You have died 3 horrible deaths.
+You have been connected for 6 minute(s).
+You have been playing for 3 day(s), 2 hour(s) and 21 minute(s).
+Your equipment is currently being concealed.
+You are resting.
+You are flying.
+You are affected by the following:
+    improved invisibility
+    mental acuity
+    antimagic shell
+    fly
+    detect invisibility
+
+318H 111V 10866858X 116C Exits:W> staYou stand up.
+
+318H 111V 10866858X 116C Exits:W> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             perfect   rested    standing   Y   Y    N    Y     0    0
+  Shu              perfect   rested    resting    Y   Y    Y    Y     1    0
+
+318H 111V 10866858X 116C Exits:W> inYou are carrying:
+a rotted academic tome
+a putrid potion [5]
+a dwarven mithril pole axe
+a large first-aid kit
+a long sword
+a glowing scroll of recall..it glows dimly [3]
+some pixie dust..it glows dimly [2]
+a milky potion of see invisible
+a medallion of the earth
+a pair of supple leather gloves
+a large first-aid kit
+a red maul
+a crystal shard necklace..it glows dimly
+a yellow potion
+a pair of leather boots
+a small wooden chest
+
+318H 111V 10866858X 116C Exits:W> give milky shuYou give a milky potion of see invisible to Shu.
+
+318H 111V 10866858X 116C Exits:W> eqYou are using:
+<worn on finger>           a wooden ring
+<worn on finger>           a small quartz ring..it glows dimly
+<worn around neck>         a blood red cape..it glows dimly
+<worn around neck>         a blood red cape..it glows dimly
+<worn on body>             a leather jacket
+<worn on head>             a slime covered caul
+<worn on legs>             a pair of leather pants
+<worn on feet>             a pair of cord sandals
+<worn on hands>            a pair of pitch black gloves
+<worn on arms>             a pair of leather sleeves
+<worn as shield>           a ruby shield..it glows dimly
+<worn about body>          a white guardian robe
+<worn about waist>         a ruby encrusted belt
+<worn around left wrist>   a glass bracelet..it glows dimly
+<used in primary hand>     a lich's claw..it glows dimly
+
+318H 111V 10866858X 116C Exits:W> 
+Shu quaffs a milky potion of see invisible.
+Shu rubs his eyes and looks about himself with clarity.
+
+318H 111V 10866858X 116C Exits:W> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             perfect   rested    standing   Y   Y    N    Y     0    0
+  Shu              perfect   rested    resting    Y   Y    Y    Y     1    0
+
+318H 111V 10866858X 116C Exits:W> 
+Shu stands up.
+
+318H 111V 10866858X 116C Exits:W> lAcademy of Ars Arcana
+An orrery is mounted on a stand here.
+Shu the Male Minotaur is standing here. (flying) (invisible)
+Darvinus the master mage is here, looking for students.
+
+318H 111V 10866858X 116C Exits:W> wShu flies in from the east.
+Academy Square
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 110V 10866858X 116C Exits:NESW> sShu flies in from the north.
+Western Way
+Shu the Male Minotaur is standing here. (flying) (invisible)
+A Tarsian peasant whistles happily on his way to work.
+A Tarsian peasant whistles happily on his way to work.
+
+318H 109V 10866858X 116C Exits:NE(W)> op gateOk.
+
+318H 109V 10866858X 116C Exits:NEW> wShu flies in from the east.
+The Western Gates of Tarsis
+Shu the Male Minotaur is standing here. (flying) (invisible)
+A Tarsian guard stands here, turning away undesirables from the city.
+A Tarsian guard stands here, turning away undesirables from the city.
+
+318H 108V 10866858X 116C Exits:NESW> wShu flies in from the east.
+Outside the West Gate of Tarsis
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 106V 10866858X 116C Exits:EW> wShu flies in from the east.
+A Path in the Rubble
+Shu the Male Minotaur is standing here. (flying) (invisible)
+A boy runs about, collecting debris from Old Tarsis, wearing a wide grin.
+
+318H 104V 10866858X 116C Exits:NES> sShu flies in from the north.
+A Path in the Rubble
+Shu the Male Minotaur is standing here. (flying) (invisible)
+A boy runs about, collecting debris from Old Tarsis, wearing a wide grin.
+
+318H 102V 10866858X 116C Exits:NW> wShu flies in from the east.
+A Stretch of Old Shoreline
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 100V 10866858X 116C Exits:NESW> sShu flies in from the north.
+A Stretch of Old Shoreline
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 98V 10866858X 116C Exits:NSW> sShu flies in from the north.
+A Stretch of Old Shoreline
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 96V 10866858X 116C Exits:NS> sShu flies in from the north.
+A Path Along a Ridge
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 94V 10866858X 116C Exits:NW> wShu flies in from the east.
+A Path Along a Ridge
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 92V 10866858X 116C Exits:ES> sShu flies in from the north.
+A Stunted Spruce Forest
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 90V 10866858X 116C Exits:NW> wShu flies in from the east.
+A Stunted Spruce Forest
+Shu the Male Minotaur is standing here. (flying) (invisible)
+A timber wolf prowls here, sniffing the air for prey.
+
+318H 88V 10866858X 116C Exits:EW> wShu flies in from the east.
+A Path Through the Ground Scrub
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 86V 10866858X 116C > wShu flies in from the east.
+A Path Through the Ground Scrub
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 109V 10866858X 116C > wShu flies in from the east.
+Before a Sinuous Ridge
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 107V 10866858X 116C > uShu flies in from below.
+On a Moraine
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 105V 10866858X 116C Exits:ND> nShu flies in from the south.
+On a Moraine
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 103V 10866858X 116C Exits:SD> dYou feel a cool breeze coming from the west.
+
+Shu flies in from above.
+Nearing the Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 101V 10866858X 116C Exits:WU> nAlas, you cannot go that way...
+
+318H 101V 10866858X 116C Exits:WU> wShu flies in from the east.
+At the Edge of the White Cliffs
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 99V 10866858X 116C Exits:NES> nShu flies in from the south.
+At the Edge of the White Cliffs
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 97V 10866858X 116C Exits:NS> nShu flies in from the south.
+At the Edge of the White Cliffs
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 95V 10866858X 116C Exits:NS> nShu flies in from the south.
+Overlooking the New Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 93V 10866858X 116C Exits:SD> dShu flies in from above.
+A Cliffside Trail
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 91V 10866858X 116C Exits:NU> nShu flies in from the south.
+A Cliffside Trail
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 89V 10866858X 116C Exits:SD> dShu flies in from above.
+At the Foot of the White Cliffs
+Shu the Male Minotaur is standing here. (flying) (invisible)
+A brown-spotted terrier runs around here, in search of a companion.
+A faithful terrier wags his tail happily.
+
+318H 87V 10866858X 116C Exits:NSWU> wShu flies in from the east.
+Shallow Waters of the New Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 85V 10866858X 116C Exits:ESW> sShu flies in from the north.
+Shallow Waters of the New Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 83V 10866858X 116C Exits:NESW> wShu flies in from the east.
+The New Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 81V 10866858X 116C Exits:NESW> wShu flies in from the east.
+In the Open Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+A steel-grey fish swims among above a coral reef, a dorsal fin breaking water.
+
+318H 79V 10866858X 116C Exits:NESW> scoYou are Olly Jokkinen, Thin But Strong, a level 28 Mage.
+You are 22 years old.
+You have 318(318) hit and 79(148) movement points.
+You are influenced by the black moon, Nuitari.
+You have scored 43133142 exp, and have 116(3443) steel coins.
+You need 10866858 more experience to advance.
+You have died 3 horrible deaths.
+You have been connected for 7 minute(s).
+You have been playing for 3 day(s), 2 hour(s) and 22 minute(s).
+Your equipment is currently being concealed.
+You are standing.
+You are flying.
+You are affected by the following:
+    improved invisibility
+    mental acuity
+    antimagic shell
+    fly
+    detect invisibility
+
+318H 79V 10866858X 116C Exits:NESW> lIn the Open Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+A steel-grey fish swims among above a coral reef, a dorsal fin breaking water.
+
+318H 79V 10866858X 116C Exits:NESW> c 'b' meYou utter the words, 'blur'
+You watch your body become blurry and unfocused.
+
+318H 79V 10866858X 116C Mem:1 Exits:NESW> 
+Shu begins resting but stays aloft.
+
+318H 79V 10866858X 116C Mem:1 Exits:NESW> lIn the Open Sea
+Shu the Male Minotaur is resting here. (flying) (invisible)
+A steel-grey fish swims among above a coral reef, a dorsal fin breaking water.
+
+318H 79V 10866858X 116C Mem:1 Exits:NESW> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             perfect   rested    standing   Y   Y    N    Y     0    1
+  Shu              perfect   rested    resting    Y   Y    Y    Y     1    0
+
+318H 79V 10866858X 116C Mem:1 Exits:NESW> 
+Shu stands up.
+
+318H 79V 10866858X 116C Mem:1 Exits:NESW> scoYou are Olly Jokkinen, Thin But Strong, a level 28 Mage.
+You are 22 years old.
+You have 318(318) hit and 79(148) movement points.
+You are influenced by the black moon, Nuitari.
+You have scored 43133142 exp, and have 116(3443) steel coins.
+You need 10866858 more experience to advance.
+You have died 3 horrible deaths.
+You have been connected for 8 minute(s).
+You have been playing for 3 day(s), 2 hour(s) and 22 minute(s).
+Your equipment is currently being concealed.
+You are standing.
+You are flying.
+You are affected by the following:
+    blur
+    improved invisibility
+    mental acuity
+    antimagic shell
+    fly
+    detect invisibility
+
+318H 79V 10866858X 116C Mem:1 Exits:NESW> lIn the Open Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+A steel-grey fish swims among above a coral reef, a dorsal fin breaking water.
+
+318H 79V 10866858X 116C Mem:1 Exits:NESW> scanLooking north:
+You see nothing special.
+A steel-grey fish swims among above a coral reef, a dorsal fin breaking water.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+318H 79V 10866858X 116C Mem:1 Exits:NESW> wShu flies in from the east.
+In the Open Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 77V 10866858X 116C Mem:1 Exits:NESW> scanLooking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+A steel-grey fish swims among above a coral reef, a dorsal fin breaking water.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+A seagull circles overhead, scanning below for scraps of fish.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+318H 77V 10866858X 116C Mem:1 Exits:NESW> wShu flies in from the east.
+In the Open Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 75V 10866858X 116C Mem:1 Exits:NESW> scanLooking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+A seagull circles overhead, scanning below for scraps of fish.
+Looking west:
+You see nothing special.
+A seagull circles overhead, scanning below for scraps of fish.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+318H 75V 10866858X 116C Mem:1 Exits:NESW> wShu flies in from the east.
+In the Open Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+A seagull circles overhead, scanning below for scraps of fish.
+
+318H 73V 10866858X 116C Mem:1 Exits:NESWD> scanLooking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+318H 73V 10866858X 116C Mem:1 Exits:NESWD> wShu flies in from the east.
+In the Open Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 71V 10866858X 116C Mem:1 Exits:NESWD> scanLooking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+A seagull circles overhead, scanning below for scraps of fish.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+318H 71V 10866858X 116C Mem:1 Exits:NESWD> wShu flies west.
+Shu flies in from the east.
+In the Open Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 69V 10866858X 116C Mem:1 Exits:NESWD> scanLooking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+A seagull circles overhead, scanning below for scraps of fish.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+318H 69V 10866858X 116C Mem:1 Exits:NESWD> wShu flies west.
+Shu flies in from the east.
+In the Open Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 67V 10866858X 116C Mem:1 Exits:NESWD> scanLooking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+A seagull circles overhead, scanning below for scraps of fish.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+318H 67V 10866858X 116C Mem:1 Exits:NESWD> wShu flies west.
+Shu flies in from the east.
+In the Open Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 65V 10866858X 116C Mem:1 Exits:NESWD> wShu flies west.
+Shu flies in from the east.
+In the Open Sea
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 63V 10866858X 116C Mem:1 Exits:NESWD> 
+Your studies complete, you close your spellbook with a smile.
+mem
+318H 88V 10866858X 116C Exits:NESWD> Spells currently memorized:
+1: [ 1]blur                 [ 5]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 1]silence              [ 1]sleep                [ 2]strength            
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 2]haste                [ 3]hold person          [ 1]improved invisibilit
+   [ 1]teleport            
+5: [ 5]force bolt           [ 1]locate object       
+6: [ 2]antimagic shell      [ 4]relocate            
+7: [ 3]conjure elemental    [ 2]mass invisibility   
+8: [ 3]cloud kill           [ 1]mental acuity       
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-2
+
+318H 88V 10866858X 116C Exits:NESWD> scanLooking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+A seagull circles overhead, scanning below for scraps of fish.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+318H 88V 10866858X 116C Exits:NESWD> scanLooking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+A seagull circles overhead, scanning below for scraps of fish.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+318H 88V 10866858X 116C Exits:NESWD> nShu flies in from the south.
+In the Foggy Waters
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 86V 10866858X 116C Exits:NESW> scanLooking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+318H 86V 10866858X 116C Exits:NESW> wShu flies in from the east.
+In the Foggy Waters
+Shu the Male Minotaur is standing here. (flying) (invisible)
+
+318H 84V 10866858X 116C Exits:NESW> scanLooking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+318H 84V 10866858X 116C Exits:NESW> wShu flies in from the east.
+In the Foggy Waters
+Shu the Male Minotaur is standing here. (flying) (invisible)
+You see a large shadow moving beneath the ocean surface.
+A great white shark misses Shu with its bite.
+
+318H 82V 10866858X 116C Exits:NESW> 
+A great white shark obliterates Shu with its bite.
+Shu slowly fades into existence.
+Shu massacres a great white shark with his cleave.
+
+318H 82V 10866858X 116C Exits:NESW> wIt is pitch black.
+
+318H 80V 10866858X 116C Exits:NESW> nIt is pitch black.
+
+318H 78V 10866858X 116C Exits:NS> c 'c l'You utter the words, 'continual light'
+You make a sweeping gesture, creating a small ball of light.
+The ball of light begins following you, hovering nearby.
+
+318H 78V 10866858X 116C Mem:1 Exits:NS> lShore of the Mystic Island
+
+318H 78V 10866858X 116C Mem:1 Exits:NS> lShore of the Mystic Island
+
+318H 78V 10866858X 116C Mem:1 Exits:NS> scanLooking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+318H 78V 10866858X 116C Mem:1 Exits:NS> lShore of the Mystic Island
+
+318H 78V 10866858X 116C Mem:1 Exits:NS> scoYou are Olly Jokkinen, Thin But Strong, a level 28 Mage.
+You are 22 years old.
+You have 318(318) hit and 78(148) movement points.
+You are influenced by the black moon, Nuitari.
+You have scored 43133142 exp, and have 116(3443) steel coins.
+You need 10866858 more experience to advance.
+You have died 3 horrible deaths.
+You have been connected for 9 minute(s).
+You have been playing for 3 day(s), 2 hour(s) and 24 minute(s).
+Your equipment is currently being concealed.
+You are standing.
+You are flying.
+You are affected by the following:
+    continual light
+    blur
+    improved invisibility
+    mental acuity
+    antimagic shell
+    fly
+    detect invisibility
+
+318H 78V 10866858X 116C Mem:1 Exits:NS> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             perfect   rested    standing   Y   Y    N    Y     1    1
+  Shu              v.bad     rested    fighting   Y   N    Y    N     1    0
+
+318H 78V 10866858X 116C Mem:1 Exits:NS> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             perfect   rested    standing   Y   Y    N    Y     1    1
+  Shu              v.bad     rested    standing   Y   N    Y    N     1    0
+
+318H 78V 10866858X 116C Mem:1 Exits:NS> inYou are carrying:
+a rotted academic tome
+a putrid potion [5]
+a dwarven mithril pole axe
+a large first-aid kit
+a long sword
+a glowing scroll of recall..it glows dimly [3]
+some pixie dust..it glows dimly [2]
+a medallion of the earth
+a pair of supple leather gloves
+a large first-aid kit
+a red maul
+a crystal shard necklace..it glows dimly
+a yellow potion
+a pair of leather boots
+a small wooden chest
+
+318H 78V 10866858X 116C Mem:1 Exits:NS> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             perfect   rested    standing   Y   Y    N    Y     1    1
+  Shu              v.bad     rested    standing   Y   N    Y    N     1    0
+
+318H 78V 10866858X 116C Mem:1 Exits:NS> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             perfect   rested    standing   Y   Y    N    Y     1    1
+  Shu              v.bad     rested    standing   Y   N    Y    N     1    0
+
+318H 78V 10866858X 116C Mem:1 Exits:NS> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             perfect   rested    standing   Y   Y    N    Y     1    1
+  Shu              v.bad     rested    standing   Y   N    Y    N     1    0
+
+318H 78V 10866858X 116C Mem:1 Exits:NS> nUnder the Thick Foliage
+
+318H 76V 10866858X 116C Mem:1 Exits:NES> eA Rocky Path Along the Shore
+
+318H 74V 10866858X 116C Mem:1 Exits:WU> uClimbing the Steep Cliffside
+
+318H 72V 10866858X 116C Mem:1 Exits:ND> nDark Crevice
+
+318H 70V 10866858X 116C Mem:1 Exits:SD> dAt a Corner of an Underground Cavern
+
+318H 68V 10866858X 116C Mem:1 Exits:NE> eBelow the Cavern Opening
+
+318H 66V 10866858X 116C Mem:1 Exits:WU> 
+Your studies complete, you close your spellbook with a smile.
+memIt starts to rain.
+
+318H 91V 10866858X 116C Exits:WU> Spells currently memorized:
+1: [ 1]blur                 [ 5]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 1]silence              [ 1]sleep                [ 2]strength            
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 2]haste                [ 3]hold person          [ 1]improved invisibilit
+   [ 1]teleport            
+5: [ 5]force bolt           [ 1]locate object       
+6: [ 2]antimagic shell      [ 4]relocate            
+7: [ 3]conjure elemental    [ 2]mass invisibility   
+8: [ 3]cloud kill           [ 1]mental acuity       
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-2
+
+318H 91V 10866858X 116C Exits:WU> nAlas, you cannot go that way...
+
+318H 91V 10866858X 116C Exits:WU> uOn the Mountainside
+
+318H 89V 10866858X 116C Exits:ED> eOn a Rockslide
+
+318H 87V 10866858X 116C Exits:N> nIn a Small Stream
+
+318H 85V 10866858X 116C Exits:NESW> wA Small Stream
+
+318H 83V 10866858X 116C Exits:NES> sIn a Small Stream
+
+318H 81V 10866858X 116C Exits:NESW> wA Small Stream
+
+318H 79V 10866858X 116C Exits:NES> sIn a Small Stream
+
+318H 77V 10866858X 116C Exits:NESW> wA Small Stream
+
+318H 75V 10866858X 116C Exits:NES> wAlas, you cannot go that way...
+
+318H 75V 10866858X 116C Exits:NES> nIn a Stream
+
+318H 73V 10866858X 116C Exits:NS> nA Wide Channel
+
+318H 71V 10866858X 116C Exits:NS> nIn the Open Waters
+
+318H 69V 10866858X 116C Exits:NSW> scanLooking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+318H 69V 10866858X 116C Exits:NSW> nIn the foggy waters
+
+318H 67V 10866858X 116C Exits:NESW> wIn the foggy waters
+
+318H 65V 10866858X 116C Exits:NESW> nIn the foggy waters
+
+318H 63V 10866858X 116C Exits:NESW> wIn the foggy waters
+
+318H 61V 10866858X 116C Exits:NESW> wIn the foggy waters
+
+318H 59V 10866858X 116C Exits:NESW> scanLooking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+318H 59V 10866858X 116C Exits:NESW> sIn the foggy waters
+
+318H 57V 10866858X 116C Exits:NESW> wIn the foggy waters
+
+318H 55V 10866858X 116C Exits:NESW> lIn the foggy waters
+
+318H 55V 10866858X 116C Exits:NESW> nIn the Foggy Waters
+
+318H 53V 10866858X 116C Exits:NESW> wIn the Foggy Waters
+
+318H 51V 10866858X 116C Exits:NESW> wIn the Foggy Waters
+A great white shark is resting here.
+A great white shark stands up.
+
+318H 49V 10866858X 116C Exits:NESW> flYou're not fighting, why bother fleeing?
+
+318H 49V 10866858X 116C Exits:NESW> wIn the Foggy Waters
+
+318H 47V 10866858X 116C Exits:NESW> nShore of the Mystic Island
+
+318H 45V 10866858X 116C Exits:NS> nUnder the Thick Foliage
+
+318H 43V 10866858X 116C Exits:NES> nOutside a Small Village
+
+318H 41V 10866858X 116C Exits:NS> nIn the Village
+A village warrior stands here keeping an eye for unwanted intruders.
+
+318H 40V 10866858X 116C Exits:ESW> sOutside a Small Village
+
+318H 39V 10866858X 116C Exits:NS> sUnder the Thick Foliage
+
+318H 37V 10866858X 116C Exits:NES> eA Rocky Path Along the Shore
+
+318H 35V 10866858X 116C Exits:WU> eAlas, you cannot go that way...
+
+318H 35V 10866858X 116C Exits:WU> uClimbing the Steep Cliffside
+
+318H 33V 10866858X 116C Exits:ND> eAlas, you cannot go that way...
+
+318H 33V 10866858X 116C Exits:ND> nDark Crevice
+
+318H 31V 10866858X 116C Exits:SD> dAt a Corner of an Underground Cavern
+
+318H 29V 10866858X 116C Exits:NE> eBelow the Cavern Opening
+
+318H 27V 10866858X 116C Exits:WU> uOn the Mountainside
+
+318H 25V 10866858X 116C Exits:ED> eOn a Rockslide
+
+318H 23V 10866858X 116C Exits:N> nIn a Small Stream
+
+318H 21V 10866858X 116C Exits:NESW> wA Small Stream
+
+318H 19V 10866858X 116C Exits:NES> sIn a Small Stream
+
+318H 17V 10866858X 116C Exits:NESW> wA Small Stream
+
+318H 15V 10866858X 116C Exits:NES> sIn a Small Stream
+
+318H 13V 10866858X 116C Exits:NESW> wA Small Stream
+
+318H 11V 10866858X 116C Exits:NES> wAlas, you cannot go that way...
+
+318H 11V 10866858X 116C Exits:NES> sIn a Small Stream
+
+318H 9V 10866858X 116C Exits:NESW> wA Small Stream
+
+318H 7V 10866858X 116C Exits:NES> wAlas, you cannot go that way...
+
+318H 7V 10866858X 116C Exits:NES> reYou rest your tired bones but stay aloft.
+
+318H 7V 10866858X 116C Exits:NES> poCome on! I'm relaxing!
+
+318H 7V 10866858X 116C Exits:NES> who bMortals
+-------
+Sandig               Gvozdedriell               Po                         
+Rapaxes              Padre                      Lattia                     
+Shu                  Hilgorsh                   Mune                       
+Kai                  Katerin                    Olly                       
+Gaz                  Onin                       Zaiyra                     
+
+Total visible people : 16        Total people online  : 16
+
+318H 7V 10866858X 116C Exits:NES> 
+You are hungry.
+get ration chesteat rationput all.ration chestYou are thirsty.
+get water chestdri waterdri waterput all.water chest
+318H 38V 10866858X 116C Exits:NES> You get an iron ration from a small wooden chest.
+
+318H 38V 10866858X 116C Exits:NES> You eat an iron ration.
+You are full.
+There is nothing left now.
+
+318H 38V 10866858X 116C Exits:NES> You can't find whatever you're trying to put into a small wooden chest.
+
+318H 38V 10866858X 116C Exits:NES> You get a large hide waterskin from a small wooden chest.
+
+318H 38V 10866858X 116C Exits:NES> You lift a large hide waterskin, tilt it back, and drink its contents.
+You are full.
+
+318H 38V 10866858X 116C Exits:NES> You lift a large hide waterskin, tilt it back, and drink its contents.
+You are full.
+
+318H 38V 10866858X 116C Exits:NES> You put a large hide waterskin in a small wooden chest.
+
+318H 38V 10866858X 116C Exits:NES> staYou stand up.
+
+318H 38V 10866858X 116C Exits:NES> nIn a Stream
+
+318H 36V 10866858X 116C Exits:NS> nA Wide Channel
+
+318H 34V 10866858X 116C Exits:NS> nIn the Open Waters
+
+318H 32V 10866858X 116C Exits:NSW> wIn a Wide Channel
+
+318H 30V 10866858X 116C Exits:NESW> sOn a Small Beach
+
+318H 28V 10866858X 116C Exits:NW> wA Waterfront Passage
+This hill giant looks quite hungry.
+
+318H 26V 10866858X 116C Exits:ESW> wA Small Camp Fire
+A small fire keeps this area warm.
+This hill giant looks quite hungry.
+A draconian soldier is here doing his rounds.
+The giant leader sits here cooking up a stew.
+
+318H 24V 10866858X 116C Exits:NEW> wA Small Camp
+A draconian soldier is here doing his rounds.
+This hill giant looks quite hungry.
+This hill giant looks quite hungry.
+A draconian soldier is here doing his rounds.
+A very tough looking giant is here looking for something to do.
+The hill giant commander massacres YOU with his hit.
+
+294H 22V 10866858X 116C [Olly:V.Good] [the hill giant commander:Perfect] Exits:E> flYou flee head over heels.
+A Small Camp Fire
+A small fire keeps this area warm.
+This hill giant looks quite hungry.
+A draconian soldier is here doing his rounds.
+The giant leader sits here cooking up a stew.
+
+294H 20V 10866858X 116C Exits:NEW> nAt a Ledge
+
+294H 18V 10866858X 116C Exits:NS> nOn a Wooden Bridge
+
+294H 16V 10866858X 116C Exits:NS> nOn a Wooden Bridge
+A draconian soldier is here doing his rounds.
+
+294H 14V 10866858X 116C Exits:NS> nAt a Guard Post
+A draconian soldier is here doing his rounds.
+A draconian soldier is here doing his rounds.
+A draconian is guarding his post here.
+A draconian is guarding his post here.
+
+294H 12V 10866858X 116C Exits:NS> c 'lo' bookYou utter the words, 'locate object'
+A rotted academic tome carried by Olly.
+
+294H 12V 10866858X 116C Mem:2 Exits:NS> regroscoinYou rest your tired bones but stay aloft.
+
+294H 12V 10866858X 116C Mem:1 Exits:NS> eqYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             v.good    exhausted resting    Y   Y    N    Y     1    1
+ *Shu              v.bad     rested    resting    Y   N    Y    N     1    0
+
+294H 12V 10866858X 116C Mem:1 Exits:NS> You are Olly Jokkinen, Thin But Strong, a level 28 Mage.
+You are 22 years old.
+You have 294(318) hit and 12(148) movement points.
+You are influenced by the black moon, Nuitari.
+You have scored 43133142 exp, and have 116(3443) steel coins.
+You need 10866858 more experience to advance.
+You have died 3 horrible deaths.
+You have been connected for 10 minute(s).
+You have been playing for 3 day(s), 2 hour(s) and 25 minute(s).
+Your equipment is currently being concealed.
+You are resting.
+You are flying.
+You are affected by the following:
+    continual light
+    blur
+    improved invisibility
+    mental acuity
+    antimagic shell
+    fly
+    detect invisibility
+
+294H 12V 10866858X 116C Mem:1 Exits:NS> You are carrying:
+a rotted academic tome
+a putrid potion [5]
+a dwarven mithril pole axe
+a large first-aid kit
+a long sword
+a glowing scroll of recall..it glows dimly [3]
+some pixie dust..it glows dimly [2]
+a medallion of the earth
+a pair of supple leather gloves
+a large first-aid kit
+a red maul
+a crystal shard necklace..it glows dimly
+a yellow potion
+a pair of leather boots
+a small wooden chest
+
+294H 12V 10866858X 116C Mem:1 Exits:NS> You are using:
+<worn on finger>           a wooden ring
+<worn on finger>           a small quartz ring..it glows dimly
+<worn around neck>         a blood red cape..it glows dimly
+<worn around neck>         a blood red cape..it glows dimly
+<worn on body>             a leather jacket
+<worn on head>             a slime covered caul
+<worn on legs>             a pair of leather pants
+<worn on feet>             a pair of cord sandals
+<worn on hands>            a pair of pitch black gloves
+<worn on arms>             a pair of leather sleeves
+<worn as shield>           a ruby shield..it glows dimly
+<worn about body>          a white guardian robe
+<worn about waist>         a ruby encrusted belt
+<worn around left wrist>   a glass bracelet..it glows dimly
+<used in primary hand>     a lich's claw..it glows dimly
+
+294H 12V 10866858X 116C Mem:1 Exits:NS> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             v.good    exhausted resting    Y   Y    N    Y     1    1
+ *Shu              v.bad     rested    resting    Y   N    Y    N     1    0
+
+294H 12V 10866858X 116C Mem:1 Exits:NS> who bMortals
+-------
+Onin                 Lattia                     Mune                       
+Rapaxes              Kai                        Hilgorsh                   
+Zaiyra               Po                         Padre                      
+Gvozdedriell         Gaz                        Olly                       
+Katerin              Sandig                                                
+
+Total visible people : 15        Total people online  : 15
+
+294H 12V 10866858X 116C Mem:1 Exits:NS> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             v.good    exhausted resting    Y   Y    N    Y     1    1
+ *Shu              v.bad     rested    resting    Y   N    Y    N     1    0
+
+294H 12V 10866858X 116C Mem:1 Exits:NS> inYou are carrying:
+a rotted academic tome
+a putrid potion [5]
+a dwarven mithril pole axe
+a large first-aid kit
+a long sword
+a glowing scroll of recall..it glows dimly [3]
+some pixie dust..it glows dimly [2]
+a medallion of the earth
+a pair of supple leather gloves
+a large first-aid kit
+a red maul
+a crystal shard necklace..it glows dimly
+a yellow potion
+a pair of leather boots
+a small wooden chest
+
+294H 12V 10866858X 116C Mem:1 Exits:NS> scoYou are Olly Jokkinen, Thin But Strong, a level 28 Mage.
+You are 22 years old.
+You have 294(318) hit and 12(148) movement points.
+You are influenced by the black moon, Nuitari.
+You have scored 43133142 exp, and have 116(3443) steel coins.
+You need 10866858 more experience to advance.
+You have died 3 horrible deaths.
+You have been connected for 10 minute(s).
+You have been playing for 3 day(s), 2 hour(s) and 25 minute(s).
+Your equipment is currently being concealed.
+You are resting.
+You are flying.
+You are affected by the following:
+    continual light
+    blur
+    improved invisibility
+    mental acuity
+    antimagic shell
+    fly
+    detect invisibility
+
+294H 12V 10866858X 116C Mem:1 Exits:NS> hold tomeYou grab a rotted academic tome.
+
+294H 12V 10866858X 116C Mem:1 Exits:NS> staYou stand up.
+
+294H 12V 10866858X 116C Mem:2 Exits:NS> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             v.good    exhausted standing   Y   Y    N    Y     1    2
+ *Shu              v.bad     rested    resting    Y   N    Y    N     1    0
+
+294H 12V 10866858X 116C Mem:2 Exits:NS> c 'rel' silanYou utter the words, 'relocate'
+The Hall of Astral Insight
+An orrery is mounted on a stand here.
+A stocky human in looming black robes moves about the hall.
+
+294H 12V 10866858X 116C Mem:2 Exits:D> quaff putridquaff putridreYou quaff a putrid potion which dissolves.
+You feel less tired.
+
+294H 51V 10866858X 116C Mem:2 Exits:D> You quaff a putrid potion which dissolves.
+You feel less tired.
+
+294H 90V 10866858X 116C Mem:2 Exits:D> You rest your tired bones but stay aloft.
+
+294H 90V 10866858X 116C Mem:1 Exits:D> 
+Your studies complete, you close your spellbook with a smile.
+memYou feel yourself exposed.
+
+307H 121V 10866858X 116C Exits:D> Spells currently memorized:
+1: [ 1]blur                 [ 5]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 1]silence              [ 1]sleep                [ 2]strength            
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 2]haste                [ 3]hold person          [ 1]improved invisibilit
+   [ 1]teleport            
+5: [ 5]force bolt           [ 1]locate object       
+6: [ 2]antimagic shell      [ 4]relocate            
+7: [ 3]conjure elemental    [ 2]mass invisibility   
+8: [ 3]cloud kill           [ 1]mental acuity       
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-2
+
+307H 121V 10866858X 116C Exits:D> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Olly             v.good    rested    resting    Y   N    N    Y     1    0
+  Shu              v.bad     rested    resting    Y   N    Y    N     1    0
+
+307H 121V 10866858X 116C Exits:D> lThe Hall of Astral Insight
+An orrery is mounted on a stand here.
+A stocky human in looming black robes moves about the hall.
+
+307H 121V 10866858X 116C Exits:D> quaff putridYou quaff a putrid potion which dissolves.
+You feel less tired.
+
+307H 151V 10866858X 116C Exits:D> lThe Hall of Astral Insight
+An orrery is mounted on a stand here.
+A stocky human in looming black robes moves about the hall.
+
+307H 151V 10866858X 116C Exits:D> who bMortals
+-------
+Hilgorsh             Gvozdedriell               Zaiyra                     
+Sandig               Katerin                    Lattia                     
+Padre                Mune                       Olly                       
+Po                   Gaz                        Artin                      
+Rapaxes              Shu                        Kai                        
+
+Total visible people : 16        Total people online  : 16
+
+319H 151V 10866858X 116C Exits:D> staYou stand up.
+
+319H 151V 10866858X 116C Exits:D> dThe Component Cabinet
+Karm waits impatiently to assist you in your purchase.
+
+319H 150V 10866858X 116C Exits:WU> wHurin Avenue
+A traveling mercenary is here, seeking employment.
+A brightly colored gecko runs along the streets in search of food.
+
+319H 149V 10866858X 116C Exits:NESW> rec recall meget recall chestYou stop using a rotted academic tome.
+You grab a glowing scroll of recall.
+You recite a glowing scroll of recall which dissolves.
+Clerk's Office
+A bulletin board with the heading 'Wanted' has been posted on the far wall.
+A large key carved out of stone lies here.
+Smoking a fat cigar, a low ranking guard vigilantly watches the inn.
+A tired looking clerk sits here waiting for you to say something intelligent.
+
+318H 148V 10866858X 116C Exits:D> hold tomeThe chest doesn't seem to have what you are looking for.
+
+318H 148V 10866858X 116C Exits:D> You grab a rotted academic tome.
+
+318H 148V 10866858X 116C Exits:D> rent                        a wooden ring : 50 coins/day
+                  a small quartz ring : 50 coins/day
+                 a blood red cape [2] : 160 coins/day
+                     a leather jacket : 12 coins/day
+                 a slime covered caul : 30 coins/day
+              a pair of leather pants : 13 coins/day
+               a pair of cord sandals : 20 coins/day
+         a pair of pitch black gloves : 40 coins/day
+            a pair of leather sleeves : 13 coins/day
+                        a ruby shield : 20 coins/day
+                a white guardian robe : 25 coins/day
+                a ruby encrusted belt : 60 coins/day
+                     a glass bracelet : 70 coins/day
+                        a lich's claw : 100 coins/day
+               a rotted academic tome : 40 coins/day
+                  a putrid potion [2] : I refuse to store these!
+           a dwarven mithril pole axe : 96 coins/day
+                a large first-aid kit : 10 coins/day
+                         a long sword : 2 coins/day
+       a glowing scroll of recall [2] : 30 coins/day
+                  some pixie dust [2] : 100 coins/day
+             a medallion of the earth : 45 coins/day
+      a pair of supple leather gloves : 40 coins/day
+                a large first-aid kit : 20 coins/day
+                           a red maul : 110 coins/day
+             a crystal shard necklace : 3 coins/day
+                      a yellow potion : 30 coins/day
+              a pair of leather boots : 15 coins/day
+                 a small wooden chest : 1 coin/day
+           a large hide waterskin [5] : 30 coins/day
+                       an iron ration : 1 coin/day
+         a crystal shard necklace [3] : 9 coins/day
+
+318H 148V 10866858X 116C Exits:D> 0Huh?!
+
+318H 148V 10866858X 116C Exits:D> drop potionYou drop a putrid potion.
+
+318H 148V 10866858X 116C Exits:D> drop potionYou drop a putrid potion.
+
+318H 148V 10866858X 116C Exits:D> rent                        a wooden ring : 50 coins/day
+                  a small quartz ring : 50 coins/day
+                 a blood red cape [2] : 160 coins/day
+                     a leather jacket : 12 coins/day
+                 a slime covered caul : 30 coins/day
+              a pair of leather pants : 13 coins/day
+               a pair of cord sandals : 20 coins/day
+         a pair of pitch black gloves : 40 coins/day
+            a pair of leather sleeves : 13 coins/day
+                        a ruby shield : 20 coins/day
+                a white guardian robe : 25 coins/day
+                a ruby encrusted belt : 60 coins/day
+                     a glass bracelet : 70 coins/day
+                        a lich's claw : 100 coins/day
+               a rotted academic tome : 40 coins/day
+           a dwarven mithril pole axe : 96 coins/day
+                a large first-aid kit : 10 coins/day
+                         a long sword : 2 coins/day
+       a glowing scroll of recall [2] : 30 coins/day
+                  some pixie dust [2] : 100 coins/day
+             a medallion of the earth : 45 coins/day
+      a pair of supple leather gloves : 40 coins/day
+                a large first-aid kit : 20 coins/day
+                           a red maul : 110 coins/day
+             a crystal shard necklace : 3 coins/day
+                      a yellow potion : 30 coins/day
+              a pair of leather boots : 15 coins/day
+                 a small wooden chest : 1 coin/day
+           a large hide waterskin [5] : 30 coins/day
+                       an iron ration : 1 coin/day
+         a crystal shard necklace [3] : 9 coins/day
+The clerk tells you 'It will cost you 1245 coins per day.'
+The clerk tells you 'You will be able to rent for 8 days.'
+The clerk stores your stuff in the safe, and shows you to your room.
+Shu stops following you.
+gro
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+   Make a choice: 0
+Please select a number from the given list.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+   Make a choice: 
+
+Thank you for playing.
+

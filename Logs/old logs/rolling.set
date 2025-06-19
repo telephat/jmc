@@ -1,0 +1,21 @@
+#message alias OFF
+#message action OFF
+#message subst OFF
+#message high OFF                                
+#message variable OFF
+#message group OFF
+#multiaction on
+#multihighlight on
+#presub off
+#echo off
+#ignore off
+#speedwalk on
+#togglesubs off
+#verbat off
+#action {%0 raises his hand} {fol %0;#var leader %0} {5} {default}
+#action {$leader tells your group '%0'} {%0} {5} {default}
+#act {$leader misses a %2} {#if $fighting=0 {assist};#var fighting 1}
+#act {$leader whips a %2} {#if $fighting=0 {assist};#var fighting 1}
+#act {R.I.P.} {#var fighting 0}
+#group local default
+#ticksize 61

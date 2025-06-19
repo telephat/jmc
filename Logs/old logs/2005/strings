@@ -1,0 +1,81 @@
+start;modo;y;kuzmich;kuzmich;m;4;4;2;lexey@narod.ru;;;;;1;kalaman;opt ansi;opt brief;opt domain 0
+warror
+
+theiwar clerics
+start;Benjamino;y;kuzmich;kuzmich;m;2;9;4;vovan@aport.ru;;;;;1;kalaman;opt ansi;opt brief;opt domain 0
+start;Blunto;y;kuzmich;kuzmich;m;2;9;4;manyana@kashnko.ru;;;;;1;kalaman;opt ansi;opt brief;opt domain 0
+
+start;Irod;y;kuzmich;kuzmich;m;2;9;4;yurywrk@pacient.org;;;;;1;kalaman;opt ansi;opt brief;opt domain 0
+start;Topguy;y;kuzmich;kuzmich;m;2;9;4;kuzia@ratibor.com;;;;;1;kalaman;opt ansi;opt brief;opt domain 0
+start;Putano;y;kuzmich;kuzmich;m;2;9;4;plohish@yandex.ru;;;;;1;kalaman;opt ansi;opt brief;opt domain 0
+
+start;Nimo;y;kuzmich;kuzmich;m;1;2;3;hachikyan@bani.ru;;;;;1;haven;opt ansi;opt brief;opt domain 0
+start;Zenzela;y;kuzmich;kuzmich;m;1;2;3;fedor-egorov@pisem.net;;;;;1;haven;opt ansi;opt brief;opt domain 0
+start;Zeos;y;kuzmich;kuzmich;m;1;5;3;morkovkin@aport.ru;;;;;1;haven;opt ansi;opt brief;opt domain 0
+start;Wabaduba;y;kuzmich;kuzmich;m;1;2;3;barbos@list.ru;;;;;1;haven;opt ansi;opt brief;opt domain 0
+start;Zenzela;y;kuzmich;kuzmich;m;1;2;3;fedor-egorov@pisem.net;;;;;1;haven;opt ansi;opt brief;opt domain 0
+start;Fella;y;kuzmich;kuzmich;m;1;2;3;fedor-egorov@pisem.net;;;;;1;haven;opt ansi;opt brief;opt domain 0
+#act {Benjamino tells your group 'cast %0'} {c 'ca l' %0}; #act {Benjamino tells your group '%0'} {%0}
+1:31 46
+2:31
+3:31
+4:31
+
+lito - 
+hory - 
+diogen + Abilities: Str 18 Int 21 Wis 22 Dex 14 Con 12
+
+1  Abilities: Str 17 Int 17 Wis 22 Dex 15 Con 19
+2  Abilities: Str 13 Int 22 Wis 22 Dex 11 Con 16
+3  Abilities: Str 13 Int 22 Wis 20 Dex 18 Con 14
+start;modo;y;kuzmich;kuzmich;m;4;4;2;lexey@narod.ru;;;;;1;kalaman;opt ansi;opt brief;opt domain 0
+warror
+
+theiwar clerics
+start;Vigo;y;kuzmich;kuzmich;m;8;3;3;vovan@aport.ru;;;;;1;kalaman;opt ansi;opt brief;opt domain 0
+start;Dorian;y;kuzmich;kuzmich;m;8;3;3;manyana@kashnko.ru;;;;;1;kalaman;opt ansi;opt brief;opt domain 0
+start;Redmeat;y;kuzmich;kuzmich;m;8;3;3;yurywrk@pacient.org;;;;;1;kalaman;opt ansi;opt brief;opt domain 0
+start;Otoi;y;kuzmich;kuzmich;m;8;3;3;kuzia@ratibor.com;;;;;1;kalaman;opt ansi;opt brief;opt domain 0
+
+start;Fella;y;kuzmich;kuzmich;m;1;2;3;hlebnikov@newmail.ru;;;;;1;haven;opt ansi;opt brief;opt domain 0
+
+start;Putano;y;kuzmich;kuzmich;m;2;9;4;plohish@yandex.ru;;;;;1;kalaman;opt ansi;opt brief;opt domain 0
+
+#act {Benjamino tells your group 'cast %0'} {c 'ca l' %0}; #act {Benjamino tells your group '%0'} {%0}
+1:31 46
+2:31
+3:31
+4:31
+
+lito - 
+hory - 
+diogen + Abilities: Str 18 Int 21 Wis 22 Dex 14 Con 12
+
+1  Abilities: Str 17 Int 17 Wis 22 Dex 15 Con 19
+2  Abilities: Str 13 Int 22 Wis 22 Dex 11 Con 16
+3  Abilities: Str 13 Int 22 Wis 20 Dex 18 Con 14
+
+start;Fella;y;kuzmich;kuzmich;m;1;2;3;hlebnikov@newmail.ru;;;;;1;haven;opt ansi;opt brief;opt domain 0
+26-38-47-56-62-71
+   12 9  9  6  9
+start;Otoi;y;kuzmich;kuzmich;m;1;2;3;sosiskin@yahoo.com.uk;;;;;1;haven;opt ansi;opt brief;opt domain 0
+7-7-10(9)
+
+start;Janlavan;y;kuzmich;kuzmich;m;1;2;3;aftandil@exler.ru;;;;;1;haven;opt ansi;opt brief;opt domain 0
+28-38-47-53
+start;Olly;y;kuzmich;kuzmich;m;1;2;3;serg_msk@bani.org;;;;;1;haven;opt ansi;opt brief;opt domain 0
+
+
+start;Kush;y;kuzmich;kuzmich;m;9;1;7;6;telephat@yandex.ru;;;;;1;haven;opt ansi;opt brief;opt domain 0
+ Abilities: Str 18 Int 14 Wis 14 Dex 20 Con 19
+
+Rivo - 39-59-74-89-106-119-134
+start;Vaze;y;kuzmich;kuzmich;m;8;3;6;telephat@yandex.ru;;;;;1;haven;opt ansi;opt brief;opt domain 0
+
+druid
+start;Lori;y;kuzmich;kuzmich;m;3;3;6;telephat@yandex.ru;;;;;;1;haven;opt ansi;opt brief;opt domain 0;opt anon
+
+
+scouts
+start;yorrt;y;kuzmich;kuzmich;m;9;3;4;6;3;papec@mail.ru;;;;1;haven;opt ansi;opt brief;opt domain 0;opt anon
+start;Skliss;y;kuzmich;kuzmich;m;9;3;4;6;3;evan@yahoo.com;;;;1;haven;opt ansi;opt brief;opt domain 0;opt anon

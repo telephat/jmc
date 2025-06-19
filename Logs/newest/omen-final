@@ -1,0 +1,2666 @@
+Log: omen-final 
+Logging started: 15.01.2023 14:51\r 
+eq
+You are using:
+<worn on finger>           a ring of spectral shadows..it hums softly
+<worn around neck>         the stole of the Kingpriest
+<worn around neck>         a dark electrum medallion
+<worn on chest>            a gleaming silver medal (attuned)
+<worn on head>             a crown of woven grape leaves
+<worn on legs>             some macabre human bone leggings
+<worn on feet>             a pair of macabre human bone boots
+<worn on hands>            a macabre pair of human bone gauntlets
+<worn on arms>             a set of macabre human bone armlets
+<worn about body>          a deep purple cloth robe
+<worn as pouch>            an embossed jellyfish pouch
+<worn around right wrist>  a jeweled bracer of the Skull..it glows dimly
+<worn around left wrist>   an apatite encrusted bracelet..it glows dimly
+<used in both hands>       a polished bone staff encrusted with jewels..it glows dimly
+
+464H 172V 1X 43.80% 24747C [Pos:resting] Mem:1 T:16> 
+in
+You are carrying:
+a vial of acidic juice..it glows dimly..it hums softly [3]
+a few strands of sticky spider web
+a balanced driftwood staff
+a dark electrum medallion
+a macabre mask of human bone
+a brewed potion of cure critical [10]
+a brewed potion of strength
+a brewed potion of cure critical
+a brewed potion of soul protection
+a pinch of powdered bornite
+a glowing scroll of recall..it glows dimly
+a shirt of brass dragon scales
+a glowing scroll of recall..it glows dimly [2]
+a milky potion of see invisible [2]
+a small vial of blood red water
+a small wooden chest
+
+464H 172V 1X 43.80% 24747C [Pos:resting] Mem:1 T:15> 
+sco
+You are Urtas the Male Half Ogre, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 27. You have completed 43.80% of your next rank.
+You are 18 years old.
+You have 464(469) hit and 172(172) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 24747(73500) steel coins.
+You have 2 rank points to spend.
+You have died 21 horrible deaths.
+You have been connected for 2 hour(s) and 10 minute(s).
+You have been playing for 11 day(s), 20 hour(s) and 51 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 16 Dex: 13 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are resting.
+You are flying.
+You are affected by the following:
+    Bone Machine
+    boiling blood        [10 hrs]
+    spiritual guidance   [16 hrs]
+    amplify spirits      [9 hrs]
+    ancestral spirit     [11 hrs]
+    blessing of the half ogre spirits
+    soul protection      [25 rnds]
+    resist negative energy [6 hrs]
+    resist magic         [6 hrs]
+    protection from undead [13 hrs]
+    ethereal armor       [9 hrs]
+    negative plane protection
+    steelskin
+    detect invisibility
+    blur
+    strength
+    tenacious heart      [24 hrs]
+    ancestral shroud     [18 hrs]
+    spectral sight       [18 hrs]
+    spectral glow        [48 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [24 hrs]
+    ghostskin            [23 hrs]
+    spiritual aid
+    heal boost
+
+464H 172V 1X 43.80% 24747C [Pos:resting] Mem:1 T:12> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 1]bone shape           [ 1]satiate             
+   [ 1]slow poison          [ 1]spectral glow        [ 3]spiritual guidance  
+2: [ 1]ancestral blessing   [ 6]cure blindness       [ 2]remove curse        
+   [ 2]sanctify corpse     
+3: [ 2]protection from unde [ 2]remove poison        [ 1]restore strength    
+   [ 1]spectral sight       [ 4]vile spirits        
+4: [ 2]devouring spirits    [ 1]ghost berries        [ 1]monstrous mantle    
+   [ 3]sublime resistance  
+5: [ 8]cure critical        [ 1]ghostmaster ritual   [ 1]tenacious heart     
+6: [ 8]ritual voyage       
+7: [ 1]ethereal armor       [ 3]ghostskin            [ 1]soul protection     
+8: [ 3]healing wave        
+
+Spells being memorized:
+1: [ 1]spiritual guidance  
+4: [ 1]amplify spirits     
+5: [ 1]boiling blood       
+6: [ 2]ritual voyage       
+7: [ 1]soul protection     
+
+You estimate your studies will complete in 1 (game) hour.
+
+Spells left (level-number): 1-2 2-0 3-1 4-2 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+464H 172V 1X 43.80% 24747C [Pos:resting] Mem:1 T:10> 
+l
+Trapped in a Spectral Prison
+The corpse of a huge, red-skinned goblin floats here.
+The corpse of a skinny green goblin floats here.
+An ancestral half ogre spirit is floating here. (grey aura)
+A goblin dressed in elf skins floats here, immobilized by an unseen force.
+
+464H 172V 1X 43.80% 24747C [Pos:resting] Mem:1 T:5> 
+l
+Trapped in a Spectral Prison
+The corpse of a huge, red-skinned goblin floats here.
+The corpse of a skinny green goblin floats here.
+An ancestral half ogre spirit is floating here. (grey aura)
+A goblin dressed in elf skins floats here, immobilized by an unseen force.
+
+464H 172V 1X 43.80% 24747C [Pos:resting] Mem:1 T:4> 
+l runes
+The runes encircling the sapphire clearly spell out four separate words,
+and they appear to have been etched into the bone by four very different
+hands. Starting at the top and moving in a clockwise direction, the first
+word is written in a graceful script. The runes of the second word look
+very erratic and seem to shift before your eyes. The third word is etched
+deep into the bone, yet the runes appear weathered and smooth. The last
+word was clearly made with a sharp knife. Together, the runes read:
+
+    "Senthalliel kISu's'DorRz ENPRUHM puun-pe-uel"
+
+All four of the runic words emit an eerie, pulsating glow. The ominous
+glow illuminates a faint inscription etched into the sapphire.
+
+464H 172V 1X 43.80% 24747C [Pos:resting] Mem:1 T:2> 
+
+Your meditation finished, you put away your charms with a smile.
+
+469H 172V 1X 43.80% 24747C [Pos:resting] T:60> 
+sta
+You stand up.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] T:55> 
+c 'sanct cor'
+You utter the words, 'sanctify corpse'
+
+469H 172V 1X 43.80% 24747C [Pos:standing] Mem:1 T:52> 
+l
+Trapped in a Spectral Prison
+The corpse of a skinny green goblin floats here.
+The corpse of a huge, red-skinned goblin floats here.
+An ancestral half ogre spirit is floating here. (grey aura)
+A goblin dressed in elf skins floats here, immobilized by an unseen force.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] Mem:1 T:48> 
+seance
+A darkness falls over your vision as you commune with the dead.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] Mem:1 T:44> 
+c 'reg' me
+Everything becomes clear as you prepare to cast.
+You utter the words, 'regenerate'
+But he looks fine!
+You feel a very slight tingling sensation.
+Your wounds begin to heal.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] Mem:1 T:43> 
+say Senthalliel kISu's'DorRz ENPRUHM puun-pe-uel
+
+Some of your nastier wounds disappear.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] Mem:1 T:40> 
+You utter the words, 'Senthalliel kISu's'DorRz ENPRUHM puun-pe-uel'
+
+As you recite the ancient rune words, the tiny jewels on the polished
+bone staff begin to glow. First, the emeralds flash to life, followed
+by the rubies and then the topazes. Finally, a bright blue ray of
+light bursts forth from the the large sapphire and strikes the small
+Bokor Queen full in the chest.
+
+As the light strikes her, the nimbus surrounding the Bokor Queen dims
+slightly, and she suddenly lurches forward and breaks free of the
+invisible forces binding her!
+
+469H 172V 1X 43.80% 24747C [Pos:standing] Mem:1 T:39> 
+kil queen
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:V.Good] Mem:1 T:38> 
+
+Some of your nastier wounds disappear.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+
+415H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:1 T:36> 
+
+Yek'Thoh the Bokor Queen utters the words, 'dulak iaza'
+Yek'Thoh the Bokor Queen claps her hands together, unleashing a dark nova!
+Waves of dark energy slam into an ancestral spirit!
+Waves of dark energy wash harmlessly over you.
+
+415H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:1 T:33> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU hard.
+Yek'Thoh the Bokor Queen whips YOU hard.
+
+443H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:32> 
+
+Yek'Thoh the Bokor Queen gives out a wild cry and points a shaking finger at you.
+
+443H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:29> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+451H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:28> 
+stup
+You wiggle your fingers as you outline Yek'Thoh the Bokor Queen's head in the air.
+
+451H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:27> 
+
+Yek'Thoh the Bokor Queen utters the words, 'uiyzfiar kawbuyuqahuai'
+Yek'Thoh the Bokor Queen is surrounded by a brilliant red aura of power.
+Yek'Thoh the Bokor Queen lets loose the fever of undeath!
+
+451H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:27> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+
+438H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:24> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU hard.
+
+426H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Bad] Mem:1 T:20> 
+gla spirit
+An ancestral spirit has some big nasty wounds and scratches.
+
+426H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Bad] Mem:1 T:19> 
+
+Yek'Thoh the Bokor Queen lets out a mighty yell and fights like crazy!
+
+426H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Bad] Mem:1 T:17> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit misses Yek'Thoh the Bokor Queen with his hit.
+An ancestral spirit massacres Yek'Thoh the Bokor Queen with his hit.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+431H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:1 T:16> 
+
+Yek'Thoh the Bokor Queen utters the words, 'regenerate'.
+Yek'Thoh the Bokor Queen's wounds begin to heal.
+
+431H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:1 T:16> 
+c 'he wa'
+Everything becomes clear as you prepare to cast.
+You utter the words, 'healing wave'
+Your skin begins to tingle as a rejuvenating wave of magic washes over you.
+
+431H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:1 T:16> 
+
+Your body tingles slightly.
+Your fingers prickle as your power returns.
+Some of your nastier wounds disappear.
+An ancestral spirit misses Yek'Thoh the Bokor Queen with his hit.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Bad] Mem:1 T:12> 
+hex
+You scream wildly and cuss at Yek'Thoh the Bokor Queen.
+Yek'Thoh the Bokor Queen seems totally unaffected by your curse.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Bad] Mem:1 T:11> 
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+394H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:8> 
+stup
+You wiggle your fingers as you outline Yek'Thoh the Bokor Queen's head in the air.
+
+394H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:6> 
+
+Your body tingles slightly.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+364H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:4> 
+c 'reg' me
+Everything becomes clear as you prepare to cast.
+You utter the words, 'regenerate'
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+420H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:2> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Your body stops tingling.
+
+454H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:60> 
+
+Yek'Thoh the Bokor Queen utters the words, 'zahlfsgz znsraguai'
+The corpse of a huge, red-skinned goblin starts to steam and sizzle.
+Yek'Thoh the Bokor Queen gestures, and the sizzling corpse slams into you!
+You stagger backwards under the weight of the sizzling corpse.
+The sizzling corpse detonates in an fiery explosion of blood and guts!
+You are burned by huge chunks of smoldering flesh.
+An ancestral spirit is burned by huge chunks of smoldering flesh.
+
+410H 172V 1X 43.80% 24747C [Pos:sitting] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:57> 
+gla spirit
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+An ancestral spirit hits Yek'Thoh the Bokor Queen hard.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+
+393H 172V 1X 43.80% 24747C [Pos:sitting] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:56> 
+
+Yek'Thoh the Bokor Queen screams wildly and cusses at you.
+
+393H 172V 1X 43.80% 24747C [Pos:sitting] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:53> 
+sta
+
+Some of your nastier wounds disappear.
+Your fingers prickle as your power returns.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+
+388H 172V 1X 43.80% 24747C [Pos:sitting] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:52> 
+An ancestral spirit has some small wounds and bruises.
+
+388H 172V 1X 43.80% 24747C [Pos:sitting] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:51> 
+You stand up.
+
+388H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:51> 
+
+Yek'Thoh the Bokor Queen focuses harshly on you and utters the words, 'gajr qfjthol'
+Tendrils of dark spectral energy wrap painfully around your soul.
+The dark tendrils are unable to latch onto your soul.
+
+299H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:49> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+319H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:48> 
+
+Yek'Thoh the Bokor Queen lets out a mighty yell and fights like crazy!
+
+319H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:47> 
+c 'cu c' me
+Everything becomes clear as you prepare to cast.
+Your connection to the dead breaks.
+You utter the words, 'cure critical'
+Large open gashes on your body quickly heal.
+
+449H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:47> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+414H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:44> 
+
+Yek'Thoh the Bokor Queen utters the words, 'regenerate'.
+Yek'Thoh the Bokor Queen's wounds begin to heal.
+
+414H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:44> 
+
+Some of your nastier wounds disappear.
+The force guiding your weapon leaves you.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:40> 
+sco
+You are Urtas the Male Half Ogre, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 27. You have completed 43.80% of your next rank.
+You are 18 years old.
+You have 469(469) hit and 172(172) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 24747(73500) steel coins.
+You have 2 rank points to spend.
+You have died 21 horrible deaths.
+You have been connected for 2 hour(s) and 11 minute(s).
+You have been playing for 11 day(s), 20 hour(s) and 53 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 16 Dex: 13 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are fighting Yek'Thoh the Bokor Queen.
+You are affected by the following:
+    regenerate           [1 rnd]
+    Bone Machine
+    boiling blood        [8 hrs]
+    amplify spirits      [7 hrs]
+    ancestral spirit     [9 hrs]
+    blessing of the half ogre spirits
+    soul protection      [0 rnds]
+    resist negative energy [4 hrs]
+    resist magic         [4 hrs]
+    protection from undead [11 hrs]
+    ethereal armor       [7 hrs]
+    negative plane protection
+    steelskin
+    detect invisibility
+    blur
+    strength
+    tenacious heart      [22 hrs]
+    ancestral shroud     [16 hrs]
+    spectral sight       [16 hrs]
+    spectral glow        [46 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [22 hrs]
+    ghostskin            [6 hrs]
+    spiritual aid
+    heal boost
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:39> 
+
+Some of your nastier wounds disappear.
+You feel your soul has returned.
+An ancestral spirit misses Yek'Thoh the Bokor Queen with his hit.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+
+431H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:36> 
+
+Yek'Thoh the Bokor Queen gives out a wild cry and points a shaking finger at you.
+
+431H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:35> 
+c 'so prot'
+You utter the words, 'soul protection'
+You feel your soul leave your body.
+
+431H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:33> 
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+An ancestral spirit hits Yek'Thoh the Bokor Queen hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+428H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:32> 
+
+Yek'Thoh the Bokor Queen utters the words, 'dulak iaza'
+Yek'Thoh the Bokor Queen claps her hands together, unleashing a dark nova!
+Waves of dark energy slam into an ancestral spirit!
+Waves of dark energy wash harmlessly over you.
+
+428H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:31> 
+c 'reg' me
+Everything becomes clear as you prepare to cast.
+You utter the words, 'regenerate'
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:29> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+431H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:28> 
+gla spirit
+An ancestral spirit has some big nasty wounds and scratches.
+
+431H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:1 T:25> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+398H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:1 T:24> 
+
+Yek'Thoh the Bokor Queen focuses harshly on you and utters the words, 'gajr qfjthol'
+Tendrils of dark spectral energy wrap painfully around your soul.
+The dark tendrils are unable to latch onto your soul.
+
+310H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:1 T:22> 
+c 'reg' spirit
+You utter the words, 'regenerate'
+A few of an ancestral spirit's nastier scrapes disappear.
+An ancestral spirit's wounds begin to heal.
+
+310H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:2 T:21> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+
+328H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:2 T:20> 
+c 'cu c' me
+
+Yek'Thoh the Bokor Queen wiggles her fingers as she outlines your head in the air.
+
+328H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Fair] [Yek'Thoh the Bokor Queen:Good] Mem:2 T:17> 
+You utter the words, 'cure critical'
+Large open gashes on your body quickly heal.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Good] Mem:2 T:17> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+409H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:2 T:16> 
+
+Yek'Thoh the Bokor Queen utters the words, 'tholaeaxl uiyzqhuai'
+Yek'Thoh the Bokor Queen summons a shadowy needle and jabs it into her arm.
+Yek'Thoh the Bokor Queen lets out a mighty scream.
+Yek'Thoh the Bokor Queen is surrounded by swirling shadows.
+
+409H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:2 T:16> 
+sta
+Some of your nastier wounds disappear.
+The ghostly hue vanishes from your flesh.
+An ancestral spirit misses Yek'Thoh the Bokor Queen with his hit.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen annihilates YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You are already standing.
+
+367H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:12> 
+
+Yek'Thoh the Bokor Queen focuses harshly on you and utters the words, 'gajr qfjthol'
+Tendrils of dark spectral energy wrap painfully around your soul.
+The dark tendrils are unable to latch onto your soul.
+
+293H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:11> 
+c 'reg' me
+You utter the words, 'regenerate'
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+358H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:9> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+An ancestral spirit gasps in pain as he swings through the shadows surrounding Yek'Thoh the Bokor Queen.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen misses you with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+
+408H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:8> 
+
+Yek'Thoh the Bokor Queen screams wildly and cusses at you.
+
+408H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:5> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen extremely hard.
+An ancestral spirit gasps in pain as he swings through the shadows surrounding Yek'Thoh the Bokor Queen.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+410H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:4> 
+
+Yek'Thoh the Bokor Queen utters the words, 'awunso'.
+
+410H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:4> 
+stup
+You wiggle your fingers as you outline Yek'Thoh the Bokor Queen's head in the air.
+
+410H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:2> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit hits Yek'Thoh the Bokor Queen very hard.
+An ancestral spirit gasps in pain as he swings through the shadows surrounding Yek'Thoh the Bokor Queen.
+Yek'Thoh the Bokor Queen dodges your attack!
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+An ancestral spirit transcends this world and enters another plane.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:60> 
+
+Yek'Thoh the Bokor Queen utters the words, 'zahlfsgz znsraguai'
+The corpse of a skinny green goblin starts to steam and sizzle.
+Yek'Thoh the Bokor Queen gestures, and the sizzling corpse slams into you!
+You stagger backwards under the weight of the sizzling corpse.
+The sizzling corpse detonates in an fiery explosion of blood and guts!
+You are burned by huge chunks of smoldering flesh.
+
+437H 172V 1X 43.80% 24747C [Pos:sitting] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:59> 
+sta
+
+Some of your nastier wounds disappear.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen misses you with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+
+422H 172V 1X 43.80% 24747C [Pos:sitting] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:56> 
+
+Yek'Thoh the Bokor Queen screams wildly and cusses at you.
+
+422H 172V 1X 43.80% 24747C [Pos:sitting] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:53> 
+You stand up.
+
+422H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:53> 
+
+Your fingers prickle as your power returns.
+Some of your nastier wounds disappear.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen misses you with her whip.
+Yek'Thoh the Bokor Queen tangles your feet with her weapon.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+
+425H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:52> 
+
+Yek'Thoh the Bokor Queen utters the words, 'regenerate'.
+Yek'Thoh the Bokor Queen's wounds begin to heal.
+
+425H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:52> 
+gla spirit
+You see no such person.
+
+425H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:52> 
+l
+Trapped in a Spectral Prison
+Yek'Thoh the Bokor Queen is standing here, fighting YOU.
+. . . enveloped in shadows.
+
+425H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:50> 
+
+Some of your nastier wounds disappear.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen dodges your attack!
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:48> 
+sco
+You are Urtas the Male Half Ogre, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 27. You have completed 43.80% of your next rank.
+You are 18 years old.
+You have 469(469) hit and 172(172) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 24747(73500) steel coins.
+You have 2 rank points to spend.
+You have died 21 horrible deaths.
+You have been connected for 2 hour(s) and 12 minute(s).
+You have been playing for 11 day(s), 20 hour(s) and 54 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 16 Dex: 13 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are fighting Yek'Thoh the Bokor Queen.
+You are affected by the following:
+    regenerate           [1 rnd]
+    Bone Machine
+    soul protection      [23 rnds]
+    boiling blood        [7 hrs]
+    amplify spirits      [6 hrs]
+    ancestral spirit     [8 hrs]
+    resist negative energy [3 hrs]
+    resist magic         [3 hrs]
+    protection from undead [10 hrs]
+    ethereal armor       [6 hrs]
+    negative plane protection
+    steelskin
+    detect invisibility
+    blur
+    strength
+    tenacious heart      [21 hrs]
+    ancestral shroud     [15 hrs]
+    spectral sight       [15 hrs]
+    spectral glow        [45 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [21 hrs]
+    spiritual aid
+    heal boost
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:46> 
+
+Some of your nastier wounds disappear.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+
+421H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:44> 
+
+Yek'Thoh the Bokor Queen utters the words, 'dulak iaza'
+Yek'Thoh the Bokor Queen claps her hands together, unleashing a dark nova!
+Waves of dark energy wash harmlessly over you.
+
+421H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:2 T:42> 
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+
+404H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:2 T:40> 
+c 'reg' me
+You utter the words, 'regenerate'
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+457H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:39> 
+
+Some of your nastier wounds disappear.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+
+423H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:3 T:36> 
+
+Yek'Thoh the Bokor Queen utters the words, 'dulak iaza'
+Yek'Thoh the Bokor Queen claps her hands together, unleashing a dark nova!
+Waves of dark energy wash harmlessly over you.
+
+423H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:3 T:35> 
+
+Some of your nastier wounds disappear.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+411H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:3 T:32> 
+sco
+You are Urtas the Male Half Ogre, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 27. You have completed 43.80% of your next rank.
+You are 18 years old.
+You have 411(469) hit and 172(172) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 24747(73500) steel coins.
+You have 2 rank points to spend.
+You have died 21 horrible deaths.
+You have been connected for 2 hour(s) and 12 minute(s).
+You have been playing for 11 day(s), 20 hour(s) and 54 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 16 Dex: 13 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are fighting Yek'Thoh the Bokor Queen.
+You are affected by the following:
+    regenerate           [6 rnds]
+    Bone Machine
+    soul protection      [19 rnds]
+    boiling blood        [7 hrs]
+    amplify spirits      [6 hrs]
+    ancestral spirit     [8 hrs]
+    resist negative energy [3 hrs]
+    resist magic         [3 hrs]
+    protection from undead [10 hrs]
+    ethereal armor       [6 hrs]
+    negative plane protection
+    steelskin
+    detect invisibility
+    blur
+    strength
+    tenacious heart      [21 hrs]
+    ancestral shroud     [15 hrs]
+    spectral sight       [15 hrs]
+    spectral glow        [45 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [21 hrs]
+    spiritual aid
+    heal boost
+
+411H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:3 T:31> 
+
+Yek'Thoh the Bokor Queen gives out a wild cry and points a shaking finger at you.
+
+411H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:3 T:29> 
+
+Some of your nastier wounds disappear.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen dodges your attack!
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+403H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:3 T:28> 
+c 'ghostsk' me
+You utter the words, 'ghostskin'
+Your skin takes a ghostly hue.
+
+403H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:3 T:28> 
+
+Yek'Thoh the Bokor Queen utters the words, 'uiyzfiar kawbuyuqahuai'
+Yek'Thoh the Bokor Queen is surrounded by a brilliant red aura of power.
+Yek'Thoh the Bokor Queen lets loose the fever of undeath!
+
+403H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:3 T:27> 
+
+Some of your nastier wounds disappear.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+409H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:3 T:24> 
+
+Some of your nastier wounds disappear.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+
+429H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:3 T:20> 
+
+Yek'Thoh the Bokor Queen gives out a wild cry and points a shaking finger at you.
+
+429H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:3 T:17> 
+
+Some of your nastier wounds disappear.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen dodges your attack!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen misses you with her whip.
+
+452H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:16> 
+
+Yek'Thoh the Bokor Queen utters the words, 'aiuwahz yrzthol'
+Chunks of flesh fly together and assemble into a grotesque spectral creature.
+A grotesque spectral creature now follows Yek'Thoh the Bokor Queen.
+
+452H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:14> 
+
+Some of your nastier wounds disappear.
+Yek'Thoh the Bokor Queen dodges your attack!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+
+436H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:12> 
+
+Yek'Thoh the Bokor Queen issues the order 'assist'
+A grotesque spectral creature misses you with its claw.
+
+436H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:11> 
+banish creature
+You glare at a grotesque spectral creature and clench your fist.
+A grotesque spectral creature's convulses violently, and the magic animating it begins to fade.
+Large chunks of rotting flesh fall off of a grotesque spectral creature's body.
+
+436H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:10> 
+
+Some of your nastier wounds disappear.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature barely claws YOU.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature bruises YOU with its claw.
+A grotesque spectral creature gasps in pain as it swings through the shadows surrounding you.
+A grotesque spectral creature misses you with its claw.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen dodges your attack!
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+380H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:8> 
+banish creature
+You glare at a grotesque spectral creature and clench your fist.
+A grotesque spectral creature's convulses violently, and the magic animating it dissolves.
+Bereft of magical support, a grotesque spectral creature falls apart.
+Large chunks of rotting flesh float off into the darkness.
+A grotesque spectral creature stops following Yek'Thoh the Bokor Queen.
+
+380H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:5> 
+
+Yek'Thoh the Bokor Queen utters the words, 'dulak iaza'
+Yek'Thoh the Bokor Queen claps her hands together, unleashing a dark nova!
+Waves of dark energy wash harmlessly over you.
+
+380H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:5> 
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen misses you with her whip.
+
+405H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:4> 
+
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen misses you with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+427H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:60> 
+
+Yek'Thoh the Bokor Queen focuses harshly on you and utters the words, 'gajr qfjthol'
+Tendrils of dark spectral energy wrap painfully around your soul.
+The dark tendrils are unable to latch onto your soul.
+
+363H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:3 T:58> 
+
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+315H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:56> 
+c 'reg' me
+You utter the words, 'regenerate'
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+378H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:55> 
+
+Yek'Thoh the Bokor Queen gives out a wild cry and points a shaking finger at you.
+
+378H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:53> 
+
+Some of your nastier wounds disappear.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+409H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:52> 
+
+Yek'Thoh the Bokor Queen utters the words, 'dulak iaza'
+Yek'Thoh the Bokor Queen claps her hands together, unleashing a dark nova!
+Waves of dark energy wash harmlessly over you.
+
+409H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:51> 
+
+Some of your nastier wounds disappear.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+
+413H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:48> 
+
+Yek'Thoh the Bokor Queen screams wildly and cusses at you.
+
+413H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:47> 
+sco
+You are Urtas the Male Half Ogre, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 27. You have completed 43.80% of your next rank.
+You are 18 years old.
+You have 413(469) hit and 172(172) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 24747(73500) steel coins.
+You have 2 rank points to spend.
+You have died 21 horrible deaths.
+You have been connected for 2 hour(s) and 13 minute(s).
+You have been playing for 11 day(s), 20 hour(s) and 55 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 16 Dex: 13 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are fighting Yek'Thoh the Bokor Queen.
+You are affected by the following:
+    regenerate           [6 rnds]
+    Bone Machine
+    ghostskin            [15 hrs]
+    soul protection      [7 rnds]
+    boiling blood        [6 hrs]
+    amplify spirits      [5 hrs]
+    ancestral spirit     [7 hrs]
+    resist negative energy [2 hrs]
+    resist magic         [2 hrs]
+    protection from undead [9 hrs]
+    ethereal armor       [5 hrs]
+    negative plane protection
+    steelskin
+    detect invisibility
+    blur
+    strength
+    tenacious heart      [20 hrs]
+    ancestral shroud     [14 hrs]
+    spectral sight       [14 hrs]
+    spectral glow        [44 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [20 hrs]
+    spiritual aid
+    heal boost
+
+413H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:47> 
+
+Some of your nastier wounds disappear.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+
+435H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:44> 
+
+Yek'Thoh the Bokor Queen focuses harshly on you and utters the words, 'gajr qfjthol'
+Tendrils of dark spectral energy wrap painfully around your soul.
+The dark tendrils are unable to latch onto your soul.
+
+360H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:3 T:43> 
+c 'cu c' me
+You utter the words, 'cure critical'
+Large open gashes on your body quickly heal.
+
+465H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:4 T:41> 
+
+Some of your nastier wounds disappear.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+415H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:4 T:40> 
+
+Some of your nastier wounds disappear.
+You bludgeon Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+414H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:4 T:36> 
+
+Yek'Thoh the Bokor Queen focuses harshly on you and utters the words, 'gajr qfjthol'
+Tendrils of dark spectral energy wrap painfully around your soul.
+The dark tendrils are unable to latch onto your soul.
+
+330H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:4 T:33> 
+
+Some of your nastier wounds disappear.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen misses you with her whip.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+
+348H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:4 T:32> 
+sco
+You are Urtas the Male Half Ogre, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 27. You have completed 43.80% of your next rank.
+You are 18 years old.
+You have 348(469) hit and 172(172) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 24747(73500) steel coins.
+You have 2 rank points to spend.
+You have died 21 horrible deaths.
+You have been connected for 2 hour(s) and 13 minute(s).
+You have been playing for 11 day(s), 20 hour(s) and 55 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 16 Dex: 13 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are fighting Yek'Thoh the Bokor Queen.
+You are affected by the following:
+    regenerate           [2 rnds]
+    Bone Machine
+    ghostskin            [11 hrs]
+    soul protection      [3 rnds]
+    boiling blood        [6 hrs]
+    amplify spirits      [5 hrs]
+    ancestral spirit     [7 hrs]
+    resist negative energy [2 hrs]
+    resist magic         [2 hrs]
+    protection from undead [9 hrs]
+    ethereal armor       [5 hrs]
+    negative plane protection
+    steelskin
+    detect invisibility
+    blur
+    strength
+    tenacious heart      [20 hrs]
+    ancestral shroud     [14 hrs]
+    spectral sight       [14 hrs]
+    spectral glow        [44 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [20 hrs]
+    spiritual aid
+    heal boost
+
+348H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:4 T:31> 
+
+Yek'Thoh the Bokor Queen wiggles her fingers as she outlines your head in the air.
+
+348H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Fair] [Yek'Thoh the Bokor Queen:Fair] Mem:4 T:29> 
+
+Some of your nastier wounds disappear.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+364H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:4 T:28> 
+
+Yek'Thoh the Bokor Queen utters the words, 'regenerate'.
+Yek'Thoh the Bokor Queen's wounds begin to heal.
+
+364H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:4 T:28> 
+c 'cu c' me
+You utter the words, 'cure critical'
+Large open gashes on your body quickly heal.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Fair] Mem:4 T:27> 
+
+Some of your nastier wounds disappear.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Fair] Mem:4 T:24> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 1]bone shape           [ 1]satiate             
+   [ 1]slow poison          [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 6]cure blindness       [ 2]remove curse        
+   [ 1]sanctify corpse     
+3: [ 2]protection from unde [ 2]remove poison        [ 1]restore strength    
+   [ 1]spectral sight       [ 4]vile spirits        
+4: [ 1]amplify spirits      [ 2]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 3]sublime resistance  
+5: [ 1]boiling blood        [ 5]cure critical        [ 1]ghostmaster ritual  
+   [ 1]tenacious heart     
+6: [ 6]ritual voyage       
+7: [ 1]ethereal armor       [ 2]ghostskin            [ 1]soul protection     
+8: [ 3]healing wave        
+
+Spells being memorized:
+2: [ 1]sanctify corpse     
+5: [ 3]cure critical       
+6: [ 4]ritual voyage       
+7: [ 1]ghostskin            [ 1]soul protection     
+
+You estimate your studies will complete in 4 (game) hours.
+
+Spells left (level-number): 1-2 2-0 3-1 4-2 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Fair] Mem:4 T:23> 
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen misses you with her whip.
+
+418H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:4 T:20> 
+
+Yek'Thoh the Bokor Queen utters the words, 'dulak iaza'
+Yek'Thoh the Bokor Queen claps her hands together, unleashing a dark nova!
+Waves of dark energy wash harmlessly over you.
+
+418H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:4 T:18> 
+
+You feel your soul has returned.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+388H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:4 T:16> 
+seance
+Alas, you are not ready yet.
+
+388H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:4 T:16> 
+c 'so prot'
+You utter the words, 'soul protection'
+You feel your soul leave your body.
+
+388H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:4 T:14> 
+
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU hard.
+
+346H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Fair] [Yek'Thoh the Bokor Queen:Perfect] Mem:4 T:12> 
+
+Yek'Thoh the Bokor Queen wiggles her fingers as she outlines your head in the air.
+
+346H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Fair] [Yek'Thoh the Bokor Queen:Perfect] Mem:4 T:11> 
+c 'reg' me
+You utter the words, 'regenerate'
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+396H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Perfect] Mem:5 T:9> 
+
+Some of your nastier wounds disappear.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+427H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Perfect] Mem:5 T:8> 
+
+Yek'Thoh the Bokor Queen utters the words, 'uiyzfiar kawbuyuqahuai'
+Yek'Thoh the Bokor Queen is surrounded by a brilliant red aura of power.
+Yek'Thoh the Bokor Queen lets loose the fever of undeath!
+
+427H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Perfect] Mem:5 T:6> 
+seance
+Alas, you are not ready yet.
+
+427H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Perfect] Mem:5 T:5> 
+
+Some of your nastier wounds disappear.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU hard.
+
+438H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:5 T:4> 
+
+Some of your nastier wounds disappear.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU hard.
+You are hungry.
+You are thirsty.
+
+465H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:13 T:60> 
+c 'sat' me
+You utter the words, 'satiate'
+You are no longer hungry or thirsty.
+You feel satiated.
+
+465H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:5 T:57> 
+
+Some of your nastier wounds disappear.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen misses you with her whip.
+
+453H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:5 T:56> 
+
+Yek'Thoh the Bokor Queen utters the words, 'awunso'.
+
+453H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Good] Mem:5 T:56> 
+
+Some of your nastier wounds disappear.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Good] Mem:5 T:52> 
+l
+Trapped in a Spectral Prison
+Yek'Thoh the Bokor Queen is standing here, fighting YOU.
+. . . enveloped in shadows.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Good] Mem:5 T:50> 
+sco
+You are Urtas the Male Half Ogre, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 27. You have completed 43.80% of your next rank.
+You are 18 years old.
+You have 469(469) hit and 172(172) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 24747(73500) steel coins.
+You have 2 rank points to spend.
+You have died 21 horrible deaths.
+You have been connected for 2 hour(s) and 14 minute(s).
+You have been playing for 11 day(s), 20 hour(s) and 55 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 16 Dex: 13 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are fighting Yek'Thoh the Bokor Queen.
+You are affected by the following:
+    regenerate           [2 rnds]
+    soul protection      [29 rnds]
+    Bone Machine
+    ghostskin            [0 hrs]
+    boiling blood        [5 hrs]
+    amplify spirits      [4 hrs]
+    ancestral spirit     [6 hrs]
+    resist negative energy [1 hour]
+    resist magic         [1 hour]
+    protection from undead [8 hrs]
+    ethereal armor       [4 hrs]
+    negative plane protection
+    steelskin
+    detect invisibility
+    blur
+    strength
+    tenacious heart      [19 hrs]
+    ancestral shroud     [13 hrs]
+    spectral sight       [13 hrs]
+    spectral glow        [43 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [19 hrs]
+    spiritual aid
+    heal boost
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:Good] Mem:5 T:50> 
+
+Some of your nastier wounds disappear.
+The ghostly hue vanishes from your flesh.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen dodges your attack!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+386H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:5 T:48> 
+
+Yek'Thoh the Bokor Queen utters the words, 'uiyzfiar kawbuyuqahuai'
+Yek'Thoh the Bokor Queen is surrounded by a brilliant red aura of power.
+Yek'Thoh the Bokor Queen lets loose the fever of undeath!
+
+386H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:5 T:46> 
+
+Some of your nastier wounds disappear.
+You bludgeon Yek'Thoh the Bokor Queen extremely hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen misses you with her whip.
+
+406H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:5 T:44> 
+c 'ghostsk' me
+You utter the words, 'ghostskin'
+Your skin takes a ghostly hue.
+
+406H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:5 T:43> 
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+422H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:5 T:40> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 1]bone shape           [ 1]slow poison         
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 6]cure blindness       [ 2]remove curse        
+   [ 1]sanctify corpse     
+3: [ 2]protection from unde [ 2]remove poison        [ 1]restore strength    
+   [ 1]spectral sight       [ 4]vile spirits        
+4: [ 1]amplify spirits      [ 2]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 3]sublime resistance  
+5: [ 1]boiling blood        [ 5]cure critical        [ 1]ghostmaster ritual  
+   [ 1]tenacious heart     
+6: [ 5]ritual voyage       
+7: [ 1]ethereal armor       [ 1]ghostskin           
+8: [ 3]healing wave        
+
+Spells being memorized:
+1: [ 1]satiate             
+2: [ 1]sanctify corpse     
+5: [ 3]cure critical       
+6: [ 5]ritual voyage       
+7: [ 2]ghostskin            [ 2]soul protection     
+
+You estimate your studies will complete in 5 (game) hours.
+
+Spells left (level-number): 1-2 2-0 3-1 4-2 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+422H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Good] Mem:5 T:38> 
+
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+371H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:5 T:36> 
+c 'reg' me
+You utter the words, 'regenerate'
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+424H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:5 T:34> 
+
+Yek'Thoh the Bokor Queen utters the words, 'uiyzfiar kawbuyuqahuai'
+Yek'Thoh the Bokor Queen is surrounded by a brilliant red aura of power.
+Yek'Thoh the Bokor Queen lets loose the fever of undeath!
+
+424H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:5 T:34> 
+
+Some of your nastier wounds disappear.
+Yek'Thoh the Bokor Queen misses you with her whip.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+436H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:5 T:32> 
+
+Some of your nastier wounds disappear.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen dodges your attack!
+Yek'Thoh the Bokor Queen whips YOU hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+406H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:5 T:28> 
+
+Some of your nastier wounds disappear.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+408H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:5 T:24> 
+
+Yek'Thoh the Bokor Queen wiggles her fingers as she outlines your head in the air.
+
+408H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:5 T:23> 
+stup
+You wiggle your fingers as you outline Yek'Thoh the Bokor Queen's head in the air.
+
+408H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Fair] Mem:5 T:21> 
+
+Some of your nastier wounds disappear.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+
+451H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:5 T:20> 
+
+Yek'Thoh the Bokor Queen glares at you and clenches her fist.
+You sense a spirit presence leaving you.
+
+451H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:Fair] Mem:5 T:17> 
+
+Some of your nastier wounds disappear.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen dodges your attack!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+422H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Bad] Mem:5 T:16> 
+sco
+You are Urtas the Male Half Ogre, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 27. You have completed 43.80% of your next rank.
+You are 18 years old.
+You have 422(469) hit and 172(172) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 24747(73500) steel coins.
+You have 2 rank points to spend.
+You have died 21 horrible deaths.
+You have been connected for 2 hour(s) and 15 minute(s).
+You have been playing for 11 day(s), 20 hour(s) and 56 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 16 Dex: 13 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are fighting Yek'Thoh the Bokor Queen.
+You are affected by the following:
+    Bone Machine
+    regenerate           [3 rnds]
+    ghostskin            [21 hrs]
+    soul protection      [20 rnds]
+    boiling blood        [5 hrs]
+    amplify spirits      [4 hrs]
+    ancestral spirit     [6 hrs]
+    resist negative energy [1 hour]
+    resist magic         [1 hour]
+    protection from undead [8 hrs]
+    ethereal armor       [4 hrs]
+    negative plane protection
+    steelskin
+    detect invisibility
+    blur
+    strength
+    tenacious heart      [19 hrs]
+    ancestral shroud     [13 hrs]
+    spectral sight       [13 hrs]
+    spectral glow        [43 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [19 hrs]
+    heal boost
+
+422H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Bad] Mem:5 T:15> 
+
+Some of your nastier wounds disappear.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+424H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:12> 
+
+Yek'Thoh the Bokor Queen gives out a wild cry and points a shaking finger at you.
+
+424H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:11> 
+
+Some of your nastier wounds disappear.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+414H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:8> 
+sco
+You are Urtas the Male Half Ogre, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 27. You have completed 43.80% of your next rank.
+You are 18 years old.
+You have 414(469) hit and 172(172) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 24747(73500) steel coins.
+You have 2 rank points to spend.
+You have died 21 horrible deaths.
+You have been connected for 2 hour(s) and 15 minute(s).
+You have been playing for 11 day(s), 20 hour(s) and 56 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 16 Dex: 13 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are fighting Yek'Thoh the Bokor Queen.
+You are affected by the following:
+    Bone Machine
+    regenerate           [1 rnd]
+    ghostskin            [19 hrs]
+    soul protection      [18 rnds]
+    boiling blood        [5 hrs]
+    amplify spirits      [4 hrs]
+    ancestral spirit     [6 hrs]
+    resist negative energy [1 hour]
+    resist magic         [1 hour]
+    protection from undead [8 hrs]
+    ethereal armor       [4 hrs]
+    negative plane protection
+    steelskin
+    detect invisibility
+    blur
+    strength
+    tenacious heart      [19 hrs]
+    ancestral shroud     [13 hrs]
+    spectral sight       [13 hrs]
+    spectral glow        [43 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [19 hrs]
+    heal boost
+
+414H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:7> 
+
+Yek'Thoh the Bokor Queen glares at you and clenches her fist.
+
+414H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:5> 
+
+Your fingers prickle as your power returns.
+Some of your nastier wounds disappear.
+Yek'Thoh the Bokor Queen dodges your attack!
+Yek'Thoh the Bokor Queen whips YOU hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+416H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:4> 
+seance
+Alas, you are not ready yet.
+
+416H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:3> 
+stup
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+The faintest connection to the undead world has been re-established.
+You wiggle your fingers as you outline Yek'Thoh the Bokor Queen's head in the air.
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:60> 
+
+Yek'Thoh the Bokor Queen lets out a mighty yell and fights like crazy!
+
+469H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Perfect] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:59> 
+
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+397H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:56> 
+c 'reg' me
+You utter the words, 'regenerate'
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+457H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:54> 
+
+Yek'Thoh the Bokor Queen screams wildly and cusses at you.
+
+457H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:53> 
+
+Some of your nastier wounds disappear.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+430H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:52> 
+
+Some of your nastier wounds disappear.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+390H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:48> 
+
+Yek'Thoh the Bokor Queen glares at you and clenches her fist.
+
+390H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:47> 
+
+Some of your nastier wounds disappear.
+Yek'Thoh the Bokor Queen dodges your attack!
+Yek'Thoh the Bokor Queen whips YOU very hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+
+361H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:5 T:44> 
+c 'cu c' me
+You utter the words, 'cure critical'
+Large open gashes on your body quickly heal.
+
+466H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:6 T:42> 
+
+Your blood boils as Yek'Thoh the Bokor Queen laughs and jeers at you.
+
+466H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:V.Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:6 T:41> 
+
+Some of your nastier wounds disappear.
+Your fingers prickle as your power returns.
+Yek'Thoh the Bokor Queen misses you with her whip.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+405H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:6 T:40> 
+sco
+You are Urtas the Male Half Ogre, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 27. You have completed 43.80% of your next rank.
+You are 18 years old.
+You have 405(469) hit and 172(172) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 24747(73500) steel coins.
+You have 2 rank points to spend.
+You have died 21 horrible deaths.
+You have been connected for 2 hour(s) and 15 minute(s).
+You have been playing for 11 day(s), 20 hour(s) and 57 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 16 Dex: 13 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are fighting Yek'Thoh the Bokor Queen.
+You are affected by the following:
+    regenerate           [4 rnds]
+    Bone Machine
+    ghostskin            [11 hrs]
+    soul protection      [10 rnds]
+    boiling blood        [4 hrs]
+    amplify spirits      [3 hrs]
+    ancestral spirit     [5 hrs]
+    resist negative energy [0 hrs]
+    resist magic         [0 hrs]
+    protection from undead [7 hrs]
+    ethereal armor       [3 hrs]
+    negative plane protection
+    steelskin
+    detect invisibility
+    blur
+    strength
+    tenacious heart      [18 hrs]
+    ancestral shroud     [12 hrs]
+    spectral sight       [12 hrs]
+    spectral glow        [42 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [18 hrs]
+    heal boost
+
+405H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:V.Bad] Mem:6 T:38> 
+
+Some of your nastier wounds disappear.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+398H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Awful] Mem:6 T:36> 
+
+Yek'Thoh the Bokor Queen glares at you and clenches her fist.
+
+398H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Awful] Mem:6 T:35> 
+
+Some of your nastier wounds disappear.
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU hard.
+Yek'Thoh the Bokor Queen massacres YOU with her whip.
+Yek'Thoh the Bokor Queen misses you with her whip.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+397H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Awful] Mem:6 T:32> 
+
+Yek'Thoh the Bokor Queen glares at you and clenches her fist.
+
+397H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Awful] Mem:6 T:29> 
+
+Some of your nastier wounds disappear.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+You move aside quickly as Yek'Thoh the Bokor Queen attacks!
+Yek'Thoh the Bokor Queen whips YOU hard.
+
+417H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Awful] Mem:6 T:28> 
+
+Some of your nastier wounds disappear.
+Yek'Thoh the Bokor Queen dodges your attack!
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+
+413H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Awful] Mem:6 T:24> 
+
+Yek'Thoh the Bokor Queen glares at you and clenches her fist.
+
+413H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Awful] Mem:6 T:23> 
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+You annihilate Yek'Thoh the Bokor Queen with your bludgeon.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU hard.
+Yek'Thoh the Bokor Queen whips YOU extremely hard.
+Yek'Thoh the Bokor Queen whips YOU very hard.
+
+403H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Awful] Mem:6 T:20> 
+
+Yek'Thoh the Bokor Queen lets out a mighty yell and fights like crazy!
+
+403H 172V 1X 43.80% 24747C [Pos:standing] [Urtas:Good] [Yek'Thoh the Bokor Queen:Awful] Mem:6 T:17> 
+
+You massacre Yek'Thoh the Bokor Queen with your bludgeon.
+get pile corpse
+You receive 0 experience.
+exa corpse
+Yek'Thoh the Bokor Queen is dead! R.I.P.
+The death cry of Yek'Thoh the Bokor Queen echoes from somewhere nearby...
+A spirit rises from the body of Yek'Thoh the Bokor Queen.
+The body of Yek'Thoh the Bokor Queen shrivels up and crumbles to dust.
+
+403H 172V 1X 45.32% 24747C [Pos:standing] Mem:6 T:16> 
+What are you trying to get from?
+
+403H 172V 1X 45.32% 24747C [Pos:standing] Mem:6 T:16> 
+You do not see that here.
+
+403H 172V 1X 45.32% 24747C [Pos:standing] Mem:6 T:16> 
+l
+Trapped in a Spectral Prison
+A sphere made entirely of clear crystal rests here...it glows dimly
+A small red bloom lies on the ground, about to be trampled.
+A vaporous chromatic dragonscale bracelet is lying here.
+A goblin dressed in elf skins floats near the glowing spectral nimbus. (grey aura)
+
+403H 172V 1X 45.32% 24747C [Pos:standing] Mem:6 T:15> 
+
+A wave of energy erupts from a polished bone staff encrusted with jewels.
+A polished bone staff encrusted with jewels suddenly explodes in your hands!
+A ring of spectral shadows fades out of existence.
+A ring of spectral shadows releases its grip on your finger.
+The spirit of Ur-Ahgruhm fades into existence.
+The spirit of a bakali shaman fades into existence.
+The spirit of Lashathal, the tranquil shaman fades into existence.
+The spirit of Shadowstrider fades into existence.
+
+403H 172V 1X 45.32% 24747C [Pos:standing] Mem:6 T:13> 
+l
+
+The spirit of Shadowstrider says, 'Now, we will do what must be done.'
+The members of the shaman council surround the spirit of Yek'Thoh the Bokor Queen.
+They raise their arms together and begin chanting in unison.
+The glowing nimbus around the spirit of Yek'Thoh the Bokor Queen begins to quiver.
+
+403H 172V 1X 45.32% 24747C [Pos:standing] Mem:6 T:11> 
+l
+
+The spirit of Ur-Ahgruhm utters the words, 'gszqhgrur nuieuio'
+Quivering tendrils of spectral energy wrap tightly around the spirit of Yek'Thoh the Bokor Queen.
+
+403H 172V 1X 45.32% 24747C [Pos:standing] Mem:6 T:9> 
+
+The spirit of a bakali shaman utters the words, 'dulak qfjquyunuai'
+Ethereal needles erupt out of the darkness and perforate the spirit of Yek'Thoh the Bokor Queen.
+
+403H 172V 1X 45.32% 24747C [Pos:standing] Mem:6 T:7> 
+
+The spirit of Lashathal, the tranquil shaman utters the words, 'gajr euyyjguai'
+The incorporeal form of the spirit of Yek'Thoh the Bokor Queen begins to slowly fade from existence.
+
+403H 172V 1X 45.32% 24747C [Pos:standing] Mem:6 T:5> 
+
+The spirit of Shadowstrider utters the words, 'abruhzfohuai'
+The spirit of Yek'Thoh the Bokor Queen utters a pitiful wail of horrible agony.
+The spirit of Yek'Thoh the Bokor Queen is completely obliterated!
+
+403H 172V 1X 45.32% 24747C [Pos:standing] Mem:6 T:3> 
+
+The members of the shaman council collect the Bokor Queen's possessions.
+The spirit of Shadowstrider says, 'It is done. Thank you for your help.'
+
+403H 172V 1X 45.32% 24747C [Pos:standing] Mem:6 T:1> 
+
+You feel your soul has returned.
+You are no longer resistant to negative energy.
+You are no longer resistant to magic.
+
+459H 172V 1X 45.32% 24747C [Pos:standing] Mem:5 T:60> 
+
+The spirit of Shadowstrider says 'If you wish, I shall teach you the power of foresight.'
+
+459H 172V 1X 45.32% 24747C [Pos:standing] Mem:5 T:59> 
+l
+Trapped in a Spectral Prison
+A sphere made entirely of clear crystal rests here...it glows dimly
+A small red bloom lies on the ground, about to be trampled.
+A vaporous chromatic dragonscale bracelet is lying here.
+A tall barbarian woman dressed in tattooed hides floats here. (grey aura)
+A tranquil elf communes with the forest in silent ceremony. (grey aura)
+A lizard man half-covered with beads and rat pelts, sits cross legged here. (grey aura)
+A sandmason shaman stands here, repeatedly chanting a mantra. (grey aura)
+
+459H 172V 1X 45.32% 24747C [Pos:standing] Mem:5 T:57> 
+Trapped in a Spectral Prison
+A sphere made entirely of clear crystal rests here...it glows dimly
+A small red bloom lies on the ground, about to be trampled.
+A vaporous chromatic dragonscale bracelet is lying here.
+A tall barbarian woman dressed in tattooed hides floats here. (grey aura)
+A tranquil elf communes with the forest in silent ceremony. (grey aura)
+A lizard man half-covered with beads and rat pelts, sits cross legged here. (grey aura)
+A sandmason shaman stands here, repeatedly chanting a mantra. (grey aura)
+
+459H 172V 1X 45.32% 24747C [Pos:standing] Mem:5 T:57> 
+Trapped in a Spectral Prison
+A sphere made entirely of clear crystal rests here...it glows dimly
+A small red bloom lies on the ground, about to be trampled.
+A vaporous chromatic dragonscale bracelet is lying here.
+A tall barbarian woman dressed in tattooed hides floats here. (grey aura)
+A tranquil elf communes with the forest in silent ceremony. (grey aura)
+A lizard man half-covered with beads and rat pelts, sits cross legged here. (grey aura)
+A sandmason shaman stands here, repeatedly chanting a mantra. (grey aura)
+
+459H 172V 1X 45.32% 24747C [Pos:standing] Mem:5 T:57> 
+learn a
+The knowledge of the spell 'omen' fills your mind.
+
+459H 172V 1X 45.32% 24747C [Pos:standing] Mem:5 T:52> 
+get all
+You get a clear crystal bauble.
+You get the fragile heart of a rose.
+You get a vaporous chromatic dragonscale bracelet.
+
+459H 172V 1X 45.32% 24747C [Pos:standing] Mem:5 T:49> 
+l
+Trapped in a Spectral Prison
+A tall barbarian woman dressed in tattooed hides floats here. (grey aura)
+A tranquil elf communes with the forest in silent ceremony. (grey aura)
+A lizard man half-covered with beads and rat pelts, sits cross legged here. (grey aura)
+A sandmason shaman stands here, repeatedly chanting a mantra. (grey aura)
+
+459H 172V 1X 45.32% 24747C [Pos:standing] Mem:5 T:47> 
+
+You feel weaker.
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:4 T:60> 
+cont spirit
+You can't do that!
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:4 T:46> 
+l
+Trapped in a Spectral Prison
+A tall barbarian woman dressed in tattooed hides floats here. (grey aura)
+A tranquil elf communes with the forest in silent ceremony. (grey aura)
+A lizard man half-covered with beads and rat pelts, sits cross legged here. (grey aura)
+A sandmason shaman stands here, repeatedly chanting a mantra. (grey aura)
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:4 T:45> 
+cont 2.sprit
+You couldn't find what you were looking for.
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:4 T:43> 
+cont 3.sprit
+You couldn't find what you were looking for.
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:4 T:41> 
+listen spirit
+The spirit of Shadowstrider says 'If you wish, I shall teach you the power of foresight.'
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:3 T:49> 
+learn a
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:3 T:45> 
+l 2.spirit
+An expression of utmost serenity upon his face, this lightly dressed elf
+harmonizes with the spirit of the living forest in silent meditation. This
+shaman, Lashathal, is as one one with the forest's spirit, and it is as one
+with him. The basin's blissful calm channels through his soul as effortlessly
+as the blood flowing through his veins, filling him with an inner peace that
+radiates from his being and washes over all those nearby.
+The spirit of Lashathal, the tranquil shaman is in an excellent condition.
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:3 T:43> 
+listen 2.spirit
+You pause and listen to what he is saying.
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:3 T:40> 
+in
+You are carrying:
+a vaporous chromatic dragonscale bracelet
+the fragile heart of a rose
+a clear crystal bauble..it glows dimly
+a vial of acidic juice..it glows dimly..it hums softly [3]
+a few strands of sticky spider web
+a balanced driftwood staff
+a dark electrum medallion
+a macabre mask of human bone
+a brewed potion of cure critical [10]
+a brewed potion of strength
+a brewed potion of cure critical
+a brewed potion of soul protection
+a pinch of powdered bornite
+a glowing scroll of recall..it glows dimly
+a shirt of brass dragon scales
+a glowing scroll of recall..it glows dimly [2]
+a milky potion of see invisible [2]
+a small vial of blood red water
+a small wooden chest
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:3 T:38> 
+l
+Trapped in a Spectral Prison
+A tall barbarian woman dressed in tattooed hides floats here. (grey aura)
+A tranquil elf communes with the forest in silent ceremony. (grey aura)
+A lizard man half-covered with beads and rat pelts, sits cross legged here. (grey aura)
+A sandmason shaman stands here, repeatedly chanting a mantra. (grey aura)
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:3 T:12> 
+cont 2.spirfit
+You couldn't find what you were looking for.
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:3 T:10> 
+cont 2.spirit
+You can't do that!
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:3 T:8> 
+c 'spe si'
+You utter the words, 'spectral sight'
+Your eyes tingle.
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:3 T:2> 
+l
+
+Your spirits diminish in power, but remain.
+The shadows surrounding you disperse.
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:2 T:60> 
+Trapped in a Spectral Prison
+A tall barbarian woman dressed in tattooed hides floats here. (grey aura)
+A tranquil elf communes with the forest in silent ceremony. (grey aura)
+A lizard man half-covered with beads and rat pelts, sits cross legged here. (grey aura)
+A sandmason shaman stands here, repeatedly chanting a mantra. (grey aura)
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:2 T:57> 
+eq
+You are using:
+<worn around neck>         the stole of the Kingpriest
+<worn around neck>         a dark electrum medallion
+<worn on chest>            a gleaming silver medal (attuned)
+<worn on head>             a crown of woven grape leaves
+<worn on legs>             some macabre human bone leggings
+<worn on feet>             a pair of macabre human bone boots
+<worn on hands>            a macabre pair of human bone gauntlets
+<worn on arms>             a set of macabre human bone armlets
+<worn about body>          a deep purple cloth robe
+<worn as pouch>            an embossed jellyfish pouch
+<worn around right wrist>  a jeweled bracer of the Skull..it glows dimly
+<worn around left wrist>   an apatite encrusted bracelet..it glows dimly
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:2 T:49> 
+in
+You are carrying:
+a vaporous chromatic dragonscale bracelet
+the fragile heart of a rose
+a clear crystal bauble..it glows dimly
+a vial of acidic juice..it glows dimly..it hums softly [3]
+a few strands of sticky spider web
+a balanced driftwood staff
+a dark electrum medallion
+a macabre mask of human bone
+a brewed potion of cure critical [10]
+a brewed potion of strength
+a brewed potion of cure critical
+a brewed potion of soul protection
+a pinch of powdered bornite
+a glowing scroll of recall..it glows dimly
+a shirt of brass dragon scales
+a glowing scroll of recall..it glows dimly [2]
+a milky potion of see invisible [2]
+a small vial of blood red water
+a small wooden chest
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:2 T:47> 
+disp bracelet
+You hold a vaporous chromatic dragonscale bracelet high for everyone to see.
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:2 T:42> 
+l
+Trapped in a Spectral Prison
+A tall barbarian woman dressed in tattooed hides floats here. (grey aura)
+A tranquil elf communes with the forest in silent ceremony. (grey aura)
+A lizard man half-covered with beads and rat pelts, sits cross legged here. (grey aura)
+A sandmason shaman stands here, repeatedly chanting a mantra. (grey aura)
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:2 T:5> 
+l portal
+You do not see that here.
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:2 T:3> 
+cont 2.spirit
+You can't do that!
+
+469H 172V 1X 45.32% 24747C [Pos:standing] Mem:2 T:2> 
+
+Your blood ceases to boil and you feel calmer.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:60> 
+cont 3.spirit
+You can't do that!
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:59> 
+l
+Trapped in a Spectral Prison
+A tall barbarian woman dressed in tattooed hides floats here. (grey aura)
+A tranquil elf communes with the forest in silent ceremony. (grey aura)
+A lizard man half-covered with beads and rat pelts, sits cross legged here. (grey aura)
+A sandmason shaman stands here, repeatedly chanting a mantra. (grey aura)
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:58> 
+l room
+Trapped in a Spectral Prison
+    A faint nimbus of spectral light hangs here, suspended in the center
+of a vast, impenetrable darkness. The light has no apparent source and
+is a pale, sickly color that absorbs what little warmth exists in this
+void. And yet the pulsating light is infinitely more inviting than the
+opaque nothingness that lies beyond its reach. While there are no walls
+here, it is clear that there is no easy way to escape.
+A tall barbarian woman dressed in tattooed hides floats here. (grey aura)
+A tranquil elf communes with the forest in silent ceremony. (grey aura)
+A lizard man half-covered with beads and rat pelts, sits cross legged here. (grey aura)
+A sandmason shaman stands here, repeatedly chanting a mantra. (grey aura)
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:57> 
+l portal
+You do not see that here.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:43> 
+
+Your meditation finished, you put away your charms with a smile.
+The ghostly hue vanishes from your flesh.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:60> 
+
+Your clanmate Darby has gained a level.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:38> 
+
+The metallic luster of your skin fades.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:60> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 1]bone shape           [ 1]satiate             
+   [ 1]slow poison          [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 6]cure blindness       [ 2]remove curse        
+   [ 2]sanctify corpse     
+3: [ 2]protection from unde [ 2]remove poison        [ 1]restore strength    
+   [ 1]spectral sight       [ 4]vile spirits        
+4: [ 1]amplify spirits      [ 2]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 3]sublime resistance  
+5: [ 1]boiling blood        [ 8]cure critical        [ 1]ghostmaster ritual  
+   [ 1]tenacious heart     
+6: [ 9]ritual voyage       
+7: [ 1]ethereal armor       [ 3]ghostskin            [ 2]soul protection     
+8: [ 3]healing wave        
+
+
+Spells left (level-number): 1-1 2-0 3-0 4-2 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:41> 
+l
+Trapped in a Spectral Prison
+A tall barbarian woman dressed in tattooed hides floats here. (grey aura)
+A tranquil elf communes with the forest in silent ceremony. (grey aura)
+A lizard man half-covered with beads and rat pelts, sits cross legged here. (grey aura)
+A sandmason shaman stands here, repeatedly chanting a mantra. (grey aura)
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:30> 
+in
+You are carrying:
+a vaporous chromatic dragonscale bracelet
+the fragile heart of a rose
+a clear crystal bauble..it glows dimly
+a vial of acidic juice..it glows dimly..it hums softly [3]
+a few strands of sticky spider web
+a balanced driftwood staff
+a dark electrum medallion
+a macabre mask of human bone
+a brewed potion of cure critical [10]
+a brewed potion of strength
+a brewed potion of cure critical
+a brewed potion of soul protection
+a pinch of powdered bornite
+a glowing scroll of recall..it glows dimly
+a shirt of brass dragon scales
+a glowing scroll of recall..it glows dimly [2]
+a milky potion of see invisible [2]
+a small vial of blood red water
+a small wooden chest
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:29> 
+learn a
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:27> 
+l
+Trapped in a Spectral Prison
+A tall barbarian woman dressed in tattooed hides floats here. (grey aura)
+A tranquil elf communes with the forest in silent ceremony. (grey aura)
+A lizard man half-covered with beads and rat pelts, sits cross legged here. (grey aura)
+A sandmason shaman stands here, repeatedly chanting a mantra. (grey aura)
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:26> 
+l room
+Trapped in a Spectral Prison
+    A faint nimbus of spectral light hangs here, suspended in the center
+of a vast, impenetrable darkness. The light has no apparent source and
+is a pale, sickly color that absorbs what little warmth exists in this
+void. And yet the pulsating light is infinitely more inviting than the
+opaque nothingness that lies beyond its reach. While there are no walls
+here, it is clear that there is no easy way to escape.
+A tall barbarian woman dressed in tattooed hides floats here. (grey aura)
+A tranquil elf communes with the forest in silent ceremony. (grey aura)
+A lizard man half-covered with beads and rat pelts, sits cross legged here. (grey aura)
+A sandmason shaman stands here, repeatedly chanting a mantra. (grey aura)
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:22> 
+l portal
+You do not see that here.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:20> 
+listen spirit
+The spirit of Shadowstrider says 'If you wish, I shall teach you the power of foresight.'
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:18> 
+
+You feel less protected from undeath.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:60> 
+mem 'omen'
+omen: you can't memorize any more level 8 spells
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:52> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 1]bone shape           [ 1]satiate             
+   [ 1]slow poison          [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 6]cure blindness       [ 2]remove curse        
+   [ 2]sanctify corpse     
+3: [ 2]protection from unde [ 2]remove poison        [ 1]restore strength    
+   [ 1]spectral sight       [ 4]vile spirits        
+4: [ 1]amplify spirits      [ 2]devouring spirits    [ 1]ghost berries       
+   [ 1]monstrous mantle     [ 3]sublime resistance  
+5: [ 1]boiling blood        [ 8]cure critical        [ 1]ghostmaster ritual  
+   [ 1]tenacious heart     
+6: [ 9]ritual voyage       
+7: [ 1]ethereal armor       [ 3]ghostskin            [ 2]soul protection     
+8: [ 3]healing wave        
+
+
+Spells left (level-number): 1-1 2-0 3-0 4-2 5-0 6-0 7-0 8-0
+You may use your divine powers.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:51> 
+for 'he wa'
+healing wave: You forget this spell.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:49> 
+mem 'omen'
+You focus your thoughts on your charms and begin to meditate.
+omen: added to your list
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:46> 
+learn a
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:44> 
+re
+You rest your tired bones but stay aloft.
+
+464H 172V 1X 45.32% 24747C [Pos:resting] Mem:1 T:43> 
+
+Your meditation finished, you put away your charms with a smile.
+
+464H 172V 1X 45.32% 24747C [Pos:resting] T:60> 
+bug i didnt received gift item after finishing Omen quest
+Thank you for submitting a bug report.
+
+464H 172V 1X 45.32% 24747C [Pos:resting] T:58> 
+l
+Trapped in a Spectral Prison
+A tall barbarian woman dressed in tattooed hides floats here. (grey aura)
+A tranquil elf communes with the forest in silent ceremony. (grey aura)
+A lizard man half-covered with beads and rat pelts, sits cross legged here. (grey aura)
+A sandmason shaman stands here, repeatedly chanting a mantra. (grey aura)
+
+464H 172V 1X 45.32% 24747C [Pos:resting] T:19> 
+sta
+You stand up.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:19> 
+en portal
+There is no portal here.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:14> 
+
+Your clanmate Selena has gained a rank.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:1> 
+l
+Trapped in a Spectral Prison
+A tall barbarian woman dressed in tattooed hides floats here. (grey aura)
+A tranquil elf communes with the forest in silent ceremony. (grey aura)
+A lizard man half-covered with beads and rat pelts, sits cross legged here. (grey aura)
+A sandmason shaman stands here, repeatedly chanting a mantra. (grey aura)
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:55> 
+sta
+You are already standing.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:46> 
+c 'omen'
+You utter the words, 'omen'
+You shiver as a feeling of dread overwhelms you.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:44> 
+learn all
+You are not ready to learn more yet.  Perhaps you need more practice, or
+you need to gain another level.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:38> 
+
+The spirit of Shadowstrider says, 'You are a testament to the might of your people, Urtas.'
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:37> 
+
+The spirit of Shadowstrider says, 'The Bokor Queen shall never again threaten Ansalon.'
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:35> 
+
+The spirit of Shadowstrider says, 'We must destroy the Bokor Queen's evil artifacts.'
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:33> 
+
+The spirit of Shadowstrider says, 'However, you may keep this memento of your battle.'
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:31> 
+
+The spirit of Shadowstrider glances at the spirit of Ur-Ahgruhm.
+The spirit of Ur-Ahgruhm hands something to you.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:29> 
+
+The spirit of Shadowstrider says, 'May the spirits guide you and give you strength.'
+The spirit of Shadowstrider gestures, and a shimmering portal opens.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:25> 
+
+The spirit of a bakali shaman smiles at you as he vanishes into the ether.
+The spirit of Ur-Ahgruhm smiles at you as he vanishes into the ether.
+The spirit of Lashathal, the tranquil shaman smiles at you as he vanishes into the ether.
+The spirit of Shadowstrider smiles at you as she vanishes into the ether.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] Mem:1 T:23> 
+
+Your meditation finished, you put away your charms with a smile.
+The protective presence around you fades.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:60> 
+
+Your premonition of the future fades.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:32> 
+
+A vial of acidic juice decays in your hands.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:60> 
+bug about Omen quest - it hangs after i learned omen by typing 'learn a'. It was a failure, it resumes when i typed 'learn all'
+Thank you for submitting a bug report.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:50> 
+l
+Trapped in a Spectral Prison
+A spectral portal hovers in the center of the shimmering nimbus...it glows dimly
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:24> 
+in
+You are carrying:
+a bracelet of mutilated kyrie feathers
+a vaporous chromatic dragonscale bracelet
+the fragile heart of a rose
+a clear crystal bauble..it glows dimly
+a vial of acidic juice..it glows dimly..it hums softly [2]
+a few strands of sticky spider web
+a balanced driftwood staff
+a dark electrum medallion
+a macabre mask of human bone
+a brewed potion of cure critical [10]
+a brewed potion of strength
+a brewed potion of cure critical
+a brewed potion of soul protection
+a pinch of powdered bornite
+a glowing scroll of recall..it glows dimly
+a shirt of brass dragon scales
+a glowing scroll of recall..it glows dimly [2]
+a milky potion of see invisible [2]
+a small vial of blood red water
+a small wooden chest
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:22> 
+
+Your shroud fades away.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:60> 
+l
+Trapped in a Spectral Prison
+A spectral portal hovers in the center of the shimmering nimbus...it glows dimly
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:51> 
+en portal
+As you enter the spectral portal, you are enveloped by soothing green light.
+After the green light fades, you notice the air is suddenly quite chilly.
+Behind an Underground Waterfall
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:43> 
+l
+Behind an Underground Waterfall
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:26> 
+rec recall me
+get recall chest
+You grab a glowing scroll of recall.
+You recite a glowing scroll of recall which dissolves.
+The Inn of Dawnguard
+A ring lies here, radiating intense cold.
+A glass eyedropper containing a white substance is lying here. [3]
+The stronghold receptionist is here, showing clan members to their rooms.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:22 Exits:ED> 
+
+Your clanmate Norka has entered the game.
+Norka has entered the game.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:21 Exits:ED> 
+in
+
+Norka sits down and rests.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:20 Exits:ED> 
+
+Norka lifts her arms towards the sky and gracefully floats upward.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:20 Exits:ED> 
+give all.brewed norka
+The chest doesn't seem to have what you are looking for.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:14 Exits:ED> 
+You are carrying:
+a bracelet of mutilated kyrie feathers
+a vaporous chromatic dragonscale bracelet
+the fragile heart of a rose
+a clear crystal bauble..it glows dimly
+a vial of acidic juice..it glows dimly..it hums softly [2]
+a few strands of sticky spider web
+a balanced driftwood staff
+a dark electrum medallion
+a macabre mask of human bone
+a brewed potion of cure critical [10]
+a brewed potion of strength
+a brewed potion of cure critical
+a brewed potion of soul protection
+a pinch of powdered bornite
+a shirt of brass dragon scales
+a glowing scroll of recall..it glows dimly [2]
+a milky potion of see invisible [2]
+a small vial of blood red water
+a small wooden chest
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:13 Exits:ED> 
+You give a brewed potion of cure critical to Norka.
+You give a brewed potion of cure critical to Norka.
+You give a brewed potion of cure critical to Norka.
+You give a brewed potion of cure critical to Norka.
+You give a brewed potion of cure critical to Norka.
+You give a brewed potion of cure critical to Norka.
+You give a brewed potion of cure critical to Norka.
+You give a brewed potion of cure critical to Norka.
+You give a brewed potion of cure critical to Norka.
+You give a brewed potion of cure critical to Norka.
+You give a brewed potion of strength to Norka.
+You give a brewed potion of cure critical to Norka.
+You give a brewed potion of soul protection to Norka.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:13 Exits:ED> 
+
+Norka oohs and ahhs, as if she is really, really impressed.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:6 Exits:ED> 
+l
+The Inn of Dawnguard
+A ring lies here, radiating intense cold.
+A glass eyedropper containing a white substance is lying here. [3]
+<DAWN> Norka the Female Half Ogre is resting here. (flying) (invisible)
+The stronghold receptionist is here, showing clan members to their rooms.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:6 Exits:ED> 
+in
+You are carrying:
+a bracelet of mutilated kyrie feathers
+a vaporous chromatic dragonscale bracelet
+the fragile heart of a rose
+a clear crystal bauble..it glows dimly
+a vial of acidic juice..it glows dimly..it hums softly [2]
+a few strands of sticky spider web
+a balanced driftwood staff
+a dark electrum medallion
+a macabre mask of human bone
+a pinch of powdered bornite
+a shirt of brass dragon scales
+a glowing scroll of recall..it glows dimly [2]
+a milky potion of see invisible [2]
+a small vial of blood red water
+a small wooden chest
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:3 Exits:ED> 
+
+Norka smiles as she finishes her meditation.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:60 Exits:ED> 
+disp acidic
+You hold a vial of acidic juice high for everyone to see.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:58 Exits:ED> 
+l
+The Inn of Dawnguard
+A ring lies here, radiating intense cold.
+A glass eyedropper containing a white substance is lying here. [3]
+<DAWN> Norka the Female Half Ogre is resting here. (flying) (invisible)
+The stronghold receptionist is here, showing clan members to their rooms.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:57 Exits:ED> 
+
+Norka stands up.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:53 Exits:ED> 
+
+Norka utters the words, 'satiate'.
+Norka's stomach stops growling.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:52 Exits:ED> 
+
+The stronghold receptionist shows Norka to her room.
+Norka sinks gently to the ground.
+Your clanmate Norka has left the game.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:48 Exits:ED> 
+l
+The Inn of Dawnguard
+A ring lies here, radiating intense cold.
+A glass eyedropper containing a white substance is lying here. [3]
+The stronghold receptionist is here, showing clan members to their rooms.
+
+464H 172V 1X 45.32% 24747C [Pos:standing] T:47 Exits:ED> 
+e
+s
+The City Portal of Dawnguard
+A large multicolored portal hovers near one wall of the room...it glows dimly
+
+464H 171V 1X 45.32% 24747C [Pos:standing] T:46 Exits:NESWU> 
+The Alchemy Lab of Dawnguard
+A dolphin made of water flaps about here.
+The clan alchemist is standing here.
+
+464H 170V 1X 45.32% 24747C [Pos:standing] T:46 Exits:N> 
+sell acidic
+The clan alchemist cringes in terror!
+
+464H 170V 1X 45.32% 24747C [Pos:standing] T:44 Exits:N> 
+sell acidic
+The clan alchemist cringes in terror!
+
+464H 170V 1X 45.32% 24747C [Pos:standing] T:43 Exits:N> 
+dispel 'mon man'
+You feel less threatening.
+
+464H 170V 1X 45.32% 24747C [Pos:standing] T:40 Exits:N> 
+l
+sell acidic
+sell acidic
+The Alchemy Lab of Dawnguard
+A dolphin made of water flaps about here.
+The clan alchemist is standing here.
+
+464H 170V 1X 45.32% 24747C [Pos:standing] T:36 Exits:N> 
+The clan alchemist tells you 'I figure that is worth 37 coins.'
+The clan alchemist now has a vial of acidic juice.
+
+464H 170V 1X 45.32% 24784C [Pos:standing] T:36 Exits:N> 
+The clan alchemist tells you 'I figure that is worth 37 coins.'
+The clan alchemist now has a vial of acidic juice.
+
+464H 170V 1X 45.32% 24821C [Pos:standing] T:35 Exits:N> 

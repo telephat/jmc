@@ -20,6 +20,7 @@
 
 #act {$leader bruises %0} {doassist}
 #act {$leader barely slashes %0} {doassist}
+#act {$leader barely cleaves %0} {doassist}
 #act {$leader slashes %0} {doassist}
 #act {$leader cleaves %0} {doassist}
 #act {$leader stabs %0} {doassist}

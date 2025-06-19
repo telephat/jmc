@@ -1,0 +1,4048 @@
+Log: sarson 
+Logging started: 18.11.2022 20:23\r 
+l
+Keep Dungeon
+The corpse of a knight of the chamber guardians is lying here. [2]
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here. (flying) (invisible)
+. . . enveloped in shadows.
+
+740H 174V 1X 62.26% 15829C T:40 Exits:ED> 
+opt brief
+BRIEF turned off.
+
+740H 174V 1X 62.26% 15829C T:37 Exits:ED> 
+sta
+You are already standing.
+
+740H 174V 1X 62.26% 15829C T:35 Exits:ED> 
+
+Urtas focuses on you and utters some strange words.
+Your skin takes a ghostly hue.
+
+740H 174V 1X 62.26% 15829C T:32 Exits:ED> 
+sco
+You are Yabba the Male Half Ogre, a level 30 Legendary Warrior.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 33. You have completed 62.26% of your next rank.
+You are 21 years old.
+You have 740(740) hit and 174(174) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 15829(312040) steel coins.
+You have 2 rank points to spend.
+You have died 31 horrible deaths.
+You have been connected for 30 minute(s).
+You have been playing for 10 day(s), 6 hour(s) and 9 minute(s).
+Your natural ability scores are:
+    Str: 23 Int: 15 Wis: 15 Dex: 16 Con: 20 Cha: 17
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+Your wounds have been bandaged.
+You are affected by the following:
+    ghostskin
+    resist negative energy
+    detect invisibility
+    ancestral shroud
+    heal boost
+
+740H 174V 1X 62.26% 15829C T:28 Exits:ED> 
+
+Urtas utters some strange words.
+Urtas's skin takes a ghostly hue.
+
+740H 174V 1X 62.26% 15829C T:27 Exits:ED> 
+d
+Rickety Staircase
+     The staircase descends deeper into the basement.  You can see the top
+of the stairs above you while only blackness appears to await you further
+down in the depths. You can see many ancient scars upon the walls from what
+appear to be either claws or acid.  There is a strange smell upon the
+stairs wafting up from below.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here. (flying) (invisible)
+. . . has a ghostly hue.
+
+740H 173V 1X 62.26% 15829C T:27 Exits:UD> 
+d
+Base of the Stairs
+     You stand at the base of the stairs at the entrance to a large
+hollowed out cavern.  The cavern leads off to the west from here.  It
+slopes slightly down as it moves in that direction.  You can hear dripping
+water falling from the cavern roof.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here. (flying) (invisible)
+. . . emits an eerie glow.
+
+740H 172V 1X 62.26% 15829C T:24 Exits:WU> 
+w
+Musty Cavern
+     The musty cavern has widened at this point.  The dripping water has
+formed into many small residual pools.  Strange glow from the mosses in
+this particular cavern have given a small amount of light to the room.  You
+can either move towards an old looking stairway to the east or follow the
+cavern as it tapers to a long thin crack to the south.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here. (flying) (invisible)
+. . . emits an eerie glow.
+
+740H 171V 1X 62.26% 15829C T:7 Exits:E> 
+l s
+You see nothing special.
+
+740H 171V 1X 62.26% 15829C T:3 Exits:E> 
+ex
+Obvious exits:
+East  - Too dark to tell
+
+740H 171V 1X 62.26% 15829C T:1 Exits:E> 
+s
+Musty Catacombs
+    You stand within a large underground corridor.  There is a small creek
+which trickles through the cavern, leading towards a far off subteranean
+lake.  You can see exits in all directions from here.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here. (flying) (invisible)
+. . . emits an eerie glow.
+
+740H 173V 1X 62.26% 15829C T:60 Exits:NESW> 
+
+Your clanmate Orzo has entered the game.
+
+740H 173V 1X 62.26% 15829C T:49 Exits:NESW> 
+l
+Musty Catacombs
+    You stand within a large underground corridor.  There is a small creek
+which trickles through the cavern, leading towards a far off subteranean
+lake.  You can see exits in all directions from here.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here. (flying) (invisible)
+. . . has a ghostly hue.
+
+740H 173V 1X 62.26% 15829C T:48 Exits:NESW> 
+s
+Dark Cavern Gate
+    You are now standing in a large black stone corridor.  At the end of
+the hall lies a large inlaid silver gate founded in sturdy red brick
+mortar.  You can feel a faint trace of heat from the direction of the gate.
+You can see several of the larger rocks have small carvings upon them.
+The largest of which has a large depression or niche running down the
+length of it.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here. (flying) (invisible)
+. . . has a ghostly hue.
+
+740H 172V 1X 62.26% 15829C T:33 Exits:N(S)> 
+s
+The gate seems to be closed.
+
+740H 172V 1X 62.26% 15829C T:32 Exits:N(S)> 
+unlock gate
+*click* as you use an iron key.
+The key turns to dust as its usefulness ends.
+
+740H 172V 1X 62.26% 15829C T:30 Exits:N(S)> 
+op gate
+Ok.
+
+740H 172V 1X 62.26% 15829C T:28 Exits:NS> 
+s
+Vaulted Chamber of Red Rock
+    Beyond the gate lies a large vaulted, man made chamber. You can see
+several murals upon the walls. Upon the far southern wall a small corridor
+leads off into the darkness beyond. You can see small pools of hot water
+forming where water has dripped from the cavern top above. The expansive
+hall seems to radiate an almost abnormal heat.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here. (flying) (invisible)
+. . . has a ghostly hue.
+
+740H 171V 1X 62.26% 15829C T:17 Exits:NS> 
+scan
+Looking north:
+You see nothing special.
+The gate is open.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+740H 171V 1X 62.26% 15829C T:16 Exits:NS> 
+l s 
+You see nothing special.
+
+740H 171V 1X 62.26% 15829C T:14 Exits:NS> 
+s alo
+Vaulted Red Chamber
+    You enter a very large chamber.  You can see a small hole in the wall
+to the east. However, the room is dominated by a large statue, which
+appears to be that of an enormous dragon.  The statue is contorted as if
+in great pain, frozen forever in time.
+An enourmous stone statue of a dragon dominates the chamber here.
+You see a large beast comprised of a red slimy substance here.
+A red slime beast misses you with its drain.
+
+740H 170V 1X 62.26% 15829C [Yabba:Perfect] [a red slime beast:Perfect] T:12 Exits:N> 
+
+Urtas flies in from the north.
+
+740H 170V 1X 62.26% 15829C [Yabba:Perfect] [a red slime beast:Perfect] T:9 Exits:N> 
+
+A red slime beast misses you with its drain.
+You cleave a red slime beast hard.
+
+740H 170V 1X 62.26% 15829C [Yabba:Perfect] [a red slime beast:V.Good] T:8 Exits:N> 
+
+Urtas issues the order 'assist Yabba'.
+A monstrous apparition bites a red slime beast very hard.
+
+740H 170V 1X 62.26% 15829C [Yabba:Perfect] [a red slime beast:V.Good] T:8 Exits:N> 
+
+Urtas slowly fades into existence.
+Urtas cleaves a red slime beast hard.
+
+740H 170V 1X 62.26% 15829C [Yabba:Perfect] [a red slime beast:V.Good] T:8 Exits:N> 
+l
+Urtas cleaves a red slime beast hard.
+A monstrous apparition bites a red slime beast hard.
+A red slime beast misses you with its drain.
+You cleave a red slime beast hard.
+Vaulted Red Chamber
+    You enter a very large chamber.  You can see a small hole in the wall
+to the east. However, the room is dominated by a large statue, which
+appears to be that of an enormous dragon.  The statue is contorted as if
+in great pain, frozen forever in time.
+An enourmous stone statue of a dragon dominates the chamber here.
+A monstrous apparition is standing here, fighting a red slime beast.
+<DAWN> Urtas, the Other Half is standing here, fighting a red slime beast. (flying)
+. . . has a ghostly hue.
+A red slime beast is standing here, fighting YOU.
+
+740H 170V 1X 62.26% 15829C [Yabba:Perfect] [a red slime beast:V.Good] T:4 Exits:N> 
+punch
+kick high 
+You give a red slime beast a solid punch in the face.
+
+740H 170V 1X 62.26% 15829C [Yabba:Perfect] [a red slime beast:V.Good] T:3 Exits:N> 
+A red slime beast corrodes you.
+A monstrous apparition is corroded as a red slime beast breathes acid.
+Urtas is corroded as a red slime beast breathes acid.
+A red slime beast corrodes you.
+Your vicious kick leaves your boots covered with blood and gore.
+The satisfaction of that kick invigorates you, your arms swing freely.
+Urtas lets out a mighty yell and fights like crazy!
+
+636H 170V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:V.Good] T:3 Exits:N> 
+
+Urtas cleaves a red slime beast extremely hard.
+Urtas cleaves a red slime beast hard.
+A monstrous apparition bites a red slime beast extremely hard.
+A red slime beast misses you with its drain.
+A red slime beast fumbles and fails to swing at its target.
+You cleave a red slime beast very hard.
+You feel more vigorous.
+
+740H 174V 1X 62.26% 15829C [Yabba:Perfect] [a red slime beast:Perfect] T:60 Exits:N> 
+
+Urtas wiggles his fingers as he outlines a red slime beast's head in the air.
+
+740H 174V 1X 62.26% 15829C [Yabba:Perfect] [a red slime beast:Perfect] T:59 Exits:N> 
+assault
+You begin to assault a red slime beast!
+
+740H 174V 1X 62.26% 15829C [Yabba:Perfect] [a red slime beast:Perfect] T:58 Exits:N> 
+
+A red slime beast corrodes you.
+Urtas is corroded as a red slime beast breathes acid.
+A red slime beast corrodes you.
+
+656H 174V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:Perfect] T:57 Exits:N> 
+
+Urtas's mighty cleave almost cuts a red slime beast in two.
+Urtas cleaves a red slime beast hard.
+Urtas's mighty cleave almost cuts a red slime beast in two.
+Urtas cleaves a red slime beast very hard.
+A monstrous apparition bites a red slime beast hard.
+A red slime beast misses you with its drain.
+You cleave a red slime beast hard.
+You cleave a red slime beast very hard.
+
+656H 174V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:V.Good] T:56 Exits:N> 
+
+A monstrous apparition lunges forward and bites a red slime beast in the throat!
+
+656H 174V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:V.Good] T:54 Exits:N> 
+
+Your punch hand is ready to lay into someone again.
+Urtas cleaves a red slime beast extremely hard.
+Urtas's mighty cleave almost cuts a red slime beast in two.
+Urtas cleaves a red slime beast very hard.
+A red slime beast flesh crawls as Urtas's axe drains it.
+A monstrous apparition bites a red slime beast hard.
+A monstrous apparition bites a red slime beast very hard.
+A red slime beast misses you with its drain.
+You cleave a red slime beast very hard.
+You cleave a red slime beast very hard.
+You cleave a red slime beast very hard.
+You cleave a red slime beast very hard.
+
+656H 174V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:Good] T:52 Exits:N> 
+
+Urtas utters some strange words.
+A monstrous apparition shudders slightly and begins to glow orange.
+Urtas shudders slightly and begins to glow orange.
+You shudder slightly and begin to glow orange.
+
+656H 174V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:Good] T:52 Exits:N> 
+
+Sensing danger, you prepare as best you can.
+
+656H 174V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:Good] T:51 Exits:N> 
+
+A monstrous apparition bites a red slime beast very hard.
+A red slime beast bruises YOU with its drain.
+You cleave a red slime beast very hard.
+
+653H 174V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:Good] T:48 Exits:N> 
+
+Urtas utters some strange words.
+A monstrous apparition shudders slightly and begins to glow green.
+Urtas shudders slightly and begins to glow green.
+You shudder slightly and begin to glow green.
+
+653H 174V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:Good] T:47 Exits:N> 
+
+A red slime beast corrodes you.
+A monstrous apparition avoids a red slime beast's acid breath.
+A red slime beast corrodes you.
+
+586H 174V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:Good] T:45 Exits:N> 
+
+A monstrous apparition bites a red slime beast hard.
+A monstrous apparition bites a red slime beast extremely hard.
+A red slime beast misses you with its drain.
+You cleave a red slime beast very hard.
+You cleave a red slime beast hard.
+
+586H 174V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:Good] T:44 Exits:N> 
+l
+Vaulted Red Chamber
+    You enter a very large chamber.  You can see a small hole in the wall
+to the east. However, the room is dominated by a large statue, which
+appears to be that of an enormous dragon.  The statue is contorted as if
+in great pain, frozen forever in time.
+An enourmous stone statue of a dragon dominates the chamber here.
+A monstrous apparition is standing here, fighting a red slime beast.
+<DAWN> Urtas, the Other Half is standing here, fighting a red slime beast. (flying)
+. . . has a ghostly hue.
+A red slime beast is standing here, fighting YOU.
+
+586H 174V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:Good] T:44 Exits:N> 
+bash
+sta
+You try to bash a red slime beast, but you miss and tumble forward onto your face.
+
+586H 174V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:Good] T:41 Exits:N> 
+
+A monstrous apparition bites a red slime beast very hard.
+A red slime beast misses you with its drain.
+You cleave a red slime beast very hard.
+You cleave a red slime beast very hard.
+You cleave a red slime beast hard.
+You cleave a red slime beast hard.
+
+586H 174V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:Fair] T:40 Exits:N> 
+rem shield
+
+You feel ribs crack as you are kicked in the chest by a red slime beast.
+
+570H 174V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:Fair] T:39 Exits:N> 
+hold hatchet
+
+Urtas wheels back and throws their axe at a red slime beast, hitting them squarely. The axe
+returns back to him after impact.
+Urtas cleaves a red slime beast very hard.
+Urtas cleaves a red slime beast hard.
+A monstrous apparition bites a red slime beast hard.
+A red slime beast barely drains YOU.
+A red slime beast misses you with its drain.
+You cleave a red slime beast hard.
+
+565H 174V 1X 62.26% 15829C [Yabba:Good] [a red slime beast:Fair] T:36 Exits:N> 
+
+A red slime beast gives you a solid punch in the face.
+
+539H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Fair] T:33 Exits:N> 
+You stand up.
+
+539H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Fair] T:33 Exits:N> 
+You stop using a leather shield with a crystal boss.
+
+539H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Fair] T:33 Exits:N> 
+Urtas cleaves a red slime beast hard.
+Urtas cleaves a red slime beast extremely hard.
+A monstrous apparition bites a red slime beast very hard.
+A red slime beast misses you with its drain.
+A red slime beast drains YOU.
+You cleave a red slime beast very hard.
+Your hands are too full to hold something else.
+
+532H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Fair] T:32 Exits:N> 
+
+Urtas focuses harshly on a red slime beast and utters some strange words.
+The flesh of a red slime beast begins to decay!
+
+532H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Fair] T:32 Exits:N> 
+l
+Vaulted Red Chamber
+    You enter a very large chamber.  You can see a small hole in the wall
+to the east. However, the room is dominated by a large statue, which
+appears to be that of an enormous dragon.  The statue is contorted as if
+in great pain, frozen forever in time.
+An enourmous stone statue of a dragon dominates the chamber here.
+A monstrous apparition is standing here, fighting a red slime beast.
+<DAWN> Urtas, the Other Half is standing here, fighting a red slime beast. (flying)
+. . . emits an eerie glow.
+A red slime beast is standing here, fighting YOU.
+
+532H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Fair] T:30 Exits:N> 
+punch
+kick high 
+You give a red slime beast a solid punch in the face.
+
+532H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Fair] T:29 Exits:N> 
+You deliver a snap kick and hit a red slime beast in the chest.
+
+532H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Fair] T:29 Exits:N> 
+
+A primal need to kick something washes over you.
+A red slime beast screams as blood pours from its wounds.
+A monstrous apparition bites a red slime beast extremely hard.
+A red slime beast drains YOU hard.
+A red slime beast misses you with its drain.
+You cleave a red slime beast hard.
+
+520H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Fair] T:28 Exits:N> 
+
+A red slime beast corrodes you.
+Urtas is corroded as a red slime beast breathes acid.
+A red slime beast corrodes you.
+
+454H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Fair] T:27 Exits:N> 
+
+A monstrous apparition lunges forward and bites a red slime beast in the throat!
+
+454H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Fair] T:26 Exits:N> 
+
+A red slime beast screams as blood pours from its wounds.
+Urtas wheels back and throws their axe at a red slime beast, hitting them squarely. The axe
+returns back to him after impact.
+Urtas cleaves a red slime beast very hard.
+A monstrous apparition bites a red slime beast very hard.
+A red slime beast misses you with its drain.
+You cleave a red slime beast hard.
+You cleave a red slime beast hard.
+
+454H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Bad] T:24 Exits:N> 
+sunder
+You sunder a red slime beast's armour!
+
+454H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Bad] T:24 Exits:N> 
+
+A red slime beast screams as blood pours from its wounds.
+Urtas cleaves a red slime beast extremely hard.
+Urtas cleaves a red slime beast very hard.
+A red slime beast flesh crawls as Urtas's axe drains it.
+A monstrous apparition bites a red slime beast very hard.
+A red slime beast barely drains YOU.
+You cleave a red slime beast very hard.
+
+449H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Bad] T:20 Exits:N> 
+
+Urtas gives out a wild cry and points a shaking finger at a red slime beast.
+A red slime beast cowers for Urtas's scolding.
+
+449H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Bad] T:20 Exits:N> 
+sunder
+You sunder a red slime beast's armour!
+
+449H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Bad] T:19 Exits:N> 
+
+Your punch hand is ready to lay into someone again.
+A red slime beast screams as blood pours from its wounds.
+Urtas cleaves a red slime beast very hard.
+Urtas cleaves a red slime beast very hard.
+A monstrous apparition bites a red slime beast hard.
+A red slime beast drains YOU hard.
+You cleave a red slime beast very hard.
+
+438H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:V.Bad] T:16 Exits:N> 
+punch
+kick high 
+A red slime beast stops fighting its opponent and turns to Urtas instead.
+You give a red slime beast a solid punch in the face.
+
+438H 174V 1X 62.26% 15829C [Urtas:Good] [a red slime beast:V.Bad] T:15 Exits:N> 
+You deliver a snap kick and hit a red slime beast in the chest.
+The satisfaction of that kick invigorates you, your arms swing freely.
+
+438H 174V 1X 62.26% 15829C [Urtas:Good] [a red slime beast:V.Bad] T:15 Exits:N> 
+
+Urtas wiggles his fingers as he outlines a red slime beast's head in the air.
+
+438H 174V 1X 62.26% 15829C [Urtas:Good] [a red slime beast:V.Bad] T:14 Exits:N> 
+
+A red slime beast screams as blood pours from its wounds.
+A red slime beast staggers about confused!
+A red slime beast misses Urtas with its drain.
+Urtas cleaves a red slime beast very hard.
+Urtas cleaves a red slime beast extremely hard.
+A red slime beast flesh crawls as Urtas's axe drains it.
+A monstrous apparition bites a red slime beast hard.
+You cleave a red slime beast very hard.
+You cleave a red slime beast extremely hard.
+
+438H 174V 1X 62.26% 15829C [Urtas:Good] [a red slime beast:V.Bad] T:12 Exits:N> 
+rescue Urtas
+What a self-sacrificing act! You're such a hero!
+
+438H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:V.Bad] T:11 Exits:N> 
+
+A monstrous apparition lunges forward and bites a red slime beast in the throat!
+
+438H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:V.Bad] T:10 Exits:N> 
+
+Urtas slowly fades into existence.
+Urtas cleaves a red slime beast hard.
+A red slime beast flesh crawls as Urtas's axe drains it.
+
+438H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:V.Bad] T:9 Exits:N> 
+
+A red slime beast corrodes you.
+Urtas is corroded as a red slime beast breathes acid.
+A red slime beast corrodes you.
+
+399H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:V.Bad] T:9 Exits:N> 
+
+A red slime beast screams as blood pours from its wounds.
+A red slime beast staggers about confused!
+Urtas cleaves a red slime beast very hard.
+A red slime beast barely drains YOU.
+You cleave a red slime beast hard.
+A monstrous apparition bites a red slime beast very hard.
+
+394H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Awful] T:8 Exits:N> 
+
+A red slime beast screams as blood pours from its wounds.
+A red slime beast staggers about confused!
+Urtas cleaves a red slime beast very hard.
+A red slime beast misses you with its drain.
+You cleave a red slime beast very hard.
+You cleave a red slime beast very hard.
+A monstrous apparition bites a red slime beast very hard.
+
+394H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Awful] T:4 Exits:N> 
+punch
+kick high 
+Alas, you are not ready yet.
+
+394H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Awful] T:4 Exits:N> 
+Your vicious kick leaves your boots covered with blood and gore.
+
+394H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Awful] T:4 Exits:N> 
+
+A red slime beast corrodes you.
+A monstrous apparition is corroded as a red slime beast breathes acid.
+
+391H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Awful] T:3 Exits:N> 
+
+Urtas focuses on you and utters some strange words.
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+472H 174V 1X 62.26% 15829C [Yabba:Fair] [a red slime beast:Awful] T:1 Exits:N> 
+
+Some of your nastier wounds disappear.
+Your punch hand is ready to lay into someone again.
+You feel the need, the need to assault someone.
+A red slime beast screams as blood pours from its wounds.
+A red slime beast staggers about confused!
+A red slime beast misses you with its drain.
+You cleave a red slime beast very hard.
+A monstrous apparition bites a red slime beast extremely hard.
+A monstrous apparition misses a red slime beast with its bite.
+You throw away your bloody bandages.
+You feel more vigorous.
+
+698H 174V 1X 62.26% 15829C [Yabba:V.Good] [a red slime beast:Awful] T:60 Exits:N> 
+punch
+kick high 
+You give a red slime beast a solid punch in the face.
+
+698H 174V 1X 62.26% 15829C [Yabba:V.Good] [a red slime beast:Awful] T:59 Exits:N> 
+You deliver a snap kick and hit a red slime beast in the chest.
+
+698H 174V 1X 62.26% 15829C [Yabba:V.Good] [a red slime beast:Awful] T:59 Exits:N> 
+
+A red slime beast corrodes you.
+A monstrous apparition avoids a red slime beast's acid breath.
+Urtas avoids a red slime beast's acid breath.
+A red slime beast corrodes you.
+
+687H 174V 1X 62.26% 15829C [Yabba:V.Good] [a red slime beast:Awful] T:57 Exits:N> 
+
+Some of your nastier wounds disappear.
+A red slime beast screams as blood pours from its wounds.
+A red slime beast staggers about confused!
+Urtas cleaves a red slime beast hard.
+A red slime beast misses you with its drain.
+You cleave a red slime beast very hard.
+You cleave a red slime beast hard.
+A monstrous apparition bites a red slime beast extremely hard.
+A monstrous apparition bites a red slime beast very hard.
+
+740H 174V 1X 62.26% 15829C [Yabba:Perfect] [a red slime beast:Awful] T:56 Exits:N> 
+sunder
+You sunder a red slime beast's armour!
+
+740H 174V 1X 62.26% 15829C [Yabba:Perfect] [a red slime beast:Awful] T:54 Exits:N> 
+
+Some of your nastier wounds disappear.
+A red slime beast staggers about confused!
+Urtas cleaves a red slime beast hard.
+A red slime beast misses you with its drain.
+You cleave a red slime beast hard.
+You cleave a red slime beast very hard.
+A monstrous apparition bites a red slime beast extremely hard.
+A red slime beast is mortally wounded, and will die soon, if not aided.
+
+740H 174V 1X 62.26% 15829C [a red slime beast:Awful] T:52 Exits:N> 
+punch
+kick high 
+
+A monstrous apparition lunges forward and bites a red slime beast in the throat!
+get pile corpse
+You receive 0 experience.
+exa corpse
+A red slime beast is dead! R.I.P.
+The death cry of a red slime beast echoes from somewhere nearby...
+
+740H 174V 1X 62.68% 15829C T:50 Exits:N> 
+
+Urtas gets a large pile of coins from the corpse of a red slime beast.
+
+740H 174V 1X 62.68% 15829C T:50 Exits:N> 
+Alas, you are not ready yet.
+
+740H 174V 1X 62.68% 15829C T:50 Exits:N> 
+You need to kick someone.
+Urtas divides 582 coins equally among the group members present.
+
+740H 174V 1X 62.68% 16120C T:50 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+740H 174V 1X 62.68% 16120C T:49 Exits:N> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+740H 174V 1X 62.68% 16120C T:49 Exits:N> 
+
+Some of your nastier wounds disappear.
+
+740H 174V 1X 62.68% 16120C T:48 Exits:N> 
+l
+Vaulted Red Chamber
+    You enter a very large chamber.  You can see a small hole in the wall
+to the east. However, the room is dominated by a large statue, which
+appears to be that of an enormous dragon.  The statue is contorted as if
+in great pain, frozen forever in time.
+The corpse of a red slime beast is lying here.
+An enourmous stone statue of a dragon dominates the chamber here.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here. (flying) (invisible)
+. . . emits an eerie glow.
+
+740H 174V 1X 62.68% 16120C T:48 Exits:N> 
+re
+You rest your tired bones but stay aloft.
+
+740H 174V 1X 62.68% 16120C T:47 Exits:N> 
+
+Urtas begins resting but stays aloft.
+
+740H 174V 1X 62.68% 16120C T:47 Exits:N> 
+
+Your punch hand is ready to lay into someone again.
+Some of your nastier wounds disappear.
+
+740H 174V 1X 62.68% 16120C T:44 Exits:N> 
+
+Urtas applies bandages to his wounds.
+
+740H 174V 1X 62.68% 16120C T:43 Exits:N> 
+
+Some of your nastier wounds disappear.
+A primal need to kick something washes over you.
+
+740H 174V 1X 62.68% 16120C T:40 Exits:N> 
+
+Some of your nastier wounds disappear.
+
+740H 174V 1X 62.68% 16120C T:36 Exits:N> 
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+
+740H 174V 1X 62.68% 16120C T:32 Exits:N> 
+l
+Vaulted Red Chamber
+    You enter a very large chamber.  You can see a small hole in the wall
+to the east. However, the room is dominated by a large statue, which
+appears to be that of an enormous dragon.  The statue is contorted as if
+in great pain, frozen forever in time.
+The corpse of a red slime beast is lying here.
+An enourmous stone statue of a dragon dominates the chamber here.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is resting here. (flying) (invisible)
+. . . emits an eerie glow.
+
+740H 174V 1X 62.68% 16120C T:14 Exits:N> 
+l e
+There appears to be a downwards sloping tunnel to the east.
+
+740H 174V 1X 62.68% 16120C T:11 Exits:N> 
+
+You are no longer resistant to negative energy.
+The protective presence around you fades.
+
+740H 174V 1X 62.68% 16120C T:60 Exits:N> 
+
+Urtas stands up.
+
+740H 174V 1X 62.68% 16120C T:58 Exits:N> 
+
+Urtas utters some strange words.
+
+740H 174V 1X 62.68% 16120C T:56 Exits:N> 
+
+Urtas utters some strange words.
+
+740H 174V 1X 62.68% 16120C T:52 Exits:N> 
+
+Urtas utters some strange words.
+Urtas lets out a mighty scream.
+
+740H 174V 1X 62.68% 16120C T:48 Exits:N> 
+
+Urtas begins resting but stays aloft.
+
+740H 174V 1X 62.68% 16120C T:43 Exits:N> 
+l
+Vaulted Red Chamber
+    You enter a very large chamber.  You can see a small hole in the wall
+to the east. However, the room is dominated by a large statue, which
+appears to be that of an enormous dragon.  The statue is contorted as if
+in great pain, frozen forever in time.
+The corpse of a red slime beast is lying here.
+An enourmous stone statue of a dragon dominates the chamber here.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is resting here. (flying) (invisible)
+. . . emits an eerie glow.
+
+740H 174V 1X 62.68% 16120C T:27 Exits:N> 
+scan
+Looking north:
+You see nothing special.
+Looking east:
+There appears to be a downwards sloping tunnel to the east.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+740H 174V 1X 62.68% 16120C T:25 Exits:N> 
+ex
+Obvious exits:
+North - Too dark to tell
+
+740H 174V 1X 62.68% 16120C T:23 Exits:N> 
+
+Your clanmate Vidalia has entered the game.
+
+740H 174V 1X 62.68% 16120C T:12 Exits:N> 
+
+Your clanmate Natchez has entered the game.
+
+740H 174V 1X 62.68% 16120C T:9 Exits:N> 
+l
+Vaulted Red Chamber
+    You enter a very large chamber.  You can see a small hole in the wall
+to the east. However, the room is dominated by a large statue, which
+appears to be that of an enormous dragon.  The statue is contorted as if
+in great pain, frozen forever in time.
+The corpse of a red slime beast is lying here.
+An enourmous stone statue of a dragon dominates the chamber here.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is resting here. (flying) (invisible)
+. . . emits an eerie glow.
+
+740H 174V 1X 62.68% 16120C T:5 Exits:N> 
+gro
+Your group of 2 members consists of:
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  WA Yabba            perfect   rested    resting    Y   N    Y    Y   Y     1    0
+  SH Urtas            perfect   rested    resting    Y   Y    Y    Y   Y     4    1
+
+740H 174V 1X 62.68% 16120C T:5 Exits:N> 
+
+Urtas smiles as he finishes his meditation.
+
+740H 174V 1X 62.68% 16120C T:60 Exits:N> 
+sta
+You stand up.
+
+740H 174V 1X 62.68% 16120C T:58 Exits:N> 
+
+Urtas stands up.
+
+740H 174V 1X 62.68% 16120C T:57 Exits:N> 
+e
+A monstrous apparition lifts its arms towards the sky and gracefully floats upward.
+Dark Tunnel Downwards
+    You can see a faint light approaching from the bottom of the tunnel.
+There is a blast of heat as you pass what appears to be a vent then
+continue on down the tunnel.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here. (flying) (invisible)
+. . . emits an eerie glow.
+
+740H 173V 1X 62.68% 16120C T:57 Exits:D> 
+
+Your clanmate Azura has entered the game.
+
+740H 173V 1X 62.68% 16120C T:49 Exits:D> 
+d
+Downward Fall
+    The fall continues as you approach the bottom you can see a bright
+light approaching.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here. (flying) (invisible)
+. . . emits an eerie glow.
+
+740H 172V 1X 62.68% 16120C T:22 Exits:UD> 
+d
+Base of the Shaft
+    You stand within a large chamber.  The pourous floor allows a small
+amount of change which has fallen from your pocket to rattle down between
+the several cracks.  You can see a very thin doorway in the cavern wall to
+the east.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here. (flying) (invisible)
+. . . emits an eerie glow.
+
+740H 171V 1X 62.68% 16120C T:21 Exits:(E)U> 
+op door
+Ok.
+
+740H 171V 1X 62.68% 16120C T:11 Exits:EU> 
+e
+Underground Retreat
+    The cluttered surroundings of the mages retreat lie around you. Arcane
+and ancient magics were used to construct this bastion. The magic warped
+stone and formed a cavern suitable to fend off any attacks. The walls of
+pure granite shelter the retreat from both the stormy waters of the Blood
+Sea just above them and from the intense heat of the mid-world. You can see
+a mages personal effects lying scattered around the room.
+You see a large mirror hanging upon the wall.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here. (flying) (invisible)
+. . . emits an eerie glow.
+
+740H 169V 1X 62.68% 16120C T:10 Exits:EW> 
+e
+Underground Retreat
+    The cluttered surroundings of the mages retreat lie around you.  Arcane
+and ancient magics were used to construct this bastion of magic, warping stone
+formed a cavern suitable to fend off any attacks.  The walls of pure granite
+shelter the retreat from both the stormy waters of the Blood Sea just above
+them and from the intense heat of the mid-world.  You can see a mages
+personal affects lying scattered around the room.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here. (flying) (invisible)
+. . . has a ghostly hue.
+
+740H 167V 1X 62.68% 16120C T:2 Exits:EW> 
+
+Urtas utters some strange words.
+A monstrous apparition shudders slightly and begins to wither from within.
+Urtas shudders slightly and begins to wither from within.
+You shudder slightly and begin to wither from within.
+
+740H 174V 1X 62.68% 16120C T:48 Exits:EW> 
+e alo
+Underground Foyer
+    You stand in what appears to be a very ancient, and also very abandoned
+chamber. You can see the fine craftsmanship of the magic hewn walls here.
+There is the feel of magic in the air, powerful but latent. There are
+statues around the chamber, a few of which depict ghouls and goblins in
+frightening poses. There is even a statue of a humanoid warrior braced as
+if in defense of the chamber.
+You see a small pale skinned demon standing here, fangs barred.
+A pale faced demon tries to sweep your legs, but you avoid the attack.
+
+740H 172V 1X 62.68% 16120C [Yabba:Perfect] [a pale faced demon:Perfect] T:45 Exits:W> 
+
+The ghostly hue vanishes from your flesh.
+A pale faced demon misses you with her drain.
+You cleave a pale faced demon extremely hard.
+
+740H 172V 1X 62.68% 16120C [Yabba:Perfect] [a pale faced demon:V.Good] T:44 Exits:W> 
+
+Urtas flies in from the west.
+
+740H 172V 1X 62.68% 16120C [Yabba:Perfect] [a pale faced demon:V.Good] T:44 Exits:W> 
+
+Urtas slowly fades into existence.
+Urtas cleaves a pale faced demon extremely hard.
+
+740H 172V 1X 62.68% 16120C [Yabba:Perfect] [a pale faced demon:V.Good] T:43 Exits:W> 
+l
+Underground Foyer
+    You stand in what appears to be a very ancient, and also very abandoned
+chamber. You can see the fine craftsmanship of the magic hewn walls here.
+There is the feel of magic in the air, powerful but latent. There are
+statues around the chamber, a few of which depict ghouls and goblins in
+frightening poses. There is even a statue of a humanoid warrior braced as
+if in defense of the chamber.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here, fighting a pale faced demon. (flying)
+. . . has a ghostly hue.
+A pale faced demon is standing here, fighting YOU.
+
+740H 172V 1X 62.68% 16120C [Yabba:Perfect] [a pale faced demon:V.Good] T:41 Exits:W> 
+
+Urtas cleaves a pale faced demon extremely hard.
+A pale faced demon misses you with her drain.
+You massacre a pale faced demon with your cleave.
+
+740H 172V 1X 62.68% 16120C [Yabba:Perfect] [a pale faced demon:Good] T:40 Exits:W> 
+
+You feel less energetic as a pale faced demon drains you.
+Your vitality slowly slips away.
+Urtas lets out a mighty yell and fights like crazy!
+
+688H 172V 1X 62.68% 16120C [Yabba:V.Good] [a pale faced demon:V.Good] T:38 Exits:W> 
+rem hatchet
+You are not wearing anything with that description.
+
+688H 172V 1X 62.68% 16120C [Yabba:V.Good] [a pale faced demon:V.Good] T:37 Exits:W> 
+
+Urtas massacres a pale faced demon with his cleave.
+Urtas massacres a pale faced demon with his cleave.
+A pale faced demon misses you with her drain.
+You cleave a pale faced demon extremely hard.
+You massacre a pale faced demon with your cleave.
+
+688H 172V 1X 62.68% 16120C [Yabba:V.Good] [a pale faced demon:Fair] T:36 Exits:W> 
+wea shield
+You start using a leather shield with a crystal boss.
+
+688H 172V 1X 62.68% 16120C [Yabba:V.Good] [a pale faced demon:Fair] T:35 Exits:W> 
+l
+
+Urtas issues the order 'assist Yabba'.
+A monstrous apparition massacres a pale faced demon with its bite.
+
+688H 172V 1X 62.68% 16120C [Yabba:V.Good] [a pale faced demon:Fair] T:34 Exits:W> 
+
+A monstrous apparition massacres a pale faced demon with its bite.
+Urtas massacres a pale faced demon with his cleave.
+Urtas annihilates a pale faced demon with his cleave.
+You deflect part of a pale faced demon's blow with your shield.
+A pale faced demon drains YOU.
+You massacre a pale faced demon with your cleave.
+
+681H 172V 1X 62.68% 16120C [Yabba:V.Good] [a pale faced demon:Bad] T:32 Exits:W> 
+
+A pale faced demon looks bloodthirsty.
+You feel less energetic as a pale faced demon drains you.
+
+629H 172V 1X 62.68% 16120C [Yabba:Good] [a pale faced demon:Fair] T:32 Exits:W> 
+bash
+
+A monstrous apparition massacres a pale faced demon with its bite.
+Urtas massacres a pale faced demon with his cleave.
+Urtas massacres a pale faced demon with his cleave.
+A pale faced demon misses you with her drain.
+You massacre a pale faced demon with your cleave.
+
+629H 172V 1X 62.68% 16120C [Yabba:Good] [a pale faced demon:V.Bad] T:28 Exits:W> 
+
+Urtas gives out a wild cry and points a shaking finger at a pale faced demon.
+
+629H 172V 1X 62.68% 16120C [Yabba:Good] [a pale faced demon:V.Bad] T:28 Exits:W> 
+Underground Foyer
+    You stand in what appears to be a very ancient, and also very abandoned
+chamber. You can see the fine craftsmanship of the magic hewn walls here.
+There is the feel of magic in the air, powerful but latent. There are
+statues around the chamber, a few of which depict ghouls and goblins in
+frightening poses. There is even a statue of a humanoid warrior braced as
+if in defense of the chamber.
+A monstrous apparition is standing here, fighting a pale faced demon.
+<DAWN> Urtas, the Other Half is standing here, fighting a pale faced demon. (flying)
+. . . has a ghostly hue.
+A pale faced demon is standing here, fighting YOU.
+
+629H 172V 1X 62.68% 16120C [Yabba:Good] [a pale faced demon:V.Bad] T:28 Exits:W> 
+sta
+You try to bash a pale faced demon, but you miss and tumble forward onto your face.
+
+629H 172V 1X 62.68% 16120C [Yabba:Good] [a pale faced demon:V.Bad] T:27 Exits:W> 
+
+A monstrous apparition lunges forward and bites a pale faced demon in the throat!
+A pale faced demon appears to grow stronger.
+
+629H 172V 1X 62.68% 16120C [Yabba:Good] [a pale faced demon:V.Bad] T:27 Exits:W> 
+
+A monstrous apparition massacres a pale faced demon with its bite.
+Urtas massacres a pale faced demon with his cleave.
+Urtas's mighty cleave almost cuts a pale faced demon in two.
+Urtas massacres a pale faced demon with his cleave.
+A pale faced demon misses you with her drain.
+You cleave a pale faced demon extremely hard.
+
+629H 172V 1X 62.68% 16120C [Yabba:Good] [a pale faced demon:Awful] T:24 Exits:W> 
+sco
+punch
+kick high 
+
+A monstrous apparition massacres a pale faced demon with its bite.
+get pile corpse
+You receive 0 experience.
+exa corpse
+A pale faced demon is dead! R.I.P.
+The death cry of a pale faced demon echoes from somewhere nearby...
+
+629H 172V 1X 62.68% 16120C T:20 Exits:W> 
+
+Urtas gets a large pile of coins from the corpse of a pale faced demon.
+
+629H 172V 1X 62.68% 16120C T:20 Exits:W> 
+
+Urtas divides 134 coins equally among the group members present.
+
+629H 172V 1X 62.68% 16187C T:20 Exits:W> 
+You stand up.
+
+629H 172V 1X 62.68% 16187C T:19 Exits:W> 
+You are Yabba the Male Half Ogre, a level 30 Legendary Warrior.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 33. You have completed 62.68% of your next rank.
+You are 21 years old.
+You have 629(740) hit and 172(174) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 16187(312040) steel coins.
+You have 2 rank points to spend.
+You have died 31 horrible deaths.
+You have been connected for 36 minute(s).
+You have been playing for 10 day(s), 6 hour(s) and 15 minute(s).
+Your natural ability scores are:
+    Str: 23 Int: 15 Wis: 15 Dex: 16 Con: 20 Cha: 17
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are affected by the following:
+    reinforced shield (poor)
+    energy drain
+    resist negative energy
+    resist gas
+    resist breath
+    detect invisibility
+    ancestral shroud
+
+629H 172V 1X 62.68% 16187C T:19 Exits:W> 
+You couldn't find what you were looking for.
+
+629H 172V 1X 62.68% 16187C T:19 Exits:W> 
+You need to kick someone.
+
+629H 172V 1X 62.68% 16187C T:18 Exits:W> 
+The corpse doesn't seem to have what you are looking for.
+
+629H 172V 1X 62.68% 16187C T:18 Exits:W> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+629H 172V 1X 62.68% 16187C T:18 Exits:W> 
+l
+Underground Foyer
+    You stand in what appears to be a very ancient, and also very abandoned
+chamber. You can see the fine craftsmanship of the magic hewn walls here.
+There is the feel of magic in the air, powerful but latent. There are
+statues around the chamber, a few of which depict ghouls and goblins in
+frightening poses. There is even a statue of a humanoid warrior braced as
+if in defense of the chamber.
+The corpse of a pale faced demon is lying here.
+The translucent outline of a hideous monster floats here.
+<DAWN> Urtas, the Other Half is standing here. (flying) (invisible)
+. . . emits an eerie glow.
+
+629H 172V 1X 62.68% 16187C T:15 Exits:W> 
+
+Urtas utters some strange words.
+Urtas's skin takes a ghostly hue.
+
+629H 172V 1X 62.68% 16187C T:11 Exits:W> 
+
+Urtas focuses on you and utters some strange words.
+Your skin takes a ghostly hue.
+
+629H 172V 1X 62.68% 16187C T:7 Exits:W> 
+
+You feel more vigorous.
+
+689H 174V 1X 62.68% 16187C T:60 Exits:W> 
+op door
+Ok.
+
+689H 174V 1X 62.68% 16187C T:42 Exits:NW> 
+scan
+Looking north:
+You see nothing special.
+The door is open.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+689H 174V 1X 62.68% 16187C T:41 Exits:NW> 
+sco
+You are Yabba the Male Half Ogre, a level 30 Legendary Warrior.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 33. You have completed 62.68% of your next rank.
+You are 21 years old.
+You have 689(740) hit and 174(174) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 16187(312040) steel coins.
+You have 2 rank points to spend.
+You have died 31 horrible deaths.
+You have been connected for 36 minute(s).
+You have been playing for 10 day(s), 6 hour(s) and 16 minute(s).
+Your natural ability scores are:
+    Str: 23 Int: 15 Wis: 15 Dex: 16 Con: 20 Cha: 17
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are affected by the following:
+    ghostskin
+    energy drain
+    resist negative energy
+    resist gas
+    resist breath
+    detect invisibility
+    ancestral shroud
+
+689H 174V 1X 62.68% 16187C T:40 Exits:NW> 
+
+Urtas utters some strange words.
+Your heart starts beating faster.
+
+689H 174V 1X 62.68% 16187C T:34 Exits:NW> 
+
+Urtas utters some strange words.
+
+689H 174V 1X 62.68% 16187C T:24 Exits:NW> 
+
+Urtas begins resting but stays aloft.
+
+689H 174V 1X 62.68% 16187C T:19 Exits:NW> 
+
+Urtas smiles as he finishes his meditation.
+You feel more vigorous.
+
+764H 174V 1X 62.68% 16187C T:60 Exits:NW> 
+
+Urtas stands up.
+
+764H 174V 1X 62.68% 16187C T:59 Exits:NW> 
+
+Urtas utters some strange words.
+Urtas is surrounded by swirling shadows.
+
+764H 174V 1X 62.68% 16187C T:58 Exits:NW> 
+
+Urtas utters some strange words.
+
+764H 174V 1X 62.68% 16187C T:53 Exits:NW> 
+
+Urtas utters some strange words.
+A monstrous apparition shudders slightly and begins to shine from within.
+Urtas shudders slightly and begins to shine from within.
+You shudder slightly and begin to shine from within.
+
+764H 174V 1X 62.68% 16187C T:41 Exits:NW> 
+
+Urtas falls into a trance and begins moaning.
+
+764H 174V 1X 62.68% 16187C T:37 Exits:NW> 
+
+Urtas focuses on you and utters some strange words.
+You feel a very slight tingling sensation.
+Your wounds begin to heal.
+
+764H 174V 1X 62.68% 16187C T:31 Exits:NW> 
+n alo
+Dark Laboratory
+    Spacious living and working quarters are here for Sarson, the renegade
+arch-magus to do his macabre work.  There are several vials around the room
+in which recognizable body parts can be seen.  In one corner there is a
+summoning circle while in the other a small cot stands ready for an evening
+nap.
+You see a small pale skinned demon standing here, fangs barred.
+You see a small pale skinned demon standing here, fangs barred.
+You see a young man standing here wearing a purple cloth robe chanting magic!
+A pale faced demon misses you with her drain.
+A pale faced demon bares a sharp set of fangs.
+A pale faced demon tries to sweep your legs, but you avoid the attack.
+Sarson, the renegade magic user focuses harshly on you and utters some strange words.
+You are caught in some of Sarson, the renegade magic user's acid!
+Sarson, the renegade magic user drains YOU very hard.
+
+718H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Perfect] T:30 Exits:S> 
+
+Some of your nastier wounds disappear.
+Sarson, the renegade magic user drains YOU very hard.
+Sarson, the renegade magic user misses you with his drain.
+A pale faced demon drains YOU hard.
+A pale faced demon misses you with her drain.
+Your mighty cleave almost cuts a pale faced demon in two!
+You massacre a pale faced demon with your cleave.
+You cleave a pale faced demon extremely hard.
+Sensing danger, you prepare as best you can.
+You dodge out of the way of a pale faced demon's mistargeted kick.
+
+714H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Good] T:28 Exits:S> 
+bash
+You crash into a pale faced demon in a bone crunching bash, sending her sprawling to the ground.
+
+714H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Fair] T:28 Exits:S> 
+
+Urtas flies in from the south.
+
+714H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Fair] T:26 Exits:S> 
+
+Some of your nastier wounds disappear.
+Sarson, the renegade magic user drains YOU extremely hard.
+Sarson, the renegade magic user misses you with his drain.
+A pale faced demon misses you with her drain.
+You deflect part of a pale faced demon's blow with your shield.
+A pale faced demon's blow is absorbed by your armor.
+You annihilate a pale faced demon with your cleave.
+
+743H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Fair] T:24 Exits:S> 
+
+Urtas utters some strange words.
+An ancestral spirit materializes.
+
+743H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Fair] T:24 Exits:S> 
+
+Some of your nastier wounds disappear.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user drains YOU extremely hard.
+A pale faced demon misses you with her drain.
+A pale faced demon misses you with her drain.
+You massacre a pale faced demon with your cleave.
+
+745H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Fair] T:20 Exits:S> 
+
+Urtas issues the order 'assist yabba'.
+A monstrous apparition massacres a pale faced demon with its bite.
+
+745H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Fair] T:20 Exits:S> 
+
+Urtas slowly fades into existence.
+Urtas massacres a pale faced demon with his cleave.
+
+745H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Bad] T:20 Exits:S> 
+
+A pale faced demon bares a sharp set of fangs.
+You feel less energetic as a pale faced demon drains you.
+
+690H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Bad] T:19 Exits:S> 
+l
+Dark Laboratory
+    Spacious living and working quarters are here for Sarson, the renegade
+arch-magus to do his macabre work.  There are several vials around the room
+in which recognizable body parts can be seen.  In one corner there is a
+summoning circle while in the other a small cot stands ready for an evening
+nap.
+An ancestral half ogre spirit is floating here.
+A monstrous apparition is standing here, fighting a pale faced demon.
+<DAWN> Urtas, the Other Half is standing here, fighting a pale faced demon. (flying)
+. . . emits an eerie glow.
+A pale faced demon is sitting here, fighting YOU.
+A pale faced demon is standing here, fighting YOU.
+Sarson, the renegade magic user is standing here, fighting YOU.
+
+690H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Bad] T:18 Exits:S> 
+
+Some of your nastier wounds disappear.
+Urtas annihilates a pale faced demon with his cleave.
+Urtas massacres a pale faced demon with his cleave.
+A monstrous apparition massacres a pale faced demon with its bite.
+Sarson, the renegade magic user drains YOU extremely hard.
+Sarson, the renegade magic user misses you with his drain.
+A pale faced demon misses you with her drain.
+You deflect part of a pale faced demon's blow with your shield.
+A pale faced demon bruises YOU with her drain.
+You annihilate a pale faced demon with your cleave.
+An ancestral spirit massacres a pale faced demon with his hit.
+
+745H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Awful] T:16 Exits:S> 
+warcr
+You give out a mighty war cry!
+
+745H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Awful] T:16 Exits:S> 
+
+Urtas utters some strange words.
+Your skin begins to tingle as a rejuvenating wave of magic washes over you.
+
+745H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Awful] T:14 Exits:S> 
+
+You feel less energetic as a pale faced demon drains you.
+
+721H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Awful] T:13 Exits:S> 
+
+A pale faced demon looks bloodthirsty.
+You feel less energetic as a pale faced demon drains you.
+
+669H 172V 1X 62.68% 16187C [Yabba:Good] [a pale faced demon:V.Bad] T:13 Exits:S> 
+l
+
+Your body tingles slightly.
+Some of your nastier wounds disappear.
+An ancestral spirit hits a pale faced demon extremely hard.
+A monstrous apparition massacres a pale faced demon with its bite.
+A monstrous apparition annihilates a pale faced demon with its bite.
+Sarson, the renegade magic user drains YOU very hard.
+Sarson, the renegade magic user misses you with his drain.
+A pale faced demon misses you with her drain.
+A pale faced demon misses you with her drain.
+You annihilate a pale faced demon with your cleave.
+
+750H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Awful] T:12 Exits:S> 
+Dark Laboratory
+    Spacious living and working quarters are here for Sarson, the renegade
+arch-magus to do his macabre work.  There are several vials around the room
+in which recognizable body parts can be seen.  In one corner there is a
+summoning circle while in the other a small cot stands ready for an evening
+nap.
+An ancestral spirit is standing here, fighting a pale faced demon.
+A monstrous apparition is standing here, fighting a pale faced demon.
+<DAWN> Urtas, the Other Half is standing here, fighting a pale faced demon. (flying)
+. . . emits an eerie glow.
+A pale faced demon is sitting here, fighting YOU.
+A pale faced demon is standing here, fighting YOU.
+Sarson, the renegade magic user is standing here, fighting YOU.
+
+750H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:Awful] T:11 Exits:S> 
+punch
+kick high 
+You give a pale faced demon a solid punch in the face.
+A pale faced demon's head cracks open and she drops to the ground.
+get pile corpse
+You receive 0 experience.
+exa corpse
+A pale faced demon is dead! R.I.P.
+
+750H 172V 1X 62.68% 16187C [a pale faced demon:Dying] T:11 Exits:S> 
+The death cry of a pale faced demon echoes from somewhere nearby...
+A pale faced demon stops following Sarson, the renegade magic user.
+You direct your attention to a pale faced demon.
+You deliver a snap kick and hit a pale faced demon in the chest.
+The satisfaction of that kick invigorates you, your arms swing freely.
+
+750H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:V.Good] T:11 Exits:S> 
+
+Urtas gets a large pile of coins from the corpse of a pale faced demon.
+
+750H 172V 1X 62.68% 16187C [Yabba:V.Good] [a pale faced demon:V.Good] T:10 Exits:S> 
+
+Urtas divides 142 coins equally among the group members present.
+
+750H 172V 1X 62.68% 16258C [Yabba:V.Good] [a pale faced demon:V.Good] T:9 Exits:S> 
+
+Your body tingles slightly.
+Some of your nastier wounds disappear.
+You cleave a pale faced demon extremely hard.
+You cleave a pale faced demon extremely hard.
+Sarson, the renegade magic user drains YOU very hard.
+Sarson, the renegade magic user drains YOU very hard.
+A pale faced demon misses you with her drain.
+
+732H 172V 1X 62.68% 16258C [Yabba:V.Good] [a pale faced demon:Good] T:8 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+732H 172V 1X 62.68% 16258C [Yabba:V.Good] [a pale faced demon:Good] T:6 Exits:S> 
+
+Urtas issues the order 'assist yabba'.
+A monstrous apparition bites a pale faced demon extremely hard.
+
+732H 172V 1X 62.68% 16258C [Yabba:V.Good] [a pale faced demon:Good] T:6 Exits:S> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+732H 172V 1X 62.68% 16258C [Yabba:V.Good] [a pale faced demon:Good] T:6 Exits:S> 
+
+Urtas slowly fades into existence.
+Urtas massacres a pale faced demon with his cleave.
+
+732H 172V 1X 62.68% 16258C [Yabba:V.Good] [a pale faced demon:Good] T:5 Exits:S> 
+bash
+Your body tingles slightly.
+Some of your nastier wounds disappear.
+Urtas cleaves a pale faced demon extremely hard.
+A monstrous apparition massacres a pale faced demon with its bite.
+You cleave a pale faced demon extremely hard.
+You cleave a pale faced demon extremely hard.
+Sarson, the renegade magic user drains YOU hard.
+Sarson, the renegade magic user drains YOU very hard.
+A pale faced demon misses you with her drain.
+An ancestral spirit misses a pale faced demon with his hit.
+You crash into a pale faced demon in a bone crunching bash, sending her sprawling to the ground.
+
+740H 172V 1X 62.68% 16258C [Yabba:V.Good] [a pale faced demon:Bad] T:4 Exits:S> 
+
+Your body tingles slightly.
+Some of your nastier wounds disappear.
+An ancestral spirit massacres a pale faced demon with his hit.
+Urtas annihilates a pale faced demon with his cleave.
+Urtas annihilates a pale faced demon with his cleave.
+A monstrous apparition annihilates a pale faced demon with its bite.
+You massacre a pale faced demon with your cleave.
+You massacre a pale faced demon with your cleave.
+A pale faced demon is mortally wounded, and will die soon, if not aided.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+Your punch hand is ready to lay into someone again.
+Your wounds stop healing.
+
+764H 174V 1X 62.68% 16258C [a pale faced demon:Dying] T:60 Exits:S> 
+l sarson
+
+A monstrous apparition lunges forward and bites a pale faced demon in the throat!
+A pale faced demon appears to grow stronger.
+A pale faced demon is mortally wounded, and will die soon, if not aided.
+
+764H 174V 1X 62.68% 16258C [a pale faced demon:Dying] T:58 Exits:S> 
+
+An ancestral spirit obliterates a pale faced demon with his hit.
+get pile corpse
+You receive 0 experience.
+exa corpse
+A pale faced demon is dead! R.I.P.
+Sarson, the renegade magic user massacres YOU with his drain.
+Sarson, the renegade magic user drains YOU extremely hard.
+The death cry of a pale faced demon echoes from somewhere nearby...
+A pale faced demon stops following Sarson, the renegade magic user.
+You direct your attention to Sarson, the renegade magic user.
+
+721H 174V 1X 62.68% 16258C [Yabba:V.Good] [Sarson, the renegade magic user:Perfect] T:56 Exits:S> 
+You see a magic user unconstrained by the conclave of mages.  His magic is
+of his own device.  You can see him as he eyes the threat which you offer him.
+Sarson, the renegade magic user is in an excellent condition.
+
+Sarson, the renegade magic user is using:
+<worn about body>          a deep purple cloth robe
+
+721H 174V 1X 62.68% 16258C [Yabba:V.Good] [Sarson, the renegade magic user:Perfect] T:56 Exits:S> 
+
+Urtas gets a large pile of coins from the corpse of a pale faced demon.
+
+721H 174V 1X 62.68% 16258C [Yabba:V.Good] [Sarson, the renegade magic user:Perfect] T:56 Exits:S> 
+The corpse doesn't seem to have what you are looking for.
+
+721H 174V 1X 62.68% 16258C [Yabba:V.Good] [Sarson, the renegade magic user:Perfect] T:56 Exits:S> 
+Sarson, the renegade magic user utters some strange words.
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+Urtas divides 140 coins equally among the group members present.
+
+721H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Perfect] T:56 Exits:S> 
+
+Urtas issues the order 'assist yabba'.
+A monstrous apparition bites Sarson, the renegade magic user very hard.
+
+721H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Good] T:55 Exits:S> 
+
+Urtas slowly fades into existence.
+Urtas cleaves Sarson, the renegade magic user hard.
+
+721H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Good] T:54 Exits:S> 
+l
+Dark Laboratory
+    Spacious living and working quarters are here for Sarson, the renegade
+arch-magus to do his macabre work.  There are several vials around the room
+in which recognizable body parts can be seen.  In one corner there is a
+summoning circle while in the other a small cot stands ready for an evening
+nap.
+The corpse of a pale faced demon is lying here. [2]
+An ancestral half ogre spirit is floating here.
+A monstrous apparition is standing here, fighting Sarson, the renegade magic user.
+<DAWN> Urtas, the Other Half is standing here, fighting Sarson, the renegade magic user. (flying)
+. . . enveloped in shadows.
+Sarson, the renegade magic user is standing here, fighting YOU.
+
+721H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Good] T:53 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user very hard.
+A monstrous apparition bites Sarson, the renegade magic user very hard.
+A monstrous apparition bites Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+You deflect part of Sarson, the renegade magic user's blow with your shield.
+Sarson, the renegade magic user drains YOU hard.
+You deflect part of Sarson, the renegade magic user's blow with your shield.
+Sarson, the renegade magic user drains YOU very hard.
+An ancestral spirit hits Sarson, the renegade magic user.
+
+696H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Good] T:52 Exits:S> 
+bash
+sta
+You try to bash Sarson, the renegade magic user, but you miss and tumble forward onto your face.
+
+696H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Good] T:52 Exits:S> 
+rem shield
+
+Sarson, the renegade magic user utters some strange words.
+Sarson, the renegade magic user's skin turns grey and granite-like.
+
+696H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Good] T:50 Exits:S> 
+
+An ancestral spirit hits Sarson, the renegade magic user hard.
+Urtas bruises Sarson, the renegade magic user with his cleave.
+A monstrous apparition bruises Sarson, the renegade magic user with its bite.
+You bruise Sarson, the renegade magic user with your cleave.
+Sarson, the renegade magic user massacres YOU with his drain.
+Sarson, the renegade magic user misses you with his drain.
+
+666H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:48 Exits:S> 
+hold hatchet
+
+Urtas wiggles his fingers as he outlines Sarson, the renegade magic user's head in the air.
+
+666H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:47 Exits:S> 
+
+An ancestral spirit hits Sarson, the renegade magic user very hard.
+Urtas misses Sarson, the renegade magic user with his cleave.
+A monstrous apparition bruises Sarson, the renegade magic user with its bite.
+You bruise Sarson, the renegade magic user with your cleave.
+Sarson, the renegade magic user drains YOU extremely hard.
+Sarson, the renegade magic user misses you with his drain.
+
+648H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:44 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+Sarson, the renegade magic user smiles as the air around him is set ablaze.
+
+648H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:44 Exits:S> 
+You stand up.
+
+648H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:43 Exits:S> 
+You stop using a leather shield with a crystal boss.
+
+648H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:43 Exits:S> 
+Your hands are too full to hold something else.
+
+648H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:43 Exits:S> 
+
+Urtas screams wildly and cusses at Sarson, the renegade magic user.
+Sarson, the renegade magic user briefly reveals a red aura!
+Sarson, the renegade magic user groans and stumbles back.
+
+648H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:42 Exits:S> 
+
+An ancestral spirit hits Sarson, the renegade magic user.
+An ancestral spirit appears to grow stronger.
+Sarson, the renegade magic user's fireshield does him little good as an ancestral spirit takes a swing at him.
+Urtas bruises Sarson, the renegade magic user with his cleave.
+Urtas appears to grow stronger.
+Sarson, the renegade magic user's fireshield does him little good as Urtas takes a swing at him.
+Urtas bruises Sarson, the renegade magic user with his cleave.
+Urtas appears to grow stronger.
+Sarson, the renegade magic user's fireshield does him little good as Urtas takes a swing at him.
+A monstrous apparition bites Sarson, the renegade magic user very hard.
+A monstrous apparition is burned, as it swings at Sarson, the renegade magic user.
+You cleave Sarson, the renegade magic user extremely hard.
+You feel intense pain as you swing through Sarson, the renegade magic user's flaming aura.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+
+631H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:40 Exits:S> 
+
+Urtas gives out a wild cry and points a shaking finger at Sarson, the renegade magic user.
+Sarson, the renegade magic user cowers for Urtas's scolding.
+
+631H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:38 Exits:S> 
+
+A primal need to kick something washes over you.
+An ancestral spirit hits Sarson, the renegade magic user very hard.
+An ancestral spirit appears to grow stronger.
+Sarson, the renegade magic user's fireshield does him little good as an ancestral spirit takes a swing at him.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas appears to grow stronger.
+Sarson, the renegade magic user's fireshield does him little good as Urtas takes a swing at him.
+A monstrous apparition bites Sarson, the renegade magic user extremely hard.
+A monstrous apparition is burned, as it swings at Sarson, the renegade magic user.
+You miss Sarson, the renegade magic user with your cleave.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+
+631H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:36 Exits:S> 
+
+Urtas lets out a mighty yell and fights like crazy!
+
+631H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:33 Exits:S> 
+
+An ancestral spirit hits Sarson, the renegade magic user very hard.
+An ancestral spirit appears to grow stronger.
+Sarson, the renegade magic user's fireshield does him little good as an ancestral spirit takes a swing at him.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Urtas appears to grow stronger.
+Sarson, the renegade magic user's fireshield does him little good as Urtas takes a swing at him.
+A monstrous apparition bites Sarson, the renegade magic user extremely hard.
+A monstrous apparition is burned, as it swings at Sarson, the renegade magic user.
+A monstrous apparition misses Sarson, the renegade magic user with its bite.
+You cleave Sarson, the renegade magic user very hard.
+You feel intense pain as you swing through Sarson, the renegade magic user's flaming aura.
+Sarson, the renegade magic user misses you with his drain.
+
+612H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:32 Exits:S> 
+
+Urtas focuses harshly on Sarson, the renegade magic user and utters some strange words.
+Sarson, the renegade magic user scowls as Urtas gestures at him.
+
+612H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:29 Exits:S> 
+bash
+sta
+You try to bash Sarson, the renegade magic user, but you miss and tumble forward onto your face.
+
+612H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:29 Exits:S> 
+
+Sarson, the renegade magic user screams as a spirit bites him.
+An ancestral spirit misses Sarson, the renegade magic user with his hit.
+A monstrous apparition bites Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+
+612H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:28 Exits:S> 
+
+A monstrous apparition lunges forward and bites Sarson, the renegade magic user in the throat!
+Urtas focuses on you and utters some strange words.
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+693H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Good] T:25 Exits:S> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit misses Sarson, the renegade magic user with his hit.
+A monstrous apparition bites Sarson, the renegade magic user extremely hard.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user drains YOU extremely hard.
+Sarson, the renegade magic user annihilates YOU with his drain.
+
+713H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Good] T:24 Exits:S> 
+You stand up.
+
+713H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Good] T:21 Exits:S> 
+
+Some of your nastier wounds disappear.
+An ancestral spirit misses Sarson, the renegade magic user with his hit.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user flesh crawls as Urtas's axe drains him.
+Urtas cleaves Sarson, the renegade magic user very hard.
+A monstrous apparition bites Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user drains YOU extremely hard.
+
+745H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Good] T:20 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+Sarson, the renegade magic user's skin turns grey and granite-like.
+
+745H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Good] T:20 Exits:S> 
+l sarson
+You see a magic user unconstrained by the conclave of mages.  His magic is
+of his own device.  You can see him as he eyes the threat which you offer him.
+Sarson, the renegade magic user has some small wounds and bruises.
+
+Sarson, the renegade magic user is using:
+<worn about body>          a deep purple cloth robe
+
+745H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Good] T:18 Exits:S> 
+punch
+kick high 
+
+Some of your nastier wounds disappear.
+Your throat is less sore.
+Sarson, the renegade magic user screams as a spirit bites him.
+An ancestral spirit misses Sarson, the renegade magic user with his hit.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+A monstrous apparition bites Sarson, the renegade magic user very hard.
+Your mighty cleave almost cuts Sarson, the renegade magic user in two!
+You cleave Sarson, the renegade magic user hard.
+Sarson, the renegade magic user misses you with his drain.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Good] T:16 Exits:S> 
+You give Sarson, the renegade magic user a solid punch in the face.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Good] T:16 Exits:S> 
+You deliver a snap kick and hit Sarson, the renegade magic user in the chest.
+The satisfaction of that kick invigorates you, your arms swing freely.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Good] T:16 Exits:S> 
+
+Urtas focuses harshly on Sarson, the renegade magic user and utters some strange words.
+The flesh of Sarson, the renegade magic user begins to decay!
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:13 Exits:S> 
+
+Some of your nastier wounds disappear.
+Sarson, the renegade magic user screams as blood pours from his wounds.
+An ancestral spirit hits Sarson, the renegade magic user hard.
+A monstrous apparition bites Sarson, the renegade magic user extremely hard.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user misses you with his drain.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:12 Exits:S> 
+
+Some of your nastier wounds disappear.
+Sarson, the renegade magic user screams as blood pours from his wounds.
+An ancestral spirit hits Sarson, the renegade magic user hard.
+An ancestral spirit hits Sarson, the renegade magic user hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user flesh crawls as Urtas's axe drains him.
+A monstrous apparition bites Sarson, the renegade magic user very hard.
+A monstrous apparition bites Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+Sarson, the renegade magic user barely drains YOU.
+Sarson, the renegade magic user drains YOU hard.
+
+746H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:8 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+Sarson, the renegade magic user's skin turns grey and granite-like.
+
+746H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:8 Exits:S> 
+warcr
+You give out a mighty war cry!
+
+746H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:7 Exits:S> 
+l
+
+Some of your nastier wounds disappear.
+Sarson, the renegade magic user screams as blood pours from his wounds.
+An ancestral spirit hits Sarson, the renegade magic user hard.
+Urtas bruises Sarson, the renegade magic user with his cleave.
+Sarson, the renegade magic user flesh crawls as Urtas's axe drains him.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas bruises Sarson, the renegade magic user with his cleave.
+A monstrous apparition bruises Sarson, the renegade magic user with its bite.
+You bruise Sarson, the renegade magic user with your cleave.
+You bruise Sarson, the renegade magic user with your cleave.
+Sarson, the renegade magic user misses you with his drain.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:4 Exits:S> 
+
+Urtas wiggles his fingers as he outlines Sarson, the renegade magic user's head in the air.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:4 Exits:S> 
+Dark Laboratory
+    Spacious living and working quarters are here for Sarson, the renegade
+arch-magus to do his macabre work.  There are several vials around the room
+in which recognizable body parts can be seen.  In one corner there is a
+summoning circle while in the other a small cot stands ready for an evening
+nap.
+The corpse of a pale faced demon is lying here. [2]
+An ancestral spirit is standing here, fighting Sarson, the renegade magic user.
+A monstrous apparition is standing here, fighting Sarson, the renegade magic user.
+<DAWN> Urtas, the Other Half is standing here, fighting Sarson, the renegade magic user. (flying)
+. . . enveloped in shadows.
+Sarson, the renegade magic user is standing here, fighting YOU.
+. . . has a granite appearance.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:2 Exits:S> 
+punch
+kick high 
+Alas, you are not ready yet.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:2 Exits:S> 
+Your vicious kick leaves your boots covered with blood and gore.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:1 Exits:S> 
+
+A monstrous apparition lunges forward and bites Sarson, the renegade magic user in the throat!
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:1 Exits:S> 
+
+Your punch hand is ready to lay into someone again.
+Some of your nastier wounds disappear.
+Sarson, the renegade magic user screams as blood pours from his wounds.
+Sarson, the renegade magic user staggers about confused!
+An ancestral spirit hits Sarson, the renegade magic user hard.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas bruises Sarson, the renegade magic user with his cleave.
+Sarson, the renegade magic user flesh crawls as Urtas's axe drains him.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas bruises Sarson, the renegade magic user with his cleave.
+A monstrous apparition bruises Sarson, the renegade magic user with its bite.
+You bruise Sarson, the renegade magic user with your cleave.
+You cleave Sarson, the renegade magic user hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user drains YOU extremely hard.
+You are no longer resistant to gas.
+You are no longer resistant to breath.
+You feel more vigorous.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:60 Exits:S> 
+assault
+You begin to assault Sarson, the renegade magic user!
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:57 Exits:S> 
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+Sarson, the renegade magic user screams as blood pours from his wounds.
+Sarson, the renegade magic user staggers about confused!
+An ancestral spirit hits Sarson, the renegade magic user very hard.
+Urtas massacres Sarson, the renegade magic user with his cleave.
+A monstrous apparition bites Sarson, the renegade magic user very hard.
+A monstrous apparition bites Sarson, the renegade magic user extremely hard.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user drains YOU very hard.
+Sarson, the renegade magic user misses you with his drain.
+
+749H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:56 Exits:S> 
+
+Sarson, the renegade magic user screams as blood pours from his wounds.
+The ghostly hue vanishes from your flesh.
+Sarson, the renegade magic user staggers about confused!
+An ancestral spirit hits Sarson, the renegade magic user.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user hard.
+A monstrous apparition bites Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user hard.
+Sarson, the renegade magic user misses you with his drain.
+
+749H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Bad] T:52 Exits:S> 
+sunder
+You sunder Sarson, the renegade magic user's armour!
+
+749H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Bad] T:52 Exits:S> 
+
+Sarson, the renegade magic user screams as blood pours from his wounds.
+Sarson, the renegade magic user staggers about confused!
+An ancestral spirit hits Sarson, the renegade magic user.
+An ancestral spirit hits Sarson, the renegade magic user.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas wheels back and throws their axe at Sarson, the renegade magic user, hitting them squarely. The axe
+returns back to him after impact.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user flesh crawls as Urtas's axe drains him.
+A monstrous apparition bites Sarson, the renegade magic user extremely hard.
+A monstrous apparition bites Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+
+749H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Bad] T:48 Exits:S> 
+
+Urtas screams wildly and cusses at Sarson, the renegade magic user.
+Sarson, the renegade magic user briefly reveals a red aura!
+
+749H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Bad] T:47 Exits:S> 
+
+Sarson, the renegade magic user screams as blood pours from his wounds.
+Sarson, the renegade magic user staggers about confused!
+Sarson, the renegade magic user misses an ancestral spirit with his drain.
+Sarson, the renegade magic user misses an ancestral spirit with his drain.
+An ancestral spirit hits Sarson, the renegade magic user hard.
+An ancestral spirit hits Sarson, the renegade magic user hard.
+Urtas cleaves Sarson, the renegade magic user hard.
+A monstrous apparition bites Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Perfect] [Sarson, the renegade magic user:V.Bad] T:44 Exits:S> 
+
+Urtas wiggles his fingers as he outlines Sarson, the renegade magic user's head in the air.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Perfect] [Sarson, the renegade magic user:V.Bad] T:43 Exits:S> 
+
+A primal need to kick something washes over you.
+Sarson, the renegade magic user screams as blood pours from his wounds.
+Sarson, the renegade magic user staggers about confused!
+Sarson, the renegade magic user misses an ancestral spirit with his drain.
+An ancestral spirit hits Sarson, the renegade magic user hard.
+Urtas cleaves Sarson, the renegade magic user hard.
+Urtas cleaves Sarson, the renegade magic user hard.
+A monstrous apparition bites Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user very hard.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Perfect] [Sarson, the renegade magic user:V.Bad] T:40 Exits:S> 
+punch
+kick high 
+You give Sarson, the renegade magic user a solid punch in the face.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Perfect] [Sarson, the renegade magic user:V.Bad] T:40 Exits:S> 
+You try to sweep Sarson, the renegade magic user's legs, but are unable to.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Perfect] [Sarson, the renegade magic user:V.Bad] T:40 Exits:S> 
+
+Urtas lets out a mighty yell and fights like crazy!
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Perfect] [Sarson, the renegade magic user:V.Bad] T:38 Exits:S> 
+
+Sarson, the renegade magic user focuses harshly on Urtas and utters some strange words.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Perfect] [Sarson, the renegade magic user:V.Bad] T:38 Exits:S> 
+
+Sarson, the renegade magic user drains an ancestral spirit very hard.
+An ancestral spirit hits Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user hard.
+A monstrous apparition bites Sarson, the renegade magic user extremely hard.
+A monstrous apparition bites Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+You miss Sarson, the renegade magic user with your cleave.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:V.Good] [Sarson, the renegade magic user:V.Bad] T:36 Exits:S> 
+
+A monstrous apparition lunges forward and bites Sarson, the renegade magic user in the throat!
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:V.Good] [Sarson, the renegade magic user:V.Bad] T:34 Exits:S> 
+punch
+kick high 
+Alas, you are not ready yet.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:V.Good] [Sarson, the renegade magic user:V.Bad] T:33 Exits:S> 
+You deliver a snap kick and hit Sarson, the renegade magic user in the chest.
+The satisfaction of that kick invigorates you, your arms swing freely.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:V.Good] [Sarson, the renegade magic user:V.Bad] T:33 Exits:S> 
+
+Sarson, the renegade magic user drains an ancestral spirit very hard.
+An ancestral spirit hits Sarson, the renegade magic user hard.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user flesh crawls as Urtas's axe drains him.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user flesh crawls as Urtas's axe drains him.
+A monstrous apparition bites Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Good] [Sarson, the renegade magic user:Awful] T:32 Exits:S> 
+
+Your clanmate Zinx has left the game.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Good] [Sarson, the renegade magic user:Awful] T:31 Exits:S> 
+
+An ancestral spirit gracefully steps aside as Sarson, the renegade magic user attacks!
+Sarson, the renegade magic user gracefully steps aside as an ancestral spirit attacks!
+An ancestral spirit stumbles and accidentally attacks Urtas!
+An ancestral spirit massacres Urtas with his hit.
+An ancestral spirit gasps in pain as he swings through the shadows surrounding Urtas.
+Urtas cleaves Sarson, the renegade magic user hard.
+A monstrous apparition bites Sarson, the renegade magic user extremely hard.
+A monstrous apparition bites Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user hard.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Good] [Sarson, the renegade magic user:Awful] T:28 Exits:S> 
+punch
+kick high 
+Alas, you are not ready yet.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Good] [Sarson, the renegade magic user:Awful] T:26 Exits:S> 
+Sarson, the renegade magic user utters some strange words.
+Sarson, the renegade magic user heals Sarson, the renegade magic user.
+Your vicious kick leaves your boots covered with blood and gore.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Good] [Sarson, the renegade magic user:V.Good] T:26 Exits:S> 
+
+Your punch hand is ready to lay into someone again.
+An ancestral spirit hits Sarson, the renegade magic user hard.
+Sarson, the renegade magic user drains an ancestral spirit extremely hard.
+Urtas wheels back and throws their axe at Sarson, the renegade magic user, hitting them squarely. The axe
+returns back to him after impact.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user flesh crawls as Urtas's axe drains him.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+A monstrous apparition misses Sarson, the renegade magic user with its bite.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Fair] [Sarson, the renegade magic user:V.Good] T:24 Exits:S> 
+sunder
+You try to sunder Sarson, the renegade magic user's armour but fail miserably.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Fair] [Sarson, the renegade magic user:V.Good] T:21 Exits:S> 
+
+An ancestral spirit hits Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user drains an ancestral spirit extremely hard.
+Sarson, the renegade magic user drains an ancestral spirit extremely hard.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+A monstrous apparition misses Sarson, the renegade magic user with its bite.
+You miss Sarson, the renegade magic user with your cleave.
+You cleave Sarson, the renegade magic user very hard.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Fair] [Sarson, the renegade magic user:V.Good] T:20 Exits:S> 
+
+Sarson, the renegade magic user has his casting disrupted by the fighting.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Fair] [Sarson, the renegade magic user:V.Good] T:20 Exits:S> 
+resc spirit
+Your feeble rescue efforts end in failure.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Fair] [Sarson, the renegade magic user:V.Good] T:17 Exits:S> 
+
+An ancestral spirit hits Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user drains an ancestral spirit extremely hard.
+Sarson, the renegade magic user drains an ancestral spirit very hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user hard.
+A monstrous apparition bites Sarson, the renegade magic user extremely hard.
+A monstrous apparition bites Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:V.Bad] [Sarson, the renegade magic user:Good] T:16 Exits:S> 
+resc spirit
+
+Sarson, the renegade magic user utters some strange words.
+A monstrous apparition is stunned!
+Urtas is stunned momentarily, recovering quickly.
+You fall down, your ears ringing.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:V.Bad] [Sarson, the renegade magic user:Good] T:14 Exits:S> 
+
+Urtas focuses on an ancestral spirit and utters some strange words.
+Large open gashes on an ancestral spirit's body quickly heal.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Perfect] [Sarson, the renegade magic user:Good] T:13 Exits:S> 
+An ancestral spirit hits Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user drains an ancestral spirit very hard.
+You are completely disoriented.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:V.Good] [Sarson, the renegade magic user:Good] T:12 Exits:S> 
+
+Your throat is less sore.
+An ancestral spirit hits Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user drains an ancestral spirit very hard.
+Sarson, the renegade magic user drains an ancestral spirit very hard.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user flesh crawls as Urtas's axe drains him.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Good] [Sarson, the renegade magic user:Good] T:8 Exits:S> 
+
+Urtas wiggles his fingers as he outlines Sarson, the renegade magic user's head in the air.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Good] [Sarson, the renegade magic user:Good] T:8 Exits:S> 
+
+An ancestral spirit hits Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user misses an ancestral spirit with his drain.
+Sarson, the renegade magic user misses an ancestral spirit with his drain.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Good] [Sarson, the renegade magic user:Good] T:4 Exits:S> 
+
+Urtas gives out a wild cry and points a shaking finger at Sarson, the renegade magic user.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Good] [Sarson, the renegade magic user:Good] T:2 Exits:S> 
+l
+You are completely disoriented.
+
+749H 174V 1X 62.68% 16328C [an ancestral spirit:Good] [Sarson, the renegade magic user:Good] T:1 Exits:S> 
+
+You feel the need, the need to assault someone.
+An ancestral spirit hits Sarson, the renegade magic user hard.
+Sarson, the renegade magic user misses an ancestral spirit with his drain.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas massacres Sarson, the renegade magic user with his cleave.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas cleaves Sarson, the renegade magic user very hard.
+A primal need to kick something washes over you.
+Your shroud fades away.
+An ancestral spirit transcends this world and enters another plane.
+A monstrous apparition transcends this world and enters another plane.
+A monstrous apparition stops following Urtas.
+You feel more vigorous.
+
+764H 174V 1X 62.68% 16328C [Urtas:Perfect] [Sarson, the renegade magic user:Good] T:60 Exits:S> 
+sta
+You are completely disoriented.
+
+764H 174V 1X 62.68% 16328C [Urtas:Perfect] [Sarson, the renegade magic user:Good] T:57 Exits:S> 
+
+Sarson, the renegade magic user massacres Urtas with his drain.
+Sarson, the renegade magic user gasps in pain as he swings through the shadows surrounding Urtas.
+Sarson, the renegade magic user massacres Urtas with his drain.
+Sarson, the renegade magic user gasps in pain as he swings through the shadows surrounding Urtas.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+sta
+You should probably stand up!
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+
+764H 174V 1X 62.68% 16328C [Urtas:Good] [Sarson, the renegade magic user:Good] T:56 Exits:S> 
+You stand up.
+
+764H 174V 1X 62.68% 16328C [Urtas:Good] [Sarson, the renegade magic user:Good] T:56 Exits:S> 
+
+Sarson, the renegade magic user focuses harshly on Urtas and utters some strange words.
+Sarson, the renegade magic user drains Urtas - what a waste of energy!
+
+764H 174V 1X 62.68% 16328C [Urtas:Good] [Sarson, the renegade magic user:Good] T:56 Exits:S> 
+sta
+You are already standing.
+
+764H 174V 1X 62.68% 16328C [Urtas:Good] [Sarson, the renegade magic user:Good] T:55 Exits:S> 
+punch
+kick high 
+You give Sarson, the renegade magic user a solid punch in the face.
+
+764H 174V 1X 62.68% 16328C [Urtas:Good] [Sarson, the renegade magic user:Good] T:54 Exits:S> 
+Sarson, the renegade magic user dodges away and your kick misses by a mile.
+
+764H 174V 1X 62.68% 16328C [Urtas:Good] [Sarson, the renegade magic user:Good] T:54 Exits:S> 
+
+Sarson, the renegade magic user annihilates Urtas with his drain.
+Sarson, the renegade magic user gasps in pain as he swings through the shadows surrounding Urtas.
+Sarson, the renegade magic user massacres Urtas with his drain.
+Sarson, the renegade magic user gasps in pain as he swings through the shadows surrounding Urtas.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user flesh crawls as Urtas's axe drains him.
+You cleave Sarson, the renegade magic user hard.
+
+764H 174V 1X 62.68% 16328C [Urtas:Fair] [Sarson, the renegade magic user:Fair] T:52 Exits:S> 
+rescue Urtas
+What a self-sacrificing act! You're such a hero!
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:49 Exits:S> 
+
+Sarson, the renegade magic user drains YOU hard.
+Sarson, the renegade magic user drains YOU extremely hard.
+You cleave Sarson, the renegade magic user very hard.
+
+732H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:48 Exits:S> 
+
+Urtas wheels back and throws their axe at Sarson, the renegade magic user, hitting them squarely. The axe
+returns back to him after impact.
+Urtas slowly fades into existence.
+Urtas cleaves Sarson, the renegade magic user hard.
+
+732H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:48 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user hard.
+Sarson, the renegade magic user fumbles and fails to swing at his target.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user very hard.
+
+708H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:44 Exits:S> 
+
+Sarson, the renegade magic user focuses harshly on Urtas and utters some strange words.
+Sarson, the renegade magic user shoots webs at Urtas but narrowly misses him!
+
+708H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:44 Exits:S> 
+
+Urtas utters some strange words.
+Your skin begins to tingle as a rejuvenating wave of magic washes over you.
+
+708H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:43 Exits:S> 
+
+Your body tingles slightly.
+Your punch hand is ready to lay into someone again.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user extremely hard.
+
+707H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:40 Exits:S> 
+
+Urtas wiggles his fingers as he outlines Sarson, the renegade magic user's head in the air.
+
+707H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:39 Exits:S> 
+punch
+kick high 
+You give Sarson, the renegade magic user a solid punch in the face.
+
+707H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:37 Exits:S> 
+You try to sweep Sarson, the renegade magic user's legs, but are unable to.
+
+707H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:37 Exits:S> 
+
+Your body tingles slightly.
+Urtas cleaves Sarson, the renegade magic user.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user very hard.
+
+707H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:36 Exits:S> 
+
+Your body tingles slightly.
+Urtas misses Sarson, the renegade magic user with his cleave.
+Sarson, the renegade magic user drains YOU extremely hard.
+Your mighty cleave almost cuts Sarson, the renegade magic user in two!
+You cleave Sarson, the renegade magic user hard.
+
+712H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:32 Exits:S> 
+sunder
+You sunder Sarson, the renegade magic user's armour!
+
+712H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:32 Exits:S> 
+
+Your body tingles slightly.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user drains YOU hard.
+You cleave Sarson, the renegade magic user very hard.
+
+725H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:28 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+Sarson, the renegade magic user's hands issue a spray of prismatic color!
+Urtas is caught in a spray of bright orange!
+You are caught in a spray of bright orange!
+
+670H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:26 Exits:S> 
+assault
+You begin to assault Sarson, the renegade magic user!
+
+670H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:25 Exits:S> 
+
+Your punch hand is ready to lay into someone again.
+Your body tingles slightly.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user drains YOU extremely hard.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+
+673H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:24 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user drains YOU extremely hard.
+Your mighty cleave almost cuts Sarson, the renegade magic user in two!
+You cleave Sarson, the renegade magic user very hard.
+Your mighty cleave almost cuts Sarson, the renegade magic user in two!
+You cleave Sarson, the renegade magic user hard.
+
+653H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:20 Exits:S> 
+
+Urtas lets out a mighty yell and fights like crazy!
+
+653H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:19 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user extremely hard.
+
+653H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:16 Exits:S> 
+
+Urtas wiggles his fingers as he outlines Sarson, the renegade magic user's head in the air.
+
+653H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:15 Exits:S> 
+
+Sarson, the renegade magic user focuses harshly on Urtas and utters some strange words.
+
+653H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:14 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user hard.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user flesh crawls as Urtas's axe drains him.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+
+653H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:12 Exits:S> 
+
+Urtas screams wildly and cusses at Sarson, the renegade magic user.
+Sarson, the renegade magic user briefly reveals a red aura!
+Sarson, the renegade magic user groans and stumbles back.
+
+653H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:9 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user hard.
+
+653H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:8 Exits:S> 
+
+Your clanmate Mentat has entered the game.
+
+653H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:8 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user drains YOU extremely hard.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user very hard.
+
+634H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Bad] T:4 Exits:S> 
+
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas cleaves Sarson, the renegade magic user.
+You move aside quickly as Sarson, the renegade magic user attacks!
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+You feel more vigorous.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Bad] T:60 Exits:S> 
+
+Urtas wiggles his fingers as he outlines Sarson, the renegade magic user's head in the air.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Bad] T:60 Exits:S> 
+punch
+kick high 
+You give Sarson, the renegade magic user a solid punch in the face.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Bad] T:58 Exits:S> 
+You deliver a snap kick and hit Sarson, the renegade magic user in the chest.
+The satisfaction of that kick invigorates you, your arms swing freely.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Bad] T:58 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Bad] T:56 Exits:S> 
+warcr
+You give out a mighty war cry!
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Bad] T:54 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Bad] T:52 Exits:S> 
+punch
+kick high 
+Sarson, the renegade magic user focuses harshly on Urtas and utters some strange words.
+Alas, you are not ready yet.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Bad] T:50 Exits:S> 
+You deliver a snap kick and hit Sarson, the renegade magic user in the chest.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Bad] T:49 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:V.Bad] T:48 Exits:S> 
+
+Your punch hand is ready to lay into someone again.
+Urtas cleaves Sarson, the renegade magic user hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+
+737H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:44 Exits:S> 
+punch
+kick high 
+You give Sarson, the renegade magic user a solid punch in the face.
+
+737H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:44 Exits:S> 
+You deliver a snap kick and hit Sarson, the renegade magic user in the chest.
+
+737H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:43 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user very hard.
+
+711H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:40 Exits:S> 
+
+Urtas wiggles his fingers as he outlines Sarson, the renegade magic user's head in the air.
+
+711H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:40 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+Sarson, the renegade magic user heals Sarson, the renegade magic user.
+
+711H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Perfect] T:38 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user very hard.
+
+687H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:36 Exits:S> 
+
+Urtas screams wildly and cusses at Sarson, the renegade magic user.
+Sarson, the renegade magic user briefly reveals a red aura!
+
+687H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:36 Exits:S> 
+
+You feel the need, the need to assault someone.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user massacres YOU with his drain.
+You move aside quickly as Sarson, the renegade magic user attacks!
+You cleave Sarson, the renegade magic user very hard.
+
+661H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:32 Exits:S> 
+
+Sarson, the renegade magic user focuses harshly on Urtas and utters some strange words.
+
+661H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:32 Exits:S> 
+
+Your punch hand is ready to lay into someone again.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user massacres YOU with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+
+635H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:28 Exits:S> 
+
+Urtas gives out a wild cry and points a shaking finger at Sarson, the renegade magic user.
+
+635H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:28 Exits:S> 
+l
+Dark Laboratory
+    Spacious living and working quarters are here for Sarson, the renegade
+arch-magus to do his macabre work.  There are several vials around the room
+in which recognizable body parts can be seen.  In one corner there is a
+summoning circle while in the other a small cot stands ready for an evening
+nap.
+The corpse of a pale faced demon is lying here. [2]
+<DAWN> Urtas, the Other Half is standing here, fighting Sarson, the renegade magic user. (flying)
+. . . enveloped in shadows.
+Sarson, the renegade magic user is standing here, fighting YOU.
+
+635H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:26 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+Sarson, the renegade magic user is surrounded by 4 duplicate images.
+
+635H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:26 Exits:S> 
+punch
+kick high 
+You try to punch Sarson, the renegade magic user, but your fist passes through his image.
+
+635H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:25 Exits:S> 
+You try to kick Sarson, the renegade magic user, but you miss and destroy an image instead.
+
+635H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:25 Exits:S> 
+
+Urtas misses Sarson, the renegade magic user and destroys an image instead.
+Sarson, the renegade magic user annihilates YOU with his drain.
+You cleave Sarson, the renegade magic user very hard.
+
+603H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:24 Exits:S> 
+
+A primal need to kick something washes over you.
+Urtas misses Sarson, the renegade magic user and destroys an image instead.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user very hard.
+
+580H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:20 Exits:S> 
+
+Urtas lets out a mighty yell and fights like crazy!
+
+580H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:20 Exits:S> 
+
+Sarson, the renegade magic user focuses harshly on Urtas and utters some strange words.
+
+580H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:20 Exits:S> 
+l
+Dark Laboratory
+    Spacious living and working quarters are here for Sarson, the renegade
+arch-magus to do his macabre work.  There are several vials around the room
+in which recognizable body parts can be seen.  In one corner there is a
+summoning circle while in the other a small cot stands ready for an evening
+nap.
+The corpse of a pale faced demon is lying here. [2]
+<DAWN> Urtas, the Other Half is standing here, fighting Sarson, the renegade magic user. (flying)
+. . . enveloped in shadows.
+Sarson, the renegade magic user is standing here, fighting YOU.
+
+580H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:19 Exits:S> 
+assault
+You begin to assault Sarson, the renegade magic user!
+
+580H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Good] T:17 Exits:S> 
+
+Your punch hand is ready to lay into someone again.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user hard.
+Sarson, the renegade magic user massacres YOU with his drain.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+
+529H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:16 Exits:S> 
+sunder
+
+Sarson, the renegade magic user focuses harshly on Urtas and utters some strange words.
+Urtas goes to sleep.
+
+529H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:14 Exits:S> 
+You sunder Sarson, the renegade magic user's armour!
+
+529H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:13 Exits:S> 
+
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user extremely hard.
+You cleave Sarson, the renegade magic user hard.
+
+500H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:12 Exits:S> 
+wake urtas
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user hard.
+Sarson, the renegade magic user dodges your attack!
+You can not wake him up while fighting!
+
+477H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:8 Exits:S> 
+
+Sarson, the renegade magic user focuses harshly on you and utters some strange words.
+You feel less energetic as Sarson, the renegade magic user drains you.
+
+440H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:8 Exits:S> 
+kick urtas
+Your vicious kick leaves your boots covered with blood and gore.
+Urtas awakens.
+The satisfaction of that kick invigorates you, your arms swing freely.
+
+440H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:5 Exits:S> 
+
+Urtas misses you with his cleave.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user hard.
+
+440H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:4 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+Sarson, the renegade magic user conjures a writhing mass of inky black tentacles!
+Urtas grunts in agony as inky black tentacles smack him.
+You grunt in agony as inky black tentacles smack you.
+You manage to slip away from the tentacles.
+
+431H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:2 Exits:S> 
+
+Urtas attempts to break free of the black tentacles, but fails!
+
+431H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:1 Exits:S> 
+
+Urtas screams in pain as he is constricted by inky black tentacles.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+You feel more vigorous.
+The corpse of a pale faced demon decays into dust and blows away.
+
+566H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:60 Exits:S> 
+punch
+kick high 
+You give Sarson, the renegade magic user a solid punch in the face.
+
+566H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:58 Exits:S> 
+You deliver a snap kick and hit Sarson, the renegade magic user in the chest.
+
+566H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:58 Exits:S> 
+
+Your throat is less sore.
+Urtas screams in pain as he is constricted by inky black tentacles.
+Urtas misses you with his cleave.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+
+542H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:56 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+Sarson, the renegade magic user's hands issue a spray of prismatic color!
+Urtas is caught in a spray of bright orange!
+You are struck by a spray of vibrant green!
+You are caught in a spray of radiant yellow!
+
+446H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:56 Exits:S> 
+
+Urtas focuses on you and utters some strange words.
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+522H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Good] T:55 Exits:S> 
+
+Some of your nastier wounds disappear.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+
+594H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:52 Exits:S> 
+
+Urtas panics, and attempts to flee.
+Urtas leaves south.
+
+594H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:50 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+Sarson, the renegade magic user waves his hand, and a gargoyle appears!
+A gargoyle now follows Sarson, the renegade magic user.
+
+594H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:50 Exits:S> 
+
+Urtas arrives from the south.
+
+594H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:50 Exits:S> 
+
+Some of your nastier wounds disappear.
+Sarson, the renegade magic user massacres YOU with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+
+638H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:48 Exits:S> 
+
+Urtas slowly fades into existence.
+Urtas cleaves Sarson, the renegade magic user hard.
+
+638H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:47 Exits:S> 
+
+Some of your nastier wounds disappear.
+Your punch hand is ready to lay into someone again.
+Urtas misses Sarson, the renegade magic user with his cleave.
+Sarson, the renegade magic user massacres YOU with his drain.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+
+656H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:44 Exits:S> 
+
+Sarson, the renegade magic user issues the order 'assist'
+Sensing danger, you prepare as best you can.
+A gargoyle claws YOU extremely hard.
+
+637H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:44 Exits:S> 
+
+Urtas glares at a gargoyle and clenches his fist.
+
+637H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:42 Exits:S> 
+punch
+kick high 
+
+Some of your nastier wounds disappear.
+A gargoyle claws YOU.
+Urtas misses Sarson, the renegade magic user with his cleave.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user massacres YOU with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user very hard.
+
+673H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:40 Exits:S> 
+You try to punch Sarson, the renegade magic user but he moves out of the way.
+
+673H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:40 Exits:S> 
+Your vicious kick leaves your boots covered with blood and gore.
+
+673H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:40 Exits:S> 
+
+Urtas glares at a gargoyle and clenches his fist.
+A gargoyle stops following Sarson, the renegade magic user.
+A gargoyle transcends this world and enters another plane.
+
+673H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:38 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+A yellowish-green cloud permeates the air.
+
+673H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Good] T:38 Exits:S> 
+
+You quickly shake off the effects of the foul stench which fills the room.
+Some of your nastier wounds disappear.
+Urtas cleaves Sarson, the renegade magic user hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user very hard.
+You miss Sarson, the renegade magic user with your cleave.
+
+722H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Good] T:36 Exits:S> 
+
+Urtas lets out a mighty yell and fights like crazy!
+
+722H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Good] T:34 Exits:S> 
+
+You become confused as the surrounding fumes take effect on you.
+Some of your nastier wounds disappear.
+A primal need to kick something washes over you.
+Urtas cleaves Sarson, the renegade magic user hard.
+Urtas cleaves Sarson, the renegade magic user hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:32 Exits:S> 
+
+Sarson, the renegade magic user focuses harshly on Urtas and utters some strange words.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:32 Exits:S> 
+punch
+kick high 
+Alas, you are not ready yet.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:29 Exits:S> 
+You quickly shake off the effects of the foul stench which fills the room.
+Your punch hand is ready to lay into someone again.
+Some of your nastier wounds disappear.
+Urtas misses Sarson, the renegade magic user with his cleave.
+Urtas massacres Sarson, the renegade magic user with his cleave.
+Sarson, the renegade magic user massacres YOU with his drain.
+Sarson, the renegade magic user drains YOU extremely hard.
+You cleave Sarson, the renegade magic user hard.
+You deliver a snap kick and hit Sarson, the renegade magic user in the chest.
+The satisfaction of that kick invigorates you, your arms swing freely.
+
+720H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:28 Exits:S> 
+
+Sarson, the renegade magic user focuses harshly on Urtas and utters some strange words.
+Sarson, the renegade magic user shoots webs at Urtas but narrowly misses him!
+
+720H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:26 Exits:S> 
+sunder
+
+You become confused as the surrounding fumes take effect on you.
+Some of your nastier wounds disappear.
+You feel the need, the need to assault someone.
+Urtas cleaves Sarson, the renegade magic user hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user drains YOU extremely hard.
+You cleave Sarson, the renegade magic user very hard.
+
+745H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:24 Exits:S> 
+You sunder Sarson, the renegade magic user's armour!
+
+745H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:24 Exits:S> 
+
+You quickly shake off the effects of the foul stench which fills the room.
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:20 Exits:S> 
+
+Sarson, the renegade magic user focuses harshly on Urtas and utters some strange words.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:20 Exits:S> 
+sunder
+You try to sunder Sarson, the renegade magic user's armour but fail miserably.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:19 Exits:S> 
+
+Urtas screams wildly and cusses at Sarson, the renegade magic user.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:17 Exits:S> 
+
+You quickly shake off the effects of the foul stench which fills the room.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user misses you with his drain.
+You move aside quickly as Sarson, the renegade magic user attacks!
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Fair] T:16 Exits:S> 
+
+Sarson, the renegade magic user focuses harshly on you and utters some strange words.
+You feel ribs shatter as Sarson, the renegade magic user's force bolt slams into you.
+
+728H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:14 Exits:S> 
+
+Urtas screams wildly and cusses at Sarson, the renegade magic user.
+Sarson, the renegade magic user briefly reveals a red aura!
+
+728H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:13 Exits:S> 
+
+You quickly shake off the effects of the foul stench which fills the room.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user drains YOU very hard.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user very hard.
+
+711H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:12 Exits:S> 
+
+You quickly shake off the effects of the foul stench which fills the room.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user very hard.
+
+711H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:8 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+The air shimmers and crackles around Sarson, the renegade magic user.
+
+711H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:8 Exits:S> 
+
+Urtas panics, and attempts to flee.
+Urtas leaves south.
+
+711H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:6 Exits:S> 
+
+You become confused as the surrounding fumes take effect on you.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user extremely hard.
+You cleave Sarson, the renegade magic user very hard.
+
+700H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:4 Exits:S> 
+punch
+kick high 
+
+Sarson, the renegade magic user utters some strange words.
+A shining globe of force enfolds Sarson, the renegade magic user.
+
+700H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:2 Exits:S> 
+You give Sarson, the renegade magic user a solid punch in the face.
+
+700H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:2 Exits:S> 
+You deliver a snap kick and hit Sarson, the renegade magic user in the chest.
+
+700H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Fair] T:1 Exits:S> 
+
+You quickly shake off the effects of the foul stench which fills the room.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+You are no longer resistant to negative energy.
+You feel burning poison in your blood, and suffer.
+That Really did HURT!
+You feel more vigorous.
+The corpse of a pale faced demon decays into dust and blows away.
+
+493H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Fair] T:60 Exits:S> 
+
+Urtas arrives from the south.
+Sarson, the renegade magic user has his casting disrupted by the fighting.
+
+493H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Fair] T:57 Exits:S> 
+
+The yellowish-green cloud thins out.
+Sarson, the renegade magic user drains YOU very hard.
+You cleave Sarson, the renegade magic user very hard.
+
+479H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Fair] T:56 Exits:S> 
+
+Sarson, the renegade magic user focuses harshly on Urtas and utters some strange words.
+
+479H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Fair] T:56 Exits:S> 
+
+Urtas focuses on you and utters some strange words.
+A warm feeling runs through your body.
+
+479H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Fair] T:54 Exits:S> 
+
+Your punch hand is ready to lay into someone again.
+A primal need to kick something washes over you.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user very hard.
+
+453H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Fair] T:52 Exits:S> 
+l
+Dark Laboratory
+    Spacious living and working quarters are here for Sarson, the renegade
+arch-magus to do his macabre work.  There are several vials around the room
+in which recognizable body parts can be seen.  In one corner there is a
+summoning circle while in the other a small cot stands ready for an evening
+nap.
+<DAWN> Urtas, the Other Half is standing here. (invisible)
+. . . emits an eerie glow.
+Sarson, the renegade magic user is standing here, fighting YOU.
+
+453H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Fair] T:50 Exits:S> 
+
+Urtas slowly fades into existence.
+Urtas cleaves Sarson, the renegade magic user hard.
+
+453H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Fair] T:50 Exits:S> 
+punch
+kick high 
+You give Sarson, the renegade magic user a solid punch in the face.
+
+453H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Fair] T:50 Exits:S> 
+Your vicious kick leaves your boots covered with blood and gore.
+The satisfaction of that kick invigorates you, your arms swing freely.
+
+453H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Fair] T:49 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user drains YOU very hard.
+You cleave Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user dodges your attack!
+You trip and attack Urtas!
+You cleave Urtas hard.
+You gasp in pain as you swing through the shadows surrounding Urtas.
+
+434H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Fair] T:48 Exits:S> 
+assault
+You begin to assault Sarson, the renegade magic user!
+
+434H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Fair] T:45 Exits:S> 
+
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user very hard.
+Urtas wheels back and throws their axe at Sarson, the renegade magic user, hitting them squarely. The axe
+returns back to him after impact.
+Urtas misses Sarson, the renegade magic user with his cleave.
+Sarson, the renegade magic user misses you with his drain.
+
+434H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Fair] T:44 Exits:S> 
+
+Sarson, the renegade magic user focuses harshly on Urtas and utters some strange words.
+
+434H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Fair] T:44 Exits:S> 
+
+Urtas focuses on you and utters some strange words.
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+515H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Fair] T:42 Exits:S> 
+
+Some of your nastier wounds disappear.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user misses you with his drain.
+
+591H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:40 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+Sarson, the renegade magic user is surrounded by 4 duplicate images.
+Urtas lets out a mighty yell and fights like crazy!
+
+591H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:38 Exits:S> 
+
+Some of your nastier wounds disappear.
+Your punch hand is ready to lay into someone again.
+Sarson, the renegade magic user dodges your attack!
+You trip and attack Urtas!
+You cleave Urtas very hard.
+You gasp in pain as you swing through the shadows surrounding Urtas.
+You miss Sarson, the renegade magic user and destroy an image instead.
+Urtas misses Sarson, the renegade magic user and destroys an image instead.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user drains YOU very hard.
+Sarson, the renegade magic user misses you with his drain.
+
+636H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:36 Exits:S> 
+
+Urtas screams wildly and cusses at Sarson, the renegade magic user.
+Sarson, the renegade magic user briefly reveals a red aura!
+
+636H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:33 Exits:S> 
+
+Some of your nastier wounds disappear.
+You miss Sarson, the renegade magic user and destroy an image instead.
+You miss Sarson, the renegade magic user with your cleave.
+Urtas misses Sarson, the renegade magic user and destroys an image instead.
+Urtas cleaves Sarson, the renegade magic user hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user massacres YOU with his drain.
+
+670H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:32 Exits:S> 
+
+Sarson, the renegade magic user focuses harshly on Urtas and utters some strange words.
+Sarson, the renegade magic user shoots webs at Urtas but narrowly misses him!
+
+670H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:32 Exits:S> 
+
+Urtas wiggles his fingers as he outlines Sarson, the renegade magic user's head in the air.
+
+670H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Fair] T:29 Exits:S> 
+
+Some of your nastier wounds disappear.
+Sarson, the renegade magic user staggers about confused!
+You cleave Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+
+738H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Bad] T:28 Exits:S> 
+
+Some of your nastier wounds disappear.
+Sarson, the renegade magic user staggers about confused!
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Bad] T:24 Exits:S> 
+
+Some of your nastier wounds disappear.
+Sarson, the renegade magic user staggers about confused!
+Sarson, the renegade magic user dodges your attack!
+You trip and attack Urtas!
+You cleave Urtas very hard.
+You gasp in pain as you swing through the shadows surrounding Urtas.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user hard.
+Sarson, the renegade magic user drains YOU extremely hard.
+Sarson, the renegade magic user misses you with his drain.
+
+741H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Bad] T:20 Exits:S> 
+
+Urtas gives out a wild cry and points a shaking finger at Sarson, the renegade magic user.
+
+741H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Bad] T:19 Exits:S> 
+l
+Dark Laboratory
+    Spacious living and working quarters are here for Sarson, the renegade
+arch-magus to do his macabre work.  There are several vials around the room
+in which recognizable body parts can be seen.  In one corner there is a
+summoning circle while in the other a small cot stands ready for an evening
+nap.
+<DAWN> Urtas, the Other Half is standing here, fighting Sarson, the renegade magic user.
+. . . emits an eerie glow.
+Sarson, the renegade magic user is standing here, fighting YOU.
+
+741H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:Bad] T:18 Exits:S> 
+
+Some of your nastier wounds disappear.
+Sarson, the renegade magic user staggers about confused!
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user very hard.
+Urtas massacres Sarson, the renegade magic user with his cleave.
+Urtas cleaves Sarson, the renegade magic user hard.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Bad] T:16 Exits:S> 
+punch
+kick high 
+You give Sarson, the renegade magic user a solid punch in the face.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:Bad] T:16 Exits:S> 
+Your vicious kick leaves your boots covered with blood and gore.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:V.Bad] T:16 Exits:S> 
+
+Some of your nastier wounds disappear.
+A primal need to kick something washes over you.
+Sarson, the renegade magic user staggers about confused!
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+Sarson, the renegade magic user dodges your attack!
+You trip and attack Urtas!
+You cleave Urtas hard.
+You gasp in pain as you swing through the shadows surrounding Urtas.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+
+761H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:12 Exits:S> 
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+Sarson, the renegade magic user staggers about confused!
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user drains YOU extremely hard.
+Your mighty cleave almost cuts Sarson, the renegade magic user in two!
+You cleave Sarson, the renegade magic user hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+
+744H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:8 Exits:S> 
+
+Urtas wiggles his fingers as he outlines Sarson, the renegade magic user's head in the air.
+
+744H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:7 Exits:S> 
+
+Sarson, the renegade magic user staggers about confused!
+Sarson, the renegade magic user drains YOU very hard.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Urtas cleaves Sarson, the renegade magic user hard.
+
+729H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:4 Exits:S> 
+
+Urtas screams wildly and cusses at Sarson, the renegade magic user.
+
+729H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:3 Exits:S> 
+punch
+kick high 
+Alas, you are not ready yet.
+
+729H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:2 Exits:S> 
+Sarson, the renegade magic user dodges away and your kick misses by a mile.
+
+729H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:1 Exits:S> 
+
+Your punch hand is ready to lay into someone again.
+Sarson, the renegade magic user staggers about confused!
+Sarson, the renegade magic user massacres Urtas with his drain.
+Sarson, the renegade magic user gasps in pain as he swings through the shadows surrounding Urtas.
+Sarson, the renegade magic user massacres Urtas with his drain.
+Sarson, the renegade magic user gasps in pain as he swings through the shadows surrounding Urtas.
+You cleave Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+You feel more vigorous.
+
+764H 174V 1X 62.68% 16328C [Urtas:V.Good] [Sarson, the renegade magic user:V.Bad] T:60 Exits:S> 
+punch
+kick high 
+You give Sarson, the renegade magic user a solid punch in the face.
+
+764H 174V 1X 62.68% 16328C [Urtas:V.Good] [Sarson, the renegade magic user:V.Bad] T:57 Exits:S> 
+Sarson, the renegade magic user dodges away and your kick misses by a mile.
+
+764H 174V 1X 62.68% 16328C [Urtas:V.Good] [Sarson, the renegade magic user:V.Bad] T:57 Exits:S> 
+
+Sarson, the renegade magic user staggers about confused!
+Sarson, the renegade magic user massacres Urtas with his drain.
+Sarson, the renegade magic user gasps in pain as he swings through the shadows surrounding Urtas.
+Sarson, the renegade magic user massacres Urtas with his drain.
+Sarson, the renegade magic user gasps in pain as he swings through the shadows surrounding Urtas.
+You cleave Sarson, the renegade magic user.
+You cleave Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas cleaves Sarson, the renegade magic user very hard.
+
+764H 174V 1X 62.68% 16328C [Urtas:Good] [Sarson, the renegade magic user:V.Bad] T:56 Exits:S> 
+
+You feel the need, the need to assault someone.
+Sarson, the renegade magic user staggers about confused!
+Sarson, the renegade magic user massacres Urtas with his drain.
+Sarson, the renegade magic user gasps in pain as he swings through the shadows surrounding Urtas.
+Sarson, the renegade magic user massacres Urtas with his drain.
+Sarson, the renegade magic user gasps in pain as he swings through the shadows surrounding Urtas.
+You cleave Sarson, the renegade magic user hard.
+Urtas massacres Sarson, the renegade magic user with his cleave.
+Urtas cleaves Sarson, the renegade magic user very hard.
+
+764H 174V 1X 62.68% 16328C [Urtas:Fair] [Sarson, the renegade magic user:V.Bad] T:52 Exits:S> 
+rescue Urtas
+Your feeble rescue efforts end in failure.
+
+764H 174V 1X 62.68% 16328C [Urtas:Fair] [Sarson, the renegade magic user:V.Bad] T:51 Exits:S> 
+rescue Urtas
+
+Sarson, the renegade magic user staggers about confused!
+Sarson, the renegade magic user massacres Urtas with his drain.
+Sarson, the renegade magic user gasps in pain as he swings through the shadows surrounding Urtas.
+Your mighty cleave almost cuts Sarson, the renegade magic user in two!
+You cleave Sarson, the renegade magic user hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+
+764H 174V 1X 62.68% 16328C [Urtas:Fair] [Sarson, the renegade magic user:V.Bad] T:48 Exits:S> 
+What a self-sacrificing act! You're such a hero!
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:V.Bad] T:47 Exits:S> 
+
+Urtas slowly fades into existence.
+Urtas cleaves Sarson, the renegade magic user hard.
+
+764H 174V 1X 62.68% 16328C [Yabba:Perfect] [Sarson, the renegade magic user:V.Bad] T:46 Exits:S> 
+
+Your punch hand is ready to lay into someone again.
+Sarson, the renegade magic user staggers about confused!
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user drains YOU extremely hard.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+
+745H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:44 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+Sarson, the renegade magic user's hands issue a spray of prismatic color!
+Urtas is caught in a spray of bright orange!
+You are caught in a spray of radiant yellow!
+You feel weaker.
+
+723H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:44 Exits:S> 
+
+Urtas wiggles his fingers as he outlines Sarson, the renegade magic user's head in the air.
+
+723H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:41 Exits:S> 
+
+Urtas misses Sarson, the renegade magic user with his cleave.
+Sarson, the renegade magic user drains YOU extremely hard.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+
+703H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:40 Exits:S> 
+punch
+kick high 
+You give Sarson, the renegade magic user a solid punch in the face.
+
+703H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:38 Exits:S> 
+You try to sweep Sarson, the renegade magic user's legs, but are unable to.
+
+703H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:38 Exits:S> 
+
+Urtas focuses on you and utters some strange words.
+
+703H 174V 1X 62.68% 16328C [Yabba:V.Good] [Sarson, the renegade magic user:V.Bad] T:37 Exits:S> 
+
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user hard.
+
+679H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Bad] T:36 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user.
+Sarson, the renegade magic user massacres YOU with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+
+656H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Bad] T:32 Exits:S> 
+punch
+kick high 
+Alas, you are not ready yet.
+
+656H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:V.Bad] T:32 Exits:S> 
+Sarson, the renegade magic user utters some strange words.
+Sarson, the renegade magic user is surrounded by 3 shimmering spheres.
+You deliver a snap kick and hit Sarson, the renegade magic user in the chest.
+The satisfaction of that kick invigorates you, your arms swing freely.
+
+656H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Awful] T:32 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user massacres YOU with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user hard.
+
+634H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Awful] T:28 Exits:S> 
+l sarson
+You see a magic user unconstrained by the conclave of mages.  His magic is
+of his own device.  You can see him as he eyes the threat which you offer him.
+Sarson, the renegade magic user looks pretty hurt.
+
+Sarson, the renegade magic user is using:
+<worn about body>          a deep purple cloth robe
+
+634H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Awful] T:27 Exits:S> 
+
+Your punch hand is ready to lay into someone again.
+Urtas cleaves Sarson, the renegade magic user hard.
+Sarson, the renegade magic user drains YOU extremely hard.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+
+615H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Awful] T:24 Exits:S> 
+punch
+kick high 
+You give Sarson, the renegade magic user a solid punch in the face.
+
+615H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Awful] T:23 Exits:S> 
+You try to sweep Sarson, the renegade magic user's legs, but are unable to.
+
+615H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Awful] T:23 Exits:S> 
+sunder
+
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user massacres YOU with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user hard.
+
+589H 174V 1X 62.68% 16328C [Yabba:Good] [Sarson, the renegade magic user:Awful] T:20 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+Sarson, the renegade magic user's hands issue a spray of color!
+Urtas is caught in a spray of radiant yellow!
+You are caught in a spray of radiant yellow!
+You feel weaker.
+
+525H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:20 Exits:S> 
+You sunder Sarson, the renegade magic user's armour!
+
+525H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:19 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas wheels back and throws their axe at Sarson, the renegade magic user, hitting them squarely. The axe
+returns back to him after impact.
+Urtas cleaves Sarson, the renegade magic user hard.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user very hard.
+
+497H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:16 Exits:S> 
+
+Urtas focuses on you and utters some strange words.
+
+497H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:16 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+
+497H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:14 Exits:S> 
+
+Sarson, the renegade magic user massacres YOU with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user.
+
+472H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:12 Exits:S> 
+
+Urtas utters some strange words.
+Your skin begins to tingle as a rejuvenating wave of magic washes over you.
+
+472H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:12 Exits:S> 
+punch
+kick high 
+Alas, you are not ready yet.
+
+472H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:10 Exits:S> 
+You deliver a snap kick and hit Sarson, the renegade magic user in the chest.
+
+472H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:10 Exits:S> 
+
+Your body tingles slightly.
+Your punch hand is ready to lay into someone again.
+Sarson, the renegade magic user misses you with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You miss Sarson, the renegade magic user with your cleave.
+
+494H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:8 Exits:S> 
+
+Urtas lets out a mighty yell and fights like crazy!
+
+494H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:8 Exits:S> 
+
+Sarson, the renegade magic user utters some strange words.
+A bright bulb of light pops up over Sarson, the renegade magic user's head.
+
+494H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:8 Exits:S> 
+assault
+You begin to assault Sarson, the renegade magic user!
+
+494H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:5 Exits:S> 
+
+Your body tingles slightly.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user.
+You miss Sarson, the renegade magic user with your cleave.
+You cleave Sarson, the renegade magic user hard.
+
+491H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:4 Exits:S> 
+
+Your body tingles slightly.
+Urtas's mighty cleave almost cuts Sarson, the renegade magic user in two.
+Urtas cleaves Sarson, the renegade magic user hard.
+Urtas wheels back and throws their axe at Sarson, the renegade magic user, hitting them squarely. The axe
+returns back to him after impact.
+Urtas massacres Sarson, the renegade magic user with his cleave.
+Sarson, the renegade magic user massacres YOU with his drain.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user very hard.
+You cleave Sarson, the renegade magic user very hard.
+You are no longer resistant to magic.
+You feel more vigorous.
+
+472H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:60 Exits:S> 
+punch
+kick high 
+You give Sarson, the renegade magic user a solid punch in the face.
+
+472H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:58 Exits:S> 
+Sarson, the renegade magic user dodges away and your kick misses by a mile.
+
+472H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:58 Exits:S> 
+
+Your body tingles slightly.
+A primal need to kick something washes over you.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Urtas cleaves Sarson, the renegade magic user very hard.
+Sarson, the renegade magic user drains YOU extremely hard.
+Sarson, the renegade magic user massacres YOU with his drain.
+You cleave Sarson, the renegade magic user hard.
+You cleave Sarson, the renegade magic user hard.
+
+453H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:56 Exits:S> 
+
+Sarson, the renegade magic user focuses harshly on you and utters some strange words.
+YOU'RE HIT. A lightning bolt from Sarson, the renegade magic user has reached its goal.
+
+387H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:56 Exits:S> 
+
+Urtas wiggles his fingers as he outlines Sarson, the renegade magic user's head in the air.
+
+387H 174V 1X 62.68% 16328C [Yabba:Fair] [Sarson, the renegade magic user:Awful] T:54 Exits:S> 
+
+Urtas cleaves Sarson, the renegade magic user extremely hard.
+Sarson, the renegade magic user drains YOU extremely hard.
+Sarson, the renegade magic user misses you with his drain.
+You cleave Sarson, the renegade magic user very hard.
+get pile corpse
+You receive 0 experience.
+exa corpse
+Sarson, the renegade magic user is dead! R.I.P.
+The death cry of Sarson, the renegade magic user echoes from somewhere nearby...
+The magic user falls to the ground in agony and dies.
+
+366H 174V 1X 63.40% 16328C T:52 Exits:S> 
+What are you trying to get from?
+
+366H 174V 1X 63.40% 16328C T:52 Exits:S> 
+You do not see that here.
+
+366H 174V 1X 63.40% 16328C T:52 Exits:S> 
+l
+Dark Laboratory
+    Spacious living and working quarters are here for Sarson, the renegade
+arch-magus to do his macabre work.  There are several vials around the room
+in which recognizable body parts can be seen.  In one corner there is a
+summoning circle while in the other a small cot stands ready for an evening
+nap.
+A handful of toasted beetle legs have been dropped here.
+A small blob of rather disgusting flesh pulsates on the ground.
+Something red smears the ground.
+A pile of steel coins.
+A deep purple colored robe lies here in a pile.
+You see a thin obsidian wand lying here.
+A thin shard of mithril rests here, gleaming faintly.
+<DAWN> Urtas, the Other Half is standing here. (invisible)
+. . . enveloped in shadows.
+
+366H 174V 1X 63.40% 16328C T:50 Exits:S> 
+get all
+You get a handful of toasted beetle legs.
+You get a small pinch of human gray matter.
+You bend down and scoop up a lump of blood red mud.
+You get a large pile of coins.
+split 288
+There were 288 coins.
+You get a deep purple cloth robe.
+You get a thin obsidian wand.
+You get a thin shard of blue mithril.
+
+366H 174V 1X 63.40% 16616C T:45 Exits:S> 
+You divide 288 coins equally among the group members present.
+
+366H 174V 1X 63.40% 16472C T:45 Exits:S> 
+
+Your punch hand is ready to lay into someone again.
+
+366H 174V 1X 63.40% 16472C T:44 Exits:S> 
+rec recall me
+get recall chest
+You stop using a crystal shard necklace.
+You grab a glowing scroll of recall.
+You recite a glowing scroll of recall which dissolves.
+The Inn of Dawnguard
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+Some burnt pants of wild growth is lying here.
+A small wooden chest rests here.
+A flask of clear liquid rests here.
+Some unlucky person left behind a golden nugget.
+A glowing scroll has carelessly been left here...it glows dimly
+A small sterling dinner bell is here.
+Broken eggshells litter the ground.
+A collection of small crystal spheres roll about on the ground.
+A small fleshy sac lies here.
+A small abandoned hive has been knocked to the ground.
+A snake's tongue is here.
+A tiny steel key hangs from a chain here.
+<DAWN> Mentat the Male Dargonesti is resting here.
+<DAWN> Orzo the Ordinary Guy is standing here. (flying) (invisible)
+<DAWN> Azura the Male Hill Dwarf is standing here. (invisible)
+The stronghold receptionist is here, showing clan members to their rooms.
+
+366H 174V 1X 63.40% 16472C T:43 Exits:NESWUD> 
+
+Urtas appears in the middle of the room.
+
+366H 174V 1X 63.40% 16472C T:42 Exits:NESWUD> 
+
+Orzo says 'I say solace but we leave within 10 minutes'
+
+366H 174V 1X 63.40% 16472C T:41 Exits:NESWUD> 
+w
+
+Mentat says 'i'm rushing in pala with darby, lart etc'
+
+366H 174V 1X 63.40% 16472C T:38 Exits:NESWUD> 
+buy lore
+You get a glowing scroll of recall from a small wooden chest.
+
+366H 174V 1X 63.40% 16472C T:34 Exits:NESWUD> 
+Orzo nods solemnly.
+The Alchemy Lab of Dawnguard
+    A bubbling black cauldron, behind a sturdy mahogany counter, floods the
+room with potent and occasionally noxious odors. Crossing over the counter,
+near the ceiling hangs a long steel rack. From the rack hang a variety of
+curios with alchemical importance, including bat wings, lizard tails, and a
+length of chimera hair. Atop the rack are jars filled with strangely colored
+liquids, one of which is labeled dragon tears. Certainly, an aspiring
+alchemist could find some useful tools from this shop in the stronghold.
+<DAWN> Urtas, the Other Half is standing here. (invisible)
+. . . emits an eerie glow.
+The clan alchemist is standing here.
+
+366H 173V 1X 63.40% 16472C T:34 Exits:NE> 
+The clan alchemist tells you 'That'll cost you 195 coins.'
+You now have a scroll of legend lore.
+
+366H 173V 1X 63.40% 16277C T:34 Exits:NE> 
+
+Urtas snaps to attention and salutes.
+
+366H 173V 1X 63.40% 16277C T:33 Exits:NE> 
+in
+You are carrying:
+a scroll of legend lore
+a glowing scroll of recall..it glows dimly
+a crystal shard necklace..it glows dimly
+a thin shard of blue mithril
+a thin obsidian wand
+a deep purple cloth robe
+a lump of blood red mud
+a small pinch of human gray matter
+a handful of toasted beetle legs
+a leather shield with a crystal boss
+an iron key
+a plainsman's war hatchet
+a tiny steel key
+a milky potion of see invisible
+a white dragon scale shield
+a small wooden chest
+
+366H 173V 1X 63.40% 16277C T:32 Exits:NE> 
+
+Urtas leaves east.
+
+366H 173V 1X 63.40% 16277C T:30 Exits:NE> 
+l shard
+You see nothing special.
+
+366H 173V 1X 63.40% 16277C T:14 Exits:NE> 
+
+You feel the need, the need to assault someone.
+
+366H 173V 1X 63.40% 16277C T:12 Exits:NE> 
+exa shard
+The crystal looks pretty, despite its scratched surface. (82%)
+A crystal shard necklace has at least a day of light left.
+
+366H 173V 1X 63.40% 16277C T:12 Exits:NE> 
+exa mithril
+The helm is badly chipped and cracked. (56%)
+You feel informed:
+ Object 'helm mithril inlaid malachite'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: stone
+ Weight   : 5            Value   : 1000
+
+ Affects  : CON           by 1
+ Affects  : HIT           by 12
+ Effects  : WATERBREATH
+ Item is  : GLOW MAGIC BLESS
+ Restricts: NOMAGE NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Immune   : IMMUNE_HEAT
+ Apply    : 8
+A malachite inlaid mithril helm is wearable: head.
+
+366H 173V 1X 63.40% 16277C T:7 Exits:NE> 
+
+You feel more vigorous.
+
+306H 173V 1X 63.40% 16277C T:60 Exits:NE> 
+in
+You are carrying:
+a scroll of legend lore
+a glowing scroll of recall..it glows dimly
+a crystal shard necklace..it glows dimly
+a thin shard of blue mithril
+a thin obsidian wand
+a deep purple cloth robe
+a lump of blood red mud
+a small pinch of human gray matter
+a handful of toasted beetle legs
+a leather shield with a crystal boss
+an iron key
+a plainsman's war hatchet
+a tiny steel key
+a milky potion of see invisible
+a white dragon scale shield
+a small wooden chest
+
+306H 173V 1X 63.40% 16277C T:57 Exits:NE> 
+exa 2.mithril
+The armbands's metallic surface shines brilliantly. (98%)
+You feel informed:
+ Object 'armbands mithril diamond ruby'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: mithril
+ Weight   : 8            Value   : 800
+
+ Affects  : CON           by 1
+ Affects  : RESIST_HEAT   by 5
+ Affects  : RESIST_COLD   by 5
+ Item is  : ANTI_EVIL
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 12
+A pair of mithril armbands is wearable: arms.
+
+306H 173V 1X 63.40% 16277C T:55 Exits:NE> 
+exa 3.mithril
+The shard's metallic surface shines brilliantly. (100%)
+
+306H 173V 1X 63.40% 16277C T:52 Exits:NE> 
+sta
+You are already standing.
+
+306H 173V 1X 63.40% 16277C T:46 Exits:NE> 
+rec lore deep.purple
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'robe deep purple cloth'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 6            Value   : 300
+
+ Effects  : IMMUNE_COLD IMMUNE_HEAT
+ Item is  : MAGIC BLESS NORENT
+ Immune   : IMMUNE_COLD IMMUNE_ELECTRICITY IMMUNE_HEAT IMMUNE_MAGIC
+  The robe glows violently purple as your magic courses through it,
+  revealing thin runes of strong magic woven with a light purple
+  thread throughout the thick cloth robe.
+
+306H 173V 1X 63.40% 16277C T:42 Exits:NE> 
+l
+The Alchemy Lab of Dawnguard
+    A bubbling black cauldron, behind a sturdy mahogany counter, floods the
+room with potent and occasionally noxious odors. Crossing over the counter,
+near the ceiling hangs a long steel rack. From the rack hang a variety of
+curios with alchemical importance, including bat wings, lizard tails, and a
+length of chimera hair. Atop the rack are jars filled with strangely colored
+liquids, one of which is labeled dragon tears. Certainly, an aspiring
+alchemist could find some useful tools from this shop in the stronghold.
+The clan alchemist is standing here.
+
+306H 173V 1X 63.40% 16277C T:33 Exits:NE> 
+e
+The Inn of Dawnguard
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+Some burnt pants of wild growth is lying here.
+A small wooden chest rests here.
+A flask of clear liquid rests here.
+Some unlucky person left behind a golden nugget.
+A glowing scroll has carelessly been left here...it glows dimly
+A small sterling dinner bell is here.
+Broken eggshells litter the ground.
+A collection of small crystal spheres roll about on the ground.
+A small fleshy sac lies here.
+A small abandoned hive has been knocked to the ground.
+A snake's tongue is here.
+A tiny steel key hangs from a chain here.
+<DAWN> Urtas, the Other Half is resting here. (invisible)
+. . . emits an eerie glow.
+<DAWN> Mentat the Male Dargonesti is resting here.
+<DAWN> Orzo the Ordinary Guy is standing here. (flying) (invisible)
+<DAWN> Azura the Male Hill Dwarf is standing here. (invisible)
+The stronghold receptionist is here, showing clan members to their rooms.
+
+306H 172V 1X 63.40% 16277C T:32 Exits:NESWUD> 
+
+Orzo says 'druid, dk, shaman, thief all a big pain'
+
+306H 172V 1X 63.40% 16277C T:30 Exits:NESWUD> 
+give robe urtas
+You give a deep purple cloth robe to Urtas.
+
+306H 172V 1X 63.40% 16277C T:29 Exits:NESWUD> 
+in
+You are carrying:
+a glowing scroll of recall..it glows dimly
+a crystal shard necklace..it glows dimly
+a thin shard of blue mithril
+a thin obsidian wand
+a lump of blood red mud
+a small pinch of human gray matter
+a handful of toasted beetle legs
+a leather shield with a crystal boss
+an iron key
+a plainsman's war hatchet
+a tiny steel key
+a milky potion of see invisible
+a white dragon scale shield
+a small wooden chest
+
+306H 172V 1X 63.40% 16277C T:28 Exits:NESWUD> 
+give all.components urtas
+You do not seem to have anything like that.
+
+306H 172V 1X 63.40% 16277C T:24 Exits:NESWUD> 
+w
+The Alchemy Lab of Dawnguard
+    A bubbling black cauldron, behind a sturdy mahogany counter, floods the
+room with potent and occasionally noxious odors. Crossing over the counter,
+near the ceiling hangs a long steel rack. From the rack hang a variety of
+curios with alchemical importance, including bat wings, lizard tails, and a
+length of chimera hair. Atop the rack are jars filled with strangely colored
+liquids, one of which is labeled dragon tears. Certainly, an aspiring
+alchemist could find some useful tools from this shop in the stronghold.
+The clan alchemist is standing here.
+
+306H 171V 1X 63.40% 16277C T:21 Exits:NE> 
+buy lore
+The clan alchemist tells you 'That'll cost you 195 coins.'
+You now have a scroll of legend lore.
+
+306H 171V 1X 63.40% 16082C T:19 Exits:NE> 
+rec lore shard.mithril
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shard thin mithril blue'
+ Item Type: OTHER       
+ Mat Class: metal        Material: mithril
+ Weight   : 2            Value   : 150
+
+ Item is  : MAGIC
+
+306H 171V 1X 63.40% 16082C T:16 Exits:NE> 
+
+You feel more vigorous.
+You are hungry.
+You are thirsty.
+
+246H 171V 1X 63.40% 16082C T:60 Exits:NE> 
+e
+The Inn of Dawnguard
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+Some burnt pants of wild growth is lying here.
+A small wooden chest rests here.
+A flask of clear liquid rests here.
+Some unlucky person left behind a golden nugget.
+A glowing scroll has carelessly been left here...it glows dimly
+A small sterling dinner bell is here.
+Broken eggshells litter the ground.
+A collection of small crystal spheres roll about on the ground.
+A small fleshy sac lies here.
+A small abandoned hive has been knocked to the ground.
+A snake's tongue is here.
+A tiny steel key hangs from a chain here.
+<DAWN> Urtas, the Other Half is resting here. (invisible)
+. . . enveloped in shadows.
+<DAWN> Mentat the Male Dargonesti is resting here.
+<DAWN> Orzo the Ordinary Guy is standing here. (flying) (invisible)
+<DAWN> Azura the Male Hill Dwarf is standing here. (invisible)
+The stronghold receptionist is here, showing clan members to their rooms.
+
+246H 170V 1X 63.40% 16082C T:59 Exits:NESWUD> 
+give all.component urtas
+You give a lump of blood red mud to Urtas.
+You give a small pinch of human gray matter to Urtas.
+You give a handful of toasted beetle legs to Urtas.
+
+246H 170V 1X 63.40% 16082C T:55 Exits:NESWUD> 
+
+Orzo says 'yeah I wouldn't want to do solace as goodie'
+
+246H 170V 1X 63.40% 16082C T:48 Exits:NESWUD> 
+
+Urtas stands up.
+
+246H 170V 1X 63.40% 16082C T:46 Exits:NESWUD> 
+tug urtas
+You tug at his sleeve.
+
+246H 170V 1X 63.40% 16082C T:44 Exits:NESWUD> 
+
+Urtas utters some strange words.
+Urtas summons some ghost berries.
+
+246H 170V 1X 63.40% 16082C T:44 Exits:NESWUD> 
+
+Orzo says 'sewers are such a gong show'
+
+246H 170V 1X 63.40% 16082C T:43 Exits:NESWUD> 
+
+Urtas's stomach stops growling.
+Urtas appears rejuvenated.
+
+246H 170V 1X 63.40% 16082C T:40 Exits:NESWUD> 
+
+eat berry
+Urtas gives you an ethereal ghost berry.
+
+246H 170V 1X 63.40% 16082C T:39 Exits:NESWUD> 
+You eat an ethereal ghost berry.
+There is nothing left now.
+You are no longer hungry or thirsty.
+You feel satiated.
+Some of your nastier scrapes disappear.
+You feel less tired.
+
+290H 174V 1X 63.40% 16082C T:39 Exits:NESWUD> 
+
+Urtas drops an ethereal ghost berry.
+Urtas drops an ethereal ghost berry.
+Urtas drops an ethereal ghost berry.
+Urtas drops an ethereal ghost berry.
+Urtas drops an ethereal ghost berry.
+Urtas drops an ethereal ghost berry.
+Urtas drops an ethereal ghost berry.
+
+290H 174V 1X 63.40% 16082C T:39 Exits:NESWUD> 
+
+Urtas focuses on you and utters some strange words.
+Some of your nastier scrapes disappear.
+Your wounds begin to heal.
+
+350H 174V 1X 63.40% 16082C T:39 Exits:NESWUD> 
+
+Mentat nods solemnly.
+
+350H 174V 1X 63.40% 16082C T:38 Exits:NESWUD> 
+l
+Some of your nastier wounds disappear.
+The Inn of Dawnguard
+    You have entered a small room, containing only a desk, a registration
+book, and a small wooden chest with a slot carved in the top. There is a 
+sign above the desk requesting all Clan members to please sign the 
+registration book before heading to the bar and rooms, and to leave the 
+correct amount of steel in the wooden box. You can hear laughter and bragging
+from your Clanmates in the bar to the left. Clearly there has been some 
+great victory requiring celebration. To the right you hear snores, most 
+likely from the Clanmates who can't hold their liquor.
+A translucent berry is floating inches above the ground. [7]
+Some burnt pants of wild growth is lying here.
+A small wooden chest rests here.
+A flask of clear liquid rests here.
+Some unlucky person left behind a golden nugget.
+A glowing scroll has carelessly been left here...it glows dimly
+A small sterling dinner bell is here.
+Broken eggshells litter the ground.
+A collection of small crystal spheres roll about on the ground.
+A small fleshy sac lies here.
+A small abandoned hive has been knocked to the ground.
+A snake's tongue is here.
+A tiny steel key hangs from a chain here.
+<DAWN> Urtas, the Other Half is standing here. (invisible)
+. . . emits an eerie glow.
+<DAWN> Mentat the Male Dargonesti is resting here.
+<DAWN> Orzo the Ordinary Guy is standing here. (flying) (invisible)
+<DAWN> Azura the Male Hill Dwarf is standing here. (invisible)
+The stronghold receptionist is here, showing clan members to their rooms.
+
+426H 174V 1X 63.40% 16082C T:36 Exits:NESWUD> 
+sco
+You are Yabba the Male Half Ogre, a level 30 Legendary Warrior.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 33. You have completed 63.40% of your next rank.
+You are 21 years old.
+You have 426(764) hit and 174(174) movement points.
+Your behaviour has been Neutral.
+You have scored 215,999,999 exp, and have 16082(312040) steel coins.
+You have 2 rank points to spend.
+You have died 31 horrible deaths.
+You have been connected for 48 minute(s).
+You have been playing for 10 day(s), 6 hour(s) and 27 minute(s).
+Your natural ability scores are:
+    Str: 23 Int: 15 Wis: 15 Dex: 16 Con: 20 Cha: 17
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are affected by the following:
+    regenerate
+    tenacious heart
+    ray of enfeeblement
+    energy drain
+    detect invisibility
+
+426H 174V 1X 63.40% 16082C T:36 Exits:NESWUD> 
+in
+You are carrying:
+a glowing scroll of recall..it glows dimly
+a crystal shard necklace..it glows dimly
+a thin shard of blue mithril
+a thin obsidian wand
+a leather shield with a crystal boss
+an iron key
+a plainsman's war hatchet
+a tiny steel key
+a milky potion of see invisible
+a white dragon scale shield
+a small wooden chest
+
+426H 174V 1X 63.40% 16082C T:35 Exits:NESWUD> 
+
+Some of your nastier wounds disappear.
+
+502H 174V 1X 63.40% 16082C T:32 Exits:NESWUD> 
+u
+The Halls of Dawnguard
+    Vibrant red flames have been ignited from the small sconces lit on the
+sides of the sturdy oak walls in this region of the stronghold. The flames
+are not the result of a standard fire, but instead a strange chemical,
+possibly the product of the Deep Mine pyromancer's guild. This hall seems
+well travelled by the feet of adventurers, as scuff marks and divets mar
+the once perfectly smooth wooden floor. While it appears that janitors
+regularly make tours through the hall to keep it clean, some marks will
+last forever.
+A long and comfortable sofa stretches the length of the room.
+<DAWN> Urtas, the Other Half is standing here. (invisible)
+. . . emits an eerie glow.
+
+502H 173V 1X 63.40% 16082C T:31 Exits:NESWD> 
+e
+The Hut of Dawnguard
+    Animal hides and entrails line the walls of this cramped hut. The smell
+of old blood lingers in the air, mixing with the scents of leather and
+unsavory herbs to create a feeling of nausea in the pit of your stomach.
+Some drawstring pouches are draped from the wolf hide walls. In the center of
+the hut is a ring of jet black stones, with some sealed ceramic jars dotting
+the ground around it. A small altar, littered with rocks and charms sits on
+the rear wall.
+<DAWN> Urtas, the Other Half is standing here. (invisible)
+. . . enveloped in shadows.
+
+502H 172V 1X 63.40% 16082C T:30 Exits:W> 
+re
+You rest your tired bones but stay aloft.
+
+502H 172V 1X 63.40% 16082C T:30 Exits:W> 
+
+Urtas sits down and rests.
+
+502H 172V 1X 63.40% 16082C T:29 Exits:W> 
+
+Some of your nastier wounds disappear.
+
+574H 172V 1X 63.40% 16082C T:28 Exits:W> 
+
+Some of your nastier wounds disappear.
+
+638H 172V 1X 63.40% 16082C T:24 Exits:W> 
+
+Some of your nastier wounds disappear.
+
+702H 172V 1X 63.40% 16082C T:20 Exits:W> 
+
+Some of your nastier wounds disappear.
+
+764H 172V 1X 63.40% 16082C T:16 Exits:W> 
+
+Some of your nastier wounds disappear.
+
+764H 172V 1X 63.40% 16082C T:12 Exits:W> 
+
+Some of your nastier wounds disappear.
+
+764H 172V 1X 63.40% 16082C T:8 Exits:W> 
+
+Some of your nastier wounds disappear.
+Your wounds stop healing.
+
+764H 172V 1X 63.40% 16082C T:4 Exits:W> 

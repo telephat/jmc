@@ -1,0 +1,2710 @@
+Log: bandits-hideout-Urtas 
+Logging started: 18.11.2022 04:48\r 
+l
+Deep Into The Forest
+     The forest continues to expand in all directions. The trees grow tall
+and strong here, giving shelter to the many forest creatures that inhabit
+these woods. Eastward thorny bushes and thick ferns block travel more
+effectively than a stone wall would, while to the north the trees and
+bushes seem to form an almost impassable barrier.
+A deer is standing here.
+A rabbit is here, munching at some grass.
+A deer is standing here.
+A deer is standing here.
+
+484H 169V 4876767X 46.88% 9231C T:43 Exits:SW> 
+
+A deer leaves west.
+
+484H 169V 4876767X 46.88% 9231C T:41 Exits:SW> 
+
+A timid rabbit leaves south.
+
+484H 169V 4876767X 46.88% 9231C T:34 Exits:SW> 
+say '10se4sw5se3s8wn' from solace square
+You say ''10se4sw5se3s8wn' from solace square'
+
+484H 169V 4876767X 46.88% 9231C T:32 Exits:SW> 
+en opening
+You squeeze between the trees, trying to fit into the narrow opening.
+Between The Trees
+     You manage to wriggle among the thorny bushes and trees. Their wiry
+branches seem to tug at you, tearing your clothes and pricking your skin to
+the point of drawing blood. The narrow passage continues northward while to
+the south you can go back into the open forest though a small opening
+between the trees.
+
+484H 169V 4876767X 46.88% 9231C T:28 Exits:N> 
+
+484H 169V 4876767X 46.88% 9231C T:27 Exits:N> 
+n
+A Narrow Passage
+     The bushes clear somewhat, and you can now walk among them without
+getting scratched. The trees continue to grow tall here but to the north
+they seem to end in a large clearing in the middle of the forest.
+
+484H 167V 4876767X 46.88% 9231C T:26 Exits:NS> 
+n
+Before A Camp
+     The trees suddenly end here, forming a large clearing to the north.
+The soft, pleasant sounds of the wild forest give way to the harsher sounds
+of civilization. You stand before what seems to be a small camp made of
+old, brown tents set up in an ordered fashion. The tents are covered with
+tree branches| it looks like someone took care to hide this place from
+curious eyes. A narrow passage among thorny bushes leads southward, toward
+a dense forest.
+
+484H 165V 4876767X 46.88% 9231C T:20 Exits:NS> 
+n
+A Path Through The Camp
+     You stand within the camp's perimeter. You notice that the tents are
+made from thick, worn canvas and appear quite old. The ground, once covered
+by grass, has now been trod to filthy mud. The camp expands to the north,
+while to the south a small path leads towards the forest.
+
+484H 163V 4876767X 46.88% 9231C T:14 Exits:NS> 
+ex
+Obvious exits:
+North - Too dark to tell
+South - Too dark to tell
+
+484H 163V 4876767X 46.88% 9231C T:5 Exits:NS> 
+scan
+Looking north:
+The path leads into the camp.
+Looking east:
+Small trees and bushes line the path.
+Looking south:
+The path leads towards the forest.
+Looking west:
+Small trees and bushes line the path.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+484H 163V 4876767X 46.88% 9231C T:4 Exits:NS> 
+n
+A Path Through The Camp
+     The path continues to the north. You find yourself standing on the gap
+between two of the brown canvas tents that fill the camp. The dirt below
+you seems recently and heavily walked on. To the north you can make out
+some sort of crossroads, probably the center of the camp. To the south you
+can still see the forest and safety.
+A bandit guard is patrolling the camp.
+
+484H 171V 4876767X 46.88% 9231C T:59 Exits:NS> 
+kil guard
+You cleave a bandit guard very hard.
+
+484H 171V 4876415X 46.88% 9231C [Urtas:Perfect] [a bandit guard:Good] T:56 Exits:NS> 
+
+A bandit guard gives you a solid punch in the face.
+
+477H 171V 4876415X 46.88% 9231C [Urtas:V.Good] [a bandit guard:Good] T:53 Exits:NS> 
+
+You massacre a bandit guard with your cleave.
+A bandit guard misses you with his pierce.
+
+477H 171V 4875931X 46.88% 9231C [Urtas:V.Good] [a bandit guard:Fair] T:52 Exits:NS> 
+fren
+A red mist blurs your vision and you let out a mighty yell!
+
+477H 171V 4875931X 46.88% 9231C [Urtas:V.Good] [a bandit guard:Fair] T:51 Exits:NS> 
+
+You massacre a bandit guard with your cleave.
+You massacre a bandit guard with your cleave.
+A bandit guard misses you with his pierce.
+
+477H 171V 4874809X 46.88% 9231C [Urtas:V.Good] [a bandit guard:V.Bad] T:48 Exits:NS> 
+
+A bandit guard arrives from the north.
+A bandit guard kicks you in the face, breaking teeth and bone. Blood flies as your head is rocked back.
+A bandit guard appears to be tracking someone.
+A bandit guard tries to punch you, but you deftly avoid his blow.
+
+471H 171V 4874809X 46.88% 9231C [Urtas:V.Good] [a bandit guard:V.Bad] T:47 Exits:NS> 
+
+A bandit guard arrives from the north.
+A bandit guard appears to be tracking someone.
+A bandit guard tries to punch you, but you deftly avoid his blow.
+
+471H 171V 4874809X 46.88% 9231C [Urtas:V.Good] [a bandit guard:V.Bad] T:47 Exits:NS> 
+hex
+You scream wildly and cuss at a bandit guard.
+A bandit guard briefly reveals a red aura!
+A bandit guard groans and stumbles back.
+
+471H 171V 4874809X 46.88% 9231C [Urtas:V.Good] [a bandit guard:V.Bad] T:45 Exits:NS> 
+
+A bandit guard misses you with his pierce.
+A bandit guard misses you with his pierce.
+You massacre a bandit guard with your cleave.
+You massacre a bandit guard with your cleave.
+get pile corpse
+You receive 18752 experience.
+exa corpse
+A bandit guard is dead! R.I.P.
+The death cry of a bandit guard echoes from somewhere nearby...
+You direct your attention to a bandit guard.
+
+471H 171V 4854913X 46.88% 9231C [Urtas:V.Good] [a bandit guard:Perfect] T:44 Exits:NS> 
+
+A bandit guard arrives from the north.
+A bandit guard tries to sweep your legs, but you avoid the attack.
+A bandit guard kicks you in the face, breaking teeth and bone. Blood flies as your head is rocked back.
+A bandit guard appears to be tracking someone.
+
+467H 171V 4854913X 46.88% 9231C [Urtas:V.Good] [a bandit guard:Perfect] T:42 Exits:NS> 
+You get a pile of coins from the corpse of a bandit guard.
+split 28
+There were 28 coins.
+
+467H 171V 4854913X 46.88% 9259C [Urtas:V.Good] [a bandit guard:Perfect] T:41 Exits:NS> 
+You massacre a bandit guard with your cleave.
+A bandit guard misses you with his pierce.
+A bandit guard misses you with his pierce.
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+467H 171V 4854385X 46.88% 9259C [Urtas:V.Good] [a bandit guard:Good] T:40 Exits:NS> 
+You belong to no group.
+
+467H 171V 4854385X 46.88% 9259C [Urtas:V.Good] [a bandit guard:Good] T:40 Exits:NS> 
+fren
+A red mist blurs your vision and you let out a mighty yell!
+
+467H 171V 4854385X 46.88% 9259C [Urtas:V.Good] [a bandit guard:Good] T:39 Exits:NS> 
+
+A bandit guard misses you with his pierce.
+A bandit guard misses you with his pierce.
+Your mighty cleave almost cuts a bandit guard in two!
+You massacre a bandit guard with your cleave.
+You cleave a bandit guard very hard.
+A bandit guard misses you with his pierce.
+A bandit guard misses you with his pierce.
+A bandit guard misses you with his pierce.
+
+467H 171V 4853483X 46.88% 9259C [Urtas:V.Good] [a bandit guard:Bad] T:36 Exits:NS> 
+
+You dodge out of the way of a bandit guard's mistargeted kick.
+
+467H 171V 4853483X 46.88% 9259C [Urtas:V.Good] [a bandit guard:Bad] T:35 Exits:NS> 
+
+A bandit guard misses you with his pierce.
+You cleave a bandit guard extremely hard.
+You massacre a bandit guard with your cleave.
+A bandit guard panics, and attempts to flee.
+A bandit guard leaves south.
+A bandit guard cringes in fear and fails to swing at you!
+A bandit guard misses you with his pierce.
+
+467H 171V 4852449X 46.88% 9259C [Urtas:V.Good] [a bandit guard:Awful] T:32 Exits:NS> 
+l
+A Path Through The Camp
+     The path continues to the north. You find yourself standing on the gap
+between two of the brown canvas tents that fill the camp. The dirt below
+you seems recently and heavily walked on. To the north you can make out
+some sort of crossroads, probably the center of the camp. To the south you
+can still see the forest and safety.
+The corpse of a bandit guard is lying here.
+A bandit guard is standing here, fighting YOU.
+A bandit guard is standing here, fighting YOU.
+
+467H 171V 4852449X 46.88% 9259C [Urtas:V.Good] [a bandit guard:Awful] T:32 Exits:NS> 
+
+A bandit guard tries to disarm your weapon, but you deftly avoid him.
+
+467H 171V 4852449X 46.88% 9259C [Urtas:V.Good] [a bandit guard:Awful] T:29 Exits:NS> 
+
+A bandit guard misses you with his pierce.
+You wheel back and throw your axe at a bandit guard, hitting them squarely. The axe
+then returns after its job is done.
+get pile corpse
+You receive 15698 experience.
+exa corpse
+A bandit guard is dead! R.I.P.
+The throw of your axe ends your opponent's life.
+The death cry of a bandit guard echoes from somewhere nearby...
+You direct your attention to a bandit guard.
+
+467H 171V 4836245X 46.88% 9259C [Urtas:V.Good] [a bandit guard:Perfect] T:28 Exits:NS> 
+You get a pile of coins from the corpse of a bandit guard.
+split 28
+There were 28 coins.
+
+467H 171V 4836245X 46.88% 9287C [Urtas:V.Good] [a bandit guard:Perfect] T:28 Exits:NS> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+467H 171V 4836245X 46.88% 9287C [Urtas:V.Good] [a bandit guard:Perfect] T:28 Exits:NS> 
+You belong to no group.
+
+467H 171V 4836245X 46.88% 9287C [Urtas:V.Good] [a bandit guard:Perfect] T:28 Exits:NS> 
+l
+A Path Through The Camp
+     The path continues to the north. You find yourself standing on the gap
+between two of the brown canvas tents that fill the camp. The dirt below
+you seems recently and heavily walked on. To the north you can make out
+some sort of crossroads, probably the center of the camp. To the south you
+can still see the forest and safety.
+The corpse of a bandit guard is lying here. [2]
+A bandit guard is standing here, fighting YOU.
+
+467H 171V 4836245X 46.88% 9287C [Urtas:V.Good] [a bandit guard:Perfect] T:27 Exits:NS> 
+fren
+A red mist blurs your vision and you let out a mighty yell!
+
+467H 171V 4836245X 46.88% 9287C [Urtas:V.Good] [a bandit guard:Perfect] T:26 Exits:NS> 
+
+The ghostly hue vanishes from your flesh.
+Your mighty cleave almost cuts a bandit guard in two!
+You massacre a bandit guard with your cleave.
+You massacre a bandit guard with your cleave.
+A bandit guard misses you with his pierce.
+
+467H 171V 4835057X 46.88% 9287C [Urtas:V.Good] [a bandit guard:Fair] T:24 Exits:NS> 
+hex
+You scream wildly and cuss at a bandit guard.
+A bandit guard briefly reveals a red aura!
+
+467H 171V 4835057X 46.88% 9287C [Urtas:V.Good] [a bandit guard:Fair] T:22 Exits:NS> 
+
+You massacre a bandit guard with your cleave.
+You wheel back and throw your axe at a bandit guard, hitting them squarely. The axe
+then returns after its job is done.
+You massacre a bandit guard with your cleave.
+get pile corpse
+You receive 15664 experience.
+exa corpse
+A bandit guard is dead! R.I.P.
+The death cry of a bandit guard echoes from somewhere nearby...
+
+467H 171V 4817457X 46.88% 9287C T:20 Exits:NS> 
+You get a pile of coins from the corpse of a bandit guard.
+split 42
+There were 42 coins.
+
+467H 171V 4817457X 46.88% 9329C T:18 Exits:NS> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+467H 171V 4817457X 46.88% 9329C T:17 Exits:NS> 
+You belong to no group.
+
+467H 171V 4817457X 46.88% 9329C T:17 Exits:NS> 
+s
+A Path Through The Camp
+     You stand within the camp's perimeter. You notice that the tents are
+made from thick, worn canvas and appear quite old. The ground, once covered
+by grass, has now been trod to filthy mud. The camp expands to the north,
+while to the south a small path leads towards the forest.
+A bandit guard is patrolling the camp.
+. . . is cowering in fear.
+
+467H 169V 4817457X 46.88% 9329C T:16 Exits:NS> 
+kil guard
+You wheel back and throw your axe at a bandit guard, hitting them squarely. The axe
+then returns after its job is done.
+You cleave a bandit guard extremely hard.
+
+467H 169V 4816401X 46.88% 9329C [Urtas:V.Good] [a bandit guard:Fair] T:15 Exits:NS> 
+
+You massacre a bandit guard with your cleave.
+A bandit guard misses you with his pierce.
+
+467H 169V 4815851X 46.88% 9329C [Urtas:V.Good] [a bandit guard:V.Bad] T:12 Exits:NS> 
+
+A bandit guard stumbles and falls while trying to bash you.
+
+467H 169V 4815851X 46.88% 9329C [Urtas:V.Good] [a bandit guard:V.Bad] T:11 Exits:NS> 
+
+You massacre a bandit guard with your cleave.
+A bandit guard misses you with his pierce.
+
+467H 169V 4815235X 46.88% 9329C [Urtas:V.Good] [a bandit guard:Awful] T:8 Exits:NS> 
+l
+A Path Through The Camp
+     You stand within the camp's perimeter. You notice that the tents are
+made from thick, worn canvas and appear quite old. The ground, once covered
+by grass, has now been trod to filthy mud. The camp expands to the north,
+while to the south a small path leads towards the forest.
+A bandit guard is sitting here, fighting YOU.
+. . . is cowering in fear.
+
+467H 169V 4815235X 46.88% 9329C [Urtas:V.Good] [a bandit guard:Awful] T:7 Exits:NS> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 34. You have completed 46.88% of your next rank.
+You are 20 years old.
+You have 467(484) hit and 169(173) movement points.
+Your behaviour has been Neutral.
+You have scored 211,184,765 exp, and have 9329(463142) steel coins.
+You need 4,815,235 more experience to advance.
+You have died 30 horrible deaths.
+You have been connected for 11 minute(s).
+You have been playing for 12 day(s), 2 hour(s) and 54 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are fighting a bandit guard.
+You are affected by the following:
+    ancestral shroud     [22 hrs]
+    spectral sight       [22 hrs]
+    spectral glow        [52 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [28 hrs]
+    ethereal armor       [1 hour]
+
+467H 169V 4815235X 46.88% 9329C [Urtas:V.Good] [a bandit guard:Awful] T:5 Exits:NS> 
+
+You cleave a bandit guard extremely hard.
+A bandit guard is incapacitated and will slowly die, if not aided.
+
+467H 169V 4814795X 46.88% 9329C [a bandit guard:Dying] T:4 Exits:NS> 
+eq
+You are using:
+<worn on finger>           a small quartz ring..it glows dimly
+<worn on finger>           a spun silver ring..it glows dimly
+<worn around neck>         a crystal shard necklace..it glows dimly
+<worn on body>             a cuirass of tattooed kender skin..it hums softly
+<worn on head>             a hawk faced mask
+<worn on feet>             a pair of blue shoes
+<worn on hands>            a pair of spider shaped braces
+<worn about body>          a red and green striped minotaur's cloak
+<worn about waist>         a fetish lined pixie skull girdle of spirits
+<worn around right wrist>  a rat hide bracelet
+<used in both hands>       the axe of hurling..it hums softly
+
+467H 169V 4814795X 46.88% 9329C [a bandit guard:Dying] T:4 Exits:NS> 
+
+You obliterate a bandit guard with your cleave.
+get pile corpse
+You receive 15628 experience.
+exa corpse
+A bandit guard is dead! R.I.P.
+The death cry of a bandit guard echoes from somewhere nearby...
+
+484H 173V 4799167X 46.88% 9329C T:60 Exits:NS> 
+You get a pile of coins from the corpse of a bandit guard.
+split 22
+There were 22 coins.
+
+484H 173V 4799167X 46.88% 9351C T:60 Exits:NS> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+484H 173V 4799167X 46.88% 9351C T:60 Exits:NS> 
+You belong to no group.
+
+484H 173V 4799167X 46.88% 9351C T:60 Exits:NS> 
+n
+A Path Through The Camp
+     The path continues to the north. You find yourself standing on the gap
+between two of the brown canvas tents that fill the camp. The dirt below
+you seems recently and heavily walked on. To the north you can make out
+some sort of crossroads, probably the center of the camp. To the south you
+can still see the forest and safety.
+The corpse of a bandit guard is lying here. [3]
+
+484H 171V 4799167X 46.88% 9351C T:58 Exits:NS> 
+n
+In The Middle Of The Camp
+     You have reached the middle of the camp. Someone has dug a well here|
+it is filled with clear, cold water. You are surrounded by old, worn tents.
+Whoever lives here doesn't seem to mind much about hygiene as the camp is
+filled with the debris of cooking fires and broken jugs of rotgut whiskey.
+A large tent, taller than the rest, stands to the north.
+
+484H 169V 4799167X 46.88% 9351C T:57 Exits:NESW> 
+n
+A Path Through The Camp
+     The path leading towards the large tent to the north is somewhat
+cleaner than the rest of the camp. Whatever or whoever is in the tents must
+be important enough to warrant such attention. To the east and west stand
+two of the common canvas tents of the camp, while a crossroad lies just
+south of here.
+
+484H 167V 4799167X 46.88% 9351C T:54 Exits:N(E)SW> 
+e
+The flaps seems to be closed.
+
+484H 167V 4799167X 46.88% 9351C T:51 Exits:N(E)SW> 
+op flaps
+Ok.
+
+484H 167V 4799167X 46.88% 9351C T:50 Exits:NESW> 
+scan
+Looking north:
+The path continues towards a large tent.
+Looking east:
+You see nothing special.
+The flaps is open.
+A bound and gagged goblin is lying in a corner.
+Looking south:
+The path leads to the center of the camp.
+Looking west:
+You see nothing special.
+The flaps is open.
+A bandit, trained as a blacksmith, is repairing some damaged weapons.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+484H 167V 4799167X 46.88% 9351C T:49 Exits:NESW> 
+e
+Inside A Tent
+     You enter a fairly spacious tent. A large cot made of wood and
+relatively clean cloth is standing against the south wall of the tent. A
+box filled with various items of clothing is placed next to the east wall.
+A long hooded cloak, now torn and muddy almost beyond recognition, seems to
+have found a new use as a carpet. The camp lies to the west.
+A bound and gagged goblin is lying in a corner.
+
+484H 166V 4799167X 46.88% 9351C T:46 Exits:W> 
+l goblin
+Bound and gagged, this goblin is a pathetic sight. Dusty and tattered rags
+cover his rough, green skin. He has obviously been through several rigorous
+tortures as his body is horribly bruised and his wounds bleed slowly.
+A goblin spy is in an excellent condition.
+
+484H 166V 4799167X 46.88% 9351C T:41 Exits:W> 
+free goblin
+The ropes constricting the goblin are too tight to untie, so you draw your
+weapon to cut them off. The goblin shudders as it watches you walking
+towards him. It relaxes only when it sees you cut its bonds, and, as soon
+as you remove the rug that gags it, it begins speaking quickly:
+
+'Me Sainis. Master Toede had news, other highlord in area, strong one. He
+sent me to watch and learn, if other highlord threat to great Toede. Came,
+but too many humans!'
+
+The goblin waves both its hands, the fingers open...
+
+'Four! Too many! I find hidden camp, humans try to confuse me in forest,
+they make sounds like owls in deep wood! But me smart, no owls in day
+right? So I find hidden camp but four humans capture me! Thank you for
+freeing me, Master Toede will learn about you!'
+
+With these words, the goblin darts outside and is quickly lost from view.
+get pile corpse
+You receive 10000 experience.
+
+484H 166V 4789167X 46.88% 9351C T:35 Exits:W> 
+What are you trying to get from?
+
+484H 166V 4789167X 46.88% 9351C T:35 Exits:W> 
+
+The shadows surrounding you disperse.
+
+484H 173V 4789167X 46.88% 9351C T:60 Exits:W> 
+l
+Inside A Tent
+     You enter a fairly spacious tent. A large cot made of wood and
+relatively clean cloth is standing against the south wall of the tent. A
+box filled with various items of clothing is placed next to the east wall.
+A long hooded cloak, now torn and muddy almost beyond recognition, seems to
+have found a new use as a carpet. The camp lies to the west.
+
+484H 173V 4789167X 46.88% 9351C T:42 Exits:W> 
+w
+A Path Through The Camp
+     The path leading towards the large tent to the north is somewhat
+cleaner than the rest of the camp. Whatever or whoever is in the tents must
+be important enough to warrant such attention. To the east and west stand
+two of the common canvas tents of the camp, while a crossroad lies just
+south of here.
+
+484H 172V 4789167X 46.88% 9351C T:40 Exits:NESW> 
+c 'eth'
+You utter the words, 'ethereal armor'
+You are surrounded by swirling shadows.
+
+484H 172V 4789167X 46.88% 9351C Mem:2 T:39 Exits:NESW> 
+scan
+Looking north:
+The path continues towards a large tent.
+Looking east:
+You see nothing special.
+The flaps is open.
+Looking south:
+The path leads to the center of the camp.
+Looking west:
+You see nothing special.
+The flaps is open.
+A bandit, trained as a blacksmith, is repairing some damaged weapons.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+484H 172V 4789167X 46.88% 9351C Mem:2 T:35 Exits:NESW> 
+w
+Inside A Makeshift Forge
+     You stand inside a makeshift forge. A small stone furnace has been
+built here, and a heavy anvil is resting on the ground nearby. The furnace
+has been constructed from carefully cut stones and mortar, and is filled
+with red-hot coals. The high temperature here makes you sweat and long for
+the cold air outside. Various tools, carefully wrapped in oilskin rags and
+hidden under a small tent for protection from the elements, are placed on a
+shelf next to the furnace.
+A bandit, trained as a blacksmith, is repairing some damaged weapons.
+
+484H 171V 4789167X 46.88% 9351C Mem:2 T:31 Exits:E> 
+listen bandit
+You pause and listen to what he is saying.
+
+484H 171V 4789167X 46.88% 9351C Mem:2 T:27 Exits:E> 
+l bandit
+A tall man with broad shoulders, the blacksmith is dressed in a leather
+apron covered with soot. His body is glistening with sweat, as he works
+hard to repair dented blades and mend damaged armor.
+A bandit blacksmith is in an excellent condition.
+
+a bandit blacksmith is using:
+<held in secondary hand>   some blacksmith's tools
+
+484H 171V 4789167X 46.88% 9351C Mem:2 T:25 Exits:E> 
+kil bandit
+You massacre a bandit blacksmith with your cleave.
+
+484H 171V 4788617X 46.88% 9351C [Urtas:Perfect] [a bandit blacksmith:Good] Mem:2 T:22 Exits:E> 
+
+You cleave a bandit blacksmith extremely hard.
+A bandit blacksmith misses you with his crush.
+
+484H 171V 4788155X 46.88% 9351C [Urtas:Perfect] [a bandit blacksmith:Fair] Mem:2 T:20 Exits:E> 
+fren
+A red mist blurs your vision and you let out a mighty yell!
+
+484H 171V 4788155X 46.88% 9351C [Urtas:Perfect] [a bandit blacksmith:Fair] Mem:2 T:18 Exits:E> 
+
+Your mighty cleave almost cuts a bandit blacksmith in two!
+You massacre a bandit blacksmith with your cleave.
+You massacre a bandit blacksmith with your cleave.
+A bandit blacksmith misses you with his crush.
+
+484H 171V 4787143X 46.88% 9351C [Urtas:Perfect] [a bandit blacksmith:Awful] Mem:2 T:16 Exits:E> 
+
+Your mighty cleave almost cuts a bandit blacksmith in two!
+You cleave a bandit blacksmith extremely hard.
+A bandit blacksmith is mortally wounded, and will die soon, if not aided.
+
+484H 171V 4786725X 46.88% 9351C [a bandit blacksmith:Dying] Mem:2 T:12 Exits:E> 
+
+You obliterate a bandit blacksmith with your cleave.
+get pile corpse
+You receive 14844 experience.
+exa corpse
+A bandit blacksmith is dead! R.I.P.
+The death cry of a bandit blacksmith echoes from somewhere nearby...
+
+484H 171V 4771881X 47.84% 9351C Mem:2 T:8 Exits:E> 
+The corpse doesn't seem to have what you are looking for.
+
+484H 171V 4771881X 47.84% 9351C Mem:2 T:8 Exits:E> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+some blacksmith's tools
+
+484H 171V 4771881X 47.84% 9351C Mem:2 T:8 Exits:E> 
+get all corpse
+You get some blacksmith's tools from the corpse of a bandit blacksmith.
+
+484H 171V 4771881X 47.84% 9351C Mem:2 T:7 Exits:E> 
+l room
+Inside A Makeshift Forge
+     You stand inside a makeshift forge. A small stone furnace has been
+built here, and a heavy anvil is resting on the ground nearby. The furnace
+has been constructed from carefully cut stones and mortar, and is filled
+with red-hot coals. The high temperature here makes you sweat and long for
+the cold air outside. Various tools, carefully wrapped in oilskin rags and
+hidden under a small tent for protection from the elements, are placed on a
+shelf next to the furnace.
+The corpse of a bandit blacksmith is lying here.
+
+484H 171V 4771881X 47.84% 9351C Mem:2 T:5 Exits:E> 
+l mortar
+You do not see that here.
+
+484H 173V 4771881X 47.84% 9351C Mem:1 T:59 Exits:E> 
+e
+A Path Through The Camp
+     The path leading towards the large tent to the north is somewhat
+cleaner than the rest of the camp. Whatever or whoever is in the tents must
+be important enough to warrant such attention. To the east and west stand
+two of the common canvas tents of the camp, while a crossroad lies just
+south of here.
+
+484H 172V 4771881X 47.84% 9351C Mem:1 T:59 Exits:NESW> 
+n
+Before A Large Tent
+     You stand before a large tent. You can now see that it's not only
+taller and larger than the rest, it's also better preserved. The ground is
+relatively clean here| even some of the grass spouting around the tent's
+perimeter has been preserved. You judge that you are now at approximately
+the center of the forest clearing.
+A bandit is walking around, carrying out his everyday duties.
+A stout bandit guard is standing here, guarding the entrance to the tent.
+
+484H 170V 4771881X 47.84% 9351C Mem:1 T:58 Exits:(N)S> 
+l
+
+A bandit leaves south.
+
+484H 170V 4771881X 47.84% 9351C Mem:1 T:54 Exits:(N)S> 
+Before A Large Tent
+     You stand before a large tent. You can now see that it's not only
+taller and larger than the rest, it's also better preserved. The ground is
+relatively clean here| even some of the grass spouting around the tent's
+perimeter has been preserved. You judge that you are now at approximately
+the center of the forest clearing.
+A stout bandit guard is standing here, guarding the entrance to the tent.
+
+484H 170V 4771881X 47.84% 9351C Mem:1 T:54 Exits:(N)S> 
+s
+A Path Through The Camp
+     The path leading towards the large tent to the north is somewhat
+cleaner than the rest of the camp. Whatever or whoever is in the tents must
+be important enough to warrant such attention. To the east and west stand
+two of the common canvas tents of the camp, while a crossroad lies just
+south of here.
+A bandit is walking around, carrying out his everyday duties.
+
+484H 168V 4771881X 47.84% 9351C Mem:1 T:51 Exits:NESW> 
+l bandit
+You see a young man, obviously bored by his daily duties. He appears to be
+unarmed, except for a long dagger thrust into his belt.
+A bandit is in an excellent condition.
+
+484H 168V 4771881X 47.84% 9351C Mem:1 T:49 Exits:NESW> 
+kil bandit
+You massacre a bandit with your cleave.
+
+484H 168V 4771387X 47.84% 9351C [Urtas:Perfect] [a bandit:Fair] Mem:1 T:46 Exits:NESW> 
+
+You cleave a bandit very hard.
+You massacre a bandit with your cleave.
+A bandit barely hits YOU.
+A bandit gasps in pain as he swings through the shadows surrounding you.
+
+478H 168V 4770519X 47.84% 9351C [Urtas:V.Good] [a bandit:V.Bad] Mem:1 T:44 Exits:NESW> 
+
+A bandit shouts 'Help! Help! Urtas is attacking me!'
+
+478H 168V 4770519X 47.84% 9351C [Urtas:V.Good] [a bandit:V.Bad] Mem:1 T:42 Exits:NESW> 
+
+You wheel back and throw your axe at a bandit, hitting them squarely. The axe
+then returns after its job is done.
+A bandit is stunned, but will likely regain consciousness again.
+You massacre a bandit with your cleave.
+get pile corpse
+You receive 11326 experience.
+exa corpse
+A bandit is dead! R.I.P.
+The death cry of a bandit echoes from somewhere nearby...
+
+478H 168V 4758779X 47.84% 9351C Mem:1 T:40 Exits:NESW> 
+You get a small pile of coins from the corpse of a bandit.
+split 4
+There were 4 coins.
+
+478H 168V 4758779X 47.84% 9355C Mem:1 T:40 Exits:NESW> 
+fren
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+478H 168V 4758779X 47.84% 9355C Mem:1 T:40 Exits:NESW> 
+You belong to no group.
+
+478H 168V 4758779X 47.84% 9355C Mem:1 T:40 Exits:NESW> 
+You are not fighting anyone.
+
+478H 168V 4758779X 47.84% 9355C Mem:1 T:39 Exits:NESW> 
+l
+A Path Through The Camp
+     The path leading towards the large tent to the north is somewhat
+cleaner than the rest of the camp. Whatever or whoever is in the tents must
+be important enough to warrant such attention. To the east and west stand
+two of the common canvas tents of the camp, while a crossroad lies just
+south of here.
+The corpse of a bandit is lying here.
+
+478H 168V 4758779X 47.84% 9355C Mem:1 T:39 Exits:NESW> 
+n
+Before A Large Tent
+     You stand before a large tent. You can now see that it's not only
+taller and larger than the rest, it's also better preserved. The ground is
+relatively clean here| even some of the grass spouting around the tent's
+perimeter has been preserved. You judge that you are now at approximately
+the center of the forest clearing.
+A stout bandit guard is standing here, guarding the entrance to the tent.
+
+478H 166V 4758779X 47.84% 9355C Mem:1 T:37 Exits:(N)S> 
+kil guard
+You cleave a stout bandit guard extremely hard.
+
+478H 166V 4758207X 47.84% 9355C [Urtas:V.Good] [a stout bandit guard:Good] Mem:1 T:34 Exits:(N)S> 
+
+You cleave a stout bandit guard extremely hard.
+A stout bandit guard misses you with his hit.
+
+478H 166V 4757607X 47.84% 9355C [Urtas:V.Good] [a stout bandit guard:Fair] Mem:1 T:32 Exits:(N)S> 
+fren
+A red mist blurs your vision and you let out a mighty yell!
+
+478H 166V 4757607X 47.84% 9355C [Urtas:V.Good] [a stout bandit guard:Fair] Mem:1 T:29 Exits:(N)S> 
+
+You massacre a stout bandit guard with your cleave.
+You massacre a stout bandit guard with your cleave.
+A stout bandit guard misses you with his hit.
+
+478H 166V 4755949X 47.84% 9355C [Urtas:V.Good] [a stout bandit guard:V.Bad] Mem:1 T:28 Exits:(N)S> 
+
+You massacre a stout bandit guard with your cleave.
+A stout bandit guard misses you with his hit.
+
+478H 166V 4755121X 47.84% 9355C [Urtas:V.Good] [a stout bandit guard:Awful] Mem:1 T:24 Exits:(N)S> 
+
+You dodge out of the way of a stout bandit guard's mistargeted kick.
+
+478H 166V 4755121X 47.84% 9355C [Urtas:V.Good] [a stout bandit guard:Awful] Mem:1 T:24 Exits:(N)S> 
+
+You massacre a stout bandit guard with your cleave.
+get pile corpse
+You receive 32148 experience.
+exa corpse
+A stout bandit guard is dead! R.I.P.
+The death cry of a stout bandit guard echoes from somewhere nearby...
+A spirit rises from the body of a stout bandit guard.
+
+478H 166V 4722287X 48.79% 9355C Mem:1 T:20 Exits:(N)S> 
+You get a pile of coins from the corpse of a stout bandit guard.
+split 10
+There were 10 coins.
+
+478H 166V 4722287X 48.79% 9365C Mem:1 T:20 Exits:(N)S> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+478H 166V 4722287X 48.79% 9365C Mem:1 T:20 Exits:(N)S> 
+You belong to no group.
+
+478H 166V 4722287X 48.79% 9365C Mem:1 T:20 Exits:(N)S> 
+cont spirit
+The spirit of a stout bandit guard fades into existence as you bind it to this world.
+The spirit of a stout bandit guard starts following you.
+
+478H 166V 4722287X 48.79% 9365C Mem:1 T:19 Exits:(N)S> 
+l
+Before A Large Tent
+     You stand before a large tent. You can now see that it's not only
+taller and larger than the rest, it's also better preserved. The ground is
+relatively clean here| even some of the grass spouting around the tent's
+perimeter has been preserved. You judge that you are now at approximately
+the center of the forest clearing.
+The corpse of a stout bandit guard is lying here.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+478H 166V 4722287X 48.79% 9365C Mem:1 T:15 Exits:(N)S> 
+n
+The flap seems to be closed.
+
+478H 166V 4722287X 48.79% 9365C Mem:1 T:14 Exits:(N)S> 
+op flap
+Ok.
+
+478H 166V 4722287X 48.79% 9365C Mem:1 T:12 Exits:NS> 
+l
+Before A Large Tent
+     You stand before a large tent. You can now see that it's not only
+taller and larger than the rest, it's also better preserved. The ground is
+relatively clean here| even some of the grass spouting around the tent's
+perimeter has been preserved. You judge that you are now at approximately
+the center of the forest clearing.
+The corpse of a stout bandit guard is lying here.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+478H 166V 4722287X 48.79% 9365C Mem:1 T:12 Exits:NS> 
+n
+The spirit of a stout bandit guard arrives from the south.
+Inside A Large Tent
+     You stand inside a large canvas tent. It appears that through the
+clever use of canvas sheets the tent has been split into rooms. This area
+appears to be a reception hall of some sort. The ground has been smoothed
+and the hides of small animals have been strewn onto it. To the north, east
+and west the tent continues. The camp expands to the south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+478H 165V 4722287X 48.79% 9365C Mem:1 T:11 Exits:NESW> 
+w
+The spirit of a stout bandit guard arrives from the east.
+Inside A Large Tent
+     You stand in what appears to be the bedroom of this tent. A bed fairly
+well made and covered with fresh linen sheets is standing in the middle of
+the room, occupying most of the available space. The floor is covered by
+old clothes acting as rugs. A small fire pit has been dug next to the
+entrance of the room. Directly above it a hole has been cut into the cloth
+of the tent to allow smoke to escape.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+478H 164V 4722287X 48.79% 9365C Mem:1 T:9 Exits:E> 
+l hole
+A hole has been cut into the tent, just above the fire pit, to allow the
+smoke escape the tent.
+
+478H 164V 4722287X 48.79% 9365C Mem:1 T:4 Exits:E> 
+en hole
+There is no hole here.
+
+478H 164V 4722287X 48.79% 9365C Mem:1 T:3 Exits:E> 
+
+Your meditation finished, you put away your charms with a smile.
+You are hungry.
+You are thirsty.
+
+484H 173V 4722287X 48.79% 9365C T:60 Exits:E> 
+c 'sat'
+You utter the words, 'satiate'
+You are no longer hungry or thirsty.
+You feel satiated.
+
+484H 173V 4722287X 48.79% 9365C Mem:1 T:58 Exits:E> 
+e
+The spirit of a stout bandit guard arrives from the west.
+Inside A Large Tent
+     You stand inside a large canvas tent. It appears that through the
+clever use of canvas sheets the tent has been split into rooms. This area
+appears to be a reception hall of some sort. The ground has been smoothed
+and the hides of small animals have been strewn onto it. To the north, east
+and west the tent continues. The camp expands to the south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 172V 4722287X 48.79% 9365C Mem:1 T:53 Exits:NESW> 
+e
+The spirit of a stout bandit guard arrives from the west.
+Inside A Large Tent
+     You enter the eastern part of the tent. The room is quite small and a
+thick, oily smell lingers in the air. A weapons rack is standing opposite
+to the exit and two small chests are lying on the ground nearby. The rack
+is filled with weapons and armor, while both chests contain oils and
+whetstones for weapon protection and sharpening. A small stool surrounded
+by dirty rags, used to oil the weapons and armor, is sitting in the middle
+of the room. The exit is to the west.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 171V 4722287X 48.79% 9365C Mem:1 T:52 Exits:W> 
+l 2.chest
+You do not see that here.
+
+484H 171V 4722287X 48.79% 9365C Mem:1 T:45 Exits:W> 
+l rack
+Although the rack is filled with weapons and armors, a closer inspection
+reveals they are all rusty and in need of repair.
+
+484H 171V 4722287X 48.79% 9365C Mem:1 T:44 Exits:W> 
+w
+The spirit of a stout bandit guard arrives from the east.
+Inside A Large Tent
+     You stand inside a large canvas tent. It appears that through the
+clever use of canvas sheets the tent has been split into rooms. This area
+appears to be a reception hall of some sort. The ground has been smoothed
+and the hides of small animals have been strewn onto it. To the north, east
+and west the tent continues. The camp expands to the south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 170V 4722287X 48.79% 9365C Mem:1 T:44 Exits:NESW> 
+e
+The spirit of a stout bandit guard arrives from the west.
+Inside A Large Tent
+     You enter the eastern part of the tent. The room is quite small and a
+thick, oily smell lingers in the air. A weapons rack is standing opposite
+to the exit and two small chests are lying on the ground nearby. The rack
+is filled with weapons and armor, while both chests contain oils and
+whetstones for weapon protection and sharpening. A small stool surrounded
+by dirty rags, used to oil the weapons and armor, is sitting in the middle
+of the room. The exit is to the west.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 169V 4722287X 48.79% 9365C Mem:1 T:43 Exits:W> 
+get all rack
+What are you trying to get from?
+
+484H 169V 4722287X 48.79% 9365C Mem:1 T:40 Exits:W> 
+w
+The spirit of a stout bandit guard arrives from the east.
+Inside A Large Tent
+     You stand inside a large canvas tent. It appears that through the
+clever use of canvas sheets the tent has been split into rooms. This area
+appears to be a reception hall of some sort. The ground has been smoothed
+and the hides of small animals have been strewn onto it. To the north, east
+and west the tent continues. The camp expands to the south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 168V 4722287X 48.79% 9365C Mem:1 T:36 Exits:NESW> 
+n
+The spirit of a stout bandit guard arrives from the south.
+Inside A Large Tent
+     You enter the northern room of the tent. A large, well-crafted desk
+dominates the room. The desk is in a total mess. A mass of paper, ink pots,
+quills, jugs of rotgut whisky, old bowls filled with now cold stew and
+broth cover its large surface. You wonder how anyone can find anything in
+there. A large, sturdy chair sits behind the desk. The torn hide of a deer
+covers the floor, serving as a carpet, while more animal hides decorate the
+walls.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The bandit chieftain is standing here.
+The bandit chieftain misses the spirit of a stout bandit guard with his hit.
+
+484H 167V 4722287X 48.79% 9365C Mem:1 T:36 Exits:S> 
+ass
+You attempt to assist the spirit of a stout bandit guard.
+You massacre the bandit chieftain with your cleave.
+
+484H 167V 4721363X 48.79% 9365C [the spirit of a stout bandit guard:Perfect] [the bandit chieftain:Good] Mem:1 T:34 Exits:S> 
+
+You cleave the bandit chieftain extremely hard.
+You cleave the bandit chieftain extremely hard.
+The bandit chieftain misses you with his hit.
+The bandit chieftain misses you with his hit.
+The spirit of a stout bandit guard hits the bandit chieftain.
+
+484H 167V 4720109X 48.79% 9365C [Urtas:Perfect] [the bandit chieftain:Fair] Mem:1 T:32 Exits:S> 
+fren
+A red mist blurs your vision and you let out a mighty yell!
+
+484H 167V 4720109X 48.79% 9365C [Urtas:Perfect] [the bandit chieftain:Fair] Mem:1 T:29 Exits:S> 
+
+The bandit chieftain misses you with his hit.
+The bandit chieftain hits YOU hard.
+The bandit chieftain gasps in pain as he swings through the shadows surrounding you.
+Your mighty cleave almost cuts the bandit chieftain in two!
+You massacre the bandit chieftain with your cleave.
+You massacre the bandit chieftain with your cleave.
+The spirit of a stout bandit guard hits the bandit chieftain.
+
+471H 167V 4718295X 48.79% 9365C [Urtas:V.Good] [the bandit chieftain:Awful] Mem:1 T:28 Exits:S> 
+hex
+You scream wildly and cuss at the bandit chieftain.
+The bandit chieftain briefly reveals a red aura!
+The bandit chieftain groans and stumbles back.
+
+471H 167V 4718295X 48.79% 9365C [Urtas:V.Good] [the bandit chieftain:Awful] Mem:1 T:25 Exits:S> 
+
+The bandit chieftain misses you with his hit.
+The bandit chieftain misses you with his hit.
+You massacre the bandit chieftain with your cleave.
+The spirit of a stout bandit guard hits the bandit chieftain.
+The bandit chieftain is incapacitated and will slowly die, if not aided.
+
+471H 167V 4717537X 48.79% 9365C [the bandit chieftain:Dying] Mem:1 T:24 Exits:S> 
+
+You obliterate the bandit chieftain with your cleave.
+get pile corpse
+You receive 54994 experience.
+exa corpse
+The bandit chieftain is dead! R.I.P.
+The death cry of the bandit chieftain echoes from somewhere nearby...
+
+471H 167V 4662543X 49.75% 9365C Mem:1 T:20 Exits:S> 
+You get a small pile of coins from the corpse of the bandit chieftain.
+split 8
+There were 8 coins.
+
+471H 167V 4662543X 49.75% 9373C Mem:1 T:20 Exits:S> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a small metallic key
+
+471H 167V 4662543X 49.75% 9373C Mem:1 T:20 Exits:S> 
+You belong to no group.
+
+471H 167V 4662543X 49.75% 9373C Mem:1 T:20 Exits:S> 
+get all corpse
+You get a small metallic key from the corpse of the bandit chieftain.
+
+471H 167V 4662543X 49.75% 9373C Mem:1 T:18 Exits:S> 
+l room
+Inside A Large Tent
+     You enter the northern room of the tent. A large, well-crafted desk
+dominates the room. The desk is in a total mess. A mass of paper, ink pots,
+quills, jugs of rotgut whisky, old bowls filled with now cold stew and
+broth cover its large surface. You wonder how anyone can find anything in
+there. A large, sturdy chair sits behind the desk. The torn hide of a deer
+covers the floor, serving as a carpet, while more animal hides decorate the
+walls.
+The corpse of the bandit chieftain is lying here.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+471H 167V 4662543X 49.75% 9373C Mem:1 T:17 Exits:S> 
+l desk
+The desk is covered with papers, ink pots, quills, jugs of drink and bowls
+filled with half-eaten meal. A small drawer is attached below the wooden
+surface.
+
+471H 167V 4662543X 49.75% 9373C Mem:1 T:6 Exits:S> 
+op desk
+That's not a container.
+
+471H 167V 4662543X 49.75% 9373C Mem:1 T:4 Exits:S> 
+
+Your meditation finished, you put away your charms with a smile.
+
+484H 173V 4662543X 49.75% 9373C T:60 Exits:S> 
+get all desk
+The desk isn't a container.
+
+484H 173V 4662543X 49.75% 9373C T:59 Exits:S> 
+l drawer
+You see nothing special.
+
+484H 173V 4662543X 49.75% 9373C T:54 Exits:S> 
+op drawer
+It seems to be locked.
+
+484H 173V 4662543X 49.75% 9373C T:52 Exits:S> 
+unlock drawer 
+You unlock a wooden drawer.
+The key turns to dust as you remove it from a wooden drawer.
+
+484H 173V 4662543X 49.75% 9373C T:48 Exits:S> 
+op drawer
+Ok.
+
+484H 173V 4662543X 49.75% 9373C T:46 Exits:S> 
+get all drawer
+You get an iron key from a wooden drawer.
+
+484H 173V 4662543X 49.75% 9373C T:43 Exits:S> 
+l
+Inside A Large Tent
+     You enter the northern room of the tent. A large, well-crafted desk
+dominates the room. The desk is in a total mess. A mass of paper, ink pots,
+quills, jugs of rotgut whisky, old bowls filled with now cold stew and
+broth cover its large surface. You wonder how anyone can find anything in
+there. A large, sturdy chair sits behind the desk. The torn hide of a deer
+covers the floor, serving as a carpet, while more animal hides decorate the
+walls.
+The corpse of the bandit chieftain is lying here.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 173V 4662543X 49.75% 9373C T:41 Exits:S> 
+l room
+Inside A Large Tent
+     You enter the northern room of the tent. A large, well-crafted desk
+dominates the room. The desk is in a total mess. A mass of paper, ink pots,
+quills, jugs of rotgut whisky, old bowls filled with now cold stew and
+broth cover its large surface. You wonder how anyone can find anything in
+there. A large, sturdy chair sits behind the desk. The torn hide of a deer
+covers the floor, serving as a carpet, while more animal hides decorate the
+walls.
+The corpse of the bandit chieftain is lying here.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 173V 4662543X 49.75% 9373C T:40 Exits:S> 
+l carpet
+You do not see that here.
+
+484H 173V 4662543X 49.75% 9373C T:32 Exits:S> 
+l hide
+A simple bracelet made from the tanned hide of a rat. You arnt sure what
+kind of shaman magic rat hides contain, but it was obviously well loved by
+its maker.
+
+484H 173V 4662543X 49.75% 9373C T:30 Exits:S> 
+l 2.hide
+You do not see that here.
+
+484H 173V 4662543X 49.75% 9373C T:27 Exits:S> 
+s
+The spirit of a stout bandit guard arrives from the north.
+Inside A Large Tent
+     You stand inside a large canvas tent. It appears that through the
+clever use of canvas sheets the tent has been split into rooms. This area
+appears to be a reception hall of some sort. The ground has been smoothed
+and the hides of small animals have been strewn onto it. To the north, east
+and west the tent continues. The camp expands to the south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 172V 4662543X 49.75% 9373C T:20 Exits:NESW> 
+w
+The spirit of a stout bandit guard arrives from the east.
+Inside A Large Tent
+     You stand in what appears to be the bedroom of this tent. A bed fairly
+well made and covered with fresh linen sheets is standing in the middle of
+the room, occupying most of the available space. The floor is covered by
+old clothes acting as rugs. A small fire pit has been dug next to the
+entrance of the room. Directly above it a hole has been cut into the cloth
+of the tent to allow smoke to escape.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 171V 4662543X 49.75% 9373C T:19 Exits:E> 
+l 2.chest
+You do not see that here.
+
+484H 171V 4662543X 49.75% 9373C T:10 Exits:E> 
+e
+The spirit of a stout bandit guard arrives from the west.
+Inside A Large Tent
+     You stand inside a large canvas tent. It appears that through the
+clever use of canvas sheets the tent has been split into rooms. This area
+appears to be a reception hall of some sort. The ground has been smoothed
+and the hides of small animals have been strewn onto it. To the north, east
+and west the tent continues. The camp expands to the south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 170V 4662543X 49.75% 9373C T:9 Exits:NESW> 
+e
+The spirit of a stout bandit guard arrives from the west.
+Inside A Large Tent
+     You enter the eastern part of the tent. The room is quite small and a
+thick, oily smell lingers in the air. A weapons rack is standing opposite
+to the exit and two small chests are lying on the ground nearby. The rack
+is filled with weapons and armor, while both chests contain oils and
+whetstones for weapon protection and sharpening. A small stool surrounded
+by dirty rags, used to oil the weapons and armor, is sitting in the middle
+of the room. The exit is to the west.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 169V 4662543X 49.75% 9373C T:9 Exits:W> 
+l 2.chest
+You do not see that here.
+
+484H 169V 4662543X 49.75% 9373C T:1 Exits:W> 
+l 3.chest
+You do not see that here.
+
+484H 173V 4662543X 49.75% 9373C T:57 Exits:W> 
+l rtags
+You do not see that here.
+
+484H 173V 4662543X 49.75% 9373C T:51 Exits:W> 
+w
+The spirit of a stout bandit guard arrives from the east.
+Inside A Large Tent
+     You stand inside a large canvas tent. It appears that through the
+clever use of canvas sheets the tent has been split into rooms. This area
+appears to be a reception hall of some sort. The ground has been smoothed
+and the hides of small animals have been strewn onto it. To the north, east
+and west the tent continues. The camp expands to the south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 172V 4662543X 49.75% 9373C T:50 Exits:NESW> 
+s
+The spirit of a stout bandit guard arrives from the north.
+Before A Large Tent
+     You stand before a large tent. You can now see that it's not only
+taller and larger than the rest, it's also better preserved. The ground is
+relatively clean here| even some of the grass spouting around the tent's
+perimeter has been preserved. You judge that you are now at approximately
+the center of the forest clearing.
+The corpse of a stout bandit guard is lying here.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 171V 4662543X 49.75% 9373C T:50 Exits:NS> 
+s
+The spirit of a stout bandit guard arrives from the north.
+A Path Through The Camp
+     The path leading towards the large tent to the north is somewhat
+cleaner than the rest of the camp. Whatever or whoever is in the tents must
+be important enough to warrant such attention. To the east and west stand
+two of the common canvas tents of the camp, while a crossroad lies just
+south of here.
+The corpse of a bandit is lying here.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 169V 4662543X 49.75% 9373C T:49 Exits:NESW> 
+w
+The spirit of a stout bandit guard arrives from the east.
+Inside A Makeshift Forge
+     You stand inside a makeshift forge. A small stone furnace has been
+built here, and a heavy anvil is resting on the ground nearby. The furnace
+has been constructed from carefully cut stones and mortar, and is filled
+with red-hot coals. The high temperature here makes you sweat and long for
+the cold air outside. Various tools, carefully wrapped in oilskin rags and
+hidden under a small tent for protection from the elements, are placed on a
+shelf next to the furnace.
+The corpse of a bandit blacksmith is lying here.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 168V 4662543X 49.75% 9373C T:49 Exits:E> 
+e
+The spirit of a stout bandit guard arrives from the west.
+A Path Through The Camp
+     The path leading towards the large tent to the north is somewhat
+cleaner than the rest of the camp. Whatever or whoever is in the tents must
+be important enough to warrant such attention. To the east and west stand
+two of the common canvas tents of the camp, while a crossroad lies just
+south of here.
+The corpse of a bandit is lying here.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 167V 4662543X 49.75% 9373C T:47 Exits:NESW> 
+s
+The spirit of a stout bandit guard arrives from the north.
+In The Middle Of The Camp
+     You have reached the middle of the camp. Someone has dug a well here|
+it is filled with clear, cold water. You are surrounded by old, worn tents.
+Whoever lives here doesn't seem to mind much about hygiene as the camp is
+filled with the debris of cooking fires and broken jugs of rotgut whiskey.
+A large tent, taller than the rest, stands to the north.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+
+484H 165V 4662543X 49.75% 9373C T:47 Exits:NESW> 
+w
+The spirit of a stout bandit guard arrives from the east.
+Between The Tents
+     You are walking on a dirty trail that runs through the camp. The
+ground is muddy and covered with trash. A tent wall obscures your vision to
+the north, while a relatively clean tent is standing to the south. The
+trail continues east, leading to the center of the camp, and west, towards
+more tents.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+A bandit is walking around, carrying out his everyday duties.
+
+484H 163V 4662543X 49.75% 9373C T:47 Exits:E(S)W> 
+kil bandit
+You massacre a bandit with your cleave.
+
+484H 163V 4662089X 49.75% 9373C [Urtas:Perfect] [a bandit:Fair] T:40 Exits:E(S)W> 
+
+You massacre a bandit with your cleave.
+A bandit misses you with his hit.
+
+484H 163V 4661635X 49.75% 9373C [Urtas:Perfect] [a bandit:Bad] T:36 Exits:E(S)W> 
+
+A bandit shouts 'Help! Help! Urtas is attacking me!'
+
+484H 163V 4661635X 49.75% 9373C [Urtas:Perfect] [a bandit:Bad] T:36 Exits:E(S)W> 
+hex
+You scream wildly and cuss at a bandit.
+A bandit briefly reveals a red aura!
+A bandit groans and stumbles back.
+
+484H 163V 4661635X 49.75% 9373C [Urtas:Perfect] [a bandit:Bad] T:35 Exits:E(S)W> 
+
+You massacre a bandit with your cleave.
+You cleave a bandit extremely hard.
+A bandit panics, and attempts to flee.
+A bandit leaves east.
+
+484H 163V 4660785X 49.75% 9373C T:32 Exits:E(S)W> 
+e
+The spirit of a stout bandit guard arrives from the west.
+In The Middle Of The Camp
+     You have reached the middle of the camp. Someone has dug a well here|
+it is filled with clear, cold water. You are surrounded by old, worn tents.
+Whoever lives here doesn't seem to mind much about hygiene as the camp is
+filled with the debris of cooking fires and broken jugs of rotgut whiskey.
+A large tent, taller than the rest, stands to the north.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+A bandit is walking around, carrying out his everyday duties. (cursed)
+
+484H 161V 4660785X 49.75% 9373C T:31 Exits:NESW> 
+kil bandit
+You cleave a bandit extremely hard.
+get pile corpse
+You receive 9454 experience.
+exa corpse
+A bandit is dead! R.I.P.
+
+484H 161V 4650955X 49.75% 9373C [a bandit:Dying] T:30 Exits:NESW> 
+
+The death cry of a bandit echoes from somewhere nearby...
+A spirit rises from the body of a bandit.
+
+484H 161V 4650955X 49.75% 9373C T:30 Exits:NESW> 
+cont spirit
+You get a small pile of coins from the corpse of a bandit.
+split 8
+There were 8 coins.
+
+484H 161V 4650955X 49.75% 9381C T:25 Exits:NESW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+484H 161V 4650955X 49.75% 9381C T:25 Exits:NESW> 
+The spirit of a bandit fades into existence as you bind it to this world.
+The spirit of a bandit starts following you.
+
+484H 161V 4650955X 49.75% 9381C T:25 Exits:NESW> 
+w
+You belong to no group.
+
+484H 161V 4650955X 49.75% 9381C T:21 Exits:NESW> 
+The spirit of a bandit arrives from the east.
+The spirit of a stout bandit guard arrives from the east.
+Between The Tents
+     You are walking on a dirty trail that runs through the camp. The
+ground is muddy and covered with trash. A tent wall obscures your vision to
+the north, while a relatively clean tent is standing to the south. The
+trail continues east, leading to the center of the camp, and west, towards
+more tents.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 159V 4650955X 49.75% 9381C T:20 Exits:E(S)W> 
+s
+The flaps seems to be closed.
+
+484H 159V 4650955X 49.75% 9381C T:19 Exits:E(S)W> 
+op flaps
+Ok.
+
+484H 159V 4650955X 49.75% 9381C T:18 Exits:ESW> 
+s
+The spirit of a bandit arrives from the north.
+The spirit of a stout bandit guard arrives from the north.
+Inside The Physician's Tent
+     This tent is clean and spacious. Four beds, covered in plain but clean
+white sheets, are occupying most of the space here. Various herbs are
+hanging on the walls, filling the air with a sharp, yet refreshing odor. A
+small tin cabinet has been attached on the eastern wall, and a wooden table
+has been placed near the western one. The table is currently empty. The
+flaps to the north of the tent open to the camp outside.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+A bandit physician is here, taking care of the wounded.
+
+484H 158V 4650955X 49.75% 9381C T:17 Exits:N> 
+ord all.spirit kil bandit
+The spirit of a stout bandit guard hits a bandit physician.
+The spirit of a bandit misses a bandit physician with its hit.
+You issue the order 'kil bandit'.
+
+484H 158V 4650955X 49.75% 9381C T:14 Exits:N> 
+ass
+You attempt to assist the spirit of a bandit.
+You cleave a bandit physician extremely hard.
+
+484H 158V 4650559X 49.75% 9381C [the spirit of a stout bandit guard:Perfect] [a bandit physician:Fair] T:14 Exits:N> 
+
+You cleave a bandit physician extremely hard.
+You cleave a bandit physician extremely hard.
+The spirit of a bandit hits a bandit physician.
+The spirit of a stout bandit guard barely hits a bandit physician.
+A bandit physician hits the spirit of a stout bandit guard.
+
+484H 158V 4649767X 49.75% 9381C [the spirit of a stout bandit guard:V.Good] [a bandit physician:V.Bad] T:12 Exits:N> 
+
+You massacre a bandit physician with your cleave.
+Your mighty cleave almost cuts a bandit physician in two!
+You massacre a bandit physician with your cleave.
+get pile corpse
+You receive 11250 experience.
+exa corpse
+A bandit physician is dead! R.I.P.
+The death cry of a bandit physician echoes from somewhere nearby...
+
+484H 158V 4637549X 49.75% 9381C T:8 Exits:N> 
+The corpse doesn't seem to have what you are looking for.
+
+484H 158V 4637549X 49.75% 9381C T:8 Exits:N> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+some clean bandages
+a small tin key
+a vial of green liquid
+a small pot of salve
+
+484H 158V 4637549X 49.75% 9381C T:8 Exits:N> 
+get all corpse
+You get some clean bandages from the corpse of a bandit physician.
+You get a small tin key from the corpse of a bandit physician.
+You get a vial of green liquid from the corpse of a bandit physician.
+You get a small pot of salve from the corpse of a bandit physician.
+
+484H 158V 4637549X 49.75% 9381C T:2 Exits:N> 
+unlock cabinet
+You unlock a tin cabinet.
+
+484H 173V 4637549X 49.75% 9381C T:59 Exits:N> 
+op cabinet
+Ok.
+
+484H 173V 4637549X 49.75% 9381C T:57 Exits:N> 
+get all cabinet
+You get a gangrenous foot charm from a tin cabinet.
+You get a vial of green liquid from a tin cabinet.
+
+484H 173V 4637549X 49.75% 9381C T:52 Exits:N> 
+l
+Inside The Physician's Tent
+     This tent is clean and spacious. Four beds, covered in plain but clean
+white sheets, are occupying most of the space here. Various herbs are
+hanging on the walls, filling the air with a sharp, yet refreshing odor. A
+small tin cabinet has been attached on the eastern wall, and a wooden table
+has been placed near the western one. The table is currently empty. The
+flaps to the north of the tent open to the camp outside.
+The corpse of a bandit physician is lying here.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 173V 4637549X 49.75% 9381C T:46 Exits:N> 
+sit
+You sit on the bed and relax.
+
+484H 173V 4637549X 49.75% 9381C T:38 Exits:N> 
+study charm
+You recognize a spell on a gangrenous foot charm as 'sap strength'.
+A gangrenous foot charm magically disappears as you finish studying it.
+
+484H 173V 4637549X 49.75% 9381C T:36 Exits:N> 
+sta
+You stand up.
+
+484H 173V 4637549X 49.75% 9381C T:28 Exits:N> 
+l
+Inside The Physician's Tent
+     This tent is clean and spacious. Four beds, covered in plain but clean
+white sheets, are occupying most of the space here. Various herbs are
+hanging on the walls, filling the air with a sharp, yet refreshing odor. A
+small tin cabinet has been attached on the eastern wall, and a wooden table
+has been placed near the western one. The table is currently empty. The
+flaps to the north of the tent open to the camp outside.
+The corpse of a bandit physician is lying here.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 173V 4637549X 49.75% 9381C T:28 Exits:N> 
+mem 'sa str'
+sap strength: you can't memorize any more level 3 spells
+
+484H 173V 4637549X 49.75% 9381C T:25 Exits:N> 
+n
+The spirit of a bandit arrives from the south.
+The spirit of a stout bandit guard arrives from the south.
+Between The Tents
+     You are walking on a dirty trail that runs through the camp. The
+ground is muddy and covered with trash. A tent wall obscures your vision to
+the north, while a relatively clean tent is standing to the south. The
+trail continues east, leading to the center of the camp, and west, towards
+more tents.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 172V 4637549X 49.75% 9381C T:24 Exits:ESW> 
+w
+The spirit of a bandit arrives from the east.
+The spirit of a stout bandit guard arrives from the east.
+Between The Tents
+     You stand at an intersection in the camp. The muck you are walking on
+can hardly be qualified as ground. To the north the camp expands, while
+westward it stops before the forest trees. Directly to the west of here,
+you can enter a brown tent. A large pile of boxes is nearly obscuring the
+entrance of a second tent to the south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 170V 4637549X 49.75% 9381C T:24 Exits:NESW> 
+s
+The spirit of a bandit arrives from the north.
+The spirit of a stout bandit guard arrives from the north.
+Inside A Tent
+     The tent is fairly clean and large. Six cots, made from fresh wood and
+covered with pieces of clean cloth, make up its furniture. The ground is
+relatively clean, while a small fire pit has been dug in the center of the
+tent. You notice that directly above it a small hole has been cut to allow
+the smoke to escape outside. Flaps on the northern side of the tent lead
+outside, into the camp.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+A bandit is sleeping here on a mat, lightly snoring.
+
+484H 169V 4637549X 49.75% 9381C T:23 Exits:N> 
+c 'sa str' bandit
+You utter the words, 'sap strength'
+You gain strength as you draw it from a tired bandit.
+
+484H 169V 4637549X 49.75% 9381C Mem:1 T:18 Exits:N> 
+sco
+You are Urtas, the Other Half, a level 30 Legendary Shaman.
+You have reincarnated 2 times.
+You are a Clansman in Dawnguard.
+You are rank 34. You have completed 49.75% of your next rank.
+You are 20 years old.
+You have 484(484) hit and 169(173) movement points.
+Your behaviour has been Neutral.
+You have scored 211,362,451 exp, and have 9381(463142) steel coins.
+You need 4,637,549 more experience to advance.
+You have died 30 horrible deaths.
+You have been connected for 18 minute(s).
+You have been playing for 12 day(s), 3 hour(s) and 1 minute(s).
+Your natural ability scores are:
+    Str: 20 Int: 17 Wis: 15 Dex: 12 Con: 20 Cha: 19
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are affected by the following:
+    sap strength
+    ethereal armor       [6 hrs]
+    ancestral shroud     [15 hrs]
+    spectral sight       [15 hrs]
+    spectral glow        [45 hrs]
+    ancestral blessing   [permanent]
+    monstrous mantle     [21 hrs]
+    spirit mastery
+
+484H 169V 4637549X 49.75% 9381C Mem:1 T:14 Exits:N> 
+ord all.spirit kil bandit
+The spirit of a stout bandit guard hits a tired bandit very hard.
+A tired bandit awakens.
+The spirit of a bandit hits a tired bandit.
+You issue the order 'kil bandit'.
+
+484H 169V 4637549X 49.75% 9381C Mem:1 T:11 Exits:N> 
+ass
+You attempt to assist the spirit of a bandit.
+You massacre a tired bandit with your cleave.
+
+484H 169V 4637057X 49.75% 9381C [the spirit of a stout bandit guard:Perfect] [a tired bandit:Bad] Mem:1 T:11 Exits:N> 
+
+A tired bandit stands up.
+
+484H 169V 4637057X 49.75% 9381C [the spirit of a stout bandit guard:Perfect] [a tired bandit:Bad] Mem:1 T:10 Exits:N> 
+
+You massacre a tired bandit with your cleave.
+The spirit of a bandit misses a tired bandit with its hit.
+The spirit of a stout bandit guard hits a tired bandit.
+A tired bandit barely hits the spirit of a stout bandit guard.
+
+484H 169V 4636601X 49.75% 9381C [the spirit of a stout bandit guard:V.Good] [a tired bandit:Awful] Mem:1 T:8 Exits:N> 
+
+A tired bandit tries to throat punch the spirit of a stout bandit guard, but misses horribly.
+You cleave a tired bandit extremely hard.
+get pile corpse
+You receive 8308 experience.
+exa corpse
+A tired bandit is dead! R.I.P.
+The death cry of a tired bandit echoes from somewhere nearby...
+
+484H 169V 4627941X 49.75% 9381C Mem:1 T:4 Exits:N> 
+You get a pile of coins from the corpse of a tired bandit.
+split 36
+There were 36 coins.
+
+484H 169V 4627941X 49.75% 9417C Mem:1 T:4 Exits:N> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+484H 169V 4627941X 49.75% 9417C Mem:1 T:4 Exits:N> 
+You belong to no group.
+
+484H 169V 4627941X 49.75% 9417C Mem:1 T:4 Exits:N> 
+l
+Inside A Tent
+     The tent is fairly clean and large. Six cots, made from fresh wood and
+covered with pieces of clean cloth, make up its furniture. The ground is
+relatively clean, while a small fire pit has been dug in the center of the
+tent. You notice that directly above it a small hole has been cut to allow
+the smoke to escape outside. Flaps on the northern side of the tent lead
+outside, into the camp.
+The corpse of a tired bandit is lying here.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 169V 4627941X 49.75% 9417C Mem:1 T:3 Exits:N> 
+n
+The spirit of a bandit arrives from the south.
+The spirit of a stout bandit guard arrives from the south.
+Between The Tents
+     You stand at an intersection in the camp. The muck you are walking on
+can hardly be qualified as ground. To the north the camp expands, while
+westward it stops before the forest trees. Directly to the west of here,
+you can enter a brown tent. A large pile of boxes is nearly obscuring the
+entrance of a second tent to the south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 168V 4627941X 49.75% 9417C Mem:1 T:3 Exits:NESW> 
+w
+The spirit of a bandit arrives from the east.
+The spirit of a stout bandit guard arrives from the east.
+Inside A Tent
+     The scent of unwashed human bodies nearly overpowers you as you enter
+the cramped tent. This tent is filthy and looks abandoned. Its floor is
+littered with unfinished meals and half-empty jugs of foul smelling whisky.
+Four cots made of leaves and torn, dirty rags are placed in the corners of
+the tent. The fresh air of the clearing beckons you to the east.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 167V 4627941X 49.75% 9417C Mem:1 T:1 Exits:E> 
+
+Your meditation finished, you put away your charms with a smile.
+
+484H 173V 4627941X 49.75% 9417C T:60 Exits:E> 
+e
+The spirit of a bandit arrives from the west.
+The spirit of a stout bandit guard arrives from the west.
+Between The Tents
+     You stand at an intersection in the camp. The muck you are walking on
+can hardly be qualified as ground. To the north the camp expands, while
+westward it stops before the forest trees. Directly to the west of here,
+you can enter a brown tent. A large pile of boxes is nearly obscuring the
+entrance of a second tent to the south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 172V 4627941X 49.75% 9417C T:54 Exits:NESW> 
+n
+The spirit of a bandit arrives from the south.
+The spirit of a stout bandit guard arrives from the south.
+The Perimeter Of The Camp
+     You have reached the camp's perimeter. The forest extends further to
+the west but the undergrowth, comprising of bushes and shrubs, is far too
+dense in that direction, making travel impossible. You can continue moving
+around the tents to the north, while the camp is opening to the south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 170V 4627941X 49.75% 9417C T:54 Exits:NS> 
+n
+The spirit of a bandit arrives from the south.
+The spirit of a stout bandit guard arrives from the south.
+The Perimeter Of The Camp
+     You are travelling along the perimeter of the camp. The dense,
+forbidding forest extends to the north and west, its ancient trees forming
+an impassable wall. The camp's perimeter continues to the east and south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 168V 4627941X 49.75% 9417C T:50 Exits:ES> 
+e
+The spirit of a bandit arrives from the west.
+The spirit of a stout bandit guard arrives from the west.
+The Perimeter Of The Camp
+     You are standing on the perimeter of the clearing. The thick canvas
+walls of the large tent raise high over you to the south and east, hiding
+the camp from your view, while the trail continues to the north and west.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+A bandit is patrolling the perimeter, watching for dangers from the forest.
+
+484H 166V 4627941X 49.75% 9417C T:49 Exits:NW> 
+n
+The spirit of a bandit arrives from the south.
+The spirit of a stout bandit guard arrives from the south.
+The Perimeter Of The Camp
+     You continue travelling along the perimeter of the camp. The forest
+extends to the north and west but the foliage is too dense to even consider
+moving in those directions. The path continues west and south of here,
+winding its way among the tents.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 164V 4627941X 49.75% 9417C T:48 Exits:ES> 
+s
+The spirit of a bandit arrives from the north.
+The spirit of a stout bandit guard arrives from the north.
+The Perimeter Of The Camp
+     You are standing on the perimeter of the clearing. The thick canvas
+walls of the large tent raise high over you to the south and east, hiding
+the camp from your view, while the trail continues to the north and west.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+A bandit is patrolling the perimeter, watching for dangers from the forest.
+
+484H 162V 4627941X 49.75% 9417C T:46 Exits:NW> 
+ord all.spirit kil bandit
+The spirit of a stout bandit guard hits a bandit patrol hard.
+The spirit of a bandit misses a bandit patrol with its hit.
+You issue the order 'kil bandit'.
+
+484H 162V 4627941X 49.75% 9417C T:44 Exits:NW> 
+ass
+You attempt to assist the spirit of a stout bandit guard.
+You massacre a bandit patrol with your cleave.
+
+484H 162V 4627337X 49.75% 9417C [the spirit of a stout bandit guard:Perfect] [a bandit patrol:Fair] T:43 Exits:NW> 
+
+You massacre a bandit patrol with your cleave.
+The spirit of a bandit misses a bandit patrol with its hit.
+The spirit of a stout bandit guard barely hits a bandit patrol.
+The spirit of a stout bandit guard gracefully steps aside as a bandit patrol attacks!
+
+484H 162V 4626709X 49.75% 9417C [the spirit of a stout bandit guard:Perfect] [a bandit patrol:Bad] T:40 Exits:NW> 
+
+You massacre a bandit patrol with your cleave.
+The spirit of a bandit barely hits a bandit patrol.
+The spirit of a stout bandit guard hits a bandit patrol.
+A bandit patrol hits the spirit of a stout bandit guard.
+
+484H 162V 4626153X 49.75% 9417C [the spirit of a stout bandit guard:V.Good] [a bandit patrol:Awful] T:36 Exits:NW> 
+
+You massacre a bandit patrol with your cleave.
+get pile corpse
+You receive 21138 experience.
+exa corpse
+A bandit patrol is dead! R.I.P.
+The death cry of a bandit patrol echoes from somewhere nearby...
+
+484H 162V 4604435X 49.75% 9417C T:32 Exits:NW> 
+You get a pile of coins from the corpse of a bandit patrol.
+split 50
+There were 50 coins.
+
+484H 162V 4604435X 49.75% 9467C T:32 Exits:NW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+484H 162V 4604435X 49.75% 9467C T:32 Exits:NW> 
+You belong to no group.
+
+484H 162V 4604435X 49.75% 9467C T:32 Exits:NW> 
+c 'amp spi'
+You utter the words, 'amplify spirits'
+You draw your spirits closer to the mortal realm.
+
+484H 162V 4604435X 49.75% 9467C Mem:1 T:31 Exits:NW> 
+l
+The Perimeter Of The Camp
+     You are standing on the perimeter of the clearing. The thick canvas
+walls of the large tent raise high over you to the south and east, hiding
+the camp from your view, while the trail continues to the north and west.
+The corpse of a bandit patrol is lying here.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 162V 4604435X 49.75% 9467C Mem:1 T:27 Exits:NW> 
+n
+The spirit of a bandit arrives from the south.
+The spirit of a stout bandit guard arrives from the south.
+The Perimeter Of The Camp
+     You continue travelling along the perimeter of the camp. The forest
+extends to the north and west but the foliage is too dense to even consider
+moving in those directions. The path continues west and south of here,
+winding its way among the tents.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 160V 4604435X 49.75% 9467C Mem:1 T:26 Exits:ES> 
+e
+The spirit of a bandit arrives from the west.
+The spirit of a stout bandit guard arrives from the west.
+Behind A Large Tent
+     You have reached the northernmost point of the clearing. Directly to
+the south you see the thick, canvas wall of the large tent dominating the
+camp. The forest extends to the north of here, but numerous large bushes
+filled with thorns put all thoughts of travelling there out of your mind.
+To the east and west the camp's perimeter continues.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 158V 4604435X 49.75% 9467C Mem:1 T:26 Exits:EW> 
+
+A bandit patrol arrives from the east.
+
+484H 158V 4604435X 49.75% 9467C Mem:1 T:24 Exits:EW> 
+e
+The spirit of a bandit arrives from the west.
+The spirit of a stout bandit guard arrives from the west.
+The Perimeter Of The Camp
+     You are travelling along the perimeter of the camp. The woods extend
+to the north and east but large clumps of thorny bushes grow around the
+evergreen trees of the forest making travel impossible in those directions.
+The camp's perimeter continues to the west and south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+A bandit is patrolling the perimeter, watching for dangers from the forest.
+
+484H 156V 4604435X 49.75% 9467C Mem:1 T:24 Exits:SW> 
+w
+The spirit of a bandit arrives from the east.
+The spirit of a stout bandit guard arrives from the east.
+Behind A Large Tent
+     You have reached the northernmost point of the clearing. Directly to
+the south you see the thick, canvas wall of the large tent dominating the
+camp. The forest extends to the north of here, but numerous large bushes
+filled with thorns put all thoughts of travelling there out of your mind.
+To the east and west the camp's perimeter continues.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+A bandit is patrolling the perimeter, watching for dangers from the forest.
+
+484H 154V 4604435X 49.75% 9467C Mem:1 T:23 Exits:EW> 
+ord all.spirit kil bandit
+The spirit of a stout bandit guard hits a bandit patrol very hard.
+The spirit of a bandit misses a bandit patrol with its hit.
+You issue the order 'kil bandit'.
+
+484H 154V 4604435X 49.75% 9467C Mem:1 T:21 Exits:EW> 
+ass
+You attempt to assist the spirit of a bandit.
+You cleave a bandit patrol extremely hard.
+
+484H 154V 4603927X 49.75% 9467C [the spirit of a stout bandit guard:V.Good] [a bandit patrol:Fair] Mem:1 T:21 Exits:EW> 
+
+You wheel back and throw your axe at a bandit patrol, hitting them squarely. The axe
+then returns after its job is done.
+You cleave a bandit patrol extremely hard.
+The spirit of a bandit hits a bandit patrol.
+The spirit of a stout bandit guard hits a bandit patrol very hard.
+A bandit patrol misses the spirit of a stout bandit guard with his hit.
+
+484H 154V 4602887X 49.75% 9467C [the spirit of a stout bandit guard:V.Good] [a bandit patrol:Awful] Mem:1 T:20 Exits:EW> 
+
+You cleave a bandit patrol extremely hard.
+A bandit patrol is incapacitated and will slowly die, if not aided.
+The spirit of a bandit annihilates a bandit patrol with its hit.
+get pile corpse
+You receive 17694 experience.
+exa corpse
+A bandit patrol is dead! R.I.P.
+The death cry of a bandit patrol echoes from somewhere nearby...
+A spirit rises from the body of a bandit patrol.
+
+484H 154V 4584709X 49.75% 9467C Mem:1 T:16 Exits:EW> 
+You get a pile of coins from the corpse of a bandit patrol.
+split 60
+There were 60 coins.
+
+484H 154V 4584709X 49.75% 9527C Mem:1 T:16 Exits:EW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+484H 154V 4584709X 49.75% 9527C Mem:1 T:16 Exits:EW> 
+cont spirit
+You belong to no group.
+
+484H 154V 4584709X 49.75% 9527C Mem:1 T:15 Exits:EW> 
+The spirit of a bandit patrol fades into existence as you bind it to this world.
+The spirit of a bandit patrol starts following you.
+
+484H 154V 4584709X 49.75% 9527C Mem:1 T:15 Exits:EW> 
+l
+Behind A Large Tent
+     You have reached the northernmost point of the clearing. Directly to
+the south you see the thick, canvas wall of the large tent dominating the
+camp. The forest extends to the north of here, but numerous large bushes
+filled with thorns put all thoughts of travelling there out of your mind.
+To the east and west the camp's perimeter continues.
+The corpse of a bandit patrol is lying here.
+The spirit of a bandit patrol is hovering here. (grey aura)
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+
+484H 154V 4584709X 49.75% 9527C Mem:1 T:11 Exits:EW> 
+e
+The spirit of a bandit patrol arrives from the west.
+The spirit of a bandit arrives from the west.
+The spirit of a stout bandit guard arrives from the west.
+The Perimeter Of The Camp
+     You are travelling along the perimeter of the camp. The woods extend
+to the north and east but large clumps of thorny bushes grow around the
+evergreen trees of the forest making travel impossible in those directions.
+The camp's perimeter continues to the west and south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+The spirit of a bandit patrol is hovering here. (grey aura)
+A bandit is patrolling the perimeter, watching for dangers from the forest.
+
+484H 152V 4584709X 49.75% 9527C Mem:1 T:10 Exits:SW> 
+ord all.spirit kil bandit
+The spirit of a stout bandit guard hits a bandit patrol very hard.
+The spirit of a bandit hits a bandit patrol hard.
+The spirit of a bandit patrol hits a bandit patrol extremely hard.
+You issue the order 'kil bandit'.
+
+484H 152V 4584709X 49.75% 9527C Mem:1 T:8 Exits:SW> 
+ass
+You attempt to assist the spirit of a stout bandit guard.
+You massacre a bandit patrol with your cleave.
+
+484H 152V 4584153X 49.75% 9527C [the spirit of a stout bandit guard:V.Good] [a bandit patrol:V.Bad] Mem:1 T:8 Exits:SW> 
+
+You massacre a bandit patrol with your cleave.
+You massacre a bandit patrol with your cleave.
+A bandit patrol is mortally wounded, and will die soon, if not aided.
+The spirit of a bandit patrol obliterates a bandit patrol with its hit.
+get pile corpse
+You receive 17578 experience.
+exa corpse
+A bandit patrol is dead! R.I.P.
+The death cry of a bandit patrol echoes from somewhere nearby...
+A spirit rises from the body of a bandit patrol.
+
+484H 152V 4565415X 49.75% 9527C Mem:1 T:4 Exits:SW> 
+You get a pile of coins from the corpse of a bandit patrol.
+split 68
+There were 68 coins.
+
+484H 152V 4565415X 49.75% 9595C Mem:1 T:3 Exits:SW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+484H 152V 4565415X 49.75% 9595C Mem:1 T:3 Exits:SW> 
+cont spirit
+You belong to no group.
+
+484H 152V 4565415X 49.75% 9595C Mem:1 T:2 Exits:SW> 
+The spirit of a bandit patrol fades into existence as you bind it to this world.
+The spirit of a bandit patrol starts following you.
+
+484H 152V 4565415X 49.75% 9595C Mem:1 T:2 Exits:SW> 
+l
+
+Your meditation finished, you put away your charms with a smile.
+
+484H 173V 4565415X 49.75% 9595C T:60 Exits:SW> 
+ord all.spirit ski
+The Perimeter Of The Camp
+     You are travelling along the perimeter of the camp. The woods extend
+to the north and east but large clumps of thorny bushes grow around the
+evergreen trees of the forest making travel impossible in those directions.
+The camp's perimeter continues to the west and south.
+The corpse of a bandit patrol is lying here.
+The spirit of a bandit patrol is hovering here. (grey aura)
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+The spirit of a bandit patrol is hovering here. (grey aura)
+
+484H 173V 4565415X 49.75% 9595C T:58 Exits:SW> 
+Note: ** means the skill is ready for training with a guildmaster.
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  axes          (not learned)   **  bludgeons     (not learned)   **
+     long blades   (not learned)   **  miscellaneous (not learned)   **
+     piercers      (not learned)   **  pole arms     (not learned)   **
+     short blades  (not learned)   **  two-handed    (not learned)   **
+
+     bash          (not learned)   **  kick          (not learned)   **
+     rescue        (not learned)   **  vigor         (not learned)   **
+     parry         (not learned)   **  punch         (not learned)   **
+     target        (not learned)   **
+     bandage       (not learned)   **  danger sense  (not learned)   **
+     disarm        (not learned)   **  sunder        (not learned)   **
+     track         (not learned)   **  warcry        (not learned)   **
+Note: ** means the skill is ready for training with a guildmaster.
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+You issue the order 'ski'.
+
+484H 173V 4565415X 49.75% 9595C T:58 Exits:SW> 
+ord spirit ski
+Note: ** means the skill is ready for training with a guildmaster.
+
+
+484H 173V 4565415X 49.75% 9595C T:51 Exits:SW> 
+ord 2.spirit ski
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  axes          (not learned)   **  bludgeons     (not learned)   **
+     long blades   (not learned)   **  miscellaneous (not learned)   **
+     piercers      (not learned)   **  pole arms     (not learned)   **
+     short blades  (not learned)   **  two-handed    (not learned)   **
+
+     bash          (not learned)   **  kick          (not learned)   **
+     rescue        (not learned)   **  vigor         (not learned)   **
+     parry         (not learned)   **  punch         (not learned)   **
+     target        (not learned)   **
+     bandage       (not learned)   **  danger sense  (not learned)   **
+     disarm        (not learned)   **  sunder        (not learned)   **
+     track         (not learned)   **  warcry        (not learned)   **
+
+484H 173V 4565415X 49.75% 9595C T:46 Exits:SW> 
+ord 3.spirit ski
+Note: ** means the skill is ready for training with a guildmaster.
+
+
+484H 173V 4565415X 49.75% 9595C T:43 Exits:SW> 
+ord 4.spirit ski
+Note: ** means the skill is ready for training with a guildmaster.
+
+
+484H 173V 4565415X 49.75% 9595C T:41 Exits:SW> 
+l
+The Perimeter Of The Camp
+     You are travelling along the perimeter of the camp. The woods extend
+to the north and east but large clumps of thorny bushes grow around the
+evergreen trees of the forest making travel impossible in those directions.
+The camp's perimeter continues to the west and south.
+The corpse of a bandit patrol is lying here.
+The spirit of a bandit patrol is hovering here. (grey aura)
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+The spirit of a bandit patrol is hovering here. (grey aura)
+
+484H 173V 4565415X 49.75% 9595C T:40 Exits:SW> 
+ca 'transmo'
+You can't remember how to cast that spell!
+
+484H 173V 4565415X 49.75% 9595C T:38 Exits:SW> 
+m
+Spells currently memorized:
+1: [ 2]ancestral shroud     [ 2]bone shape           [ 1]satiate             
+   [ 1]spectral glow        [ 4]spiritual guidance  
+2: [ 1]ancestral blessing   [ 2]blindness            [ 4]cure blindness      
+   [ 1]endurance            [ 2]remove curse        
+3: [ 1]delay death          [ 1]protection from unde [ 3]remove poison       
+   [ 2]restore strength     [ 2]sap strength         [ 1]spectral sight      
+4: [ 1]amplify spirits      [ 1]cure disease         [ 2]devouring spirits   
+   [ 1]ghost berries        [ 1]monstrous mantle     [ 1]soul leech          
+   [ 2]sublime resistance  
+5: [ 1]boiling blood        [ 5]cure critical        [ 1]destroy undead      
+   [ 1]tenacious heart     
+6: [ 1]darkened soul        [ 2]heal boost           [ 2]regenerate          
+   [ 2]ritual voyage       
+7: [ 1]ethereal armor       [ 2]ghostskin            [ 1]last chance         
+   [ 1]soul protection     
+8: [ 2]healing wave         [ 1]rotting flesh       
+
+
+Spells left (level-number): 1-1 2-0 3-0 4-1 5-1 6-0 7-0 8-0
+You may use your divine powers.
+
+484H 173V 4565415X 49.75% 9595C T:36 Exits:SW> 
+spe
+Your spells
+-----------
+1:  ancestral shroud       bone shape             clot                 
+    detect poison          satiate                slow poison          
+    spectral glow          spiritual guidance   
+2:  ancestral blessing     blindness              cure blindness       
+    cure light             curse                  endurance            
+    remove curse         
+3:  cure serious           delay death            protection from undead
+    remove poison          restore strength       sap strength         
+    spectral sight       
+4:  amplify spirits        cure disease           devouring spirits    
+    ghost berries          monstrous mantle       soul leech           
+    sublime resistance   
+5:  boiling blood          cure critical          destroy undead       
+    ghostmaster ritual     sanctuary              tenacious heart      
+6:  ancestral spirit       darkened soul          heal boost           
+    regenerate             ritual voyage        
+7:  ethereal armor         ghostskin              last chance          
+    soul protection      
+8:  healing wave           rotting flesh          transmogrify         
+D:  nap                  
+
+484H 173V 4565415X 49.75% 9595C T:33 Exits:SW> 
+for 'ro fle'
+rotting flesh: You forget this spell.
+
+484H 173V 4565415X 49.75% 9595C T:28 Exits:SW> 
+mem 'trans'
+You focus your thoughts on your charms and begin to meditate.
+transmogrify: added to your list
+
+484H 173V 4565415X 49.75% 9595C Mem:2 T:27 Exits:SW> 
+re
+You rest your tired bones but stay aloft.
+
+484H 173V 4565415X 49.75% 9595C Mem:1 T:25 Exits:SW> 
+
+Your meditation finished, you put away your charms with a smile.
+
+484H 173V 4565415X 49.75% 9595C T:60 Exits:SW> 
+
+Your strength returns to normal.
+
+484H 173V 4565415X 49.75% 9595C T:60 Exits:SW> 
+l
+The Perimeter Of The Camp
+     You are travelling along the perimeter of the camp. The woods extend
+to the north and east but large clumps of thorny bushes grow around the
+evergreen trees of the forest making travel impossible in those directions.
+The camp's perimeter continues to the west and south.
+The corpse of a bandit patrol is lying here.
+The spirit of a bandit patrol is hovering here. (grey aura)
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+The spirit of a bandit patrol is hovering here. (grey aura)
+
+484H 173V 4565415X 49.75% 9595C T:21 Exits:SW> 
+st
+You stand up.
+
+484H 173V 4565415X 49.75% 9595C T:20 Exits:SW> 
+s
+The spirit of a bandit patrol arrives from the north.
+The spirit of a bandit patrol arrives from the north.
+The spirit of a bandit arrives from the north.
+The spirit of a stout bandit guard arrives from the north.
+The Perimeter Of The Camp
+     You are walking on the path encircling the clearing. To the south and
+west you see the thick, canvas wall of the large tent dominating the camp.
+To the north and east you can move on along the camp's perimeter.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+The spirit of a bandit patrol is hovering here. (grey aura)
+The spirit of a bandit patrol is hovering here. (grey aura)
+
+484H 171V 4565415X 49.75% 9595C T:19 Exits:NE> 
+e
+The spirit of a bandit patrol arrives from the west.
+The spirit of a bandit patrol arrives from the west.
+The spirit of a bandit arrives from the west.
+The spirit of a stout bandit guard arrives from the west.
+The Perimeter Of The Camp
+     You are travelling along the perimeter of the camp. The forest extends
+to the north and east but thick ferns and bushes growing around the tall
+trees make travel impossible in those directions. The camp's perimeter
+continues to the west and south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+The spirit of a bandit patrol is hovering here. (grey aura)
+The spirit of a bandit patrol is hovering here. (grey aura)
+
+484H 169V 4565415X 49.75% 9595C T:18 Exits:SW> 
+s
+The spirit of a bandit patrol arrives from the north.
+The spirit of a bandit patrol arrives from the north.
+The spirit of a bandit arrives from the north.
+The spirit of a stout bandit guard arrives from the north.
+The Perimeter Of The Camp
+     You have reached the camp's perimeter. The forest extends further to
+the east, but the undergrowth, comprising of bushes and shrubs, is far too
+dense to consider travel in that direction. To the north you can continue
+moving around the tents, while the camp opens to the south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+The spirit of a bandit patrol is hovering here. (grey aura)
+The spirit of a bandit patrol is hovering here. (grey aura)
+A bandit is patrolling the perimeter, watching for dangers from the forest.
+
+484H 167V 4565415X 49.75% 9595C T:17 Exits:NS> 
+e
+Alas, you cannot go that way...
+
+484H 167V 4565415X 49.75% 9595C T:17 Exits:NS> 
+s
+The spirit of a bandit patrol arrives from the north.
+The spirit of a bandit patrol arrives from the north.
+The spirit of a bandit arrives from the north.
+The spirit of a stout bandit guard arrives from the north.
+Between The Tents
+     You have reached an intersection in the camp. The ground seems to be
+slightly cleaner around here. To the north the path continues, and the camp
+expands as far as the edges of the clearing. To the east you can see a
+small stone furnace while a plain brown tent has been raised to the south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+The spirit of a bandit patrol is hovering here. (grey aura)
+The spirit of a bandit patrol is hovering here. (grey aura)
+A bandit is walking around, carrying out his everyday duties.
+
+484H 165V 4565415X 49.75% 9595C T:16 Exits:N(ES)W> 
+n
+The spirit of a bandit patrol arrives from the south.
+The spirit of a bandit patrol arrives from the south.
+The spirit of a bandit arrives from the south.
+The spirit of a stout bandit guard arrives from the south.
+The Perimeter Of The Camp
+     You have reached the camp's perimeter. The forest extends further to
+the east, but the undergrowth, comprising of bushes and shrubs, is far too
+dense to consider travel in that direction. To the north you can continue
+moving around the tents, while the camp opens to the south.
+The spirit of a stout bandit guard is hovering here. (grey aura)
+The spirit of a bandit is hovering here. (grey aura)
+The spirit of a bandit patrol is hovering here. (grey aura)
+The spirit of a bandit patrol is hovering here. (grey aura)
+A bandit is patrolling the perimeter, watching for dangers from the forest.
+
+484H 163V 4565415X 49.75% 9595C T:15 Exits:NS> 
+c 'trasns'
+You utter the words, 'tfasis'
+You've never heard of such a spell.
+
+484H 163V 4565415X 49.75% 9595C T:12 Exits:NS> 
+c 'trans'
+You utter the words, 'transmogrify'
+gro
+The spirit of a bandit patrol stops following you.
+The spirit of a bandit patrol transcends this world and enters another plane.
+gro
+The spirit of a bandit patrol stops following you.
+The spirit of a bandit patrol transcends this world and enters another plane.
+gro
+The spirit of a bandit stops following you.
+The spirit of a bandit transcends this world and enters another plane.
+gro
+The spirit of a stout bandit guard stops following you.
+The spirit of a stout bandit guard transcends this world and enters another plane.
+A massive spectral beast materializes.
+A massive spectral beast starts following you.
+
+484H 163V 4565415X 49.75% 9595C Mem:2 T:8 Exits:NS> 
+ord all.spirit kil bandit
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  SH Urtas            perfect   rested    standing   Y   Y    Y    Y   Y     3    2
+
+484H 163V 4565415X 49.75% 9595C Mem:2 T:4 Exits:NS> 
+ass
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  SH Urtas            perfect   rested    standing   Y   Y    Y    Y   Y     3    2
+
+484H 163V 4565415X 49.75% 9595C Mem:2 T:4 Exits:NS> 
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  SH Urtas            perfect   rested    standing   Y   Y    Y    Y   Y     3    2
+
+484H 163V 4565415X 49.75% 9595C Mem:2 T:3 Exits:NS> 
+  Member              Hits      Move      Position  Fly Inv Water iMT Here Light Mem
+------------------------------------------------------------------------------------
+  SH Urtas            perfect   rested    standing   Y   Y    Y    Y   Y     3    2
+
+484H 163V 4565415X 49.75% 9595C Mem:2 T:3 Exits:NS> 
+A massive spectral beast annihilates a bandit patrol with its claw.
+You issue the order 'kil bandit'.
+
+484H 163V 4565415X 49.75% 9595C Mem:2 T:3 Exits:NS> 
+You attempt to assist a massive spectral beast.
+You cleave a bandit patrol extremely hard.
+
+484H 163V 4564931X 49.75% 9595C [a massive spectral beast:Perfect] [a bandit patrol:Fair] Mem:2 T:3 Exits:NS> 
+
+You massacre a bandit patrol with your cleave.
+You cleave a bandit patrol extremely hard.
+A massive spectral beast annihilates a bandit patrol with its claw.
+get pile corpse
+You receive 17750 experience.
+exa corpse
+A bandit patrol is dead! R.I.P.
+The death cry of a bandit patrol echoes from somewhere nearby...
+
+484H 173V 4546165X 49.75% 9595C Mem:1 T:60 Exits:NS> 
+You get a pile of coins from the corpse of a bandit patrol.
+split 78
+There were 78 coins.
+
+484H 173V 4546165X 49.75% 9673C Mem:1 T:58 Exits:NS> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+484H 173V 4546165X 49.75% 9673C Mem:1 T:58 Exits:NS> 
+You belong to no group.
+
+484H 173V 4546165X 49.75% 9673C Mem:1 T:57 Exits:NS> 
+l
+The Perimeter Of The Camp
+     You have reached the camp's perimeter. The forest extends further to
+the east, but the undergrowth, comprising of bushes and shrubs, is far too
+dense to consider travel in that direction. To the north you can continue
+moving around the tents, while the camp opens to the south.
+The corpse of a bandit patrol is lying here.
+The massive beast of spectral energy prowls through the area. (grey aura)
+
+484H 173V 4546165X 49.75% 9673C Mem:1 T:57 Exits:NS> 
+s
+A massive spectral beast arrives from the north.
+Between The Tents
+     You have reached an intersection in the camp. The ground seems to be
+slightly cleaner around here. To the north the path continues, and the camp
+expands as far as the edges of the clearing. To the east you can see a
+small stone furnace while a plain brown tent has been raised to the south.
+The massive beast of spectral energy prowls through the area. (grey aura)
+A bandit is walking around, carrying out his everyday duties.
+
+484H 171V 4546165X 49.75% 9673C Mem:1 T:55 Exits:N(ES)W> 
+e
+The flaps seems to be closed.
+
+484H 171V 4546165X 49.75% 9673C Mem:1 T:55 Exits:N(ES)W> 
+op flaps
+Ok.
+
+484H 171V 4546165X 49.75% 9673C Mem:1 T:52 Exits:NE(S)W> 
+e
+You notice some movement in the room.
+An Roughly-Made Kitchen
+     This tent is quite strange indeed. Its southern wall has been torn and
+a small, ramshackle, stone oven has been placed there. A large table,
+filled with various cooking utensils, is standing in the middle of the
+tent. Half-empty sacks of corn and flour have been left on the ground,
+while large pieces of bloody meat are hanging from large hooks firmly
+attached on the strongest beams that support the tent.
+The massive beast of spectral energy prowls through the area. (grey aura)
+A bandit, dressed in a dirty cook's apron, is here preparing some meal.
+
+484H 170V 4546165X 49.75% 9673C Mem:1 T:52 Exits:W> 
+ord all.spirit kil bandit
+A massive spectral beast annihilates a bandit cook with its claw.
+You issue the order 'kil bandit'.
+
+484H 170V 4546165X 49.75% 9673C Mem:1 T:49 Exits:W> 
+ass
+You attempt to assist a massive spectral beast.
+You cleave a bandit cook extremely hard.
+
+484H 170V 4545703X 49.75% 9673C [a massive spectral beast:Perfect] [a bandit cook:Bad] Mem:1 T:49 Exits:W> 
+
+You massacre a bandit cook with your cleave.
+A massive spectral beast annihilates a bandit cook with its claw.
+get pile corpse
+You receive 14994 experience.
+exa corpse
+A bandit cook is dead! R.I.P.
+The death cry of a bandit cook echoes from somewhere nearby...
+A spirit rises from the body of a bandit cook.
+
+484H 170V 4530137X 50.70% 9673C Mem:1 T:48 Exits:W> 
+The corpse doesn't seem to have what you are looking for.
+
+484H 170V 4530137X 50.70% 9673C Mem:1 T:44 Exits:W> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+a meat cleaver
+an apron
+
+484H 170V 4530137X 50.70% 9673C Mem:1 T:44 Exits:W> 
+w
+A massive spectral beast arrives from the east.
+Between The Tents
+     You have reached an intersection in the camp. The ground seems to be
+slightly cleaner around here. To the north the path continues, and the camp
+expands as far as the edges of the clearing. To the east you can see a
+small stone furnace while a plain brown tent has been raised to the south.
+The massive beast of spectral energy prowls through the area. (grey aura)
+A bandit is walking around, carrying out his everyday duties.
+
+484H 169V 4530137X 50.70% 9673C Mem:1 T:36 Exits:NE(S)W> 
+s
+The flaps seems to be closed.
+
+484H 169V 4530137X 50.70% 9673C Mem:1 T:36 Exits:NE(S)W> 
+op flaps s
+Ok.
+
+484H 169V 4530137X 50.70% 9673C Mem:1 T:33 Exits:NESW> 
+ord all.spirit kil bandit
+A massive spectral beast annihilates a bandit with its claw.
+You issue the order 'kil bandit'.
+
+484H 169V 4530137X 50.70% 9673C Mem:1 T:31 Exits:NESW> 
+ass
+You attempt to assist a massive spectral beast.
+You massacre a bandit with your cleave.
+
+484H 169V 4529683X 50.70% 9673C [a massive spectral beast:Perfect] [a bandit:V.Bad] Mem:1 T:30 Exits:NESW> 
+
+A bandit shouts 'Help! Help! a massive spectral beast is attacking me!'
+
+484H 169V 4529683X 50.70% 9673C [a massive spectral beast:Perfect] [a bandit:V.Bad] Mem:1 T:29 Exits:NESW> 
+
+You massacre a bandit with your cleave.
+A bandit is stunned, but will likely regain consciousness again.
+A massive spectral beast obliterates a bandit with its claw.
+get pile corpse
+You receive 9424 experience.
+exa corpse
+A bandit is dead! R.I.P.
+The death cry of a bandit echoes from somewhere nearby...
+
+484H 169V 4519725X 50.70% 9673C Mem:1 T:28 Exits:NESW> 
+You get a small pile of coins from the corpse of a bandit.
+split 8
+There were 8 coins.
+
+484H 169V 4519725X 50.70% 9681C Mem:1 T:25 Exits:NESW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+484H 169V 4519725X 50.70% 9681C Mem:1 T:25 Exits:NESW> 
+You belong to no group.
+
+484H 169V 4519725X 50.70% 9681C Mem:1 T:25 Exits:NESW> 
+s
+You notice some movement in the room.
+Inside A Tent
+     You enter a small, cramped tent. Two small cots made of wood and
+covered with rags are on the east and west walls of the tent. Half-eaten
+pieces of beef jerky are lying scattered on the ground, offering a kingly
+feast to various small insects.
+The massive beast of spectral energy prowls through the area. (grey aura)
+A bandit is sleeping here on a mat, lightly snoring.
+
+484H 168V 4519725X 50.70% 9681C Mem:1 T:24 Exits:N> 
+c 'sa str' bandit
+You utter the words, 'sap strength'
+You gain strength as you draw it from a tired bandit.
+
+484H 168V 4519725X 50.70% 9681C Mem:1 T:18 Exits:N> 
+ord all.spirit kil bandit
+ass
+A massive spectral beast obliterates a tired bandit with its claw.
+A tired bandit awakens.
+You issue the order 'kil bandit'.
+
+484H 168V 4519725X 50.70% 9681C Mem:1 T:13 Exits:N> 
+You attempt to assist a massive spectral beast.
+You annihilate a tired bandit with your cleave.
+
+484H 168V 4519039X 50.70% 9681C [a massive spectral beast:Perfect] [a tired bandit:Awful] Mem:1 T:13 Exits:N> 
+
+You massacre a tired bandit with your cleave.
+get pile corpse
+You receive 7024 experience.
+exa corpse
+A tired bandit is dead! R.I.P.
+The death cry of a tired bandit echoes from somewhere nearby...
+
+484H 168V 4511523X 50.70% 9681C Mem:1 T:12 Exits:N> 
+You get a pile of coins from the corpse of a tired bandit.
+split 32
+There were 32 coins.
+
+484H 168V 4511523X 50.70% 9713C Mem:1 T:8 Exits:N> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+484H 168V 4511523X 50.70% 9713C Mem:1 T:8 Exits:N> 
+You belong to no group.
+
+484H 168V 4511523X 50.70% 9713C Mem:1 T:8 Exits:N> 
+n
+A massive spectral beast arrives from the south.
+Between The Tents
+     You have reached an intersection in the camp. The ground seems to be
+slightly cleaner around here. To the north the path continues, and the camp
+expands as far as the edges of the clearing. To the east you can see a
+small stone furnace while a plain brown tent has been raised to the south.
+The corpse of a bandit is lying here.
+The massive beast of spectral energy prowls through the area. (grey aura)
+
+484H 167V 4511523X 50.70% 9713C Mem:1 T:8 Exits:NESW> 
+w
+A massive spectral beast arrives from the east.
+Between The Tents
+     You are walking among the tents of the camp. The ground has been
+trodden to a muddy mess composed of burnt wood, food bits, broken jugs and
+other, even less savoury, components. To the north a tent wall blocks your
+vision, while the camp continues to the east. Moving west will take you to
+the center of the camp. To the south you can enter one of the cramped
+canvas tents.
+The massive beast of spectral energy prowls through the area. (grey aura)
+A bandit is walking around, carrying out his everyday duties.
+
+484H 165V 4511523X 50.70% 9713C Mem:1 T:7 Exits:ESW> 
+s
+You notice some movement in the room.
+Inside A Tent
+     This tent stinks of urine and rotten food. The air entering the tent
+from the torn flaps to the north does little to improve things. The floor
+is filled with broken, now empty, jugs of rotgut whisky and dwarven
+spirits. A half rusted bronze mace sits among the mess. A rather large cot
+made of filthy rags sits next to the south wall of the tent. You can't
+imagine anyone touching it, even less sleeping on it.
+The massive beast of spectral energy prowls through the area. (grey aura)
+
+484H 164V 4511523X 50.70% 9713C Mem:1 T:6 Exits:N> 
+n
+A massive spectral beast arrives from the south.
+Between The Tents
+     You are walking among the tents of the camp. The ground has been
+trodden to a muddy mess composed of burnt wood, food bits, broken jugs and
+other, even less savoury, components. To the north a tent wall blocks your
+vision, while the camp continues to the east. Moving west will take you to
+the center of the camp. To the south you can enter one of the cramped
+canvas tents.
+The massive beast of spectral energy prowls through the area. (grey aura)
+A bandit is walking around, carrying out his everyday duties.
+
+484H 163V 4511523X 50.70% 9713C Mem:1 T:5 Exits:ESW> 
+ord all.spirit kil bandit
+A massive spectral beast annihilates a bandit with its claw.
+You issue the order 'kil bandit'.
+
+484H 163V 4511523X 50.70% 9713C Mem:1 T:4 Exits:ESW> 
+ass
+You attempt to assist a massive spectral beast.
+You cleave a bandit extremely hard.
+
+484H 163V 4511147X 50.70% 9713C [a massive spectral beast:Perfect] [a bandit:V.Bad] Mem:1 T:3 Exits:ESW> 
+
+You massacre a bandit with your cleave.
+A bandit panics, and attempts to flee.
+A bandit leaves east.
+Your meditation finished, you put away your charms with a smile.
+The shadows surrounding you disperse.
+
+484H 173V 4510713X 50.70% 9713C T:60 Exits:ESW> 
+e
+You notice some movement in the room.
+Between The Tents
+     You have reached an intersection in the camp. The ground seems to be
+slightly cleaner around here. To the north the path continues, and the camp
+expands as far as the edges of the clearing. To the east you can see a
+small stone furnace while a plain brown tent has been raised to the south.
+The corpse of a bandit is lying here.
+The massive beast of spectral energy prowls through the area. (grey aura)
+A bandit is walking around, carrying out his everyday duties.
+
+484H 171V 4510713X 50.70% 9713C T:58 Exits:NESW> 
+ord all.spirit kil bandit
+A massive spectral beast annihilates a bandit with its claw.
+get pile corpse
+You receive 9504 experience.
+exa corpse
+A bandit is dead! R.I.P.
+You issue the order 'kil bandit'.
+
+484H 171V 4501209X 50.70% 9713C T:57 Exits:NESW> 
+
+The death cry of a bandit echoes from somewhere nearby...
+
+484H 171V 4501209X 50.70% 9713C T:57 Exits:NESW> 
+You get a small pile of coins from the corpse of a bandit.
+split 4
+There were 4 coins.
+
+484H 171V 4501209X 50.70% 9717C T:57 Exits:NESW> 
+It's a pretty ghastly sight! Searching through the remains, you find:
+corpse (here) : 
+
+484H 171V 4501209X 50.70% 9717C T:57 Exits:NESW> 
+You belong to no group.
+
+484H 171V 4501209X 50.70% 9717C T:57 Exits:NESW> 
+w
+You notice some movement in the room.
+Between The Tents
+     You are walking among the tents of the camp. The ground has been
+trodden to a muddy mess composed of burnt wood, food bits, broken jugs and
+other, even less savoury, components. To the north a tent wall blocks your
+vision, while the camp continues to the east. Moving west will take you to
+the center of the camp. To the south you can enter one of the cramped
+canvas tents.
+The massive beast of spectral energy prowls through the area. (grey aura)
+
+484H 169V 4501209X 50.70% 9717C T:55 Exits:ESW> 
+s
+You notice some movement in the room.
+Inside A Tent
+     This tent stinks of urine and rotten food. The air entering the tent
+from the torn flaps to the north does little to improve things. The floor
+is filled with broken, now empty, jugs of rotgut whisky and dwarven
+spirits. A half rusted bronze mace sits among the mess. A rather large cot
+made of filthy rags sits next to the south wall of the tent. You can't
+imagine anyone touching it, even less sleeping on it.
+The massive beast of spectral energy prowls through the area. (grey aura)
+
+484H 168V 4501209X 50.70% 9717C T:54 Exits:N> 
+get mace
+You don't see what you are looking for here.
+
+484H 168V 4501209X 50.70% 9717C T:48 Exits:N> 
+l mace
+You reach for the mace, but notice that it's rusty and beyond repair.
+
+484H 168V 4501209X 50.70% 9717C T:44 Exits:N> 
+move mace
+Huh?!
+
+484H 168V 4501209X 50.70% 9717C T:37 Exits:N> 
+n
+w
+A massive spectral beast arrives from the south.
+Between The Tents
+     You are walking among the tents of the camp. The ground has been
+trodden to a muddy mess composed of burnt wood, food bits, broken jugs and
+other, even less savoury, components. To the north a tent wall blocks your
+vision, while the camp continues to the east. Moving west will take you to
+the center of the camp. To the south you can enter one of the cramped
+canvas tents.
+The massive beast of spectral energy prowls through the area. (grey aura)
+
+484H 167V 4501209X 50.70% 9717C T:24 Exits:ESW> 
+A massive spectral beast arrives from the east.
+In The Middle Of The Camp
+     You have reached the middle of the camp. Someone has dug a well here|
+it is filled with clear, cold water. You are surrounded by old, worn tents.
+Whoever lives here doesn't seem to mind much about hygiene as the camp is
+filled with the debris of cooking fires and broken jugs of rotgut whiskey.
+A large tent, taller than the rest, stands to the north.
+The massive beast of spectral energy prowls through the area. (grey aura)
+
+484H 165V 4501209X 50.70% 9717C T:24 Exits:NESW> 
+s
+You notice some movement in the room.
+A Path Through The Camp
+     The path continues to the north. You find yourself standing on the gap
+between two of the brown canvas tents that fill the camp. The dirt below
+you seems recently and heavily walked on. To the north you can make out
+some sort of crossroads, probably the center of the camp. To the south you
+can still see the forest and safety.
+The massive beast of spectral energy prowls through the area. (grey aura)
+
+484H 163V 4501209X 50.70% 9717C T:23 Exits:NS> 
+s
+A massive spectral beast arrives from the north.
+A Path Through The Camp
+     You stand within the camp's perimeter. You notice that the tents are
+made from thick, worn canvas and appear quite old. The ground, once covered
+by grass, has now been trod to filthy mud. The camp expands to the north,
+while to the south a small path leads towards the forest.
+The massive beast of spectral energy prowls through the area. (grey aura)
+
+484H 161V 4501209X 50.70% 9717C T:21 Exits:NS> 
+s
+A massive spectral beast arrives from the north.
+Before A Camp
+     The trees suddenly end here, forming a large clearing to the north.
+The soft, pleasant sounds of the wild forest give way to the harsher sounds
+of civilization. You stand before what seems to be a small camp made of
+old, brown tents set up in an ordered fashion. The tents are covered with
+tree branches| it looks like someone took care to hide this place from
+curious eyes. A narrow passage among thorny bushes leads southward, toward
+a dense forest.
+The massive beast of spectral energy prowls through the area. (grey aura)
+
+484H 159V 4501209X 50.70% 9717C T:20 Exits:NS> 
+s
+A massive spectral beast arrives from the north.
+A Narrow Passage
+     The bushes clear somewhat, and you can now walk among them without
+getting scratched. The trees continue to grow tall here but to the north
+they seem to end in a large clearing in the middle of the forest.
+The massive beast of spectral energy prowls through the area. (grey aura)
+
+484H 157V 4501209X 50.70% 9717C T:19 Exits:NS> 
+s
+You notice some movement in the room.
+Between The Trees
+     You manage to wriggle among the thorny bushes and trees. Their wiry
+branches seem to tug at you, tearing your clothes and pricking your skin to
+the point of drawing blood. The narrow passage continues northward while to
+the south you can go back into the open forest though a small opening
+between the trees.
+The massive beast of spectral energy prowls through the area. (grey aura)
+
+484H 155V 4501209X 50.70% 9717C T:18 Exits:N> 
+l
+Between The Trees
+     You manage to wriggle among the thorny bushes and trees. Their wiry
+branches seem to tug at you, tearing your clothes and pricking your skin to
+the point of drawing blood. The narrow passage continues northward while to
+the south you can go back into the open forest though a small opening
+between the trees.
+The massive beast of spectral energy prowls through the area. (grey aura)
+
+484H 155V 4501209X 50.70% 9717C T:16 Exits:N> 
+s
+Alas, you cannot go that way...
+
+484H 155V 4501209X 50.70% 9717C T:16 Exits:N> 
+en opening
+You squeeze between the trees, trying to fit into the narrow opening.
+Deep Into The Forest
+     The forest continues to expand in all directions. The trees grow tall
+and strong here, giving shelter to the many forest creatures that inhabit
+these woods. Eastward thorny bushes and thick ferns block travel more
+effectively than a stone wall would, while to the north the trees and
+bushes seem to form an almost impassable barrier.
+A deer is standing here.
+A deer is standing here.
+A rabbit is here, munching at some grass.
+
+484H 155V 4501209X 50.70% 9717C T:14 Exits:SW> 

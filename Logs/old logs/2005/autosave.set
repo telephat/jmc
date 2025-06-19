@@ -1,0 +1,1427 @@
+#message alias OFF
+#message action OFF
+#message subst OFF
+#message high OFF
+#message variable OFF
+#message group OFF
+#multiaction on
+#multihighlight on
+#presub off
+#echo off
+#ignore off
+#speedwalk on
+#togglesubs off
+#verbat off
+#alias {ar} {#con mud.arctic.org 2700;#status {3} {direct connect} {light red}} {default}
+#alias {ar1} {telnet mud.arctic.org 2700;#status {3} {Hop-to-hop connect} {light red}} {default}
+#alias {aresc} {#if $aresc=0 aresc_on;#if $aresc=1 aresc_off} {default}
+#alias {aresc_off} {#show {       --------> AUTORESCUE  >OFF<  <------------};#var aresc 0;#group disable autorescue} {default}
+#alias {aresc_on} {#show {        --------> AUTORESCUE  <ON>  $gmember1 $gmember2 $gmember3 $gmember4 $gmember5 $gmember6 $gmember7 $gmember8 $gmember9 $gmember10 };#var aresc 1;#group enable autorescue} {default}
+#alias {chardetoff} {#unact {You are %0, a level %1 Cleric.};#unact {You are %0, a level %1 Mage.} ;#unact {You are %0, a level %1 Warrior.};#unact {You are %0, a level %1 Barbarian.};#unact {You are %0, a level %1 Druid.} ;#unact {You are %0, a level %1 Ranger.} ;#unact {You are %0, a level %1 Paladin.};#unact {You are %0, a level %1 Dark Knight.};#unact {You are %0, a level %1 Thief.}} {default}
+#alias {cls} {#50 {#showme}} {default}
+#alias {cls1} {#status 1 {}} {default}
+#alias {cls2} {#status 2 {}} {default}
+#alias {cls3} {#status 3 {}} {default}
+#alias {clsout} {#10 {#output}} {default}
+#alias {clsst} {#status 1 {};#status 2 {};#status 3 {}} {default}
+#alias {ddri} {get water $container;dri water;dri water;put all.water $container} {default}
+#alias {debug} {#echo on;#message actions on;#message variables on} {default}
+#alias {dec} {#math %0 {$%0-1}} {default}
+#alias {div} {#math %1 {$%1/%2}} {default}
+#alias {doflee} {fl} {default}
+#alias {dokill} {#showme -----> %0 on sight!;#if $scanning=0 {pkoff;$pkaction %0}} {default}
+#alias {doresc} {#if $rescueing=0 {#var rescueing 1;rescue %1}} {autorescue}
+#alias {doscan} {scan;#act {Looking down:} {#var scanning 0}} {default}
+#alias {ea} {#var eat %0;get %0 $container;eat %0;put all.%0 $container} {default}
+#alias {eeat} {get $eat $container;eat $eat;put all.$eat $container} {default}
+#alias {f1} {#hot f1 %0} {default}
+#alias {f10} {#hot f10 %0} {default}
+#alias {f2} {#hot f2 %0} {default}
+#alias {f3} {#hot f3 %0} {default}
+#alias {f4} {#hot f4 %0} {default}
+#alias {f5} {#hot f5 %0} {default}
+#alias {f6} {#hot f6 %0} {default}
+#alias {f7} {#hot f7 %0} {default}
+#alias {f8} {#hot f8 %0} {default}
+#alias {f9} {#hot f9 %0} {default}
+#alias {fle} {doflee} {default}
+#alias {flee} {doflee} {default}
+#alias {fls} {doflee} {default}
+#alias {ga} {get all corpse} {default}
+#alias {host} {#con 192.168.0.1 23} {default}
+#alias {inc} {#math %0 {$%0+1}} {default}
+#alias {loadbarb} {#read config\\chars\\barb.set} {default}
+#alias {loadcleric} {#read config\\chars\\cleric.set} {default}
+#alias {loaddk} {#read config\\chars\\dk.set} {default}
+#alias {loaddruid} {#read config\\chars\\druid.set} {default}
+#alias {loadmage} {#read config\\chars\\mage.set} {default}
+#alias {loadpala} {#read config\\chars\\paladin.set} {default}
+#alias {loadranger} {#read config\\chars\\ranger.set} {default}
+#alias {loadthief} {#read config\\chars\\thief.set} {default}
+#alias {loadwarr} {#read config\\chars\\warrior.set} {default}
+#alias {lootmob} {#var lootmob 1} {default}
+#alias {od} {ord dwarf} {default}
+#alias {oe} {ord elemental} {default}
+#alias {p} {gro} {default}
+#alias {pdc} {#con rh.pdc.ru 2700;#status {3} {Hop-to-hop connect} {light red}} {default}
+#alias {pkact} {#var pkaction %0} {default}
+#alias {pkoff} {#var pkmode DISABLED;#show ------PK mode disabled;#group disable pkill;#var target1 noone;#var target2 noone;#var target3 noone;#var target4 noone;#var target5 noone;} {default}
+#alias {pkon} {#var pkmode ENABLED;#var target1 noone;#var target2 noone;#var target3 noone;#var target4 noone;#var target5 noone;#showme --> CAPITALISE CHARS! <----, set PK action! ;#var target1 %1;#var target2 %2;#var target3 %3;#var target4 %4;#var target5 %5;#group enable pkill;pkstat} {default}
+#alias {pkstat} {#showme  PK MODE IS $pkmode. Targets are: $target1 , $target2 , $target3 , $target4 , $target5} {default}
+#alias {ppd} {, points DOWN} {default}
+#alias {ppe} {, points EAST} {default}
+#alias {ppn} {, points NORTH} {default}
+#alias {pps} {, points SOUTH} {default}
+#alias {ppu} {, points UP} {default}
+#alias {ppw} {, points WEST} {default}
+#alias {report_evils} {#showme NOWCLANS: $nowclans;#showme OUTLAWS $outlaws} {default}
+#alias {reset} {#read default.set} {default}
+#alias {sca} {#var scanning 1;doscan} {default}
+#alias {scanevils} {#gag {%0};#var outlaws 0;#var nowclans 0;#act {<NOW> %0} {inc nowclans;#output NOWCLANS $nowclans %0};#act {<Out> %0} {inc outlaws;#output OUTLAWS: $outlaws %0};who;#act {Total visible people} {report_evils;scanevils_off}} {default}
+#alias {scanevils_off} {#ungag {%0};#unact {<Out> %0};#unact {<NOW> %0};#var outlaws 0;#var nowclans 0} {}}
+#alias {setgroup} {#var gmember1 nobody;#var gmember2 nobody;#var gmember3 nobody;#var gmember4 nobody;#var gmember5 nobody;#var gmember6 nobody;#var gmember7 nobody;#var gmember8 nobody;#var gmember9 nobody;#var gmember10 nobody;#var gmember1 %1;#var gmember2 %2;#var gmember3 %3;#var gmember4 %4;#var gmember5 %5;#var gmember6 %6;#var gmember7 %7;#var gmember8 %8;#var gmember9 %9} {default}
+#alias {sos} {rec recall me;get recall chest} {default}
+#alias {splitoff} {#var cashsplit 0} {default}
+#alias {spliton} {#var cashsplit 1} {default}
+#alias {sqr} {#math %1 {$%1*$%1}} {default}
+#alias {tickmsg1} {#var {tickmsg} {$tickmsg1}} {default}
+#alias {tickmsg2} {#var {tickmsg} {$tickmsg2}} {default}
+#alias {tickmsg3} {#var {tickmsg} {$tickmsg3}} {default}
+#alias {tickmsg4} {#var {tickmsg} {$tickmsg4}} {default}
+#alias {tickshow} {#nop if $grouped {gt $tickmsg}} {default}
+#alias {xor} {#math %1 {$%1*%2}} {default}
+#action {^%0 summoned you} {rec recall me} {5} {default}
+#action {^You feel up to using %1 again.} {#output {red} {----- %1 is UP ----}} {5} {default}
+#action {^#10 SECONDS TO TICK} {tickshow} {5} {default}
+#action {^%0 closes %1 with a content look} {#tickset} {5} {default}
+#action {^%0 crumbles into dust and scatters.} {#tickset} {5} {default}
+#action {^%0 decays in your hands.} {#output {white} {>        ... [%0] is decayed! ...};#bell} {5} {default}
+#action {^%0 looks really sick, and} {#tickset} {5} {default}
+#action {^%0's ball flickers briefly.} {#tickset} {5} {default}
+#action {^%0's lantern flickers briefly.} {#tickset} {5} {default}
+#action {^A flash of lightning announces} {#tickset} {5} {default}
+#action {^The blizzard tapers off} {#tickset} {5} {default}
+#action {^The cloud-veiled sky becomes even darker} {#tickset} {5} {default}
+#action {^The clouds block your view} {#tickset} {5} {default}
+#action {^The clouds disappear.} {#tickset} {5} {default}
+#action {^The detect invisible wears off.} {#tickset} {5} {default}
+#action {^The rising sun barely lights} {#tickset} {5} {default}
+#action {^The rising sun proclaims a new day.} {#tickset} {5} {default}
+#action {^The snow has stopped.} {#tickset} {5} {default}
+#action {^The sun slowly sinks} {#tickset} {5} {default}
+#action {^You are hungry.} {#tickset} {5} {default}
+#action {^You are now sober.} {#tickset} {5} {default}
+#action {^You are thirsty.} {#tickset} {5} {default}
+#action {^You don't feel as weak anymore.} {#tickset} {5} {default}
+#action {^You feel as if a great weight has} {#tickset} {5} {default}
+#action {^You feel less righteous.} {#tickset} {5} {default}
+#action {^Your studies complete,} {#tickset} {5} {default}
+#action {%0 disarms your weapon.} {#output {white} {>        ... Disarmed! ...};#bell} {5} {default}
+#action {^You raise level!} {#output {white} {>        Leveled!}} {5} {default}
+#action {[ 1]blindness} {#var blinds 1} {5} {spellcount}
+#action {[ 2]blindness} {#var blinds 2} {5} {spellcount}
+#action {[ 3]blindness} {#var blinds 3} {5} {spellcount}
+#action {[ 4]blindness} {#var blinds 4} {5} {spellcount}
+#action {[ 5]blindness} {#var blinds 5} {5} {spellcount}
+#action {[ 6]blindness} {#var blinds 6} {5} {spellcount}
+#action {[ 7]blindness} {#var blinds 7} {5} {spellcount}
+#action {[ 8]blindness} {#var blinds 8} {5} {spellcount}
+#action {[ 9]blindness} {#var blinds 9} {5} {spellcount}
+#action {[10]blindness} {#var blinds 10} {5} {spellcount}
+#action {[11]blindness} {#var blinds 11} {5} {spellcount}
+#action {[ 1]silence} {#var sils 1} {5} {spellcount}
+#action {[ 2]silence} {#var sils 2} {5} {spellcount}
+#action {[ 3]silence} {#var sils 3} {5} {spellcount}
+#action {[ 4]silence} {#var sils 4} {5} {spellcount}
+#action {[ 5]silence} {#var sils 5} {5} {spellcount}
+#action {[ 6]silence} {#var sils 6} {5} {spellcount}
+#action {[ 7]silence} {#var sils 7} {5} {spellcount}
+#action {[ 8]silence} {#var sils 8} {5} {spellcount}
+#action {[ 9]silence} {#var sils 9} {5} {spellcount}
+#action {[10]silence} {#var sils 10} {5} {spellcount}
+#action {[ 1]cause serious} {#var cases 1} {5} {spellcount}
+#action {[ 2]cause serious} {#var cases 2} {5} {spellcount}
+#action {[ 3]cause serious} {#var cases 3} {5} {spellcount}
+#action {[ 4]cause serious} {#var cases 4} {5} {spellcount}
+#action {[ 5]cause serious} {#var cases 5} {5} {spellcount}
+#action {[ 6]cause serious} {#var cases 6} {5} {spellcount}
+#action {[ 7]cause serious} {#var cases 7} {5} {spellcount}
+#action {[ 8]cause serious} {#var cases 8} {5} {spellcount}
+#action {[ 9]cause serious} {#var cases 9} {5} {spellcount}
+#action {[10]cause serious} {#var cases 10} {5} {spellcount}
+#action {[ 1]cure serious} {#var cuses 1} {5} {spellcount}
+#action {[ 2]cure serious} {#var cuses 2} {5} {spellcount}
+#action {[ 3]cure serious} {#var cuses 3} {5} {spellcount}
+#action {[ 4]cure serious} {#var cuses 4} {5} {spellcount}
+#action {[ 5]cure serious} {#var cuses 5} {5} {spellcount}
+#action {[ 6]cure serious} {#var cuses 6} {5} {spellcount}
+#action {[ 7]cure serious} {#var cuses 7} {5} {spellcount}
+#action {[ 8]cure serious} {#var cuses 8} {5} {spellcount}
+#action {[ 9]cure serious} {#var cuses 9} {5} {spellcount}
+#action {[ 1]gust of wind} {#var gows 1} {5} {spellcount}
+#action {[ 2]gust of wind} {#var gows 2} {5} {spellcount}
+#action {[ 3]gust of wind} {#var gows 3} {5} {spellcount}
+#action {[ 4]gust of wind} {#var gows 4} {5} {spellcount}
+#action {[ 5]gust of wind} {#var gows 5} {5} {spellcount}
+#action {[ 6]gust of wind} {#var gows 6} {5} {spellcount}
+#action {[ 7]gust of wind} {#var gows 7} {5} {spellcount}
+#action {[ 8]gust of wind} {#var gows 8} {5} {spellcount}
+#action {[ 9]gust of wind} {#var gows 9} {5} {spellcount}
+#action {[10]gust of wind} {#var gows 10} {5} {spellcount}
+#action {[ 1]dispel magic} {#var dims 1} {5} {spellcount}
+#action {[ 2]dispel magic} {#var dims 2} {5} {spellcount}
+#action {[ 3]dispel magic} {#var dims 3} {5} {spellcount}
+#action {[ 4]dispel magic} {#var dims 4} {5} {spellcount}
+#action {[ 5]dispel magic} {#var dims 5} {5} {spellcount}
+#action {[ 6]dispel magic} {#var dims 6} {5} {spellcount}
+#action {[ 7]dispel magic} {#var dims 7} {5} {spellcount}
+#action {[ 8]dispel magic} {#var dims 8} {5} {spellcount}
+#action {[ 9]dispel magic} {#var dims 9} {5} {spellcount}
+#action {[ 1]hold person} {#var holds 1} {5} {spellcount}
+#action {[ 2]hold person} {#var holds 2} {5} {spellcount}
+#action {[ 3]hold person} {#var holds 3} {5} {spellcount}
+#action {[ 4]hold person} {#var holds 4} {5} {spellcount}
+#action {[ 5]hold person} {#var holds 5} {5} {spellcount}
+#action {[ 6]hold person} {#var holds 6} {5} {spellcount}
+#action {[ 7]hold person} {#var holds 7} {5} {spellcount}
+#action {[ 8]hold person} {#var holds 8} {5} {spellcount}
+#action {[ 9]hold person} {#var holds 9} {5} {spellcount}
+#action {[ 1]dispel good} {#var digs 1} {5} {spellcount}
+#action {[ 2]dispel good} {#var digs 2} {5} {spellcount}
+#action {[ 3]dispel good} {#var digs 3} {5} {spellcount}
+#action {[ 4]dispel good} {#var digs 4} {5} {spellcount}
+#action {[ 5]dispel good} {#var digs 5} {5} {spellcount}
+#action {[ 6]dispel good} {#var digs 6} {5} {spellcount}
+#action {[ 7]dispel good} {#var digs 7} {5} {spellcount}
+#action {[ 8]dispel good} {#var digs 8} {5} {spellcount}
+#action {[ 9]dispel good} {#var digs 9} {5} {spellcount}
+#action {[ 1]cure critical} {#var cucs 1} {5} {spellcount}
+#action {[ 2]cure critical} {#var cucs 2} {5} {spellcount}
+#action {[ 3]cure critical} {#var cucs 3} {5} {spellcount}
+#action {[ 4]cure critical} {#var cucs 4} {5} {spellcount}
+#action {[ 5]cure critical} {#var cucs 5} {5} {spellcount}
+#action {[ 6]cure critical} {#var cucs 6} {5} {spellcount}
+#action {[ 7]cure critical} {#var cucs 7} {5} {spellcount}
+#action {[ 8]cure critical} {#var cucs 8} {5} {spellcount}
+#action {[ 9]cure critical} {#var cucs 9} {5} {spellcount}
+#action {[ 1]cause critical} {#var cacs 1} {5} {spellcount}
+#action {[ 2]cause critical} {#var cacs 2} {5} {spellcount}
+#action {[ 3]cause critical} {#var cacs 3} {5} {spellcount}
+#action {[ 4]cause critical} {#var cacs 4} {5} {spellcount}
+#action {[ 5]cause critical} {#var cacs 5} {5} {spellcount}
+#action {[ 6]cause critical} {#var cacs 6} {5} {spellcount}
+#action {[ 7]cause critical} {#var cacs 7} {5} {spellcount}
+#action {[ 8]cause critical} {#var cacs 8} {5} {spellcount}
+#action {[ 9]cause critical} {#var cacs 9} {5} {spellcount}
+#action {[ 1]harm} {#var harms 1} {5} {spellcount}
+#action {[ 2]harm} {#var harms 2} {5} {spellcount}
+#action {[ 3]harm} {#var harms 3} {5} {spellcount}
+#action {[ 4]harm} {#var harms 4} {5} {spellcount}
+#action {[ 5]harm} {#var harms 5} {5} {spellcount}
+#action {[ 6]harm} {#var harms 6} {5} {spellcount}
+#action {[ 7]harm} {#var harms 7} {5} {spellcount}
+#action {[ 8]harm} {#var harms 8} {5} {spellcount}
+#action {[ 9]harm} {#var harms 9} {5} {spellcount}
+#action {[ 1]heal} {#var heals 1} {5} {spellcount}
+#action {[ 2]heal} {#var heals 2} {5} {spellcount}
+#action {[ 3]heal} {#var heals 3} {5} {spellcount}
+#action {[ 4]heal} {#var heals 4} {5} {spellcount}
+#action {[ 5]heal} {#var heals 5} {5} {spellcount}
+#action {[ 6]heal} {#var heals 6} {5} {spellcount}
+#action {[ 7]heal} {#var heals 7} {5} {spellcount}
+#action {[ 8]heal} {#var heals 8} {5} {spellcount}
+#action {[ 9]heal} {#var heals 9} {5} {spellcount}
+#action {[ 1]soul leech} {#var sls 1} {5} {spellcount}
+#action {[ 2]soul leech} {#var sls 2} {5} {spellcount}
+#action {[ 3]soul leech} {#var sls 3} {5} {spellcount}
+#action {[ 4]soul leech} {#var sls 4} {5} {spellcount}
+#action {[ 5]soul leech} {#var sls 5} {5} {spellcount}
+#action {[ 6]soul leech} {#var sls 6} {5} {spellcount}
+#action {[ 7]soul leech} {#var sls 7} {5} {spellcount}
+#action {[ 8]soul leech} {#var sls 8} {5} {spellcount}
+#action {[ 9]soul leech} {#var sls 9} {5} {spellcount}
+#action {[10]soul leech} {#var sls 10} {5} {spellcount}
+#action {[ 1]magic missile} {#var mms 1} {5} {spellcount}
+#action {[ 2]magic missile} {#var mms 2} {5} {spellcount}
+#action {[ 3]magic missile} {#var mms 3} {5} {spellcount}
+#action {[ 4]magic missile} {#var mms 4} {5} {spellcount}
+#action {[ 5]magic missile} {#var mms 5} {5} {spellcount}
+#action {[ 6]magic missile} {#var mms 6} {5} {spellcount}
+#action {[ 7]magic missile} {#var mms 7} {5} {spellcount}
+#action {[ 8]magic missile} {#var mms 8} {5} {spellcount}
+#action {[ 9]magic missile} {#var mms 9} {5} {spellcount}
+#action {[10]magic missile} {#var mms 10} {5} {spellcount}
+#action {[ 1]invisibility} {#var invises 1} {5} {spellcount}
+#action {[ 2]invisibility} {#var invises 2} {5} {spellcount}
+#action {[ 3]invisibility} {#var invises 3} {5} {spellcount}
+#action {[ 4]invisibility} {#var invises 4} {5} {spellcount}
+#action {[ 5]invisibility} {#var invises 5} {5} {spellcount}
+#action {[ 1]fly} {#var flys 1} {5} {spellcount}
+#action {[ 2]fly} {#var flys 2} {5} {spellcount}
+#action {[ 3]fly} {#var flys 3} {5} {spellcount}
+#action {[ 4]fly} {#var flys 4} {5} {spellcount}
+#action {[ 5]fly} {#var flys 5} {5} {spellcount}
+#action {[ 1]lightning bolt} {#var lbs 1} {5} {spellcount}
+#action {[ 2]lightning bolt} {#var lbs 2} {5} {spellcount}
+#action {[ 3]lightning bolt} {#var lbs 3} {5} {spellcount}
+#action {[ 4]lightning bolt} {#var lbs 4} {5} {spellcount}
+#action {[ 5]lightning bolt} {#var lbs 5} {5} {spellcount}
+#action {[ 6]lightning bolt} {#var lbs 6} {5} {spellcount}
+#action {[ 7]lightning bolt} {#var lbs 7} {5} {spellcount}
+#action {[ 8]lightning bolt} {#var lbs 8} {5} {spellcount}
+#action {[ 9]lightning bolt} {#var lbs 9} {5} {spellcount}
+#action {[10]lightning bolt} {#var lbs 10} {5} {spellcount}
+#action {[ 1]teleport} {#var tels 1} {5} {spellcount}
+#action {[ 2]teleport} {#var tels 2} {5} {spellcount}
+#action {[ 3]teleport} {#var tels 3} {5} {spellcount}
+#action {[ 4]teleport} {#var tels 4} {5} {spellcount}
+#action {[ 1]dimension door} {#var dds 1} {5} {spellcount}
+#action {[ 2]dimension door} {#var dds 2} {5} {spellcount}
+#action {[ 3]dimension door} {#var dds 3} {5} {spellcount}
+#action {[ 4]dimension door} {#var dds 4} {5} {spellcount}
+#action {[ 1]force bolt} {#var fbs 1} {5} {spellcount}
+#action {[ 2]force bolt} {#var fbs 2} {5} {spellcount}
+#action {[ 3]force bolt} {#var fbs 3} {5} {spellcount}
+#action {[ 4]force bolt} {#var fbs 4} {5} {spellcount}
+#action {[ 5]force bolt} {#var fbs 5} {5} {spellcount}
+#action {[ 6]force bolt} {#var fbs 6} {5} {spellcount}
+#action {[ 7]force bolt} {#var fbs 7} {5} {spellcount}
+#action {[ 8]force bolt} {#var fbs 8} {5} {spellcount}
+#action {[ 9]force bolt} {#var fbs 9} {5} {spellcount}
+#action {[10]force bolt} {#var fbs 10} {5} {spellcount}
+#action {[ 1]feeblemind} {#var feebs 1} {5} {spellcount}
+#action {[ 2]feeblemind} {#var feebs 2} {5} {spellcount}
+#action {[ 3]feeblemind} {#var feebs 3} {5} {spellcount}
+#action {[ 4]feeblemind} {#var feebs 4} {5} {spellcount}
+#action {[ 5]feeblemind} {#var feebs 5} {5} {spellcount}
+#action {[ 6]feeblemind} {#var feebs 6} {5} {spellcount}
+#action {[ 7]feeblemind} {#var feebs 7} {5} {spellcount}
+#action {[ 8]feeblemind} {#var feebs 8} {5} {spellcount}
+#action {[ 9]feeblemind} {#var feebs 9} {5} {spellcount}
+#action {[10]feeblemind} {#var feebs 10} {5} {spellcount}
+#action {You are %1 %2 %3, a level %4 %5.} {#var logname {%1,%5(%4).log}} {5} {default}
+#action {%0$target1%0 arrives from the} {dokill $target1} {5} {pkill}
+#action {%0$target2%0 arrives from the} {dokill $target2} {5} {pkill}
+#action {%0$target3%0 arrives from the} {dokill $target3} {5} {pkill}
+#action {%0$target4%0 arrives from the} {dokill $target4} {5} {pkill}
+#action {%0$target5%0 arrives from the} {dokill $target5} {5} {pkill}
+#action {%0$target1%0 flies in from the} {dokill $target1} {5} {pkill}
+#action {%0$target2%0 flies in from the} {dokill $target2} {5} {pkill}
+#action {%0$target3%0 flies in from the} {dokill $target3} {5} {pkill}
+#action {%0$target4%0 flies in from the} {dokill $target4} {5} {pkill}
+#action {%0$target5%0 flies in from the} {dokill $target5} {5} {pkill}
+#action {%0$target1%0 is resting here} {dokill $target1} {5} {pkill}
+#action {%0$target2%0 is resting here} {dokill $target2} {5} {pkill}
+#action {%0$target3%0 is resting here} {dokill $target3} {5} {pkill}
+#action {%0$target4%0 is resting here} {dokill $target4} {5} {pkill}
+#action {%0$target5%0 is resting here} {dokill $target5} {5} {pkill}
+#action {%0$target1%0 is standing here} {dokill $target1} {5} {pkill}
+#action {%0$target2%0 is standing here} {dokill $target2} {5} {pkill}
+#action {%0$target3%0 is standing here} {dokill $target3} {5} {pkill}
+#action {%0$target4%0 is standing here} {dokill $target4} {5} {pkill}
+#action {%0$target5%0 is standing here} {dokill $target5} {5} {pkill}
+#action {%0$target1%0 is sitting here} {dokill $target1} {5} {pkill}
+#action {%0$target2%0 is sitting here} {dokill $target2} {5} {pkill}
+#action {%0$target3%0 is sitting here} {dokill $target3} {5} {pkill}
+#action {%0$target4%0 is sitting here} {dokill $target4} {5} {pkill}
+#action {%0$target5%0 is sitting here} {dokill $target5} {5} {pkill}
+#action {%0$target1%0 is sleeping here} {dokill $target1} {5} {pkill}
+#action {%0$target2%0 is sleeping here} {dokill $target2} {5} {pkill}
+#action {%0$target3%0 is sleeping here} {dokill $target3} {5} {pkill}
+#action {%0$target4%0 is sleeping here} {dokill $target4} {5} {pkill}
+#action {%0$target5%0 is sleeping here} {dokill $target5} {5} {pkill}
+#action {Reconnecting} {sco;eq;look} {5} {default}
+#action {Welcome to the land of Krynn.} {sco;eq;look} {5} {default}
+#action {^You receive %1 experience} {#var mobdied 1;get pile corpse} {5} {default}
+#action {^There were %1 coins} {#if $mobdied {#if $cashsplit {split %1};#var mobdied 0}} {5} {default}
+#action {^%1 is dead! R.I.P.} {exa corpse;#if $lootmob {get all corpse;#var lootmob 0}} {5} {default}
+#action {^The corpse doesn't seem to have} {#var mobdied 0} {5} {default}
+#action {%1 shouts %2} {#output {cyan} {[%1] SHOUTS: %2}} {5} {default}
+#action {%1 says %2} {#output {gray} {[%1] SAYS: %2}} {5} {default}
+#action {%1 yells '%2'} {#output {brown} {[%1] YELLS: %2}} {5} {default}
+#action {%1 tells you '%2'} {#output {brown} {[%1] TELLS: %2}} {5} {default}
+#action {%1 tells your group %2} {#output {light cyan} {[%1] TO GROUP: %2}} {5} {default}
+#action {%1 tells your clan %2} {#output {light cyan} {[%1] TO CLAN: %2}} {5} {default}
+#action {You are thirsty} {#if !$fighting ddri;#if $fighting #status {1} {thirsty} {b red}} {5} {default}
+#action {You are hungry} {#if !$fighting eeat;#if $fighting #status {1} {hungry} {b red}} {5} {default}
+#action {You do not feel thirsty} {#status 1 {}} {5} {default}
+#action {You are full} {#status 2 {}} {5} {default}
+#action {%1H %2V %3X %4C [%5] [%6] Exits%7>} {#var fighting 1} {5} {default}
+#action {%1H %2V %3X %4C [%5] [%6] Mem:%7 Exits%8>} {#var fighting 1} {5} {default}
+#action {%1H %2V %3X %4C Exits%7>} {#var fighting 0} {5} {default}
+#action {%1H %2V %3X %4C Mem:%6 Exits%7>} {#var fighting 0} {5} {default}
+#action {PANIC! You couldn't escape!} {inc flatt;#if {$flatt<$flattmax} {doflee};#if {$flatt>=$flattmax} {#var flatt 0}} {5} {default}
+#action {You are not a member of a group.} {#var grouped 0} {5} {default}
+#action {%1 is now a member of your group.} {#var grouped 1} {5} {default}
+#action {You are now the new leader of %1 group.} {#var grouped 1} {5} {default}
+#action {^You are now a member of %1 group} {#var grouped 1} {5} {default}
+#action {Your group of %1 members} {#if %1>1 #var grouped 1;#if %1=1 #var grouped 0} {5} {default}
+#action {^You stop following %1} {gro} {5} {default}
+#action {^%1 stops following you} {gro} {5} {default}
+#action {%0 freezes in place} {#output {light blue} {>        ... [%0] Held ...}} {5} {default}
+#action {%0 seems to be blinded!} {#output {light blue} {>        ... [%0] Blinded ...}} {5} {default}
+#action {%0 suddenly becomes very quiet.} {#output {light blue} {>        ... [%0] Silenced ...}} {5} {default}
+#action {%0 focuses harshly on %1 and utters} {#var aggrocaster %0} {5} {default}
+#action {You freeze in place, unable to move.} {#status {1} {HELD} {light red};#output {b red} {>        ... Held by: %0 ...}} {5} {default}
+#action {You have been blinded!} {#output {b red} {>        ... Blinded by: %0 ...};#bell} {5} {default}
+#action {You are sent sprawling as a %0 crashes into you.} {#output {b red} {>        ... Bashed by: %0 ...};#status {1} {BASHED} {light red};#bell;#var bashed 1;#var aggrotank %0} {5} {default}
+#action {You step aside as %0 tries to bash you} {#output {light green} {>        ... Bash try on you by: %0 ...};#var aggrotank %0} {5} {default}
+#action {You stand up} {#if {$bashed}{cls1};#var bashed 0;#var rested 0;#var sitting 0} {5} {default}
+#action {^%0 is %1 here, fighting $gmember1} {doresc $gmember1} {5} {autorescue}
+#action {^%0 is %1 here, fighting $gmember2} {doresc $gmember2} {5} {autorescue}
+#action {^%0 is %1 here, fighting $gmember3} {doresc $gmember3} {5} {autorescue}
+#action {%0 is %1 here, fighting $gmember4} {doresc $gmember4} {5} {autorescue}
+#action {%0 is %1 here, fighting $gmember5} {doresc $gmember5} {5} {autorescue}
+#action {%0 is %1 here, fighting $gmember6} {doresc $gmember6} {5} {autorescue}
+#action {%0 is %1 here, fighting $gmember7} {doresc $gmember7} {5} {autorescue}
+#action {%0 is %1 here, fighting $gmember8} {doresc $gmember8} {5} {autorescue}
+#action {%0 is %1 here, fighting $gmember9} {doresc $gmember9} {5} {autorescue}
+#action {%0 is %1 here, fighting $gmember10} {doresc $gmember10} {5} {autorescue}
+#action {^%1H %2V %3X} {#var rescueing 0} {5} {autorescue}
+#action {Looking down:} {#var scanning 0} {5} {default}
+#variable {aggrocaster} {A lesser displacer beast}
+#variable {aggrotank} {large dragonarmy sentry}
+#variable {aogd} {Aog}
+#variable {aresc} {1}
+#variable {bashed} {0}
+#variable {blessd} {Bls}
+#variable {blurd} {Blr}
+#variable {cashsplit} {1}
+#variable {charcfg} {0}
+#variable {clearcfg} {1}
+#variable {container} {chest}
+#variable {eat} {ration}
+#variable {fighting} {0}
+#variable {flatt} {0}
+#variable {flattmax} {6}
+#variable {gmember1} {Valerius}
+#variable {gmember10} {nobody}
+#variable {gmember2} {Solaris}
+#variable {gmember3} {Zuhra}
+#variable {gmember4} {Cylas}
+#variable {gmember5} {Kazooka}
+#variable {gmember6} {Izso}
+#variable {gmember7} {Vorhed}
+#variable {gmember8} {Panddha}
+#variable {gmember9} {Jaffa}
+#variable {grouped} {1}
+#variable {harmd} {Har}
+#variable {heroed} {Her}
+#variable {hungry} {0}
+#variable {logname} {%1,%5(%4).log}
+#variable {lootmob} {0}
+#variable {mobdied} {0}
+#variable {pfed} {Pfe}
+#variable {pfgd} {Pfg}
+#variable {pkaction} {kill}
+#variable {pkmode} {DISABLED}
+#variable {rescueing} {0}
+#variable {rested} {0}
+#variable {sanctd} {San}
+#variable {scanning} {0}
+#variable {sitting} {0}
+#variable {strengd} {Str}
+#variable {tank} {0}
+#variable {thirsty} {0}
+#variable {tickmsg} {Tick coming}
+#variable {tickmsg1} {10 seconds to TICK}
+#variable {tickmsg2} {[>>> TICK in 10 <<<]}
+#variable {tickmsg3} {.... Tick in 10 seconds ....}
+#variable {tickmsg4} {Tick coming}
+#highlight {white} {+[} {default}
+#highlight {light red} {<<<<<} {default}
+#highlight {light green} {<<<]} {default}
+#highlight {white} {>        ... [%0] is decayed! ...} {default}
+#highlight {b red} {> No weapon, moron!} {default}
+#highlight {light red} {>>>>>} {default}
+#highlight {light red} {Aelorin} {default}
+#highlight {light red} {Akofi} {default}
+#highlight {light red} {Allanon } {default}
+#highlight {light red} {Allanon [RGB][Mage]} {default}
+#highlight {light red} {Almanza} {default}
+#highlight {light green} {Althalus [BSP][Thief][Pablo]} {default}
+#highlight {light red} {Ana} {default}
+#highlight {light red} {Artie} {default}
+#highlight {light red} {Ashka } {default}
+#highlight {light red} {Ashka [RGB][Unknown]} {default}
+#highlight {light red} {Atiojrik} {default}
+#highlight {light red} {Aune } {default}
+#highlight {light red} {Aune [RGB][Unknown]} {default}
+#highlight {light red} {Avox } {default}
+#highlight {light red} {Ayumi} {default}
+#highlight {light red} {Azazur} {default}
+#highlight {light red} {Azazur [RGB][Warrior]} {default}
+#highlight {white} {BASH ATTEMPT BY:} {default}
+#highlight {light blue} {BASHED} {default}
+#highlight {b red, white} {BASHED BY:} {default}
+#highlight {light blue} {BLESS GONE} {default}
+#highlight {light blue} {BLINDED} {default}
+#highlight {b red,white} {BLINDED BY:} {default}
+#highlight {light blue} {BLUR GONE} {default}
+#highlight {light red} {Baelor} {default}
+#highlight {light red} {Bain} {default}
+#highlight {light red} {Banrock} {default}
+#highlight {light green} {Bek [BSP][Mage][Mavlad]} {default}
+#highlight {light red} {Belgarath} {default}
+#highlight {light red} {Benedict} {default}
+#highlight {light red} {Benjamin} {default}
+#highlight {light red} {Beric} {default}
+#highlight {light red} {Bezinka} {default}
+#highlight {light red} {Bleinroth} {default}
+#highlight {light red} {Blip } {default}
+#highlight {light red} {Blip [RGB][Unknown]} {default}
+#highlight {light red} {Blix} {default}
+#highlight {light red} {Bratello } {default}
+#highlight {light red} {Bratello [RGB][Unknown]} {default}
+#highlight {light red} {Brukal} {default}
+#highlight {light red} {Buck } {default}
+#highlight {light red} {Buck [RGB][Unknown]} {default}
+#highlight {light red} {Bulgi} {default}
+#highlight {light red} {Bums} {default}
+#highlight {light red} {Burziv} {default}
+#highlight {b red, white} {CAST ATTACKED BY:} {default}
+#highlight {light red} {Cant wimp!} {default}
+#highlight {light green} {Cappy [BSP][Mage]} {default}
+#highlight {light red} {Carr} {default}
+#highlight {light red} {Cattani} {default}
+#highlight {light red} {Chappa} {default}
+#highlight {light red} {Charl} {default}
+#highlight {light red} {Chitzkoi} {default}
+#highlight {light red} {Cila} {default}
+#highlight {light red} {Clamp} {default}
+#highlight {light red} {Constantine } {default}
+#highlight {light red} {Constantine [RGB][Unknown]} {default}
+#highlight {light red} {Crice } {default}
+#highlight {light red} {Crice [RGB][Unknown]} {default}
+#highlight {light red} {Cripple} {default}
+#highlight {light red} {Cromat } {default}
+#highlight {light red} {Cromat [RGB][Unknown]} {default}
+#highlight {light red} {DISARMED} {default}
+#highlight {light red} {Danko} {default}
+#highlight {light red} {Dari } {default}
+#highlight {light red} {Darius } {default}
+#highlight {light red} {Darla} {default}
+#highlight {red} {Deedlet } {default}
+#highlight {light red} {Defrasne } {default}
+#highlight {light red} {Defrasne [RGB][Unknown]} {default}
+#highlight {light red} {Disbind} {default}
+#highlight {light red} {Donnie} {default}
+#highlight {light red} {Dorisis} {default}
+#highlight {light red} {Draegnius } {default}
+#highlight {light red} {Draegnius [RGB][Unknown]} {default}
+#highlight {light red} {Droganis } {default}
+#highlight {light red} {Droganis [RGB][Unknown]} {default}
+#highlight {light red} {Dromar } {#nop}
+#highlight {light red} {Drona } {default}
+#highlight {light red} {Dusket} {default}
+#highlight {light red} {Dzaixs} {default}
+#highlight {light blue} {ENLIGHT} {default}
+#highlight {light red} {Eliza} {default}
+#highlight {red} {Erwin } {default}
+#highlight {light red} {Fekila} {default}
+#highlight {light red} {Flan} {default}
+#highlight {light red} {Foll} {default}
+#highlight {light red} {Forkan} {default}
+#highlight {light red} {Fu } {default}
+#highlight {light red} {Fu [RGB][Barbarian]} {default}
+#highlight {light red} {Fubab} {default}
+#highlight {b red, white} {GAS ATTACK!} {default}
+#highlight {light red} {Gadoh} {default}
+#highlight {light red} {Genja} {default}
+#highlight {light red} {Geno} {default}
+#highlight {light red} {Gigantor} {default}
+#highlight {light red} {Gorion} {default}
+#highlight {light red} {Gort} {default}
+#highlight {light red} {Gourgie} {default}
+#highlight {light red} {Goya} {default}
+#highlight {light red} {Grauth} {default}
+#highlight {light red} {Grishnakh} {default}
+#highlight {light red} {Grond} {default}
+#highlight {light red} {Gvozdedriell [RGB][Cleric]} {default}
+#highlight {light blue} {HELD} {default}
+#highlight {b red,white} {HELD BY:} {default}
+#highlight {light red} {Habib} {default}
+#highlight {light red} {Hakiim} {default}
+#highlight {light red} {Hakimm} {default}
+#highlight {light red} {Hara } {default}
+#highlight {light red} {Hara [RGB][Unknown]} {default}
+#highlight {light red} {Harb} {default}
+#highlight {light red} {Helena} {default}
+#highlight {light red} {Herb} {default}
+#highlight {light red} {Hidalgo} {default}
+#highlight {light red} {Hocus} {default}
+#highlight {light red} {Hocus } {default}
+#highlight {light red} {Hocus [RGB][Unknown]} {default}
+#highlight {light red} {Hoob} {default}
+#highlight {light red} {Humax} {default}
+#highlight {light red} {Iago } {default}
+#highlight {white} {Iago [Randomers][Unknown]} {default}
+#highlight {light red} {Icki} {default}
+#highlight {light red} {Idzys} {default}
+#highlight {light red} {Ike} {default}
+#highlight {light red} {Ildritch} {default}
+#highlight {light red} {Ishmael} {default}
+#highlight {light red} {Isildur} {default}
+#highlight {light red} {Isis} {default}
+#highlight {light red} {Itomu} {default}
+#highlight {light red} {Jaciyecqi} {default}
+#highlight {light red} {Janus} {default}
+#highlight {light red} {Jarmo} {default}
+#highlight {light red} {Jaxis} {default}
+#highlight {light red} {Jeffrey } {default}
+#highlight {light red} {Jeffrey [RGB][Unknown]} {default}
+#highlight {light red} {Jerom} {default}
+#highlight {light red} {Jhor} {default}
+#highlight {light red} {Joharran} {default}
+#highlight {light red} {Jonah} {default}
+#highlight {light red} {Junc} {default}
+#highlight {light red} {Jyrk} {default}
+#highlight {light red} {Kaev} {default}
+#highlight {light red} {Kaf} {default}
+#highlight {light red} {Kamisama} {default}
+#highlight {light red} {Kaotisk} {default}
+#highlight {light red} {Karat } {default}
+#highlight {white} {Karat [Randomers][Unknown]} {default}
+#highlight {light red} {Karias} {default}
+#highlight {light red} {Karina} {default}
+#highlight {light red} {Kart} {default}
+#highlight {light red} {Katastrofi} {default}
+#highlight {light red} {Katerin } {default}
+#highlight {light red} {Katerin [RGB][Unknown]} {default}
+#highlight {light red} {Khazgul} {default}
+#highlight {light red} {Kholod} {default}
+#highlight {light red} {Kiara} {default}
+#highlight {light red} {Kilanu} {default}
+#highlight {light red} {Kirag} {default}
+#highlight {light red} {Kiya } {default}
+#highlight {light red} {Kiya [RGB][Unknown]} {default}
+#highlight {light red} {Ko } {default}
+#highlight {light red} {Koharo} {default}
+#highlight {light red} {Kold} {default}
+#highlight {light red} {Konstri} {default}
+#highlight {light red} {Kopernikus} {default}
+#highlight {light red} {Kostolom} {default}
+#highlight {light red} {Krasha} {default}
+#highlight {light red} {Kto} {default}
+#highlight {light red} {Lanttu} {default}
+#highlight {light red} {Latifa} {default}
+#highlight {light red} {Laureen} {default}
+#highlight {light red} {Lemmy} {default}
+#highlight {light red} {Lendle} {default}
+#highlight {light red} {Leonard} {default}
+#highlight {light red} {Lizev} {default}
+#highlight {light red} {Logh} {default}
+#highlight {light red} {Lono} {default}
+#highlight {light red} {Loran } {default}
+#highlight {light red} {Loran [RGB][Unknown]} {default}
+#highlight {light red} {Luedam } {default}
+#highlight {light red} {Luedam [RGB][Unknown]} {default}
+#highlight {light red} {Lunknutz} {default}
+#highlight {light red} {Luoja} {default}
+#highlight {gray} {MISSED BASH ON:} {default}
+#highlight {light red} {Malcolm} {default}
+#highlight {light red} {Malcolm [RGB][Cleric]} {default}
+#highlight {light red} {Mannanan } {default}
+#highlight {light red} {Mannanan [RGB][Unknown]} {default}
+#highlight {light red} {Marran} {default}
+#highlight {light red} {Maxmillian} {default}
+#highlight {light red} {Meekus} {default}
+#highlight {light red} {Melinda} {default}
+#highlight {light red} {Mezzanine} {default}
+#highlight {light red} {Micca } {default}
+#highlight {light red} {Micca [RGB][Unknown]} {default}
+#highlight {light red} {Minerva} {default}
+#highlight {light red} {Mishi} {default}
+#highlight {light red} {Mlia } {default}
+#highlight {light red} {Mlia [RGB][Mage][Loretta]} {default}
+#highlight {light red} {Mnesia} {default}
+#highlight {light red} {Mogol } {default}
+#highlight {light red} {Mogol [RGB][Unknown]} {default}
+#highlight {light red} {Mono} {default}
+#highlight {light red} {Mustafa} {default}
+#highlight {light red} {Nashid} {default}
+#highlight {light red} {Nathaniel} {default}
+#highlight {red} {Nelli } {default}
+#highlight {light red} {Nemezida} {default}
+#highlight {light red} {Nemezidia} {default}
+#highlight {light red} {Nenne} {default}
+#highlight {light red} {Nilak } {default}
+#highlight {light red} {Nilak [RGB][Unknown]} {default}
+#highlight {light red} {Ninjinnokutsu} {default}
+#highlight {light red} {Nistur} {default}
+#highlight {light red} {Nook} {default}
+#highlight {light red} {Nosille} {default}
+#highlight {light red} {Ogin} {default}
+#highlight {light red} {Omi} {default}
+#highlight {light blue} {PARALYZED} {default}
+#highlight {light red} {Paks} {default}
+#highlight {light red} {Perdun} {default}
+#highlight {light red} {Peridont } {default}
+#highlight {light red} {Peridont [RGB][Unknown]} {default}
+#highlight {light red} {Pilness} {default}
+#highlight {light red} {Pizdec} {default}
+#highlight {light red} {Ploh} {default}
+#highlight {light red} {Pol} {default}
+#highlight {light red} {Pondi} {default}
+#highlight {light red} {Popo} {default}
+#highlight {light red} {Prik } {default}
+#highlight {light red} {Prik [RGB][Unknown]} {default}
+#highlight {light red} {Prtha} {default}
+#highlight {light red} {Pryer} {default}
+#highlight {light red} {Pterkf} {default}
+#highlight {light red} {Quaew} {default}
+#highlight {light red} {Radec} {default}
+#highlight {light red} {Radu} {default}
+#highlight {light red} {Ramsay} {default}
+#highlight {light red} {Rang} {default}
+#highlight {light red} {Ranisha} {default}
+#highlight {light red} {Rascal} {default}
+#highlight {light red} {Redar} {default}
+#highlight {light red} {Rencer} {default}
+#highlight {light red} {Rezo} {default}
+#highlight {light red} {Rhaegar} {default}
+#highlight {light red} {Robur} {default}
+#highlight {light red} {Rold} {default}
+#highlight {light red} {Ruhinris} {default}
+#highlight {light red} {Rumata} {default}
+#highlight {light red} {Runne} {default}
+#highlight {light blue} {SILENCED} {default}
+#highlight {light blue} {SKILLFULL} {default}
+#highlight {light blue} {STR GONE (YOU HAS WEAKENED)} {default}
+#highlight {light red} {Saladin} {default}
+#highlight {light red} {Sanya} {default}
+#highlight {light red} {Scarp} {default}
+#highlight {light red} {Scelesta} {default}
+#highlight {light red} {Semper} {default}
+#highlight {light red} {Sempre} {default}
+#highlight {light red} {Shaku } {default}
+#highlight {light red} {Shargish} {default}
+#highlight {light red} {Shargish [RGB][Warrior][Yanny]} {default}
+#highlight {light red} {Shazam} {default}
+#highlight {light red} {Sheerin} {default}
+#highlight {light red} {Shudd } {default}
+#highlight {white} {Shudd [Randomers][Unknown]} {default}
+#highlight {light red} {Silvia} {default}
+#highlight {light red} {Slik} {default}
+#highlight {light red} {Solenza} {default}
+#highlight {light red} {Sonni} {default}
+#highlight {light red} {Stebb } {default}
+#highlight {light red} {Stebb [RGB][Unknown]} {default}
+#highlight {light red} {Steponas} {default}
+#highlight {light red} {Strana} {default}
+#highlight {light red} {Strelka} {default}
+#highlight {light red} {Sxaz} {default}
+#highlight {light red} {Tain } {default}
+#highlight {light red} {Tain [RGB][Unknown]} {default}
+#highlight {light red} {Tarum} {default}
+#highlight {light green} {Temujin [BSP][Scout][Pablo]} {default}
+#highlight {light red} {Thina} {default}
+#highlight {light red} {Tifosi} {default}
+#highlight {light red} {Tilly} {default}
+#highlight {light red} {Toivo} {default}
+#highlight {light red} {Tracer} {default}
+#highlight {light red} {Tramm} {default}
+#highlight {light red} {Treifes} {default}
+#highlight {light red} {Tuco} {default}
+#highlight {light red} {Tuco [RGB][Druid][Shesh]} {default}
+#highlight {light red} {Upro} {default}
+#highlight {light red} {Usher} {default}
+#highlight {light red} {Venro} {default}
+#highlight {light red} {Verata} {default}
+#highlight {light red} {Vilar} {default}
+#highlight {light red} {Vivo} {default}
+#highlight {light red} {Voland} {default}
+#highlight {light red} {Vyriamkytiel} {default}
+#highlight {light red} {Wergir} {default}
+#highlight {light red} {Weslo} {default}
+#highlight {light red} {Westin} {default}
+#highlight {light red} {Wethabaulang} {default}
+#highlight {green} {Wimped out} {default}
+#highlight {light green} {Xanatos [BSP][Mage][Pablo]} {default}
+#highlight {light red} {Xewexa} {default}
+#highlight {light red} {Xopek } {default}
+#highlight {light red} {Xopek [RGB][Unknown]} {default}
+#highlight {light red} {Yair } {default}
+#highlight {light red} {Yair [RGB][Unknown]} {default}
+#highlight {light red} {Yamny} {default}
+#highlight {light red} {Yamoto} {default}
+#highlight {light red} {Yams } {default}
+#highlight {light red} {Yaz} {default}
+#highlight {b gray} {You stand up.} {default}
+#highlight {light red} {Yuka} {default}
+#highlight {light red} {Zaiyr } {default}
+#highlight {light red} {Zenn } {default}
+#highlight {light red} {Zenn [RGB][Unknown]} {default}
+#highlight {light red} {Zhigis} {default}
+#highlight {light red} {Zidane} {default}
+#highlight {light red} {Zol} {default}
+#highlight {light red} {Zyriakzabil} {default}
+#highlight {light red} {Zzeos} {default}
+#highlight {light green} {[>>>} {default}
+#highlight {light blue} {[Missed blow]} {default}
+#highlight {white} {]+} {default}
+#highlight {magenta} {annihilate} {default}
+#highlight {magenta} {annihilates} {default}
+#highlight {yellow} {extremely hard} {default}
+#highlight {Adanac} {green} {default}
+#highlight {magenta} {massacre} {default}
+#highlight {magenta} {massacres} {default}
+#highlight {b white} {obliterate} {default}
+#highlight {b white} {obliterates} {default}
+#highlight {white} {very hard} {default}
+#substitute {%0 decays in your hands.} {>        ... [%0] is decayed! ...}
+#substitute {%0 disarms your weapon.} {[>>> DISARMED <<<]}
+#substitute {%0 flies %2.} {%0 flies--------- %2}
+#substitute {%0 focuses harshly on %1 and utters} {>>>>> %1 CAST ATTACKED BY: %0 <<<<<}
+#substitute {%0 freezes in place} {-------------[>>> %0 is HELD<<<]}
+#substitute {%0 is burned, as he swings at %1 %2 %3 %4} {.}
+#substitute {%0 is chilled, as he swings at %1 %2 %3} {.}
+#substitute {%0 is paralyzed!} {--------------[>>> %0 is PARALYZED <<<]}
+#substitute {%0 is stunned!} {%0 ------------->>> STUNNED!<<<}
+#substitute {%0 leaves %2.} {%0 moves--------- %2}
+#substitute {%0 seems to be blinded!} {----------------[>>> %0 is BLINDED <<<]}
+#substitute {%0 stands up} {------------------------->>> %0 STANDS UP <<<}
+#substitute {%0 suddenly becomes very quiet.} {----------------[>>> %0 is SILENCED <<<]}
+#substitute {%1 crash into %0 in a bone crunching bash, sending him sprawling to the ground.} {---------------[>>> %0 is BASHED by %1 <<<]}
+#substitute {%1 crashes into %0 in a thundering collision, knocking him to the ground!} {---------------->>> %0 is bashed by %1 <<<}
+#substitute {A robe belonging to a mage of the black robes lies here.} {A robe belonging to a mage of the black robes lies here. [3_int] [EVIL MAGE] (Xak merc)}
+#substitute {A yellowish-green cloud permeates the air.} {>>>>> GAS ATTACK! <<<<<}
+#substitute {Allanon } {Allanon [RGB][Mage]}
+#substitute {Althalus } {Althalus [BSP][Thief][Pablo]}
+#substitute {Ashka } {Ashka [RGB][Unknown]}
+#substitute {Aune } {Aune [RGB][Unknown]}
+#substitute {Azazur } {Azazur [RGB][Warrior]}
+#substitute {Bek } {Bek [BSP][Mage][Mavlad]}
+#substitute {Blip } {Blip [RGB][Unknown]}
+#substitute {Bounty Hunter's Shield} {Bounty Hunter's Shield [+1_dam][-10_health]}
+#substitute {Bratello } {Bratello [RGB][Unknown]}
+#substitute {Buck } {Buck [RGB][Unknown]}
+#substitute {Cappy } {Cappy [BSP][Mage]}
+#substitute {Constantine } {Constantine [RGB][Unknown]}
+#substitute {Crice } {Crice [RGB][Unknown]}
+#substitute {Cromat } {Cromat [RGB][Unknown]}
+#substitute {Defrasne } {Defrasne [RGB][Unknown]}
+#substitute {Draegnius } {Draegnius [RGB][Unknown]}
+#substitute {Droganis } {Droganis [RGB][Unknown]}
+#substitute {Fu } {Fu [RGB][Barbarian]}
+#substitute {Gvozdedriell } {Gvozdedriell [RGB][Cleric]}
+#substitute {Hara } {Hara [RGB][Unknown]}
+#substitute {Heehee} {Heehee[D]}
+#substitute {Hocus } {Hocus [RGB][Unknown]}
+#substitute {Iago } {Iago [Randomers][Unknown]}
+#substitute {Jeffrey } {Jeffrey [RGB][Unknown]}
+#substitute {Karat } {Karat [Randomers][Unknown]}
+#substitute {Katerin } {Katerin [RGB][Unknown]}
+#substitute {Kiya } {Kiya [RGB][Unknown]}
+#substitute {Loran } {Loran [RGB][Unknown]}
+#substitute {Luedam } {Luedam [RGB][Unknown]}
+#substitute {Malcolm } {Malcolm [RGB][Cleric]}
+#substitute {Mannanan } {Mannanan [RGB][Unknown]}
+#substitute {Micca } {Micca [RGB][Unknown]}
+#substitute {Mlia } {Mlia [RGB][Mage][Loretta]}
+#substitute {Mogol } {Mogol [RGB][Unknown]}
+#substitute {Nilak } {Nilak [RGB][Unknown]}
+#substitute {PANIC! You couldn't escape!} {[>>> Cant wimp! <<<]}
+#substitute {Peridont } {Peridont [RGB][Unknown]}
+#substitute {Prik } {Prik [RGB][Unknown]}
+#substitute {Shargish } {Shargish [RGB][Warrior][Yanny]}
+#substitute {Shudd } {Shudd [Randomers][Unknown]}
+#substitute {Stebb } {Stebb [RGB][Unknown]}
+#substitute {Tain } {Tain [RGB][Unknown]}
+#substitute {Temujin } {Temujin [BSP][Scout][Pablo]}
+#substitute {The armor has some small cracks and chips in the dragonscale.} {The armor has some small cracks and chips in the dragonscale. [3-level]}
+#substitute {The armor is badly in need of repair.} {The armor is badly in need of repair. [4-level]}
+#substitute {The armor is in terrible condition and will soon become useless.} {The armor is in terrible condition and will soon become useless. [5-level]}
+#substitute {The armor's scaly surface is in fine shape.} {The armor's scaly surface is in fine shape. [1-level]}
+#substitute {The death cry of %0 echoes from somewhere nearby...} {.}
+#substitute {Tuco } {Tuco [RGB][Druid][Shesh]}
+#substitute {Xanatos } {Xanatos [BSP][Mage][Pablo]}
+#substitute {Xopek } {Xopek [RGB][Unknown]}
+#substitute {Yair } {Yair [RGB][Unknown]}
+#substitute {You are sent sprawling as a %0 crashes into you.} {-------->>>>> YOU BASHED BY: %0 <<<<<}
+#substitute {You feel enlightened} {+[ENLIGHT]+}
+#substitute {You feel especially skillful today.} {+[SKILLFULL]+}
+#substitute {You feel less righteous.} {+[BLESS GONE]+}
+#substitute {You feel weaker.} {+[STR GONE (YOU HAS WEAKENED)]+}
+#substitute {You flee head over heels.} {[>>> Wimped out <<<]}
+#substitute {You freeze in place, unable to move.} {--------->>>>> YOU HELD BY: $aggrocaster <<<<<}
+#substitute {You have been blinded!} {------------->>>>> YOU BLINDED BY: $aggrocaster <<<<<}
+#substitute {You miss %0 with you hit} {> No weapon, moron!}
+#substitute {You miss %1 with you %1} {[Missed blow] -> %1}
+#substitute {You raise level!} {>     You gain new level, motherfucker!}
+#substitute {You step aside as %0 tries to bash you} {--------------[>>> BASH ATTEMPT BY: %0<<<]}
+#substitute {You suddenly notice that your body is in focus once again.} {+[BLUR GONE]+}
+#substitute {You try to bash %0, but you miss and tumble forward onto your face.} {------------[>>> MISSED BASH ON: %0 <<<]}
+#substitute {You try to sweep %0 legs, but are unable to.} {Wow! Kicked yours ass!}
+#substitute {Zenn } {Zenn [RGB][Unknown]}
+#substitute {^%0 is stunned momentarily, recovering quickly.} {.}
+#substitute {^%0 is stunned!} {-------------->>> %0 is STUNNED <<<}
+#substitute {^%0 withers as a ray of sunlight sent by %1 engulfs %2!} {.}
+#substitute {^Falling rocks crash around you as %0's earthquake causes a cave-in!} {------------->>> EARTHQUAKE by %0<<<}
+#substitute {^Pieces of falling rock pelt %0, bruising %1.} {.}
+#substitute {^Shards of rock slice into you as the earth moves and shatters beneath you.} {------------>>> EARTHQUAKE <<<}
+#substitute {^The earth begins to rumble and shake beneath you.} {----------->>> EARTHQUAKE!!! <<<}
+#substitute {^You are pelted by pieces of falling rocks.} {------------->> hit by EARTHQUAKE <<<<}
+#substitute {^You are stunned for a moment, but recover immediately.} {-------------->>>  SAVED -Vs- STUN <<<}
+#substitute {^You fall down, your ears ringing.} {--------------->>> YOU'RE STUNNED!!! <<<}
+#substitute {a badge of the dragonarmies} {a badge of the dragonarmies [10_hit][light]}
+#substitute {a balanced driftwood staff} {a balanced driftwood staff [6d4 +2_hr]}
+#substitute {a banana} {Rem Curse (banana)}
+#substitute {a band of power} {a band of power [1_str]}
+#substitute {a bardiche with a silver half moon blade} {a bardiche with a silver half moon blade [3d4 2_dam][1_str]}
+#substitute {a bejeweled amulet} {a bejeweled amulet [waterbreath]}
+#substitute {a belly skewer} {a belly skewer [+1_dam][-2_hr]}
+#substitute {a bighorn sheep skull} {a bighorn sheep skull [+bash][no_lore]}
+#substitute {a black battle armour with red trim} {a black battle armour with red trim [1_str]}
+#substitute {a black battle kilt} {a black battle kilt [+1_dam]}
+#substitute {a black bloody apron} {a black bloody apron [NPP][-10_hit]}
+#substitute {a black cloak of the Lily} {a black cloak of the Lily [10_hit][det_invis](dko)}
+#substitute {a black ice raith} {a black ice raith [2d8][offie]}
+#substitute {a black leather belt with dangling bones} {a black leather belt with dangling bones [+1_dam]}
+#substitute {a black lily pendant} {a black lily pendant [12_hit]}
+#substitute {a black mage's robe} {a black mage's robe [3_int] [EVIL MAGE] (Xak merc)}
+#substitute {a black neckguard of the Lily} {a black neckguard of the Lily [1_hr]}
+#substitute {a black pearl amulet} {a black pearl amulet [7_hit][-5_ac]}
+#substitute {a black pearl inlaid ring} {a black pearl inlaid ring [NPP][autofly]}
+#substitute {a black potion} {a black potion [Level 30 : harm, heal]}
+#substitute {a black ring of the Lily} {a black ring of the Lily [1_con][1_str](ToT)}
+#substitute {a black robe trimmed with silver} {a black robe trimmed with silver [-1_sv-spell][-1_sv-petri][bless]}
+#substitute {a black runed ring} {a black runed ring [1_wis][-3_hit](nightlord.DKO)}
+#substitute {a black shield of Lemish} {a black shield of Lemish [10_bash]}
+#substitute {a black shirt} {a black shirt [+2_4th-slot][auto.invis][-2_str]}
+#substitute {a black skull tabard} {a black skull tabard [+5_hit][-1_sv-spell]}
+#substitute {a black sledgehammer} {a black sledgehammer [5d6 2_dam]}
+#substitute {a black steel dagger} {a black steel dagger [2d7]}
+#substitute {a black steel locket} {a black steel locket [10_hit][2_hr]}
+#substitute {a black stone} {a black stone [+1_dam]}
+#substitute {a black veil} {a black veil [8_res_gas][8_case]}
+#substitute {a black velvet cloak} {a black velvet cloak [-1_sv-spell]}
+#substitute {a black wood staff} {a black wood staff *winter* [2d6][2_wis][-1_int]}
+#substitute {a blackened morningstar} {a blackened morningstar [3d5 +2_hr]}
+#substitute {a blackened spiked bracer} {a blackened spiked bracer [a.invis][-1_hr]}
+#substitute {a blackened steel barbute} {a blackened steel barbute [1_int]}
+#substitute {a blacksmith's banded mail} {a blacksmith's banded mail [12_hit]}
+#substitute {a blacksmith's spiked wrist guard} {a blacksmith's spiked wrist guard [1_str]}
+#substitute {a blessed elven longsword} {a blessed elven longsword [4d5]}
+#substitute {a blood red adamantite shield} {a blood red adamantite shield [4_age][1_hr]}
+#substitute {a blood red cape} {a blood red cape [8_hit]}
+#substitute {a blood red captain's sash} {a blood red captain's sash [1_dex]}
+#substitute {a blood stained ring} {a blood stained ring [10_hit][det_inv]}
+#substitute {a blood stained robe} {a blood stained robe [-1_sv-spell][-1_str](pigmies)}
+#substitute {a blood-red stole of Zeboim} {a blood-red stole of Zeboim [1_wis][+1-3rd slot](theiwar)}
+#substitute {a bloodstained steel band} {a bloodstained steel band [-10_ac][12_health]}
+#substitute {a bloody centaur skull} {a bloody centaur skull [+10_gaze][-10_rescue][nocharm]}
+#substitute {a blue guardian robe} {a blue guardian robe [1_wis]}
+#substitute {a blue rod} {a blue rod [ch:20|level_30: faerie fog]}
+#substitute {a blue steel brassiere} {a blue steel brassiere [1_str][-8_ac][female]}
+#substitute {a bone helm} {a bone helm [6_hit](xak)}
+#substitute {a braided silver bracelet} {a braided silver bracelet [1_dex]}
+#substitute {a bright green potion} {a bright green potion [Level 30 : remove poison, remove curse, dispel magic]}
+#substitute {a bright white vial} {a bright white vial [level 10: cure serious]}
+#substitute {a brightly colored, beaded necklace} {a brightly colored, beaded necklace [1_int]}
+#substitute {a broad bladed two-handed sword} {a broad bladed two-handed sword [5d6ish][blooddrinker]}
+#substitute {a bronze bracelet set with clear stones} {a bronze bracelet set with clear stones [det_evil][ch:10(lv15:bless)]}
+#substitute {a bullywug medallion} {a bullywug medallion [1_dex][-1_int]}
+#substitute {a bunch of grapes} {Dispel Magic (grapes)}
+#substitute {a cape of silver dragonscales} {a cape of silver dragonscales [-10_ac][can_fly](VK)}
+#substitute {a captain's cutlass} {a captain's cutlass [3d4 +1_dam +2_hr]}
+#substitute {a carved ivory ring} {a carved ivory ring [-10_ac]}
+#substitute {a carved jade sphere} {a carved jade sphere [2_wis][infra][8_res_gas]}
+#substitute {a ceremonial crystal mace} {a ceremonial crystal mace [3d5 +3_dam +3_hr]}
+#substitute {a ceremonial scabbard} {a ceremonial scabbard [1_hr]}
+#substitute {a chain flail} {a chain flail [4d4 -2_hr][+10_bash](grap)}
+#substitute {a chain necklace of office} {a chain necklace of office [2_con](faldi)}
+#substitute {a chainmail halter} {a chainmail halter [1_dex][nocharm](m'lenna graknar)}
+#substitute {a charred bastard sword} {a charred bastard sword [2d9 +1_dam +2_hr]}
+#substitute {a charred long sword} {a charred long sword [2d7]}
+#substitute {a charred metal wrist guard} {a charred metal wrist guard [2_hit]}
+#substitute {a chasuble} {a chasuble [1_int][1_wis]}
+#substitute {a chipped ice reaver} {a chipped ice reaver [3d6 +1_dam +3_hr]}
+#substitute {a chitinous ebony ring} {a chitinous ebony ring [-8_ac]}
+#substitute {a circlet of horse hairs} {a circlet of horse hairs [+2nd_druid_slot]}
+#substitute {a cloak of a chimera} {a cloak of a chimera [1_str][-3_sv-para]}
+#substitute {a cloudy gray potion} {a cloudy gray potion [Level 30 : negative plane protection, sanctuary]}
+#substitute {a coat of sewn flesh} {a coat of sewn flesh [10_res_heat][8_res_acid]}
+#substitute {a colossal war axe} {a colossal war axe [3d6 +3_dam 3_hr]}
+#substitute {a copper band inscribed with wasps} {a copper band inscribed with wasps [1_con]}
+#substitute {a copper dragon scale shield} {a copper dragon scale shield [20_res_acid]}
+#substitute {a copper dwarven ring} {a copper dwarven ring [1_con][-1_int]}
+#substitute {a corked bottle} {a corked bottle [level 12: cure serious]}
+#substitute {a cracked pixie skull} {a cracked pixie skull [auto.fly][-1_con]}
+#substitute {a cracked ruby} {a cracked ruby [1_str][light]}
+#substitute {a crescent moon medallion} {a crescent moon medallion [+2_2nd_slot]}
+#substitute {a crimson cloak inlaid with threads of marble} {a crimson cloak inlaid with threads of marble [10_res_mag][+1_5th-circle][sneak][nosum|nocharm]}
+#substitute {a crimson dust covered chest} {a crimson dust covered chest [luni_chest]}
+#substitute {a crimson pendant} {a crimson pendant [1_age][det_evil][det_good]}
+#substitute {a crimson sphere medallion of Lunitari} {a crimson sphere medallion of Lunitari [min_lim_dam][norent]}
+#substitute {a crimson stained silver dragon scale cloak} {a crimson stained silver dragon scale cloak [10_hit][nosum|nocharm](glymmer)}
+#substitute {a crown of twigs} {a crown of twigs [1_int][det_inv]}
+#substitute {a crown of violets} {a crown of violets [1_int][-1_wis]}
+#substitute {a cruely barbed scourge} {a cruely barbed scourge [4d4][offie](dun_mir)}
+#substitute {a crystal bracelet} {a crystal bracelet [5_hit][1_hr]}
+#substitute {a cuirass of silver dragonscale} {a cuirass of silver dragonscale [50%_regen]}
+#substitute {a dagger with a scrimshawed ivory hilt} {a dagger with a scrimshawed ivory hilt [2d8 +1_dam +1_hr]}
+#substitute {a dark blue bandana} {a dark blue bandana [2%_regen][-1_ac]}
+#substitute {a dark draconian shield} {a dark draconian shield [5_bash]}
+#substitute {a dark red pointy hat} {a dark red pointy hat [1_hr][nocharm][det_mag]}
+#substitute {a dark red scroll} {a dark red scroll [level 1: refresh](pal_thanes)}
+#substitute {a dark red thieving plate} {a dark red thieving plate [1_str](ancients)}
+#substitute {a dark ring of shadows} {a dark ring of shadows [auto_hide]}
+#substitute {a deadly serrated battle axe} {a deadly serrated battle axe [5d6][-1_dex][decap](bmobs)}
+#substitute {a death helmet} {a death helmet [+1_dam]}
+#substitute {a deep black steel ring} {a deep black steel ring [1_dex](ToT)}
+#substitute {a dented black shield of the Lily} {a dented black shield of the Lily [-1_sv-breath][-1_sv-spell][det_inv][NPP][imm_poison](raynes vault)}
+#substitute {a diabolic crimson-stained scimitar} {a diabolic crimson-stained scimitar [3d5][offie]}
+#substitute {a diamond-studded jaguar collar} {a diamond-studded jaguar collar [2_hr_ranged](ancients)}
+#substitute {a diaphanous veil} {a diaphanous veil [24_res_gas][det_inv]}
+#substitute {a double edged battle axe} {a double edged battle axe [2d8 2_dam 2_hr]*decapper*}
+#substitute {a dragon bone ring} {a dragon bone ring [1_str][1_con]}
+#substitute {a dragonshelm} {a dragonshelm [2_con]}
+#substitute {a dragontail whip} {a dragontail whip [4d4 +3_dam +3_hr]}
+#substitute {a dual-bladed, sterling axe} {a dual-bladed, sterling axe [2d9 +2_dam +1_hr][1_con]}
+#substitute {a durable leather cloak} {a durable leather cloak [1_dex](sanchozone)}
+#substitute {a dwarven ball and chain} {a dwarven ball and chain [3d3 +3_dam +3_hr]}
+#substitute {a dwarven belt} {a dwarven belt [1_str]}
+#substitute {a dwarven face shield} {a dwarven face shield [imm_blind]}
+#substitute {a faded green robe} {a faded green robe [2_wis][-10_ac][nosum|nocharm](pax)}
+#substitute {a fairy skull ring} {a fairy skull ring [2_learn]}
+#substitute {a fine dueling rapier} {a fine dueling rapier [3d7][no_lore]}
+#substitute {a finely woven quilt} {a finely woven quilt [-5_res_cold]}
+#substitute {a fire red mango} {a fire red mango [infra]}
+#substitute {a flat black velvet cap} {a flat black velvet cap [3_sneak][5_hide][infra]}
+#substitute {a flexible red dragon scale bracer} {a flexible red dragon scale bracer [1_dex][1_hr]}
+#substitute {a forged steel kilij, stained with ichre} {a forged steel kilij, stained with ichre [4d5 +2_dam][20_res_mag]}
+#substitute {a foul smelling ring} {a foul smelling ring [-2_sv-poison][1_dex]}
+#substitute {a fragile coral amulet} {a fragile coral amulet [infra]}
+#substitute {a frosted tin plate} {a frosted tin plate [16_res_heat][1_hr][-12_ac][can_fly]}
+#substitute {a fulgurite plate} {a fulgurite plate [10_hit][imm_elec](luni)}
+#substitute {a furry white cloak} {a furry white cloak [1_wis]}
+#substitute {a giant mithril two-handed sword} {a giant mithril two-handed sword [5d6 +2_dam][+5_two-handed]}
+#substitute {a girdle with a human skull buckle} {a girdle with a human skull buckle [2_str][1_dex](irda)}
+#substitute {a glass bracelet} {a glass bracelet [5_hit][1_int]}
+#substitute {a gleaming mithril necklace inlaid with diamonds} {a gleaming mithril necklace inlaid with diamonds [nosum|nocharm][-3_ac]}
+#substitute {a gleaming silver scabbard} {a gleaming silver scabbard [+5_longblades][1_hr]}
+#substitute {a glowing adamantite bracelet} {a glowing adamantite bracelet [10_hit][-1_dex](graknar)}
+#substitute {a glowing bracer} {a glowing bracer [-5_ac][light]}
+#substitute {a glowing scroll of recall} {a glowing scroll of recall [(lv.31)wrd_of_recall]}
+#substitute {a glowing silver shield} {a glowing silver shield [-10_ac][light]}
+#substitute {a gnomish backpack} {a gnomish backpack [is_flying](flurry)}
+#substitute {a gold bracelet} {a gold bracelet [-10_ac]}
+#substitute {a gold oakleaf embroidered cerise cloak} {a gold oakleaf embroidered cerise cloak [10_res_acid][7 health]}
+#substitute {a gold ring} {a gold ring [-5_ac]}
+#substitute {a gold trimmed burgundy cape} {a gold trimmed burgundy cape [-1_sv-spell][-1_sv-petra][det_inv]}
+#substitute {a golden collar} {a golden collar [1_hr]}
+#substitute {a golden dwarven ring} {a golden dwarven ring [1_con]}
+#substitute {a golden helmet} {a golden helmet [NPP](tant)}
+#substitute {a golden ring covered in feces} {a golden ring covered in feces [1_con][-10_health]}
+#substitute {a golden tinged broadsword} {a golden tinged broadsword [2d9 +3_dam +3_hr]}
+#substitute {a grandiose plate of black steel} {a grandiose plate of black steel [1_con][8_res_heat]}
+#substitute {a grandiose shield of black steel} {a grandiose shield of black steel [-2_sv-spell][-1_sv-para]}
+#substitute {a grandiose steel battle-axe} {a grandiose steel battle-axe [3d6 +2_dam +1_hr][1_str]}
+#substitute {a granite bracer} {a granite bracer [+1_dam][-1_con](ct)}
+#substitute {a granite ring.} {a granite ring. [1_con]}
+#substitute {a granite shield} {a granite shield [7_bash]}
+#substitute {a granite sword} {a granite sword [3d6 +1_dam]}
+#substitute {a grapefruit} {SANCT (grapefruit)}
+#substitute {a greasy goatskin booze bag} {a greasy goatskin booze bag [+5_wardance][boozer]}
+#substitute {a green dragonscale wrist band} {a green dragonscale wrist band [1_str][3_hit](bog.dragon)}
+#substitute {a green hilted machete} {a green hilted machete [3d5 1_hr 1_dam]}
+#substitute {a green leather quiver} {a green leather quiver [-3_ac]}
+#substitute {a green metal ring} {a green metal ring [20_mv][-5_ac]}
+#substitute {a grey hooded cloak} {a grey hooded cloak [5_health]}
+#substitute {a grey wolf's tail} {a grey wolf's tail [5_health]}
+#substitute {a grungy brown loincloth} {a grungy brown loincloth [-10_ac]}
+#substitute {a hardened granite staff} {a hardened granite staff [3d5 2_dam 2_hr]}
+#substitute {a heavily battle scarred claymore} {a heavily battle scarred claymore [5d6 +2_dam +2_hr]}
+#substitute {a heavily corroded jade ring} {a heavily corroded jade ring [-3_sv-breath][20_res_acid](dun mir)}
+#substitute {a heavy black robe with silver embroidery} {a heavy black robe with silver embroidery [1_int]}
+#substitute {a heavy rune-inscribed battle axe} {a heavy rune-inscribed battle axe [3d7 +2_dam]}
+#substitute {a heavy spiked shield} {a heavy spiked shield [1_dam][-12_mv]}
+#substitute {a heavy steel battle axe} {a heavy steel battle axe [2d10 +3_dam][-2_dex](ToT)}
+#substitute {a heavy steel broadsword} {a heavy steel broadsword [4d4 +1_dam +1_hr]}
+#substitute {a hefty claymore} {a hefty claymore [5d4][enchantable]}
+#substitute {a hermit's ring} {a hermit's ring [1_con][a_confuse]}
+#substitute {a holy symbol of Paladine} {a holy symbol of Paladine [6_turn][-1_sv-spell]}
+#substitute {a hooked draconian shortsword} {a hooked draconian shortsword [2d5]}
+#substitute {a horned helmet} {a horned helmet [2_hit][NV]}
+#substitute {a huge iron axe} {a huge iron axe [6d4 +1_hr]}
+#substitute {a jade bracelet} {a jade bracelet [6_res_acid][-2_sv-poison]}
+#substitute {a jade pendant} {a jade pendant [+8_turn]}
+#substitute {a jagged black spear} {a jagged black spear [2d8 +2_dam][-2_dex][drain_life_spec]}
+#substitute {a jewelled black belt} {a jewelled black belt [1_con]}
+#substitute {a lapas lazuli encrusted silver bracelet} {a lapas lazuli encrusted silver bracelet [5_hit][1_dex]}
+#substitute {a large golden shield} {a large golden shield [5_bash][-5_ac]}
+#substitute {a large green dragonscale} {a large green dragonscale [1_str][-5_ac](9_apply)}
+#substitute {a large reinforced double bandolier} {a large reinforced double bandolier [1_con][1_str]}
+#substitute {a leather belt with a silver buckle} {a leather belt with a silver buckle [det_inv][nosum|nocharm]}
+#substitute {a light glassteel saber} {a light glassteel saber [2d8][offie]}
+#substitute {a long chain and pentagram} {a long chain and pentagram [auto_fly](ancients)}
+#substitute {a long swordmaster's rapier} {a long swordmaster's rapier [3d5 +2_dam +1_hr](davad the bodyguard)}
+#substitute {a lustrous metallic scroll} {a lustrous metallic scroll [Level 30 : steelskin]}
+#substitute {a malachite inlaid mithril helm} {a malachite inlaid mithril helm [1_con][8_hit]}
+#substitute {a malachite ring} {a malachite ring [1_hr][-5_ac]}
+#substitute {a malachite-stained dagger} {a malachite-stained dagger [2d4 +2_dam +1_hr]}
+#substitute {a malevolent hooked beast goad} {a malevolent hooked beast goad [4d4 +2_dam][+20 disarm]}
+#substitute {a massive black iron claymore} {a massive black iron claymore [4d5 +1_hr +1_dam]}
+#substitute {a massive black steel mace} {a massive black steel mace [3d6 +3_hr][imm_heat][8_bludg][5_disarm]}
+#substitute {a massive collar} {a massive collar [10_health][-1_sv-petrification]}
+#substitute {a medallion of Paladine} {a medallion of Paladine [5_hit][det_inv]}
+#substitute {a metallic belt} {a metallic belt [-1_sv-spell]}
+#substitute {a metallic dragon helm} {a metallic dragon helm [20_res_acid][20_res_gas]}
+#substitute {a midnight hood} {a midnight hood [infra]}
+#substitute {a minotaur battle kilt} {a minotaur battle kilt [2_dex]}
+#substitute {a mithril bracelet} {a mithril bracelet [+1_dam][-1_hr]}
+#substitute {a mithril minotaur lajatang} {a mithril minotaur lajatang [5d6 +3_dam +3_hr]}
+#substitute {a mithril plated balteus with a bone clasp} {a mithril plated balteus with a bone clasp [2_str][1_dex]}
+#substitute {a mithril rapier} {a mithril rapier [2d11 +2_dam +2_hr]}
+#substitute {a mithril solamnic bracer} {a mithril solamnic bracer [-7_ac][infra]}
+#substitute {a mithril spear} {a mithril spear [3d6 +1_dam -1_hr](m'lenna graknar)}
+#substitute {a mithril wristband} {a mithril wristband [1_hr]}
+#substitute {a mithril-capped rod} {a mithril-capped rod [3d6 +3_dam +2_hr]}
+#substitute {a molded red leather breastplate} {a molded red leather breastplate [20%_regen][16_res_heat][-1_sv-spell][fem_only]}
+#substitute {a moonstone pendant} {a moonstone pendant [50_res_cold]}
+#substitute {a mossy green wrist guard} {a mossy green wrist guard [1_dex][-1_wis][sense_life] (FC)}
+#substitute {a mystic silver medallion} {a mystic silver medallion [1_wis](kobold.mines)}
+#substitute {a necklace made of finger bones} {a necklace made of finger bones [1_wis][-con]}
+#substitute {a necklace of carved ivory} {a necklace of carved ivory [4_hit](oakheart)}
+#substitute {a night shadow bracelet} {a night shadow bracelet [9_hit][-1_sv-spell]}
+#substitute {a padded leather plate} {a padded leather plate [1_hr]}
+#substitute {a paint splattered apron} {a paint splattered apron [-2_sv-spell]}
+#substitute {a pair of ancient bronze minotaur gauntlets} {a pair of ancient bronze minotaur gauntlets [+2_dam][2_str]}
+#substitute {a pair of ancient steel shin plates} {a pair of ancient steel shin plates [can_fly]}
+#substitute {a pair of baggy bronze dragon scale pants} {a pair of baggy bronze dragon scale pants [imm_poison][-7 ac]}
+#substitute {a pair of baggy platoons} {a pair of baggy platoons [2_sneak]}
+#substitute {a pair of barbed wire boots} {a pair of barbed wire boots [+1_dam](irda)}
+#substitute {a pair of bark-covered leather gloves} {a pair of bark-covered leather gloves [+1_dam][8_res_heat]}
+#substitute {a pair of battle gauntlets} {a pair of battle gauntlets [+1_dam][12_res_acid](silva)}
+#substitute {a pair of black climbing talons} {a pair of black climbing talons [2_dam][-health]}
+#substitute {a pair of black hunting gloves} {a pair of black hunting gloves [1_hr][-1_sv-para]}
+#substitute {a pair of black leather boots} {a pair of black leather boots [10_sneak][10_mv]}
+#substitute {a pair of black leather sleeves} {a pair of black leather sleeves [1_dex](theiwar)]}
+#substitute {a pair of black satin boots} {a pair of black satin boots [12_mv][2_age]}
+#substitute {a pair of black shadow gauntlets} {a pair of black shadow gauntlets [2_hr][-5_ac]}
+#substitute {a pair of black soldier boots} {a pair of black soldier boots [-2_sv-para]}
+#substitute {a pair of black, steel-plated boots} {a pair of black, steel-plated boots [15_mv][7_kick]}
+#substitute {a pair of bloody butcher's gloves} {a pair of bloody butcher's gloves [1_dam][1_hr]}
+#substitute {a pair of blue gloves} {a pair of blue gloves [1_int][-2_str]}
+#substitute {a pair of blue shoes} {a pair of blue shoes [9_hit][-1_str]}
+#substitute {a pair of bronze and cloth gauntlets} {a pair of bronze and cloth gauntlets [2_hr]}
+#substitute {a pair of copper armbands} {a pair of copper armbands [1_str][-2_hr](koboldMines)}
+#substitute {a pair of cord sandals} {a pair of cord sandals [10_mv]}
+#substitute {a pair of draconian gauntlets} {a pair of draconian gauntlets [1_str](xak)}
+#substitute {a pair of dragonrider's gloves} {a pair of dragonrider's gloves [+2_dam_ranged][2_hr_ranged](pax)}
+#substitute {a pair of dwarven gloves} {a pair of dwarven gloves [+1_dam][+1_hr]}
+#substitute {a pair of ebony engraved bracers} {a pair of ebony engraved bracers [1_str]}
+#substitute {a pair of elfin gauntlets} {a pair of elfin gauntlets [1_dex]}
+#substitute {a pair of elven boots} {a pair of elven boots [a.sneak]}
+#substitute {a pair of ergothian hunting gloves} {a pair of ergothian hunting gloves [+1_dam][+2_hr]}
+#substitute {a pair of ergothian hunting pants} {a pair of ergothian hunting pants [1_dex][-10_ac]}
+#substitute {a pair of fine leather boots} {a pair of fine leather boots [10_hit]}
+#substitute {a pair of fine metal boots} {a pair of fine metal boots [5_kick][5_track][10_mv]}
+#substitute {a pair of finely decorated armbands} {a pair of finely decorated armbands [1_dex][5_parry]}
+#substitute {a pair of fulgurite boots} {a pair of fulgurite boots [+1_dam][1_con]}
+#substitute {a pair of goblin skin leggings} {a pair of goblin skin leggings [2_dex][16_res_gas](sanchozone)}
+#substitute {a pair of green boots} {a pair of green boots [+20_mv]}
+#substitute {a pair of green swordsman gloves} {a pair of green swordsman gloves [+1_dam]}
+#substitute {a pair of hardened leather boots} {a pair of hardened leather boots [1_dex]}
+#substitute {a pair of ice cold gauntlets} {a pair of ice cold gauntlets [+1_dam][2_str]}
+#substitute {a pair of inventor's glasses} {a pair of inventor's glasses [1_wis][1_int]}
+#substitute {a pair of ivory anklets} {a pair of ivory anklets [2_res_magic]}
+#substitute {a pair of ivory gauntlets} {a pair of ivory gauntlets [8_hit][-1_dam]}
+#substitute {a pair of leather riding gloves} {a pair of leather riding gloves [2_hr]}
+#substitute {a pair of mithril leg braces} {a pair of mithril leg braces [7_hit]}
+#substitute {a pair of obsidian bracers} {a pair of obsidian bracers [1_wis][-1_con]}
+#substitute {a pair of red dragon scale gauntlets} {a pair of red dragon scale gauntlets [2_dam][2_hr]}
+#substitute {a pair of red dragon scale gloves} {a pair of red dragon scale gloves [+1_dam][12_res_heat](MoM)}
+#substitute {a pair of red dragonscale vambraces} {a pair of red dragonscale vambraces [10_res_magic][can_fly]}
+#substitute {a pair of red oakleaf crested gauntlets} {a pair of red oakleaf crested gauntlets [1_str][+1_hr](raynes)}
+#substitute {a pair of remorhaz hide boots} {a pair of remorhaz hide boots [20_mv]}
+#substitute {a pair of rope sandals} {a pair of rope sandals [can_fly]}
+#substitute {a pair of shark skin gloves} {a pair of shark skin gloves [8_res_heat]}
+#substitute {a pair of sharpened steel horns} {a pair of sharpened steel horns [2_dam]}
+#substitute {a pair of silver dragon scale boots} {a pair of silver dragon scale boots [-2_svb][15_mv]}
+#substitute {a pair of silver dragon scale gauntlets} {a pair of silver dragon scale gauntlets [+2_dam][+2_hr]}
+#substitute {a pair of silver dragon scale leggings} {a pair of silver dragon scale leggings [-10_ac][22_res_cold][can_fly](glymmer)}
+#substitute {a pair of silver reading glasses} {a pair of silver reading glasses [2_learn][6_scribe]}
+#substitute {a pair of soft black gloves} {a pair of soft black gloves [+5_steal]}
+#substitute {a pair of steel armplates inlaid with ebony} {a pair of steel armplates inlaid with ebony [1_str][-5_ac]}
+#substitute {a pair of steel legplates inlaid with ebony} {a pair of steel legplates inlaid with ebony [1_dex][-5_ac]}
+#substitute {a pair of succubus wings} {a pair of succubus wings [nocharm][is_flying][NPP](CV)}
+#substitute {a pair of supple leather boots} {a pair of supple leather boots [15_mv]}
+#substitute {a pair of supple leather gloves} {a pair of supple leather gloves [1_hr]}
+#substitute {a pair of tanned leather pants} {a pair of tanned leather pants [is_flying](icen|largus)}
+#substitute {a pair of the weaponsmaster's gloves} {a pair of the weaponsmaster's gloves [+1_dam][1_hr]}
+#substitute {a pair of treated steel gauntlets} {a pair of treated steel gauntlets [+2_dam][+5_drain]}
+#substitute {a pair of unfinished mithril legplates} {a pair of unfinished mithril legplates [1_dam](pax)}
+#substitute {a pair of warm indigo pants} {a pair of warm indigo pants [imm_cold]}
+#substitute {a pair of white Solamnic gauntlets} {a pair of white Solamnic gauntlets [1_str][1_hr]}
+#substitute {a pair of white boots} {a pair of white boots [15_mv]}
+#substitute {a pair of woodsman's boots} {a pair of woodsman's boots [+10_mv][-3_ac]}
+#substitute {a pair of woodsman's gloves} {a pair of woodsman's gloves [+1_dam][+1_hr]}
+#substitute {a pair of woodsman's leggings} {a pair of woodsman's leggings [10_res_acid]}
+#substitute {a pair of woodsman's sleeves} {a pair of woodsman's sleeves [1_str]}
+#substitute {a papal cross} {a papal cross [a.fly][light]}
+#substitute {a pearl and onyx medallion} {a pearl and onyx medallion [-1_sv-breath](gargath)}
+#substitute {a pitch black bracer} {a pitch black bracer [2_hr]}
+#substitute {a plainsman war hatchet} {a plainsman war hatchet [2d6 2_dam 2_hr]}
+#substitute {a plate of pure mithril} {a plate of pure mithril [+1_dam]}
+#substitute {a pointy mage's hat} {a pointy mage's hat [+1 5th slot][+1 4th slot]}
+#substitute {a polished plate of mithril} {a polished plate of mithril [1_str][1_dex][-4_ac]}
+#substitute {a potion of golden sap} {a potion of golden sap [Level 10 : cure critical, blur]}
+#substitute {a potion of protection} {a potion of protection [Level 30 : shield, barkskin, blur]}
+#substitute {a potion of silvery whiskers} {a potion of silvery whiskers [Level 30 : cure critical, cure critical, cloak of bravery]}
+#substitute {a pouch of forest herbs} {a pouch of forest herbs [+20_bandage](expert.hunter)}
+#substitute {a priestly diadem} {a priestly diadem [1_wis]}
+#substitute {a puma skull} {a puma skull [5_charge]}
+#substitute {a pure white breastplate} {a pure white breastplate [-2_sv-breath]}
+#substitute {a purple robe} {a purple robe [1_wis]}
+#substitute {a quiver of bronze dragon scales} {a quiver of bronze dragon scales [1_dex][2_hr][10%_regen]}
+#substitute {a ragged gray cloak} {a ragged gray cloak [-4_ac][-9_age]}
+#substitute {a red draconian bracelet} {a red draconian bracelet [5_hit]}
+#substitute {a red dragonscale head band} {a red dragonscale head band [1_dex][6_learn]}
+#substitute {a red hued staff of vallenwood} {a red hued staff of vallenwood [3d5 1_dam][6_age](Vicantel)}
+#substitute {a red mage robe} {a red mage robe [det_magic]}
+#substitute {a red oakleaf crested bracer} {a red oakleaf crested bracer [+1_dam][-10_health]}
+#substitute {a red ring of the Dragon Highlord} {a red ring of the Dragon Highlord [1_con]}
+#substitute {a reddened steel battle-axe} {a reddened steel battle-axe [3d6]}
+#substitute {a regal suit of platemail} {a regal suit of platemail [+1_dam](quali)}
+#substitute {a remorhaz hide breastplate} {a remorhaz hide breastplate [80_res_heat][1_con][ezfrag]}
+#substitute {a renegade's robe} {a renegade's robe [-10_ac]}
+#substitute {a rhinoceros beetle's carapace} {a rhinoceros beetle's carapace [+1_dam][10_hit]}
+#substitute {a ring adorned with a green stone} {a ring adorned with a green stone [5_hit][15%_regen][norent]}
+#substitute {a ring of accuracy} {a ring of accuracy [1_hr](upper bandits)}
+#substitute {a ring of black dragon scales} {a ring of black dragon scales [1_hr][-1_int]}
+#substitute {a ring of protection} {a ring of protection [-10_ac]}
+#substitute {a ring of swirling mist} {a ring of swirling mist [a_invis][det_inv][-3_con][-3_ac](dun mir)}
+#substitute {a ring of the stone guardian} {a ring of the stone guardian [1_str]}
+#substitute {a ring of white gold} {a ring of white gold [-1_sv-spell][auto_fly]}
+#substitute {a rolled bromeliad leaf} {a rolled bromeliad leaf [-1_sv-spell][-1_sv-breath]}
+#substitute {a royal dwarven cloak} {a royal dwarven cloak [8_res_heat][8_res_acid]}
+#substitute {a royal signet ring} {a royal signet ring [1_wis](gp)}
+#substitute {a ruby encrusted belt} {a ruby encrusted belt [8_hit]}
+#substitute {a ruby inlaid scabbard} {a ruby inlaid scabbard [1_dex]}
+#substitute {a rugged elven backpack} {a rugged elven backpack [1_dex][container]}
+#substitute {a rune etched mithril ring} {a rune etched mithril ring [imm_poison]}
+#substitute {a runed bracelet} {a runed bracelet [-1_dam][nosum]}
+#substitute {a runed brass wristguard} {a runed brass wristguard [1_str]}
+#substitute {a runed cuirass of ochre dragonscale} {a runed cuirass of ochre dragonscale [1_dex][auto.hide][auto.sneak](ochre)}
+#substitute {a runed hammer} {a runed hammer [2d8 +2_hr][-1_sv-spell]}
+#substitute {a runed platinum ring} {a runed platinum ring [-1_svs]}
+#substitute {a runed scimitar} {a runed scimitar [5d3 +2_dam][-2_sv-spell]}
+#substitute {a sapphire heart pendant} {a sapphire heart pendant [5_hit][6_health]}
+#substitute {a sapphire inlaid choker} {a sapphire inlaid choker [1_str][1_dex]}
+#substitute {a scarlet corsair's badge} {a scarlet corsair's badge [1_str]}
+#substitute {a seeker's robe} {a seeker's robe [-7_ac][det_magic]}
+#substitute {a set of black rerebrace} {a set of black rerebrace [7_health]}
+#substitute {a set of demon skin armbands} {a set of demon skin armbands [2_str][+1_dam]}
+#substitute {a set of demon wings} {a set of demon wings [is_flying][-1_str](succubus)}
+#substitute {a set of face rippers} {a set of face rippers [+2_dam][-3_dex]}
+#substitute {a set of goblin skin armbands} {a set of goblin skin armbands [5_hit][1_con](sanchozone)}
+#substitute {a set of light blue prayer beads} {a set of light blue prayer beads [+5_meditate][1_wis]}
+#substitute {a set of pitch black greaves} {a set of pitch black greaves [-2_sv-spell][+20_mv]}
+#substitute {a set of pitch black vambraces} {a set of pitch black vambraces [1_dex][-2_sv-spell](soth)}
+#substitute {a set of shiny black boots} {a set of shiny black boots [1_dex](pax)}
+#substitute {a set of treated steel legplates} {a set of treated steel legplates [1_dex]}
+#substitute {a shadow mithril plate} {a shadow mithril plate [15_hit][-2_sv-breath][invis][nocharm]}
+#substitute {a shaggy werewolf skin cloak} {a shaggy werewolf skin cloak [10_hit]}
+#substitute {a sheer gown of gossamer} {a sheer gown of gossamer [a.invis][-10_ac]}
+#substitute {a shield of bone and flesh} {a shield of bone and flesh [12_res_elec](pigmies)}
+#substitute {a shield of granite} {a shield of granite [5_bash][5_hit]}
+#substitute {a shimmering green robe} {a shimmering green robe [-4_ac][-1_sv-spell][infra]}
+#substitute {a shimmering silver cape} {a shimmering silver cape [1_dex]}
+#substitute {a shining silver sword} {a shining silver sword [3d6]}
+#substitute {a shiny dwarven ring} {a shiny dwarven ring [1_str][-1_wis]}
+#substitute {a silver dwarven ring} {a silver dwarven ring [1_con][+1_sv-spell](thorb)}
+#substitute {a silver dwarven talisman} {a silver dwarven talisman [1_hr][10_mv](graknar)}
+#substitute {a silver fauld} {a silver fauld [2_con](mystic)}
+#substitute {a silver girdle} {a silver girdle [2_con](tero)}
+#substitute {a silver inlaid helm} {a silver inlaid helm [det_magic][infra]}
+#substitute {a silver kingfisher band} {a silver kingfisher band [1_str]}
+#substitute {a silver kingfisher medallion} {a silver kingfisher medallion [-2_sv-spell](VK)}
+#substitute {a silver swept-hilt rapier} {a silver swept-hilt rapier [3d6 +2_hr]}
+#substitute {a silver waist chain} {a silver waist chain [1_dex]}
+#substitute {a silvery helm with carved golden roses} {a silvery helm with carved golden roses [det_evil][det_good][det_mag][infra](argentine)}
+#substitute {a simple platinum ring} {a simple platinum ring [1_hr][12_health]}
+#substitute {a sinewy bracer} {a sinewy bracer [8_health]}
+#substitute {a skirt of tasses} {a skirt of tasses [1_str]}
+#substitute {a skull belt..it glows dimly} {a skull belt..it glows dimly [-ac][det_evil]}
+#substitute {a skull flail} {a skull flail [3d5 +2_dam][1_dex]}
+#substitute {a skull mask} {a skull mask [+1_dam]}
+#substitute {a skull shaped medallion} {a skull shaped medallion [1_int][1_wis]}
+#substitute {a skull-capped mithril battleaxe} {a skull-capped mithril battleaxe [4d4 +3_dam +2_hr]}
+#substitute {a sky blue potion} {a sky blue potion [Level 30 : shield, fly]}
+#substitute {a small brown flask} {a small brown flask [lv-25_cure_crit](delphon)}
+#substitute {a small coral ring} {a small coral ring [-5_ac]}
+#substitute {a small draconian ring} {a small draconian ring [8_hit]}
+#substitute {a small grey ring} {a small grey ring [-2_ac]}
+#substitute {a small red ring} {a small red ring [3_hit][neut]}
+#substitute {a small sheath shaped like a viper} {a small sheath shaped like a viper [1_dex][5_envenom]}
+#substitute {a snow leopard tail} {a snow leopard tail [1_dex]}
+#substitute {a solamnic two-handed sword} {a solamnic two-handed sword [4d5]}
+#substitute {a sparkling black bracelet} {a sparkling black bracelet [NPP]}
+#substitute {a sparkling blue potion} {a sparkling blue potion [Level 30 : resist electricity]}
+#substitute {a spherical diamond pendant} {a spherical diamond pendant [-1_sv-spell][-1_sv-para]}
+#substitute {a spiked leather warbelt} {a spiked leather warbelt [2_dex][container]}
+#substitute {a spiked wrist buckler} {a spiked wrist buckler [+1_dam][-1_dex]}
+#substitute {a stark white wrist guard} {a stark white wrist guard [1_con][-2_hr][a.invis][det_mag] (FC)}
+#substitute {a steel halberd} {a steel halberd [3d6 3_dam 2_hr]}
+#substitute {a stone rose} {a stone rose [2_dex]}
+#substitute {a strawberry} {X3 (strawberry)}
+#substitute {a string of illusionist's beads} {a string of illusionist's beads [5_age]}
+#substitute {a sturdy pair of spurred metal boots} {a sturdy pair of spurred metal boots [1_dex][24_res_elec]}
+#substitute {a sturdy staff of vallenwood} {a sturdy staff of vallenwood [4d4 +3_dam +3_hr]}
+#substitute {a suit of ancient green dragonscale armor} {a suit of ancient green dragonscale armor [30_hit][20%_dam_reduc][nosum|nocharm][bash_mod]}
+#substitute {a suit of black leather armor} {a suit of black leather armor [-1_sv-breath][10_res_cold]}
+#substitute {a suit of ebony plate mail} {a suit of ebony plate mail [1_con]}
+#substitute {a suit of gold dragonscale battle armor} {a suit of gold dragonscale battle armor [+1_dam][NPP]}
+#substitute {a suit of gold runed armor} {a suit of gold runed armor [auto_invis]}
+#substitute {a suit of green plate mail} {a suit of green plate mail [8_res_gas][-1_sv-breath][imm_poison]}
+#substitute {a suit of mithril imbued copper plate} {a suit of mithril imbued copper plate [10_hit][det_inv]}
+#substitute {a suit of platinum chainmail} {a suit of platinum chainmail [3_con][5_hit]}
+#substitute {a suit of red dragonscale plate} {a suit of red dragonscale plate [1_con][35_health](MoM)}
+#substitute {a suit of royal silver armour} {a suit of royal silver armour [25_hit](mystic)}
+#substitute {a suit of steel platemail inlaid with ebony} {a suit of steel platemail inlaid with ebony [1_con][-5_ac]}
+#substitute {a suit of sturdy black platemail} {a suit of sturdy black platemail [1_dex][1_str]}
+#substitute {a suit of treated steel platemail} {a suit of treated steel platemail [10_hit][5_health][1_str]}
+#substitute {a suit of white plate mail} {a suit of white plate mail [1_str][nocharm]}
+#substitute {a sun blade} {a sun blade [5d3 +2_dam +2_hr]}
+#substitute {a sword of carved emerald} {a sword of carved emerald [5d5 +2_hr][decap]}
+#substitute {a tamarack staff} {a tamarack staff [3d4 +1 hr][+1_2nd-slot]}
+#substitute {a tarnished iron ring of the watch} {a tarnished iron ring of the watch [sense_life]}
+#substitute {a tattered old robe} {a tattered old robe [a_invis]}
+#substitute {a tattered purple cloak} {a tattered purple cloak [16_res_cold][-10_ac]}
+#substitute {a thick belt layered with quartz} {a thick belt layered with quartz [6_hit]}
+#substitute {a thick dwarven bracelet} {a thick dwarven bracelet [1_hr]}
+#substitute {a thick engraved silver belt} {a thick engraved silver belt [10_hit](bluff)}
+#substitute {a thick leather belt} {a thick leather belt [-4_ac]}
+#substitute {a thick leather minotaur battle kilt} {a thick leather minotaur battle kilt [12_hit][NPP]}
+#substitute {a thick silver robe} {a thick silver robe [AMS](irda)}
+#substitute {a thick white cloth cape} {a thick white cloth cape [1_wis][-con]}
+#substitute {a thick-bladed short sword} {a thick-bladed short sword [4d3 +1_dam][10_parry]}
+#substitute {a thin bronze bracelet} {a thin bronze bracelet [5_hit]}
+#substitute {a thin copper shield} {a thin copper shield [5_bash][1_hr](koboldMines)}
+#substitute {a thin golden wristband} {a thin golden wristband [-1_sv-spell][ch:10|shield]}
+#substitute {a thin mossy shawl} {a thin mossy shawl [4_age](dunmir)}
+#substitute {a thorny embroidered leather jerkin} {a thorny embroidered leather jerkin [2_dex][1_con][a.hide][a.sneak]}
+#substitute {a three-strap leather bracer} {a three-strap leather bracer [1_str]}
+#substitute {a tiny bone ring} {a tiny bone ring [-5_health][15_res_neg]}
+#substitute {a treant leaf potion} {a treant leaf potion [Level 30 : heal, strength, barkskin]}
+#substitute {a treated steel bracer} {a treated steel bracer [2_hr]}
+#substitute {a triangular spiked buckler} {a triangular spiked buckler [+1_dam][5_bash]}
+#substitute {a troll bone ring} {a troll bone ring [5_hit][15%_regen]}
+#substitute {a two-handed battle axe} {a two-handed battle axe [4d6 -2_hr]}
+#substitute {a viciously serrated mandible} {a viciously serrated mandible [3d5 +1_dam][offie](dunMir)}
+#substitute {a vile black potion} {a vile black potion [Level 30 : heal, silence]}
+#substitute {a vintage minotaur battle harness} {a vintage minotaur battle harness [2_str][1_con][nosum|nocharm][imm_poison]}
+#substitute {a weaponmaster's blade} {a weaponmaster's blade [3d6 +2 +2]}
+#substitute {a white cloak trimmed with silver} {a white cloak trimmed with silver [1_int][nosum|nocharm]}
+#substitute {a white dragonarmy bracer} {a white dragonarmy bracer [1_str]}
+#substitute {a white dragonarmy war banner} {a white dragonarmy war banner [10_health][15_march][light](WDA)}
+#substitute {a white dragonwing cloak} {a white dragonwing cloak [15_res_cold][-2_sv-spell][is_flying]}
+#substitute {a white mages robe} {a white mages robe [-10_ac]}
+#substitute {a white travelling cloak} {a white travelling cloak [10_mv][infra]}
+#substitute {a wolf skin cloak} {a wolf skin cloak [1_dex][nosum|nocharm]}
+#substitute {a wolf tooth bracelet} {a wolf tooth bracelet [1_str][1_hr](cv)}
+#substitute {a woodsman's bracer} {a woodsman's bracer [8_res_heat][-5_ac]}
+#substitute {a woodsman's cloak} {a woodsman's cloak [1_dex]}
+#substitute {a woodsman's hood} {a woodsman's hood [infra][sense_life]}
+#substitute {a woodsman's ring} {a woodsman's ring [-1_sv-spell][-3_ac]}
+#substitute {a woodsman's sash} {a woodsman's sash [-8_ac]}
+#substitute {a wrist buckler} {a wrist buckler [+1_dam][-5_hit]}
+#substitute {a wyvern's eye} {a wyvern's eye [+1_5th-slot][det_inv][-8_health]}
+#substitute {an adamantine bracelet} {an adamantine bracelet [NPP][-10_ac]}
+#substitute {an adamantite helmet} {an adamantite helmet [2_con]}
+#substitute {an amber bejeweled ring} {an amber bejeweled ring [2_age]}
+#substitute {an amulet of sacred fires} {an amulet of sacred fires [20_res_heat]}
+#substitute {an ancient green dragon's mane} {an ancient green dragon's mane [20_hit][50_res_magic][can_fly][a.hide][nosum|nocharm](cyan)}
+#substitute {an ancient medallion} {an ancient medallion [infra][nosum|nocharm]}
+#substitute {an ancient shield of the silver serpent} {an ancient shield of the silver serpent [5_bash](pyramid)}
+#substitute {an ancient silver blade} {an ancient silver blade [1d16 +1_hr][offie]}
+#substitute {an ancient solamnic ring} {an ancient solamnic ring [-4_ac][3_lay][det_evil]}
+#substitute {an anhkheg skin shirt} {an anhkheg skin shirt [10_res_acid][10_hide]}
+#substitute {an apple} {Bless (apple)}
+#substitute {an elegant pair of grey-green wings} {an elegant pair of grey-green wings [can_fly]}
+#substitute {an elven cloak} {an elven cloak [1_age]}
+#substitute {an elven hand crossbow} {an elven hand crossbow [2d5 +2_dam +2_hr]}
+#substitute {an embroidered black wool cape} {an embroidered black wool cape [10_res_gas][-8_ac][det_inv]}
+#substitute {an embroidered black wool cloak} {an embroidered black wool cloak [7_res_gas][-5_ac]}
+#substitute {an emerald vial} {an emerald vial [Level 20 : cure critical](illrigger)}
+#substitute {an ergothian battle blade} {an ergothian battle blade [3d5 +3_dam +3_hr]}
+#substitute {an idol carved of green malachite} {an idol carved of green malachite [16_res_gas][sense_life][imm_curse][imm_poison]}
+#substitute {an impossibly dark shroud} {an impossibly dark shroud [auto.invis]}
+#substitute {an intricately twined gold bracelet} {an intricately twined gold bracelet [-10_ac]}
+#substitute {an iridescent ebony carapace} {an iridescent ebony carapace [8_hit][10_res_acid] (dun mir)}
+#substitute {an iron eyepatch inlaid with emeralds} {an iron eyepatch inlaid with emeralds [1_con]}
+#substitute {an ironwood shield nailed with severed hands} {an ironwood shield nailed with severed hands [+1_dam][24_res_heat][45_wt]}
+#substitute {an ivy necklace} {an ivy necklace [1_wis][-con]}
+#substitute {an obsidian bracelet} {an obsidian bracelet [1_wis][-5_hit]}
+#substitute {an orange} {STR (orange)}
+#substitute {an ornate twin-bladed battleaxe} {an ornate twin-bladed battleaxe [4d5 +2_dam +3_hr](cv)}
+#substitute {an unmarked brown vial} {an unmarked brown vial [Level 30 : heal]}
+#substitute {anklets of woven palladium} {anklets of woven palladium [1_dex][-5_ac][can_fly]}
+#substitute {armbands of fulgurite} {armbands of fulgurite [12_hit][40_res_elec](luni_gnome)}
+#substitute {down.} {DOWN}
+#substitute {dual anklets of gold} {dual anklets of gold [can_fly]}
+#substitute {east.} {EAST}
+#substitute {green granite gauntlets} {green granite gauntlets [1_str]}
+#substitute {hardened granite armour} {hardened granite armour [1_dam]}
+#substitute {is shredded by shards of ice.} {.}
+#substitute {north.} {NORTH}
+#substitute {pearl and onyx bracers} {pearl and onyx bracers [-2_sv-spell]}
+#substitute {pearl and onyx greaves} {pearl and onyx greaves [-2_sv-spell]}
+#substitute {resting here} {---RESTING!}
+#substitute {ruby lined belt} {ruby lined belt [1_dex][-4_ac]}
+#substitute {screams as a swarm of insects engulfs him.} {.}
+#substitute {screams in pain as the lightning bolts summoned by} {.}
+#substitute {silver dragon scale armbands} {silver dragon scale armbands [2_dex][10_health]}
+#substitute {silvery sleeves of stalking} {silvery sleeves of stalking [2_dex][7_sneak](pax)}
+#substitute {sitting} {---SITTING!}
+#substitute {some black and silver sleeves} {some black and silver sleeves [1_dex][3_hit]}
+#substitute {some black breeches} {some black breeches [auto.fly]}
+#substitute {some black satin pants with deep pockets} {some black satin pants with deep pockets [1_dex][15_mv] (FC)}
+#substitute {some blacksmith's tools} {some blacksmith's tools [+4_mend][-25_mv](lower_bandits)}
+#substitute {some brassards of silver dragonscale} {some brassards of silver dragonscale [2_str]}
+#substitute {some brushed steel gauntlets} {some brushed steel gauntlets [2_dam][5_lay]}
+#substitute {some chainmail armor} {some chainmail armor [1_hr]}
+#substitute {some charred black gloves} {some charred black gloves [24_res_heat][4_age]}
+#substitute {some fine leather armguards} {some fine leather armguards [2_dex]}
+#substitute {some fur-trimmed boots} {some fur-trimmed boots [10_mv][6_res_cold]}
+#substitute {some greasy footpads} {some greasy footpads [2_dex][7_sneak]}
+#substitute {some green and black archer's gloves} {some green and black archer's gloves [1_dex][1_hr](VK)}
+#substitute {some green dragonscale arm guards} {some green dragonscale arm guards [1_dex](7_apply)}
+#substitute {some green dragonscale leggings} {some green dragonscale leggings [5_hit](7_apply)}
+#substitute {some gypsy beads} {some gypsy beads [1_int][det_invis]}
+#substitute {some leather greaves} {some leather greaves [5%_regen]}
+#substitute {some red dragon scale sleeves} {some red dragon scale sleeves [8_res_heat]}
+#substitute {some river runner's boots} {some river runner's boots [15_mv][wb]}
+#substitute {some rose-engraved solamnic legplates} {some rose-engraved solamnic legplates [2_hr][-10_health]}
+#substitute {some rugged black leather breeches} {some rugged black leather breeches [+25_mv][-10_ac]}
+#substitute {some shark skin sleeves} {some shark skin sleeves [8_res_gas]}
+#substitute {some spiked leather body armor} {some spiked leather body armor [+1_dam]}
+#substitute {some spiked minotaur gauntlets} {some spiked minotaur gauntlets [+1_dam +1_hr]}
+#substitute {south.} {SOUTH}
+#substitute {standing} {STANDING}
+#substitute {the Aurinite king's cloak} {the Aurinite king's cloak [20_hit][20_mv][PFE] (CT)}
+#substitute {the black knight's insignia} {the black knight's insignia [+1_dam][+1_hr]}
+#substitute {the dark plates of Takhisis} {the dark plates of Takhisis [+2_dam]}
+#substitute {the decorated insignia of Lieutenant Je'hal} {the decorated insignia of Lieutenant Je'hal [NPP](dun mir)}
+#substitute {the diamond encrusted skull of Glymmer} {the diamond encrusted skull of Glymmer [3_str][NV]}
+#substitute {the eye of an umber hulk} {the eye of an umber hulk [det_inv][det_evil][sense_life][+1_sv-spell]}
+#substitute {the golden axe} {the golden axe [6d4 +3_hr](grak king)}
+#substitute {the medallion of the keeper} {the medallion of the keeper [2_con][no_rent]}
+#substitute {the plate of the Kingfisher} {the plate of the Kingfisher [+2_dam](HCT)}
+#substitute {the ring of the High Clerist} {the ring of the High Clerist [+1_dam]}
+#substitute {thin-soled black boots} {thin-soled black boots [1_dex]}
+#substitute {up.} {UP}
+#substitute {west.} {WEST}
+#substitute {woven vine anklets} {woven vine anklets [1_dex]}
+#group local #nop
+#group local autorescue
+#group local default
+#group local pkill
+#group disable spellcount
+#group local spellcount
+#group local }
+#hot {F11} {#log;#log 1TEMP.LOG}
+#hot {F12} {#log;#log $logname}
+#ticksize 61

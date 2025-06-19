@@ -1,0 +1,1366 @@
+Start logging: 22.02.2007 20:48
+lAcademy of Ars Arcana
+An orrery is mounted on a stand here...it glows blue
+<BSP> Lyta Luze is resting here. (flying)
+Darvinus the master mage is here, looking for students.
+
+277H 33V 513125X 6862C Exits:W> poke lytaYou poke her in the ribs.
+
+277H 33V 513125X 6862C Exits:W> lAcademy of Ars Arcana
+An orrery is mounted on a stand here...it glows blue
+<BSP> Lyta Luze is resting here. (flying)
+Darvinus the master mage is here, looking for students.
+
+277H 33V 513125X 6862C Exits:W> say helloYou say 'hello'
+
+277H 33V 513125X 6862C Exits:W> gro  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Mikado           perfect   fatigued  standing   Y   Y    N    Y     1    0
+
+277H 33V 513125X 6862C Exits:W> whoImmortals
+---------
+[Grd  32]  Umarth is so 1996
+[Grd  32]  Cinid the Eco-Terrorist (deaf)
+
+Mortals
+-------
+<BSP>  Mikado Yakudza, Bloodthirsty Pirate from the Blood Sea Isles
+<BIA>  Borga the Male Hylar Dwarf
+<BSP>  Lyta Luze
+       Qubiashi, Rhyme & Reason
+<DONT> Effe the Male Goblin
+<BFF>  Dukk, More Human Than Human
+       Bigglesworth the Male Half Elf
+       Nikole the Male Human
+       Suliko the Male Minotaur
+<DONT> Hrothgar the Mighty Minotaur Midget
+<Out>  Lady Lolli Pop
+<BIA>  Turil the Male Kagonesti
+<HoF>  Hardinge the Male Gnome
+<Myth> Miss Consuela Franchesca Maria Juanita Gonzalez Lopez III
+<BIA>  Jitka Lazir, Drama Queen
+<AMA>  A Male Kender
+<BIA>  Mrs Anne Steel, Going with the Way, the Truth and the Life
+<Newb> Eloc TaMoovet Move-It, Sidekick of Deraj
+<AMA>  Freyre the Male Minotaur
+<DAK>  Locki, Master of the War Drums, Sounder of Death
+       Cy the Male Gnome
+<DONT> Kramit the Male Silvanesti
+<AMA>  Sila the Female Kender
+<AMA>  Dekmun the Male Half Elf
+       Folkar Darksoul
+<Newb> Adrianna Primetime
+
+Total visible people : 28        Total people online  : 28
+
+277H 33V 513125X 6862C Exits:W> scanLooking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+A Tarsian peasant cleans up the streets.
+A Tarsian peasant cleans up the streets.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+277H 33V 513125X 6862C Exits:W> say wtfYou say 'wtf'
+
+277H 33V 513125X 6862C Exits:W> c 'rel' zardonnaYou utter the words, 'relocate'
+Master's Office
+An orrery is mounted on a stand here...it glows blue
+Zardonna, the elven high sorceress is ready to teach her arts.
+A cityguard stands here, keeping a wary eye out for troublemakers.
+
+277H 33V 513125X 6862C Mem:1 Exits:D> 
+Your studies complete, you close your spellbook with a smile.
+mem
+277H 43V 513125X 6862C Exits:D> Spells currently memorized:
+1: [ 2]blur                 [ 4]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 2]shocking grasp       [ 2]silence              [ 1]strength            
+3: [ 7]lightning bolt      
+4: [ 4]acid blast           [ 2]hold person          [ 1]improved invisibilit
+5: [ 9]force bolt           [ 1]locate object       
+6: [ 1]fireshield           [ 1]identify             [ 3]relocate            
+   [ 1]spheres of absorbtio
+7: [ 2]calm                 [ 2]conjure elemental    [ 2]mass invisibility   
+8: [ 1]cloud kill           [ 2]mental acuity        [ 2]wizard eye          
+9: [ 4]globe of invulnerabi
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-0
+
+277H 43V 513125X 6862C Exits:D> 
+Lyta tells you 'here'
+
+277H 43V 513125X 6862C Exits:D> lMaster's Office
+An orrery is mounted on a stand here...it glows blue
+Zardonna, the elven high sorceress is ready to teach her arts.
+A cityguard stands here, keeping a wary eye out for troublemakers.
+
+277H 43V 513125X 6862C Exits:D> c 'rel' zardonnaYou utter the words, 'relocate'
+The magic fails!
+
+277H 43V 513125X 6862C Mem:1 Exits:D> c 'rel' lytaYou utter the words, 'relocate'
+Academy of Ars Arcana
+An orrery is mounted on a stand here...it glows blue
+<BSP> Lyta Luze is standing here. (flying)
+Darvinus the master mage is here, looking for students.
+
+277H 43V 513125X 6862C Mem:2 Exits:W> 
+Lyta tells you 'was looking log'
+
+277H 43V 513125X 6862C Mem:2 Exits:W> nodYou nod solemnly.
+
+277H 43V 513125X 6862C Mem:2 Exits:W> 
+You are now a member of Lyta's group.
+
+277H 43V 513125X 6862C Mem:2 Exits:W> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Lyta             perfect   rested    standing   Y   N    N    Y     0    0
+  Mikado           perfect   fatigued  standing   Y   Y    N    Y     1    2
+
+277H 43V 513125X 6862C Mem:2 Exits:W> scoYou are Mikado Yakudza, Bloodthirsty Pirate from the Blood Sea Isles, a level 30 Mage.
+You are a Clansman in Blood Sea Pirates.
+You are rank 4. You have completed 0% of your next rank.
+You are 39 years old.
+You have 277(277) hit and 43(126) movement points.
+You are influenced by the red moon, Lunitari.
+You have scored 89486875 exp, and have 9862(35845) steel coins.
+You need 513125 more experience to advance.
+You have died 26 horrible deaths.
+You have been connected for 18 minute(s).
+You have been playing for 12 day(s), 21 hour(s) and 57 minute(s).
+Your equipment is currently not being concealed.
+You are standing.
+You are flying.
+You are following Lyta.
+You are affected by the following:
+    relocate
+    spheres of absorbtion
+    fireshield
+    improved invisibility
+    strength
+    globe of invulnerability
+    shield
+    blur
+
+277H 43V 513125X 6862C Mem:2 Exits:W> 
+Lyta tells your group 'tic it'
+
+277H 43V 513125X 6862C Mem:2 Exits:W> 
+Lyta begins resting but stays aloft.
+
+277H 43V 513125X 6862C Mem:2 Exits:W> 
+Lyta tells your group 'v'
+
+277H 43V 513125X 6862C Mem:2 Exits:W> staYou are already standing.
+
+277H 43V 513125X 6862C Mem:2 Exits:W> groYour group of 2 members consists of:
+  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Lyta             perfect   rested    resting    Y   N    N    Y     0    0
+  Mikado           perfect   fatigued  standing   Y   Y    N    Y     1    2
+
+277H 43V 513125X 6862C Mem:2 Exits:W> quaff putridYou quaff a putrid potion which dissolves.
+You feel less tired.
+
+277H 82V 513125X 6862C Mem:2 Exits:W> quaff putridYou quaff a putrid potion which dissolves.
+You feel less tired.
+
+277H 121V 513125X 6862C Mem:2 Exits:W> gt goYou tell your group 'go'
+
+277H 121V 513125X 6862C Mem:2 Exits:W> 
+Lyta stands up.
+
+277H 121V 513125X 6862C Mem:2 Exits:W> 
+Lyta flies west.
+You follow Lyta west.
+Academy Square
+<BSP> Lyta Luze is standing here. (flying)
+A Tarsian peasant cleans up the streets.
+
+277H 120V 513125X 6862C Mem:2 Exits:NESW> 
+Lyta flies south.
+You follow Lyta south.
+Western Way
+<BSP> Lyta Luze is standing here. (flying)
+A Tarsian peasant cleans up the streets.
+
+277H 119V 513125X 6862C Mem:2 Exits:NEW> 
+Lyta flies east.
+You follow Lyta east.
+Western Way
+<BSP> Lyta Luze is standing here. (flying)
+
+277H 118V 513125X 6862C Mem:2 Exits:ESW> 
+Lyta flies east.
+You follow Lyta east.
+Western Way
+<BSP> Lyta Luze is standing here. (flying)
+
+277H 117V 513125X 6862C Mem:2 Exits:EW> 
+Lyta flies east.
+You follow Lyta east.
+Western Way
+<BSP> Lyta Luze is standing here. (flying)
+A mercenary stands here, protecting New Tarsis under orders from the Thane.
+A small grey rat scurries for cover as you approach.
+
+277H 116V 513125X 6862C Mem:2 Exits:NEW> 
+Lyta flies east.
+You follow Lyta east.
+New Tarsis Square
+The great fountain of old Tarsis stands here.
+<BSP> Lyta Luze is standing here. (flying)
+A mercenary stands here, protecting New Tarsis under orders from the Thane.
+A Tarsian peasant whistles happily on his way to work.
+
+277H 115V 513125X 6862C Mem:2 Exits:NESW> 
+Lyta flies north.
+You follow Lyta north.
+North Main Street
+<BSP> Lyta Luze is standing here. (flying)
+
+277H 114V 513125X 6862C Mem:2 Exits:NESW> 
+Lyta flies north.
+You follow Lyta north.
+North Main Street
+<BSP> Lyta Luze is standing here. (flying)
+A Tarsian peasant cleans up the streets.
+
+277H 113V 513125X 6862C Mem:2 Exits:NSW> 
+Lyta flies north.
+You follow Lyta north.
+North Main Street
+<BSP> Lyta Luze is standing here. (flying)
+A Tarsian nobleman refuses to acknowledge your presence.
+A small grey rat scurries for cover as you approach.
+A mercenary stands here, protecting New Tarsis under orders from the Thane.
+
+277H 112V 513125X 6862C Mem:2 Exits:NES> 
+Lyta flies north.
+You follow Lyta north.
+North Main Street
+<BSP> Lyta Luze is standing here. (flying)
+A Tarsian peasant whistles happily on his way to work.
+
+277H 111V 513125X 6862C Mem:2 Exits:NSW> 
+Lyta flies north.
+You follow Lyta north.
+The Northern Gate Of Tarsis
+<BSP> Lyta Luze is standing here. (flying)
+A Tarsian guard stands here, turning away undesirables from the city.
+A Tarsian guard stands here, turning away undesirables from the city.
+
+277H 110V 513125X 6862C Mem:2 Exits:NESW> 
+Lyta says 'from n gate'
+
+277H 110V 513125X 6862C Mem:2 Exits:NESW> 
+Lyta flies north.
+You follow Lyta north.
+The Path to the City Gates
+<BSP> Lyta Luze is standing here. (flying)
+A traveling mercenary is here, seeking employment.
+
+277H 108V 513125X 6862C Mem:2 Exits:NESW> 
+Lyta flies west.
+You follow Lyta west.
+The Road to Tarsis
+<BSP> Lyta Luze is standing here. (flying)
+
+277H 106V 513125X 6862C Mem:2 Exits:NE> 
+Lyta flies north.
+You follow Lyta north.
+The Road to Tarsis
+<BSP> Lyta Luze is standing here. (flying)
+A fellow traveller is here, weary from many days on the road.
+
+277H 104V 513125X 6862C Mem:2 Exits:NS> 
+Lyta flies north.
+You follow Lyta north.
+A Dusty Road
+<BSP> Lyta Luze is standing here. (flying)
+A fellow traveller is here, weary from many days on the road.
+
+277H 102V 513125X 6862C Mem:2 Exits:NSW> 
+Lyta flies north.
+You follow Lyta north.
+The Plains of Dust
+<BSP> Lyta Luze is standing here. (flying)
+
+277H 100V 513125X 6862C Mem:2 Exits:NESW> 
+Lyta flies south.
+You follow Lyta south.
+A Dusty Road
+<BSP> Lyta Luze is standing here. (flying)
+A fellow traveller is here, weary from many days on the road.
+
+277H 98V 513125X 6862C Mem:2 Exits:NSW> 
+Lyta flies west.
+You follow Lyta west.
+A Dusty Road
+<BSP> Lyta Luze is standing here. (flying)
+
+277H 96V 513125X 6862C Mem:2 Exits:NE> 
+Lyta flies north.
+You follow Lyta north.
+A Dry Road
+<BSP> Lyta Luze is standing here. (flying)
+
+277H 94V 513125X 6862C Mem:2 Exits:NES> 
+Lyta flies north.
+You follow Lyta north.
+A Dry Road
+<BSP> Lyta Luze is standing here. (flying)
+
+277H 92V 513125X 6862C Mem:2 Exits:NESW> 
+Lyta flies north.
+You follow Lyta north.
+A Bend in the Road
+<BSP> Lyta Luze is standing here. (flying)
+A fellow traveller is here, weary from many days on the road.
+
+277H 90V 513125X 6862C Mem:2 Exits:ESW> 
+Lyta flies west.
+You follow Lyta west.
+On a Road
+<BSP> Lyta Luze is standing here. (flying)
+
+277H 88V 513125X 6862C Mem:2 Exits:EW> 
+Lyta flies west.
+You follow Lyta west.
+A Dusty Road
+<BSP> Lyta Luze is standing here. (flying)
+A fellow traveller is here, weary from many days on the road.
+
+277H 86V 513125X 6862C Mem:2 Exits:NEW> 
+Lyta flies north.
+You follow Lyta north.
+A Dusty Road
+<BSP> Lyta Luze is standing here. (flying)
+You sense a life form.
+A medium sized horse is here, awaiting a rider.
+A wandering nomad scout comes out of hiding.
+Lyta steps aside as a wandering nomad scout attempts a bash, stumbles, and falls flat on his face.
+
+277H 84V 513125X 6862C Mem:2 Exits:NS> 
+A cheerful kender arrives from the north.
+
+277H 84V 513125X 6862C Mem:2 Exits:NS> lA Dusty Road
+A cheerful kender wanders about, enjoying the sights.
+<BSP> Lyta Luze is standing here, fighting a wandering nomad scout. (flying)
+A wandering nomad scout is sitting here, fighting Lyta.
+A medium sized horse is here, awaiting a rider.
+
+277H 84V 513125X 6862C Mem:2 Exits:NS> 
+A wandering nomad scout misses Lyta with his slash.
+Lyta misses a wandering nomad scout with her hit.
+
+277H 84V 513125X 6862C Mem:2 Exits:NS> 
+Lyta utters the words, 'l b'.
+
+277H 84V 513125X 6862C Mem:2 Exits:NS> 
+A wandering nomad scout misses Lyta with his slash.
+
+277H 84V 513125X 6862C Mem:2 Exits:NS> 
+Lyta utters the words, 'aque'.
+
+277H 84V 513125X 6862C Mem:2 Exits:NS> c 'l b' nomadYou utter the words, 'lightning bolt'
+Your lightning bolt shatters a wandering nomad scout to pieces.
+You receive 312 experience.
+get pile corpseA wandering nomad scout is dead! R.I.P.
+exa corpse
+277H 84V 512457X 6862C Mem:3 Exits:NS> 
+Lyta says 'frag it'
+
+277H 84V 512457X 6862C Mem:3 Exits:NS> 
+The death cry of a wandering nomad scout echoes from somewhere nearby...
+
+277H 84V 512457X 6862C Mem:3 Exits:NS> 
+Lyta gets a small pile of coins from the corpse of a wandering nomad scout.
+
+277H 84V 512457X 6862C Mem:3 Exits:NS> 
+Lyta divides 6 coins equally among the group members present.
+
+277H 84V 512457X 6865C Mem:3 Exits:NS> c 'm i'
+Lyta flies north.
+You follow Lyta north.
+An Old Road
+<BSP> Lyta Luze is standing here. (flying)
+A fellow traveller is here, weary from many days on the road.
+
+277H 82V 512457X 6865C Mem:3 Exits:NS> A cheerful kender arrives from the south.
+What are you trying to get from?
+
+277H 82V 512457X 6865C Mem:3 Exits:NS> 
+Lyta flies north.
+You follow Lyta north.
+An Old Road
+<BSP> Lyta Luze is standing here. (flying)
+
+277H 80V 512457X 6865C Mem:3 Exits:NS> You do not see that here.
+
+277H 80V 512457X 6865C Mem:3 Exits:NS> You utter the words, 'mass invisibility'
+You vanish.
+Lyta slowly fades out of existence.
+
+277H 80V 512457X 6865C Mem:3 Exits:NS> 
+Lyta flies north.
+You follow Lyta north.
+An Old Road
+<BSP> Lyta Luze is standing here. (flying) (invisible)
+You sense a life form.
+
+277H 78V 512457X 6865C Mem:3 Exits:NS> 
+You suddenly notice that your body is in focus once again.
+
+277H 88V 512457X 6865C Mem:2 Exits:NS> 
+Lyta flies north.
+You follow Lyta north.
+An Old Road
+<BSP> Lyta Luze is standing here. (flying) (invisible)
+
+277H 86V 512457X 6865C Mem:2 Exits:NES> 
+Lyta flies north.
+You follow Lyta north.
+An Old Road
+<BSP> Lyta Luze is standing here. (flying) (invisible)
+A fellow traveller is here, weary from many days on the road.
+A fellow traveller is here, weary from many days on the road.
+
+277H 84V 512457X 6865C Mem:2 Exits:NS> 
+Lyta flies north.
+You follow Lyta north.
+An Old Road
+<BSP> Lyta Luze is standing here. (flying) (invisible)
+A dusty and tired traveller plods his way long the road.
+
+277H 82V 512457X 6865C Mem:2 Exits:NS> 
+Lyta flies north.
+You follow Lyta north.
+An Old Road
+<BSP> Lyta Luze is standing here. (flying) (invisible)
+A dusty and tired traveller plods his way long the road.
+
+277H 80V 512457X 6865C Mem:2 Exits:NS> 
+Lyta flies north.
+You follow Lyta north.
+The Road to Hopeful
+<BSP> Lyta Luze is standing here. (flying) (invisible)
+A fellow traveller is here, weary from many days on the road.
+
+277H 78V 512457X 6865C Mem:2 Exits:NES> 
+Lyta flies north.
+You follow Lyta north.
+The Road to the Mountains
+<BSP> Lyta Luze is standing here. (flying) (invisible)
+
+277H 76V 512457X 6865C Mem:2 Exits:NS> 
+Lyta flies north.
+You follow Lyta north.
+The Road to the Mountains
+<BSP> Lyta Luze is standing here. (flying) (invisible)
+An old druid ambles down the road.
+
+277H 74V 512457X 6865C Mem:2 Exits:SU> 
+Lyta flies south.
+You follow Lyta south.
+The Road to the Mountains
+<BSP> Lyta Luze is standing here. (flying) (invisible)
+
+277H 72V 512457X 6865C Mem:2 Exits:NS> 
+Lyta flies south.
+You follow Lyta south.
+The Road to Hopeful
+<BSP> Lyta Luze is standing here. (flying) (invisible)
+A fellow traveller is here, weary from many days on the road.
+
+277H 70V 512457X 6865C Mem:2 Exits:NES> 
+Lyta flies south.
+You follow Lyta south.
+An Old Road
+<BSP> Lyta Luze is standing here. (flying) (invisible)
+A dusty and tired traveller plods his way long the road.
+
+277H 68V 512457X 6865C Mem:2 Exits:NS> 
+Lyta flies north.
+You follow Lyta north.
+The Road to Hopeful
+<BSP> Lyta Luze is standing here. (flying) (invisible)
+A fellow traveller is here, weary from many days on the road.
+
+277H 66V 512457X 6865C Mem:2 Exits:NES> 
+Lyta flies east.
+You follow Lyta east.
+Outside the Town of Hopeful
+<BSP> Lyta Luze is standing here. (flying) (invisible)
+
+277H 64V 512457X 6865C Mem:2 Exits:SW> 
+Lyta flies south.
+You follow Lyta south.
+A Village Road
+<BSP> Lyta Luze is standing here. (flying) (invisible)
+
+277H 63V 512457X 6865C Mem:2 Exits:NSW> gigYou giggle.
+
+277H 63V 512457X 6865C Mem:2 Exits:NSW> nodYou nod solemnly.
+
+277H 63V 512457X 6865C Mem:2 Exits:NSW> 
+Lyta says 'here'
+
+277H 63V 512457X 6865C Mem:2 Exits:NSW> scanLooking north:
+You see nothing special.
+Looking east:
+A few scattered houses.
+Looking south:
+The road continues on through the town.
+Looking west:
+A small clear area has been set up for caravans to park their wagons.
+Looking up:
+Nothing unusual up there.
+Looking down:
+A well travelled road.
+
+277H 63V 512457X 6865C Mem:2 Exits:NSW> 
+Lyta utters the words, 'teleport'.
+Lyta turns into smoke and is blown away.
+
+277H 63V 512457X 6865C Mem:2 Exits:NSW> lA Village Road
+
+277H 63V 512457X 6865C Mem:2 Exits:NSW> sA Village Road
+A dwarven guard from the caravan wanders around town.
+
+277H 62V 512457X 6865C Mem:2 Exits:NES> nA Village Road
+
+277H 61V 512457X 6865C Mem:2 Exits:NSW> sA Village Road
+A dwarven guard from the caravan wanders around town.
+
+277H 60V 512457X 6865C Mem:2 Exits:NES> sThe Village Square
+An artesian well stands in the middle of the village square.
+
+277H 59V 512457X 6865C Mem:2 Exits:NESW> nA Village Road
+A dwarven guard from the caravan wanders around town.
+
+277H 58V 512457X 6865C Mem:2 Exits:NES> eThe Hopeful Stable
+Jeffe the stablemaster is sitting here.
+
+277H 57V 512457X 6865C Mem:2 Exits:SW> liSorry, but you cannot do that here!
+
+277H 57V 512457X 6865C Mem:2 Exits:SW> wA Village Road
+A dwarven guard from the caravan wanders around town.
+
+277H 56V 512457X 6865C Mem:2 Exits:NES> wAlas, you cannot go that way...
+
+277H 56V 512457X 6865C Mem:2 Exits:NES> sThe Village Square
+An artesian well stands in the middle of the village square.
+A cheerful kender wanders about, enjoying the sights.
+
+277H 55V 512457X 6865C Mem:2 Exits:NESW> sA Village Road
+
+277H 54V 512457X 6865C Mem:2 Exits:NES(W)> eThe Pork Barrel Inn
+A dwarf sits at the table drinking some ale.
+Belkas stands behind the bar, waiting to serve you.
+
+277H 53V 512457X 6865C Mem:2 Exits:WU> 
+Lyta tells your group 'i don't know where comps are though'
+
+277H 53V 512457X 6865C Mem:2 Exits:WU> liBelkas the innkeeper says 'If I can't see you, how can I serve you?'
+
+277H 53V 512457X 6865C Mem:2 Exits:WU> offSorry, but you cannot do that here!
+
+277H 53V 512457X 6865C Mem:2 Exits:WU> hit meYour mother would be so sad...
+
+277H 53V 512457X 6865C Mem:2 Exits:WU> liBelkas the innkeeper says 'If I can't see you, how can I serve you?'
+
+277H 53V 512457X 6865C Mem:2 Exits:WU> offSorry, but you cannot do that here!
+
+277H 53V 512457X 6865C Mem:2 Exits:WU> wA Village Road
+
+277H 52V 512457X 6865C Mem:2 Exits:NES(W)> wThe door seems to be closed.
+
+277H 52V 512457X 6865C Mem:2 Exits:NES(W)> op door wOk.
+
+277H 52V 512457X 6865C Mem:2 Exits:NESW> scanLooking north:
+The village square.
+Looking east:
+The village inn.
+A dwarf sits at the table drinking some ale.
+Belkas stands behind the bar, waiting to serve you.
+Looking south:
+The gravel road continues through the town.
+Looking west:
+A well built building.
+The door is open.
+Nabin, the village elder, is standing here wondering what you want.
+Looking up:
+The inn towers a mighty two stories.
+Looking down:
+The gravel road.
+
+277H 52V 512457X 6865C Mem:2 Exits:NESW> wThe Elder's Home
+Nabin, the village elder, is standing here wondering what you want.
+
+277H 51V 512457X 6865C Mem:2 Exits:E> liSorry, but you cannot do that here!
+
+277H 51V 512457X 6865C Mem:2 Exits:E> eA Village Road
+
+277H 50V 512457X 6865C Mem:2 Exits:NESW> sA Village Road
+A poor villager wanders around looking for work with the caravans.
+A poor villager wanders around looking for work with the caravans.
+
+277H 49V 512457X 6865C Mem:2 Exits:N(E)SW> scanLooking north:
+The road continues through the village.
+Looking east:
+A small hut made from scavenged timber.
+The door is closed.
+Looking south:
+The road continues through the village.
+Looking west:
+A temple to unknown gods.
+A dwarven guard from the caravan wanders around town.
+An elderly priest of Mishakal stands here, intoning his prayers.
+Looking up:
+Nothing but the sky.
+Looking down:
+The gravel road.
+
+277H 49V 512457X 6865C Mem:2 Exits:N(E)SW> wA Small Temple
+A dwarven guard from the caravan wanders around town.
+An elderly priest of Mishakal stands here, intoning his prayers.
+
+277H 48V 512457X 6865C Mem:2 Exits:E> liSorry, but you cannot do that here!
+
+277H 48V 512457X 6865C Mem:2 Exits:E> eA Village Road
+A poor villager wanders around looking for work with the caravans.
+A poor villager wanders around looking for work with the caravans.
+
+277H 47V 512457X 6865C Mem:2 Exits:N(E)SW> 
+277H 47V 512457X 6865C Mem:2 Exits:N(E)SW> eThe door seems to be closed.
+
+277H 47V 512457X 6865C Mem:2 Exits:N(E)SW> op doro eI see no doro to the east.
+
+277H 47V 512457X 6865C Mem:2 Exits:N(E)SW> op door eOk.
+
+277H 47V 512457X 6865C Mem:2 Exits:NESW> eA Ramshackle Hut
+A dirty villager glares at those who have entered uninvited.
+
+277H 46V 512457X 6865C Mem:2 Exits:W> liSorry, but you cannot do that here!
+
+277H 46V 512457X 6865C Mem:2 Exits:W> wA Village Road
+A poor villager wanders around looking for work with the caravans.
+A poor villager wanders around looking for work with the caravans.
+
+277H 45V 512457X 6865C Mem:2 Exits:NESW> sA Village Road
+
+277H 44V 512457X 6865C Mem:2 Exits:NS> sA Village Road
+
+277H 43V 512457X 6865C Mem:2 Exits:NS> sOutside the Town of Hopeful
+
+277H 42V 512457X 6865C Mem:2 Exits:NS> nA Village Road
+
+277H 41V 512457X 6865C Mem:2 Exits:NS> nn
+You feel yourself exposed.
+
+277H 51V 512457X 6865C Mem:1 Exits:NS> A Village Road
+
+277H 50V 512457X 6865C Mem:1 Exits:NS> A Village Road
+A poor villager wanders around looking for work with the caravans.
+A poor villager wanders around looking for work with the caravans.
+
+277H 49V 512457X 6865C Mem:1 Exits:NESW> nA Village Road
+
+277H 48V 512457X 6865C Mem:1 Exits:NESW> nThe Village Square
+An artesian well stands in the middle of the village square.
+
+277H 47V 512457X 6865C Mem:1 Exits:NESW> wA Village Path
+A poor villager wanders around looking for work with the caravans.
+
+277H 46V 512457X 6865C Mem:1 Exits:NESW> sBetween the Buildings
+
+277H 45V 512457X 6865C Mem:1 Exits:NES(W)> 
+You are no longer a member of Lyta's group.
+You stop following Lyta.
+groYour clanmate Lyta has left the game.
+
+277H 45V 512457X 6865C Mem:1 Exits:NES(W)>   Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Mikado           perfect   fatigued  standing   Y   Y    N    Y     1    1
+
+277H 45V 512457X 6865C Mem:1 Exits:NES(W)> scanLooking north:
+A village path lies in this direction.
+Looking east:
+You see nothing special.
+Elric is stocking the house with its magic supplies.
+Looking south:
+A small building with a sign.
+The door is open.
+Valder beckons you into his shop to look at his wares.
+Looking west:
+A small home with a few potted plants in front of it.
+The door is closed.
+Looking up:
+Some smoke trailing from a chimney.
+Looking down:
+The ground.
+
+277H 45V 512457X 6865C Mem:1 Exits:NES(W)> eHopeful's House of Magic
+Elric is stocking the house with its magic supplies.
+
+277H 44V 512457X 6865C Mem:1 Exits:W> liYou can buy:
+  1. Orrery             1450  A deep crimson orrery
+  2. Dirt                 23  Dirt from a long forgotten grave
+  3. Flint                15  Some flint chips
+  4. Seed                 21  A soybean seed
+  5. Acorn                 7  A tiny acorn
+  6. Incense              14  A stick of incense
+  7. Pouch               362  A plain component pouch
+  8. Potion               36  An empty potion bottle
+  9. Scroll               36  A blank scroll
+
+277H 44V 512457X 6865C Mem:1 Exits:W> buy 2Elric tells you 'That'll cost you 23 coins.  Thank you.'
+You now have dirt from a long forgotten grave.
+
+277H 44V 512457X 6842C Mem:1 Exits:W> buy 2Elric tells you 'That'll cost you 23 coins.  Thank you.'
+You now have dirt from a long forgotten grave.
+
+277H 44V 512457X 6819C Mem:1 Exits:W> buy 3Elric tells you 'That'll cost you 15 coins.  Thank you.'
+You now have some flint chips.
+
+277H 44V 512457X 6804C Mem:1 Exits:W> buy 3Elric tells you 'That'll cost you 15 coins.  Thank you.'
+You now have some flint chips.
+
+277H 44V 512457X 6789C Mem:1 Exits:W> buy 4Elric tells you 'That'll cost you 21 coins.  Thank you.'
+You now have a soybean seed.
+
+277H 44V 512457X 6768C Mem:1 Exits:W> buy 4Elric tells you 'That'll cost you 21 coins.  Thank you.'
+You now have a soybean seed.
+
+277H 44V 512457X 6747C Mem:1 Exits:W> buy 5Elric tells you 'That'll cost you 7 coins.  Thank you.'
+You now have a tiny acorn.
+
+277H 44V 512457X 6740C Mem:1 Exits:W> buy 5Elric tells you 'That'll cost you 7 coins.  Thank you.'
+You now have a tiny acorn.
+
+277H 44V 512457X 6733C Mem:1 Exits:W> buy 5Elric tells you 'That'll cost you 7 coins.  Thank you.'
+You now have a tiny acorn.
+
+277H 44V 512457X 6726C Mem:1 Exits:W> buy 5Acorn : You can't carry that many items.
+
+277H 44V 512457X 6726C Mem:1 Exits:W> buy 5Acorn : You can't carry that many items.
+
+277H 44V 512457X 6726C Mem:1 Exits:W> inYou are carrying:
+a tiny acorn [3]
+a soybean seed [2]
+some flint chips [2]
+dirt from a long forgotten grave [2]
+a blank scroll..it glows blue [3]
+an empty potion bottle..it glows blue [4]
+a blank scroll..it glows blue
+an empty potion bottle..it glows blue [2]
+a blank scroll..it glows blue
+a chip of chincona bark
+a putrid potion [4]
+a brewed potion..it glows blue
+a scribed scroll..it glows blue
+a brewed potion..it glows blue [2]
+a scribed scroll..it glows blue
+a large hide waterskin
+a glowing scroll of recall..it glows blue..it glows dimly [2]
+a scribed scroll..it glows blue
+a glowing scroll of recall..it glows blue..it glows dimly
+a plain component pouch..it glows blue
+a jet black potion..it glows blue
+a small wooden chest
+a blue potion of remove poison..it glows blue
+
+277H 44V 512457X 6726C Mem:1 Exits:W> put all pouchYou put a tiny acorn in a plain component pouch.
+You put a tiny acorn in a plain component pouch.
+You put a tiny acorn in a plain component pouch.
+You put a soybean seed in a plain component pouch.
+You put a soybean seed in a plain component pouch.
+You put some flint chips in a plain component pouch.
+You put some flint chips in a plain component pouch.
+You put dirt from a long forgotten grave in a plain component pouch.
+You put dirt from a long forgotten grave in a plain component pouch.
+You put a blank scroll in a plain component pouch.
+You put a blank scroll in a plain component pouch.
+You put a blank scroll in a plain component pouch.
+You put an empty potion bottle in a plain component pouch.
+You put an empty potion bottle in a plain component pouch.
+You put an empty potion bottle in a plain component pouch.
+You put an empty potion bottle in a plain component pouch.
+You put a blank scroll in a plain component pouch.
+You put an empty potion bottle in a plain component pouch.
+You put an empty potion bottle in a plain component pouch.
+You put a blank scroll in a plain component pouch.
+A chip of chincona bark does not belong in that.
+A putrid potion does not belong in that.
+A putrid potion does not belong in that.
+A putrid potion does not belong in that.
+A putrid potion does not belong in that.
+You put a brewed potion in a plain component pouch.
+You put a scribed scroll in a plain component pouch.
+You put a brewed potion in a plain component pouch.
+You put a brewed potion in a plain component pouch.
+You put a scribed scroll in a plain component pouch.
+A large hide waterskin does not belong in that.
+A glowing scroll of recall does not belong in that.
+A glowing scroll of recall does not belong in that.
+You put a scribed scroll in a plain component pouch.
+A glowing scroll of recall does not belong in that.
+A plain component pouch does not belong in that.
+A jet black potion does not belong in that.
+A small wooden chest does not belong in that.
+A blue potion of remove poison does not belong in that.
+
+277H 44V 512457X 6726C Mem:1 Exits:W> lHopeful's House of Magic
+Elric is stocking the house with its magic supplies.
+
+277H 44V 512457X 6726C Mem:1 Exits:W> liYou can buy:
+  1. Orrery             1450  A deep crimson orrery
+  2. Dirt                 23  Dirt from a long forgotten grave
+  3. Flint                15  Some flint chips
+  4. Seed                 21  A soybean seed
+  5. Acorn                 7  A tiny acorn
+  6. Incense              14  A stick of incense
+  7. Pouch               362  A plain component pouch
+  8. Potion               36  An empty potion bottle
+  9. Scroll               36  A blank scroll
+
+277H 44V 512457X 6726C Mem:1 Exits:W> buy 6Elric tells you 'That'll cost you 14 coins.  Thank you.'
+You now have a stick of incense.
+
+277H 44V 512457X 6712C Mem:1 Exits:W> c 'rel' zardonnaYou utter the words, 'relocate'
+Master's Office
+An orrery is mounted on a stand here...it glows blue
+Zardonna, the elven high sorceress is ready to teach her arts.
+A cityguard stands here, keeping a wary eye out for troublemakers.
+
+277H 44V 512457X 6712C Mem:2 Exits:D> inget al pouchYou are carrying:
+a stick of incense
+a chip of chincona bark
+a putrid potion [4]
+a large hide waterskin
+a glowing scroll of recall..it glows blue..it glows dimly [3]
+a plain component pouch..it glows blue
+a jet black potion..it glows blue
+a small wooden chest
+a blue potion of remove poison..it glows blue
+
+277H 44V 512457X 6712C Mem:2 Exits:D> The pouch doesn't seem to have what you are looking for.
+
+277H 44V 512457X 6712C Mem:2 Exits:D> get all pouchYou get a scribed scroll from a plain component pouch.
+You get a scribed scroll from a plain component pouch.
+You get a brewed potion from a plain component pouch.
+You get a brewed potion from a plain component pouch.
+You get a scribed scroll from a plain component pouch.
+You get a brewed potion from a plain component pouch.
+You get a blank scroll from a plain component pouch.
+You get an empty potion bottle from a plain component pouch.
+You get an empty potion bottle from a plain component pouch.
+You get a blank scroll from a plain component pouch.
+You get an empty potion bottle from a plain component pouch.
+You get an empty potion bottle from a plain component pouch.
+You get an empty potion bottle from a plain component pouch.
+You get an empty potion bottle from a plain component pouch.
+You get a blank scroll from a plain component pouch.
+You get a blank scroll from a plain component pouch.
+You get a blank scroll from a plain component pouch.
+You get dirt from a long forgotten grave from a plain component pouch.
+You get dirt from a long forgotten grave from a plain component pouch.
+You get some flint chips from a plain component pouch.
+You get some flint chips from a plain component pouch.
+You get a soybean seed from a plain component pouch.
+You get a soybean seed from a plain component pouch.
+You get a tiny acorn from a plain component pouch.
+You get a tiny acorn from a plain component pouch.
+Acorn : You can't carry that many items.
+
+277H 44V 512457X 6712C Mem:2 Exits:D> brew empty 'str'You've never heard of such a spell.
+
+277H 44V 512457X 6712C Mem:2 Exits:D> mSpells currently memorized:
+1: [ 2]blur                 [ 4]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 2]shocking grasp       [ 2]silence              [ 1]strength            
+3: [ 6]lightning bolt      
+4: [ 4]acid blast           [ 2]hold person          [ 1]improved invisibilit
+5: [ 9]force bolt           [ 1]locate object       
+6: [ 1]fireshield           [ 1]identify             [ 1]spheres of absorbtio
+7: [ 2]calm                 [ 2]conjure elemental    [ 1]mass invisibility   
+8: [ 1]cloud kill           [ 2]mental acuity        [ 2]wizard eye          
+9: [ 4]globe of invulnerabi
+
+Spells being memorized:
+3: [ 1]lightning bolt      
+6: [ 3]relocate            
+7: [ 1]mass invisibility   
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-0
+
+brew empty 'stre'277H 44V 512457X 6712C Mem:2 Exits:D> As the usefulness of a tiny acorn ends, it suddenly disappears.
+You lose control of the magical energies!
+You utter the words, 'strength'
+You feel stronger.
+
+277H 54V 512457X 6712C Mem:1 Exits:D> 
+Through your wizard's eye: a Tarsian peasant has arrived from the east exit.
+
+277H 54V 512457X 6712C Mem:1 Exits:D> scribe blank 'c l'You've never heard of such a spell.
+
+277H 54V 512457X 6712C Mem:1 Exits:D> scribe blank 'fly'You can't remember how to cast that spell!
+
+277H 54V 512457X 6712C Mem:1 Exits:D> for 'l b'lightning bolt: You forget this spell.
+
+277H 54V 512457X 6712C Mem:1 Exits:D> mem 'fly'fly: added to your list
+
+277H 54V 512457X 6712C Mem:1 Exits:D> reYou rest your tired bones but stay aloft.
+
+277H 54V 512457X 6712C Mem:1 Exits:D> 
+Consuela shouts 'formed group looking for more!'
+
+277H 54V 512457X 6712C Mem:1 Exits:D> 
+Locki shouts 'tell to me then!'
+
+277H 54V 512457X 6712C Mem:1 Exits:D> 
+Your studies complete, you close your spellbook with a smile.
+mem
+277H 67V 512457X 6712C Exits:D> Spells currently memorized:
+1: [ 2]blur                 [ 4]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 2]shocking grasp       [ 2]silence              [ 1]strength            
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 4]acid blast           [ 2]hold person          [ 1]improved invisibilit
+5: [ 9]force bolt           [ 1]locate object       
+6: [ 1]fireshield           [ 1]identify             [ 3]relocate            
+   [ 1]spheres of absorbtio
+7: [ 2]calm                 [ 2]conjure elemental    [ 2]mass invisibility   
+8: [ 1]cloud kill           [ 2]mental acuity        [ 2]wizard eye          
+9: [ 4]globe of invulnerabi
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-0
+
+277H 67V 512457X 6712C Exits:D> staYou stand up.
+
+277H 67V 512457X 6712C Exits:D> scribe blank 'fly'You are missing components required for this spell.
+
+277H 67V 512457X 6712C Exits:D> gro  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Mikado           perfect   rested    standing   Y   Y    N    Y     1    0
+
+277H 67V 512457X 6712C Exits:D> inYou are carrying:
+a tiny acorn
+a soybean seed [2]
+some flint chips [2]
+dirt from a long forgotten grave [2]
+a blank scroll..it glows blue [3]
+an empty potion bottle..it glows blue [4]
+a blank scroll..it glows blue
+an empty potion bottle..it glows blue [2]
+a blank scroll..it glows blue
+a brewed potion..it glows blue
+a scribed scroll..it glows blue
+a brewed potion..it glows blue [2]
+a scribed scroll..it glows blue [2]
+a stick of incense
+a chip of chincona bark
+a putrid potion [4]
+a large hide waterskin
+a glowing scroll of recall..it glows blue..it glows dimly [3]
+a plain component pouch..it glows blue
+a jet black potion..it glows blue
+a small wooden chest
+a blue potion of remove poison..it glows blue
+
+277H 67V 512457X 6712C Exits:D> eqYou are using:
+<worn on finger>           a glass ring filled with mercury..it glows dimly
+<worn on finger>           a large emerald ring..it glows blue..it glows dimly
+<worn around neck>         a crystal pendant..it glows blue..it glows dimly
+<worn around neck>         a crescent moon medallion..it glows blue..it glows dimly
+<worn on body>             ancient armor of wizardry..it glows blue
+<worn on head>             a pair of silver spectacles..it glows blue
+<worn on legs>             a pair of ivory anklets..it glows blue
+<worn about body>          a translucent shroud (invisible)
+<worn about waist>         a thin jeweled belt
+<used in both hands>       a twisted staff of rosewood..it glows blue..it glows dimly
+
+277H 67V 512457X 6712C Exits:D> mSpells currently memorized:
+1: [ 2]blur                 [ 4]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 2]shocking grasp       [ 2]silence              [ 1]strength            
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 4]acid blast           [ 2]hold person          [ 1]improved invisibilit
+5: [ 9]force bolt           [ 1]locate object       
+6: [ 1]fireshield           [ 1]identify             [ 3]relocate            
+   [ 1]spheres of absorbtio
+7: [ 2]calm                 [ 2]conjure elemental    [ 2]mass invisibility   
+8: [ 1]cloud kill           [ 2]mental acuity        [ 2]wizard eye          
+9: [ 4]globe of invulnerabi
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-0
+
+277H 67V 512457X 6712C Exits:D> scribe blank 'c l'You've never heard of such a spell.
+
+277H 67V 512457X 6712C Exits:D> scribe blank 'cont l'
+Through your wizard's eye: a Tarsian peasant has left through the east exit.
+
+277H 67V 512457X 6712C Exits:D> You are missing components required for this spell.
+
+277H 67V 512457X 6712C Exits:D> scribe blank 'inv'You are missing components required for this spell.
+
+277H 67V 512457X 6712C Exits:D> scribe blank 'd i'You are missing components required for this spell.
+
+277H 67V 512457X 6712C Exits:D> scribe blank 's g'You are missing components required for this spell.
+
+277H 67V 512457X 6712C Exits:D> scribe blank 'shie'You are missing components required for this spell.
+
+277H 67V 512457X 6712C Exits:D> scribe blank 'lo'You are missing components required for this spell.
+
+277H 67V 512457X 6712C Exits:D> scribe blank 'str'You've never heard of such a spell.
+
+277H 67V 512457X 6712C Exits:D> scribe blank 'stre'As the usefulness of a tiny acorn ends, it suddenly disappears.
+You exhaust yourself while scribing the spell to a blank scroll.
+You feel enlightened.
+
+277H 67V 512457X 6712C Mem:1 Exits:D> 
+Your studies complete, you close your spellbook with a smile.
+mem
+277H 77V 512457X 6712C Exits:D> Spells currently memorized:
+1: [ 2]blur                 [ 4]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 2]shocking grasp       [ 2]silence              [ 1]strength            
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 4]acid blast           [ 2]hold person          [ 1]improved invisibilit
+5: [ 9]force bolt           [ 1]locate object       
+6: [ 1]fireshield           [ 1]identify             [ 3]relocate            
+   [ 1]spheres of absorbtio
+7: [ 2]calm                 [ 2]conjure elemental    [ 2]mass invisibility   
+8: [ 1]cloud kill           [ 2]mental acuity        [ 2]wizard eye          
+9: [ 4]globe of invulnerabi
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-0
+
+277H 77V 512457X 6712C Exits:D> 
+Adrianna shouts 'Who is this Davidczx, anyone know? He's stalking me'
+
+277H 77V 512457X 6712C Exits:D> lMaster's Office
+An orrery is mounted on a stand here...it glows blue
+Zardonna, the elven high sorceress is ready to teach her arts.
+A cityguard stands here, keeping a wary eye out for troublemakers.
+
+277H 77V 512457X 6712C Exits:D> shout holy shit, its nymph grandmaYou shout 'holy shit, its nymph grandma'
+
+277H 77V 512457X 6712C Exits:D> lMaster's Office
+An orrery is mounted on a stand here...it glows blue
+Zardonna, the elven high sorceress is ready to teach her arts.
+A cityguard stands here, keeping a wary eye out for troublemakers.
+
+277H 77V 512457X 6712C Exits:D> mSpells currently memorized:
+1: [ 2]blur                 [ 4]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 2]shocking grasp       [ 2]silence              [ 1]strength            
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 4]acid blast           [ 2]hold person          [ 1]improved invisibilit
+5: [ 9]force bolt           [ 1]locate object       
+6: [ 1]fireshield           [ 1]identify             [ 3]relocate            
+   [ 1]spheres of absorbtio
+7: [ 2]calm                 [ 2]conjure elemental    [ 2]mass invisibility   
+8: [ 1]cloud kill           [ 2]mental acuity        [ 2]wizard eye          
+9: [ 4]globe of invulnerabi
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-0
+
+277H 77V 512457X 6712C Exits:D> inYou are carrying:
+a scribed scroll..it glows blue
+a soybean seed [2]
+some flint chips [2]
+dirt from a long forgotten grave [2]
+a blank scroll..it glows blue [2]
+an empty potion bottle..it glows blue [4]
+a blank scroll..it glows blue
+an empty potion bottle..it glows blue [2]
+a blank scroll..it glows blue
+a brewed potion..it glows blue
+a scribed scroll..it glows blue
+a brewed potion..it glows blue [2]
+a scribed scroll..it glows blue [2]
+a stick of incense
+a chip of chincona bark
+a putrid potion [4]
+a large hide waterskin
+a glowing scroll of recall..it glows blue..it glows dimly [3]
+a plain component pouch..it glows blue
+a jet black potion..it glows blue
+a small wooden chest
+a blue potion of remove poison..it glows blue
+
+277H 87V 512457X 6712C Exits:D> inYou are carrying:
+a scribed scroll..it glows blue
+a soybean seed [2]
+some flint chips [2]
+dirt from a long forgotten grave [2]
+a blank scroll..it glows blue [2]
+an empty potion bottle..it glows blue [4]
+a blank scroll..it glows blue
+an empty potion bottle..it glows blue [2]
+a blank scroll..it glows blue
+a brewed potion..it glows blue
+a scribed scroll..it glows blue
+a brewed potion..it glows blue [2]
+a scribed scroll..it glows blue [2]
+a stick of incense
+a chip of chincona bark
+a putrid potion [4]
+a large hide waterskin
+a glowing scroll of recall..it glows blue..it glows dimly [3]
+a plain component pouch..it glows blue
+a jet black potion..it glows blue
+a small wooden chest
+a blue potion of remove poison..it glows blue
+
+277H 87V 512457X 6712C Exits:D> who t*Mortals
+-------
+<BIA>  Turil the Male Kagonesti
+
+Total visible people : 1        Total people online  : 27
+
+277H 87V 512457X 6712C Exits:D> whoImmortals
+---------
+[Grd  32]  Cinid the Eco-Terrorist (deaf)
+[Grd  32]  Umarth is so 1996
+
+Mortals
+-------
+       Folkar Darksoul
+<BSP>  Mikado Yakudza, Bloodthirsty Pirate from the Blood Sea Isles
+       Bigglesworth the Male Half Elf
+<AMA>  Sila the Female Kender
+<Out>  Lady Lolli Pop
+<DONT> Effe the Male Goblin
+       Cy the Male Gnome
+<BIA>  Borga the Male Hylar Dwarf
+<Newb> Qubiashi, Rhyme & Reason
+<BIA>  Mrs Anne Steel, Going with the Way, the Truth and the Life
+<HoF>  Fedemer Federale
+<AMA>  Dekmun the Male Half Elf
+<BIA>  Turil the Male Kagonesti
+<BFF>  Dukk, More Human Than Human
+<BIA>  Jitka Lazir, Drama Queen
+<DONT> Hrothgar the Mighty Minotaur Midget
+<AMA>  Freyre the Male Minotaur
+<Myth> Miss Consuela Franchesca Maria Juanita Gonzalez Lopez III
+<DONT> Kramit the Male Silvanesti
+       Arno the Male Human
+<DAK>  Locki, Master of the War Drums, Sounder of Death
+<Newb> Adrianna Primetime
+<MBzz> Bro, Your Beast Friend
+       Nikole the Male Human
+<Newb> Eloc TaMoovet Move-It, Sidekick of Deraj
+
+Total visible people : 27        Total people online  : 27
+
+277H 87V 512457X 6712C Exits:D> drop all.brewedYou drop a brewed potion.
+You drop a brewed potion.
+You drop a brewed potion.
+
+277H 87V 512457X 6712C Exits:D> get all.brewedYou get a brewed potion.
+You get a brewed potion.
+You get a brewed potion.
+
+277H 87V 512457X 6712C Exits:D> inYou are carrying:
+a brewed potion..it glows blue [3]
+a scribed scroll..it glows blue
+a soybean seed [2]
+some flint chips [2]
+dirt from a long forgotten grave [2]
+a blank scroll..it glows blue [2]
+an empty potion bottle..it glows blue [4]
+a blank scroll..it glows blue
+an empty potion bottle..it glows blue [2]
+a blank scroll..it glows blue
+a scribed scroll..it glows blue [3]
+a stick of incense
+a chip of chincona bark
+a putrid potion [4]
+a large hide waterskin
+a glowing scroll of recall..it glows blue..it glows dimly [3]
+a plain component pouch..it glows blue
+a jet black potion..it glows blue
+a small wooden chest
+a blue potion of remove poison..it glows blue
+
+277H 87V 512457X 6712C Exits:D> put all pouchYou put a brewed potion in a plain component pouch.
+You put a brewed potion in a plain component pouch.
+You put a brewed potion in a plain component pouch.
+You put a scribed scroll in a plain component pouch.
+You put a soybean seed in a plain component pouch.
+You put a soybean seed in a plain component pouch.
+You put some flint chips in a plain component pouch.
+You put some flint chips in a plain component pouch.
+You put dirt from a long forgotten grave in a plain component pouch.
+You put dirt from a long forgotten grave in a plain component pouch.
+You put a blank scroll in a plain component pouch.
+You put a blank scroll in a plain component pouch.
+You put an empty potion bottle in a plain component pouch.
+You put an empty potion bottle in a plain component pouch.
+You put an empty potion bottle in a plain component pouch.
+You put an empty potion bottle in a plain component pouch.
+You put a blank scroll in a plain component pouch.
+You put an empty potion bottle in a plain component pouch.
+You put an empty potion bottle in a plain component pouch.
+You put a blank scroll in a plain component pouch.
+You put a scribed scroll in a plain component pouch.
+You put a scribed scroll in a plain component pouch.
+You put a scribed scroll in a plain component pouch.
+You put a stick of incense in a plain component pouch.
+A chip of chincona bark does not belong in that.
+A putrid potion does not belong in that.
+A putrid potion does not belong in that.
+A putrid potion does not belong in that.
+A putrid potion does not belong in that.
+A large hide waterskin does not belong in that.
+A glowing scroll of recall does not belong in that.
+A glowing scroll of recall does not belong in that.
+A glowing scroll of recall does not belong in that.
+A plain component pouch does not belong in that.
+A jet black potion does not belong in that.
+A small wooden chest does not belong in that.
+A blue potion of remove poison does not belong in that.
+
+277H 87V 512457X 6712C Exits:D> lMaster's Office
+An orrery is mounted on a stand here...it glows blue
+Zardonna, the elven high sorceress is ready to teach her arts.
+A cityguard stands here, keeping a wary eye out for troublemakers.
+
+277H 87V 512457X 6712C Exits:D> inYou are carrying:
+a chip of chincona bark
+a putrid potion [4]
+a large hide waterskin
+a glowing scroll of recall..it glows blue..it glows dimly [3]
+a plain component pouch..it glows blue
+a jet black potion..it glows blue
+a small wooden chest
+a blue potion of remove poison..it glows blue
+
+277H 87V 512457X 6712C Exits:D> lMaster's Office
+An orrery is mounted on a stand here...it glows blue
+Zardonna, the elven high sorceress is ready to teach her arts.
+A cityguard stands here, keeping a wary eye out for troublemakers.
+
+277H 87V 512457X 6712C Exits:D> mSpells currently memorized:
+1: [ 2]blur                 [ 4]magic missile        [ 1]shield              
+2: [ 1]continual light      [ 1]detect invisibility  [ 1]invisibility        
+   [ 2]shocking grasp       [ 2]silence              [ 1]strength            
+3: [ 1]fly                  [ 6]lightning bolt      
+4: [ 4]acid blast           [ 2]hold person          [ 1]improved invisibilit
+5: [ 9]force bolt           [ 1]locate object       
+6: [ 1]fireshield           [ 1]identify             [ 3]relocate            
+   [ 1]spheres of absorbtio
+7: [ 2]calm                 [ 2]conjure elemental    [ 2]mass invisibility   
+8: [ 1]cloud kill           [ 2]mental acuity        [ 2]wizard eye          
+9: [ 4]globe of invulnerabi
+
+
+Spells left (level-number): 1-0 2-0 3-0 4-0 5-0 6-0 7-0 8-0 9-0
+
+277H 87V 512457X 6712C Exits:D> gro  Member           Hits      Move      Position  Fly Inv Water Here Light Mem
+-----------------------------------------------------------------------------
+  Mikado           perfect   rested    standing   Y   Y    N    Y     1    0
+
+277H 87V 512457X 6712C Exits:D> c 'rel' darvinusYou utter the words, 'relocate'
+Academy of Ars Arcana
+An orrery is mounted on a stand here...it glows blue
+Darvinus the master mage is here, looking for students.
+
+277H 87V 512457X 6712C Mem:1 Exits:W> wssAcademy Square
+
+277H 86V 512457X 6712C Mem:2 Exits:NESW> Western Way
+
+277H 85V 512457X 6712C Mem:2 Exits:NE(W)> Alas, you cannot go that way...
+
+277H 85V 512457X 6712C Mem:2 Exits:NE(W)> eWestern Way
+A Tarsian peasant cleans up the streets.
+
+277H 84V 512457X 6712C Mem:2 Exits:ESW> eWestern Way
+
+277H 83V 512457X 6712C Mem:2 Exits:EW> eWestern Way
+A Tarsian peasant cleans up the streets.
+A mercenary stands here, protecting New Tarsis under orders from the Thane.
+
+277H 82V 512457X 6712C Mem:2 Exits:NEW> eNew Tarsis Square
+The great fountain of old Tarsis stands here.
+A mercenary stands here, protecting New Tarsis under orders from the Thane.
+A Tarsian peasant whistles happily on his way to work.
+
+277H 81V 512457X 6712C Mem:2 Exits:NESW> nNorth Main Street
+
+277H 80V 512457X 6712C Mem:2 Exits:NESW> n
+A mercenary arrives from the south.
+
+277H 80V 512457X 6712C Mem:2 Exits:NESW> nNorth Main Street
+
+277H 79V 512457X 6712C Mem:2 Exits:NSW> nNorth Main Street
+A mercenary stands here, protecting New Tarsis under orders from the Thane.
+A Tarsian nobleman refuses to acknowledge your presence.
+
+277H 78V 512457X 6712C Mem:2 Exits:NES> nNorth Main Street
+A stray pet dog pauses to sniff something on the ground.
+A Tarsian peasant whistles happily on his way to work.
+
+277H 77V 512457X 6712C Mem:2 Exits:NSW> The Northern Gate Of Tarsis
+A cheerful kender wanders about, enjoying the sights.
+A Tarsian guard stands here, turning away undesirables from the city.
+A Tarsian guard stands here, turning away undesirables from the city.
+
+277H 76V 512457X 6712C Mem:2 Exits:NESW> nThe Path to the City Gates
+A traveling mercenary is here, seeking employment.
+
+277H 74V 512457X 6712C Mem:2 Exits:NESW> nThe Plains of Dust
+
+277H 72V 512457X 6712C Mem:2 Exits:NESW> nThe Plains of Dust
+A large black raven flies about, searching for something to eat.
+
+277H 70V 512457X 6712C Mem:2 Exits:NESW> c 'i i'You utter the words, 'improved invisibility'
+You vanish.
+
+277H 70V 512457X 6712C Mem:2 Exits:NESW> nThe Plains of Dust
+
+277H 68V 512457X 6712C Mem:2 Exits:NESW> nThe Plains of Dust
+
+277H 66V 512457X 6712C Mem:2 Exits:NESW> nThe Plains of Dust
+
+277H 64V 512457X 6712C Mem:2 Exits:NESW> nBefore the Nomad Camp
+
+277H 62V 512457X 6712C Mem:2 Exits:NS> nThe Nomad Guardpost
+A burly nomad warrior stands here, ready to fight to the death.
+
+277H 60V 512457X 6712C Mem:2 Exits:NESW> ssBefore the Nomad Camp
+
+277H 58V 512457X 6712C Mem:2 Exits:NS> The Plains of Dust
+
+277H 56V 512457X 6712C Mem:2 Exits:NESW> nBefore the Nomad Camp
+
+277H 54V 512457X 6712C Mem:2 Exits:NS> sThe Plains of Dust
+
+277H 52V 512457X 6712C Mem:2 Exits:NESW> wThe Plains of Dust
+
+277H 50V 512457X 6712C Mem:2 Exits:NESW> wThe Plains of Dust
+
+277H 48V 512457X 6712C Mem:2 Exits:NESW> nThe Plains of Dust
+
+277H 46V 512457X 6712C Mem:2 Exits:NESW> nThe Plains of Dust
+A large and rank smelling muskox stoically roams the plains.
+
+277H 44V 512457X 6712C Mem:2 Exits:NESW> 

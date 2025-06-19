@@ -1,0 +1,58 @@
+[01:27] <[pablo]> Alignment change tutorial
+[01:27] <[pablo]> ------------------------------------------
+[01:27] <[pablo]> Arctic has 10 different alignments,
+[01:27] <[pablo]> GL = Good Lawful
+[01:27] <[pablo]> GC = Good Chaotic
+[01:27] <[pablo]> GN = Good Neutral
+[01:27] <[pablo]> NG = Neutral Good
+[01:27] <[pablo]> NL = Neutral Lawful
+[01:27] <[pablo]> NC = Neutral Chaotic
+[01:27] <[pablo]> NE = Neutral Evil
+[01:27] <[pablo]> EN = Evil Neutral
+[01:27] <[pablo]> EL = Evil Lawful
+[01:27] <[pablo]> EC = Evil Chaotic
+[01:27] <[pablo]> It's possible to move through the alignment system, but only one step at a time.
+[01:27] <[pablo]> GL <-> GC <-> GN <-> NG <-> NL <-> NC <-> NE <-> EN <-> EL <-> EC
+[01:27] <[pablo]> Thus, a NG rolled char can become GN or NL, depending on which direction
+[01:27] <[pablo]> their 'soul' is moving.  This is revealed with 'know alignment'
+[01:28] <[pablo]> xxx has a strong white aura around his soul. <- Char is leaning towards good
+[01:28] <[pablo]> xxx has a grey aura around his soul. <- Neutral
+[01:28] <[pablo]> xxx has a strong black aura around his soul. <- Char is leaning towards evil
+[01:28] <[pablo]> The trick then is to track down the alignment changer of the sphere you're trying 
+[01:28] <[pablo]> to move into.  They are listed here:
+[01:28] <[pablo]> GL = A priest of Paladine has a pure soul, with good intentions. (Near Palanthas clerics guild)
+[01:28] <[pablo]> GC = A disciple of Habbakuk's soul is in turmoil, but it is yet pure. (NW corner of Kalaman park)
+[01:28] <[pablo]> GN = A monk of Majere's soul shines slightly with elements of purity. (SE corner of Solace reading room)
+[01:28] <[pablo]> NG = A disciple of Chislev's soul shines slightly with elements of purity. (East of Caergoth, off of highway)
+[01:28] <[pablo]> NL = A young disciple of Shinare has a balanced soul. (Outside W gate of Tarsis)
+[01:28] <[pablo]> NC = A priest of Gilean's soul is in turmoil, having no direction. (E side of Hopeful)
+[01:28] <[pablo]> NE = A disciple of Sirrion's soul is slightly tinged with shades of darkness.  (NE from Pasal in Newport)
+[01:28] <[pablo]> EN = A withered servant of Morgion's soul is slightly tinged with shades of darkness. (2n of Balifor Thieve's guild)
+[01:28] <[pablo]> EL = A dark acolyte of Takhisis has a dark soul, with dark intentions. (Neraka, southern part of temple)
+[01:28] <[pablo]> EC = A servant of Hiddukel's soul is in turmoil, but it is yet dark. (Delphon, S from bank)
+[01:29] <laKuzo> transmission over?
+[01:29] <[pablo]> Note also the message revealed by 'know alignment' for each of these.  These
+[01:29] <[pablo]> can help determine a mob or chars alignment.
+[01:29] <[pablo]> Race and Guild restrictions apply to which alignments a char can shift to.  
+[01:29] <[pablo]> Example: A Goblin can never be more good than NL, and a Ranger cannot move
+[01:29] <[pablo]> from GN to NG or lower.
+[01:29] <[pablo]> Gnome = GL <-> GC <-> GN <-> NG <-> NL <-> NC <-> NE <-> EN <-> EL <-> EC
+[01:29] <[pablo]> Goblin = NL <-> NC <-> NE <-> EN <-> EL <-> EC
+[01:29] <[pablo]> Half-elf = GL <-> GC <-> GN <-> NG <-> NL <-> NC <-> NE <-> EN <-> EL <-> EC
+[01:29] <[pablo]> High elf = GL <-> GC <-> GN <-> NG <-> NL <-> NC <-> NE <-> EN <-> EL <-> EC
+[01:29] <[pablo]> Hill dwarf = GL <-> GN <-> NG <-> NL <-> NE <-> EN <-> EL
+[01:29] <[pablo]> Human = GL <-> GC <-> GN <-> NG <-> NL <-> NC <-> NE <-> EN <-> EL <-> EC
+[01:30] <[pablo]> Hylar dwarf = GL <-> GC <-> GN <-> NG <-> NL
+[01:30] <[pablo]> Kender = GL <-> GC <-> GN <-> NG <-> NL <-> NC <-> NE <-> EN <-> EL <-> EC
+[01:30] <[pablo]> Minotaur = GL <-> GC <-> GN <-> NG <-> NL <-> NC <-> NE <-> EN <-> EL <-> EC
+[01:30] <[pablo]> Theiwar dwarf = NL <-> NC <-> NE <-> EN <-> EL <-> EC
+[01:30] <[pablo]> Wild elf = GL <-> GC <-> GN <-> NG <-> NL <-> NC <-> NE <-> EN <-> EL <-> EC
+[01:30] <[pablo]> Barbarian = GL <-> GC <-> GN <-> NG <-> NL <-> NC <-> NE <-> EN <-> EL <-> EC
+[01:30] <[pablo]> Cleric = GL <-> GC <-> GN <-> NG <-> NL <-> NC <-> NE <-> EN <-> EL <-> EC
+[01:30] <[pablo]> Dark Knight = EN <-> EL <-> EC
+[01:30] <[pablo]> Druid = GL <-> GC <-> GN <-> NG <-> NL <-> NC <-> NE <-> EN <-> EL <-> EC
+[01:30] <[pablo]> Mage = GL <-> GC <-> GN <-> NG <-> NL <-> NC <-> NE <-> EN <-> EL <-> EC
+[01:30] <[pablo]> Paladin = GL
+[01:30] <[pablo]> Thief = GL <-> GC <-> GN <-> NG <-> NL <-> NC <-> NE <-> EN <-> EL <-> EC
+[01:30] <[pablo]> Ranger = GL <-> GC <-> GN 
+[01:30] <[pablo]> Warrior = GL <-> GC <-> GN <-> NG <-> NL <-> NC <-> NE <-> EN <-> EL <-> EC

@@ -1,0 +1,458 @@
+Лог: shamanquest 
+Начало записи лога: 18.06.2025 14:59 
+l
+A Derelict Stone Corridor
+A small black spider is skittering here.
+A small black spider is skittering here.
+A small black spider is skittering here.
+A small black spider is skittering here.
+
+268H 131V 4354511X 23.47% 3357C T:24 Exits:EW> 
+l
+A Derelict Stone Corridor
+A small black spider is skittering here.
+A small black spider is skittering here.
+A small black spider is skittering here.
+A small black spider is skittering here.
+
+268H 131V 4354511X 23.47% 3357C T:17 Exits:EW> 
+sca
+Looking north:
+A stone wall.
+Looking east:
+The corridor continues into darkness.
+Looking south:
+A stone wall.
+Looking west:
+The corridor ceiling seems extremely unstable in this direction.
+Looking up:
+A stone ceiling.
+Looking down:
+Little rocks are scattered on the ground.
+
+268H 131V 4354511X 23.47% 3357C T:16 Exits:EW> 
+sco
+You are Urtas the Male Half Elf, a level 24 Shaman.
+You are rank 4. You have completed 23.47% of your next rank.
+You are 17 years old.
+You have 268(268) hit and 131(131) movement points.
+Your behaviour has been Neutral.
+You have scored 17,645,489 exp, and have 3357(3245) steel coins.
+You need 4,354,511 more experience to advance.
+You have died 1 horrible death.
+You have been connected for 21 minute(s).
+You have been playing for 0 day(s), 18 hour(s) and 5 minute(s).
+Your equipment is currently not being concealed.
+You begin to sweat under the weight of your equipment.
+You are standing.
+You are affected by the following:
+    spectral glow        [47 hrs]
+    spiritual aid
+
+268H 131V 4354511X 23.47% 3357C T:15 Exits:EW> 
+c 'he b' me
+You utter the words, 'heal boost'
+A protective presence envelops you.
+
+268H 131V 4354511X 23.47% 3357C Mem:2 T:11 Exits:EW> 
+c 'a ble'
+
+268H 131V 4354511X 23.47% 3357C Mem:2 T:6 Exits:EW> 
+You utter the words, 'ancestral blessing'
+You are granted the blessing of the ancients.
+
+268H 131V 4354511X 23.47% 3357C Mem:2 T:6 Exits:EW> 
+c 'mon man'
+c 'a shro' me
+You utter the words, 'monstrous mantle'
+Your features are hideously distorted as your true form is revealed!
+
+268H 131V 4354511X 23.47% 3357C Mem:3 T:2 Exits:EW> 
+c 'sanctua' me
+You utter the words, 'ancestral shroud'
+A spirit shroud soaks into your skin.
+
+268H 131V 4354511X 23.47% 3357C Mem:2 T:58 Exits:EW> 
+c 'spi gu'
+You can't remember how to cast that spell!
+
+268H 131V 4354511X 23.47% 3357C Mem:2 T:53 Exits:EW> 
+
+268H 131V 4354511X 23.47% 3357C Mem:2 T:53 Exits:EW> 
+You utter the words, 'spiritual guidance'
+An invisible hand from the spirit world guides your weapon.
+
+268H 131V 4354511X 23.47% 3357C Mem:2 T:53 Exits:EW> 
+c 'bo bl'
+re
+You utter the words, 'boiling blood'
+Your blood begins to boil and a feeling of power washes over you.
+
+268H 131V 4354511X 23.47% 3357C Mem:3 T:49 Exits:EW> 
+You sit down and rest your tired bones.
+
+268H 131V 4354511X 23.47% 3357C Mem:1 T:44 Exits:EW> 
+
+Your meditation finished, you put away your charms with a smile.
+
+268H 131V 4354511X 23.47% 3357C T:60 Exits:EW> 
+д
+Unexpected end of input:
+You must specify a character to perform that action on.
+
+268H 131V 4354511X 23.47% 3357C T:56 Exits:EW> 
+l
+A Derelict Stone Corridor
+A small black spider is skittering here.
+A small black spider is skittering here.
+A small black spider is skittering here.
+A small black spider is skittering here.
+
+268H 131V 4354511X 23.47% 3357C T:56 Exits:EW> 
+sta
+You stand up.
+
+268H 131V 4354511X 23.47% 3357C T:55 Exits:EW> 
+l
+A Derelict Stone Corridor
+A small black spider is skittering here.
+A small black spider is skittering here.
+A small black spider is skittering here.
+A small black spider is skittering here.
+
+268H 131V 4354511X 23.47% 3357C T:55 Exits:EW> 
+in
+You are carrying:
+a forked twig
+a shimmering green robe
+a snake staff..it hums softly
+a vial filled with green liquid
+a shimmering green robe
+a bone breast plate
+a murky potion of infravision
+a blue potion of remove poison
+a scroll of recall
+a glowing scroll of recall..it glows dimly
+a glass sliver [4]
+an empty potion bottle
+a scroll of recall
+a small canteen
+a large waterskin
+an empty potion bottle [3]
+a wrist lantern
+a small wooden chest
+
+268H 131V 4354511X 23.47% 3357C T:54 Exits:EW> 
+drop twig
+You drop a forked twig.
+
+268H 131V 4354511X 23.47% 3357C T:51 Exits:EW> 
+e
+A Derelict Stone Corridor
+
+268H 128V 4354511X 23.47% 3357C T:51 Exits:EW> 
+e
+A Blocked Corridor
+A huge wormlike creature is slithering here.
+
+268H 125V 4354511X 23.47% 3357C T:49 Exits:W> 
+sca
+Looking north:
+Some boulders have collapsed, blocking the corridor.
+Looking east:
+A solid rock-face.
+Looking south:
+A stone wall.
+Looking west:
+The corridor continues into darkness.
+Looking up:
+A stone ceiling.
+Looking down:
+A stone floor.
+
+268H 125V 4354511X 23.47% 3357C T:48 Exits:W> 
+l room
+A Blocked Corridor
+    The corridor appears to come to a dead end here, and for a chilling
+moment you wonder whether this is some kind of trap. A solid rock-face
+blocks your path to the east, and to the south the wall of the corridor
+remains the same.
+A huge wormlike creature is slithering here.
+
+268H 125V 4354511X 23.47% 3357C T:47 Exits:W> 
+w
+A Derelict Stone Corridor
+
+268H 122V 4354511X 23.47% 3357C T:46 Exits:EW> 
+w
+A Derelict Stone Corridor
+A small twig with a fork down its middle lies here.
+A small black spider is skittering here.
+A small black spider is skittering here.
+A small black spider is skittering here.
+A small black spider is skittering here.
+
+268H 119V 4354511X 23.47% 3357C T:42 Exits:EW> 
+w
+The Collapsing Corridor
+    You walk into this dangerous-looking section of corridor and start
+clambering over the fallen rocks. A large chunk of rock suddenly breaks
+away under the pressure of your foot, collapsing onto the ground with a
+loud crash. Moments later, an incredibly loud "crack!" from somewhere above
+your head deafens you, and you realize with sudden horror that you have
+triggered the collapse of the ceiling above you. Fallen obstacles hamper
+your efforts to escape, and it is not long before you find your legs
+trapped under fallen rubble. Amidst the cacophony of the cavern's collapse,
+you cry out to the gods to have mercy, to end this swiftly. Your prayers
+are answered as a large section of rock comes loose above you, smashing
+into your body and crushing your skull.
+
+-11H 116V 4354511X 23.47% 3357C Mem:12 T:42 Exits:E> 
+
+*** You completed the achievement: You died in a DT! ***
+
+Your blood ceases to boil and you feel calmer.
+The force guiding your weapon leaves you.
+Your shroud fades away.
+You feel less threatening.
+The blessing of the ancients subsides.
+The protective presence around you fades.
+The glow of your skin slowly fades.
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 
+1
+
+fly
+Welcome to the land of Krynn.
+
+The Reception
+A pile of worn maps sits in the corner, free to adventurers.
+A scribed scroll lies here discarded. [6]
+A dark medallion stained with blood lies here.
+The manager of Traveler's Lodge stands here ready to sign you in.
+A tall and strong bouncer, hired to protect the lodge's customers, stands here.
+
+1H 116V 4904511X 23.47% 0C Mem:13 T:15 Exits:N> 
+You jump up and flap your arms wildly, achieving nothing!
+
+1H 116V 4904511X 23.47% 0C Mem:13 T:15 Exits:N> 
+shout fuck you and your DT's
+You shout 'fuck you and your DT's'
+
+1H 116V 4904511X 23.47% 0C Mem:13 T:10 Exits:N> 
+l
+The Reception
+A pile of worn maps sits in the corner, free to adventurers.
+A scribed scroll lies here discarded. [6]
+A dark medallion stained with blood lies here.
+You see the outline of a life form here, carrying: a twinkling stone ring: a belt of seashells.
+The manager of Traveler's Lodge stands here ready to sign you in.
+A tall and strong bouncer, hired to protect the lodge's customers, stands here.
+
+1H 116V 4904511X 23.47% 0C Mem:13 T:10 Exits:N> 
+
+Someone tells you 'kakoy lvl?'
+
+1H 116V 4904511X 23.47% 0C Mem:13 T:4 Exits:N> 
+get scribed
+You get a scribed scroll of strength.
+
+1H 116V 4904511X 23.47% 0C Mem:13 T:2 Exits:N> 
+l
+The Reception
+A pile of worn maps sits in the corner, free to adventurers.
+A scribed scroll lies here discarded. [5]
+A dark medallion stained with blood lies here.
+The manager of Traveler's Lodge stands here ready to sign you in.
+A tall and strong bouncer, hired to protect the lodge's customers, stands here.
+
+29H 131V 4904511X 23.47% 0C Mem:12 T:60 Exits:N> 
+sco
+You are Urtas the Male Half Elf, a level 24 Shaman.
+You are rank 4. You have completed 23.47% of your next rank.
+You are 17 years old.
+You have 29(264) hit and 131(131) movement points.
+Your behaviour has been Neutral.
+You have scored 17,095,489 exp, and have 0(3245) steel coins.
+You need 4,904,511 more experience to advance.
+You have died 2 horrible deaths.
+You have been connected for 0 minute(s).
+You have been playing for 0 day(s), 18 hour(s) and 7 minute(s).
+Your equipment is currently not being concealed.
+Your steps are light and unencumbered.
+You are standing.
+
+29H 131V 4904511X 23.47% 0C Mem:12 T:60 Exits:N> 
+repl 24
+You tell someone '24'
+
+29H 131V 4904511X 23.47% 0C Mem:12 T:57 Exits:N> 
+get scribed
+You get a scribed scroll of strength.
+
+29H 131V 4904511X 23.47% 0C Mem:12 T:52 Exits:N> 
+l
+The Reception
+A pile of worn maps sits in the corner, free to adventurers.
+A scribed scroll lies here discarded. [4]
+A dark medallion stained with blood lies here.
+The manager of Traveler's Lodge stands here ready to sign you in.
+A tall and strong bouncer, hired to protect the lodge's customers, stands here.
+
+29H 131V 4904511X 23.47% 0C Mem:12 T:51 Exits:N> 
+in
+You are carrying:
+a scribed scroll of strength [2]
+
+29H 131V 4904511X 23.47% 0C Mem:12 T:49 Exits:N> 
+re
+You sit down and rest your tired bones.
+
+29H 131V 4904511X 23.47% 0C Mem:5 T:48 Exits:N> 
+repl zaebalo
+You tell someone 'zaebalo'
+
+29H 131V 4904511X 23.47% 0C Mem:5 T:44 Exits:N> 
+l
+The Reception
+A pile of worn maps sits in the corner, free to adventurers.
+A scribed scroll lies here discarded. [4]
+A dark medallion stained with blood lies here.
+The manager of Traveler's Lodge stands here ready to sign you in.
+A tall and strong bouncer, hired to protect the lodge's customers, stands here.
+
+29H 131V 4904511X 23.47% 0C Mem:5 T:43 Exits:N> 
+in
+You are carrying:
+a scribed scroll of strength [2]
+
+29H 131V 4904511X 23.47% 0C Mem:5 T:43 Exits:N> 
+in
+You are carrying:
+a scribed scroll of strength [2]
+
+29H 131V 4904511X 23.47% 0C Mem:5 T:36 Exits:N> 
+eq
+You aren't using anything.
+
+29H 131V 4904511X 23.47% 0C Mem:5 T:34 Exits:N> 
+
+Someone tells you 'gde dt nashel? seychas eto neprosto'
+
+29H 131V 4904511X 23.47% 0C Mem:5 T:33 Exits:N> 
+
+Catalina shouts 'throw urtas in a dt'
+
+29H 131V 4904511X 23.47% 0C Mem:5 T:23 Exits:N> 
+
+Someone tells you 'v shop +5bash shield kstati'
+
+29H 131V 4904511X 23.47% 0C Mem:5 T:20 Exits:N> 
+l
+The Reception
+A pile of worn maps sits in the corner, free to adventurers.
+A scribed scroll lies here discarded. [4]
+A dark medallion stained with blood lies here.
+The manager of Traveler's Lodge stands here ready to sign you in.
+A tall and strong bouncer, hired to protect the lodge's customers, stands here.
+
+29H 131V 4904511X 23.47% 0C Mem:5 T:15 Exits:N> 
+l
+The Reception
+A pile of worn maps sits in the corner, free to adventurers.
+A scribed scroll lies here discarded. [4]
+A dark medallion stained with blood lies here.
+The manager of Traveler's Lodge stands here ready to sign you in.
+A tall and strong bouncer, hired to protect the lodge's customers, stands here.
+
+29H 131V 4904511X 23.47% 0C Mem:5 T:14 Exits:N> 
+in
+You are carrying:
+a scribed scroll of strength [2]
+
+29H 131V 4904511X 23.47% 0C Mem:5 T:14 Exits:N> 
+repl sps
+There's no one to whom you may reply.
+
+77H 131V 4904511X 23.47% 0C Mem:4 T:41 Exits:N> 
+l
+The Reception
+A pile of worn maps sits in the corner, free to adventurers.
+A scribed scroll lies here discarded. [4]
+A dark medallion stained with blood lies here.
+The manager of Traveler's Lodge stands here ready to sign you in.
+A tall and strong bouncer, hired to protect the lodge's customers, stands here.
+
+77H 131V 4904511X 23.47% 0C Mem:4 T:40 Exits:N> 
+in
+You are carrying:
+a scribed scroll of strength [2]
+
+77H 131V 4904511X 23.47% 0C Mem:4 T:40 Exits:N> 
+drop scribed
+drop scribed
+drop scribed
+You drop a scribed scroll of strength.
+
+77H 131V 4904511X 23.47% 0C Mem:4 T:35 Exits:N> 
+You drop a scribed scroll of strength.
+
+77H 131V 4904511X 23.47% 0C Mem:4 T:34 Exits:N> 
+You can't seem to find that!
+
+77H 131V 4904511X 23.47% 0C Mem:4 T:34 Exits:N> 
+l
+The Reception
+A scribed scroll lies here discarded. [2]
+A pile of worn maps sits in the corner, free to adventurers.
+A scribed scroll lies here discarded. [4]
+A dark medallion stained with blood lies here.
+The manager of Traveler's Lodge stands here ready to sign you in.
+A tall and strong bouncer, hired to protect the lodge's customers, stands here.
+
+77H 131V 4904511X 23.47% 0C Mem:4 T:34 Exits:N> 
+in
+You aren't carrying anything.
+
+77H 131V 4904511X 23.47% 0C Mem:4 T:32 Exits:N> 
+sco
+You are Urtas the Male Half Elf, a level 24 Shaman.
+You are rank 4. You have completed 23.47% of your next rank.
+You are 17 years old.
+You have 77(264) hit and 131(131) movement points.
+Your behaviour has been Neutral.
+You have scored 17,095,489 exp, and have 0(3245) steel coins.
+You need 4,904,511 more experience to advance.
+You have died 2 horrible deaths.
+You have been connected for 1 minute(s).
+You have been playing for 0 day(s), 18 hour(s) and 9 minute(s).
+Your equipment is currently not being concealed.
+Your steps are light and unencumbered.
+You are resting.
+
+77H 131V 4904511X 23.47% 0C Mem:4 T:31 Exits:N> 
+sta
+You stand up.
+
+77H 131V 4904511X 23.47% 0C Mem:9 T:29 Exits:N> 
+rent
+The lodge manager tells you 'You're not carrying anything!'
+
+0) Leave Arctic.
+1) Enter the game.
+2) Change your description.
+3) Change your password.
+4) Delete this character.
+
+Make a choice: 
+0
+
+
+Thank you for playing.
+

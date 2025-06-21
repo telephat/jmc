@@ -113,6 +113,8 @@
 #ali {loadwarr} {#read config/chars/warrior.set}
 #ali {loadshaman} {#read config/chars/shaman.set}
 #ali {loadthief} {#read config/chars/thief.set}
+#ali {loadscout} {#read config/chars/scout.set}
+#ali {loadbarb}  {#read config/chars/barb.set}
 
 #act {^You can't do that while fighting.} {#var combat 1}
 #act {^You miss %0 with your %0} {#var combat 1}

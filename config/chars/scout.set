@@ -1,0 +1,28 @@
+#showme {colorcodes} &w[&W1&w][&Wscout.set&w][&Rreading&w]
+#var leader Chunga
+#var automated 1
+
+#ali assist {aim %1;shoot auto}
+#act {^$leader tells your group 'killing: %1'} {#var target %1;assist %1}
+#act {You need to be holding a bow with a free draw hand to aim.} {rem $prime;aim $target;shoot auto}
+#act {You receive %0 experience.} {get all.arrow;put all.arrow quiver}
+
+#var assistmode 2
+#var bow ash.bow
+#var prime whip
+#var offhand hatchet
+#ali combatmode {#showme --> combatmode;rem $bow;wie $prime;hold $offhand;#ali assist {kill %1};#var assistmode 1}
+#ali shootmode {#showme --> shootmode;rem $prime;rem $offhand;hold $bow;exa quiver;#ali assist {aim %1;shoot auto};#var assistmode 2}
+#hot f1 {#if {$assistmode=1} {shootmode} {combatmode}}
+
+
+#var AutoSkill 1
+#ali automate {#if $round=2 {zap};
+               #if $round=4 {sting};
+               #if $round=6 {zap};
+               #if $round=8 {sting};
+    }
+#nop You feel up to using sting again.
+#nop You feel up to using zap again.
+
+#showme {colorcodes} &w[&W1&w][&Wscout.set&w][&gdone&w]

@@ -1,0 +1,129 @@
+SPHERES
+--------------
+   Abjuration, Alteration, Combat, Divination, Elemental, Enchantment,
+   Evocation, Healing, Illusion, Necromantic, Plant, Protection, Summoning,
+   and Weather
+
+KALAM
+-----------
+ 20. Sliver               12  A glass sliver  (Low Protection)
+ 21. Splint               17  A wooden splint  (Low Healing)
+ 22. Bandage              36  A powerfully blessed bandage  (Low Necromantic)
+ 23. Flask                33  A corked flask of swamp gas  (Low Combat)
+
+PALA
+--------------
+  7. Saffron              23  A sprinkle of saffron  (Low Divination)
+  8. Blossom              39  A snapdragon blossom  (Low Evocation)
+  9. Square               16  A small square of silk  (Low Illusion)
+ 10. Pearl               116  A silver laced pearl  (Low Summoning)
+
+HAVEN
+-----------
+  4. Pebble               18  A smooth river pebble  (Low Divination)
+  5. Cinnamon             22  A stick of cinnamon  (Low Enchantment)
+  6. Cabbage              12  Some rotten skunk cabbage  (Low Evocation)
+  7. Beans                12  Some coffee beans  (Low Plant)
+
+DELPHON   (mage name is Silan)
+---------------
+ 650  An improved empty potion bottle
+
+Jiham, wondering spice trader
+  8. Stick                11  A short stick of incense  (Low Summoning)
+  9. Sliver               11  A glass sliver  (Low Protection)
+ 10. Beeswax              31  A lump of beeswax  (Low Illusion)
+ 11. Flint                12  Some flint chips  (Low Combat)
+ 12. Phosphorus           27  A bit of phosphorus  (Low Alteration)
+ 13. Acorn                 5  A tiny acorn  (Low Alteration)
+ 14. Stick                 9  A stick of incense  (Low Abjuration)
+
+
+BALIFOR
+--------------
+                         992  An alchemy kit
+  5. Potion              620  An improved empty potion bottle
+  7. Mistletoe            22  A sprig of festive mistletoe  (Low Abjuration)
+  8. Tulip                27  A withered tulip  (Low Enchantment)
+  9. Ribbon               35  A red silk ribbon  (Low Enchantment)
+ 10. Vial                 19  A vial of tinctured iodine  (Low Healing)
+ 11. Vial                 93  A vial of seductive perfume  (Mid Enchantment)
+
+
+DARGO
+----------
+  1. Pouch              1800  An embossed jellyfish pouch
+  2. Potion               25  An empty potion bottle
+  3. Potion              500  An improved empty potion bottle
+  4. Vial                 35  A vial of fishliver oil  (Low Alteration)
+  5. Scale                66  A small silver sea serpent's scale  (Mid Alteration)
+  6. Tallow               20  A bit of tallow  (Low Evocation)
+  7. Mud                  54  A smear of green mud  (Mid Illusion)
+  8. Vial                 59  A vial of powerfully blessed holy water  (Mid Healing)
+
+RIGITT
+-----------
+  9. Stinger              27  A deadly scorpion stinger  (Low Necromantic) [?]
+ 10. Scales               45  A few glittering snake scales  (Mid Alteration) [?]
+ 11. Flower               23  A flower of Queen Christine's lace  (Low Protection) [?]
+ 12. Balance              34  A tiny bronze balance  (Low Divination) [?]
+ 13. Carapace             28  A turtle carapace  (Low Abjuration) [?]
+ 14. Shell                44  An empty crab shell  (Low Elemental) [?]
+ 15. String               44  Some knotted string  (Low Evocation) [?]
+
+HOPEFUL
+-------------
+  3. Dirt                 23  Dirt from a long forgotten grave  (Low Necromantic) [?]
+  4. Flint                15  Some flint chips  (Low Combat) [?]
+  5. Soybean              21  A soybean seed  (Low Alteration) [?]
+  6. Acorn                 7  A tiny acorn  (Low Alteration) [?]
+  7. Stick                11  A stick of incense  (Low Abjuration) [?]
+
+GYPSY CAMP
+-----------------
+  5. Eggshells             6  Some broken eggshells low ABJ
+  6. Berries              41  Some nightshade berries low NECRO
+  8. Spruce               26  Some spruce seeds
+  9. Leaf                  6  A pinnated leaf of an oak
+ 10. Clay                 11  Chips of sun baked clay
+ 11. Mica                 42  A leaf of yellow tinted mica low PROTECTION
+
+
+BY SPHERES
+-------------
+
+ILLUS
+  A smear of green mud  (Mid Illusion)  DARGO
+  A small square of silk  (Low Illusion) PALA
+
+ALTER
+  A vial of fishliver oil  (Low Alteration) DARGO
+  Phosphorus           27  A bit of phosphorus  (Low Alteration)  DELF
+  Acorn                 5  A tiny acorn  (Low Alteration)  DELF
+  5. Soybean              21  A soybean seed  (Low Alteration) [?] HOPE
+  6. Acorn                 7  A tiny acorn  (Low Alteration) [?]   HOPE
+
+HEALING
+  A wooden splint             KALAM
+  A vial of tinctured iodine  BALIFOR
+  a flask of mineral water    Irda  (mid)
+
+EVOCATION
+ 15. String               44  Some knotted string  (Low Evocation) [?] RIGITT
+  a handful.chestnuts        Tower of Wayreth
+  a snapdragon blossom       PALA
+  some rotten skunk cabbage  HAVEN
+  A bit of tallow            DARGONESTI
+
+NECRO
+  9. Stinger              27  A deadly scorpion stinger  (Low Necromantic) [?]  RIGITT
+  A powerfully blessed bandage     KALAM
+  a garlic clove                   Wayreth
+  dirt from a long forgotten grave Hopeful
+  some nightshade berries          Gypsy Camp
+
+PROTECTION
+  a glass sliver               KALAM
+  a leaf of yellow tinted mica Gypsy Camp
+
+

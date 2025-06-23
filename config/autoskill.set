@@ -36,7 +36,11 @@
 #act {^You %1 %1 extremely hard.}           {assertcombat}
 #act {^You %1 %1 very hard.}                {assertcombat}
 #act {^You %1 %1 hard.}                     {assertcombat}
-#act {^You barely bludgeon %0}              {assertcombat}
+#act {^You barely %1 %2}                    {assertcombat}
+#act {^You whip %1}                         {assertcombat}
+#act {^You cleave %1}                       {assertcombat}
+#act {^You bludgeon %1}                     {assertcombat}
+
 
 
 #act {You receive %1 experience.} {resetcombat}

@@ -1,0 +1,19 @@
+#showme {colorcodes} &w[&W1&w][&Wbarb.set&w][&Rreading&w]
+#showme {colorcodes} &w[&W1&w][&GBARBARIAN SET&w][&gdone&w]
+#nop #read config\\chars\\statusbar.warrior.set
+#nop #read config\\tracking.set
+#var training 1
+
+#act {You receive %0 experience.} {#if $training {
+    get all corpse;carve corpse;drop all.meat;
+}}
+
+#ali attack {kill}
+#ali kil {gt killing: %0;attack %0}
+#ali charge {gt killing: %0;cha %0}
+#var torescue Wook
+#hot f1 {rescue $torescue}
+#var boozee firebreather
+#hot f2 {#3 sip $boozee}
+
+#showme {colorcodes} &w[&W1&w][&Wbarb.set&w][&gdone&w]

@@ -1,0 +1,12 @@
+#showme {colorcodes} &w[&W1&w][&Wdk.set&w][&Rreading&w]
+#read config\\chars\\statusbar.warrior.set
+#read config\\tracking.set
+
+#var torescue Urtas
+#hot f1 {rescue $torescue}
+
+#act {You tug at his sleeve.} {#gro enable feeding}
+#act {Urtas gives you an ethereal ghost berry.} {#gro disable feeding;eat berry} {feeding}
+
+
+#showme {colorcodes} &w[&W1&w][&Wdk.set&w][&gdone&w]

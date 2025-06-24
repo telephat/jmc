@@ -23,6 +23,8 @@ combatmode
 #var offensiveskill1 sco
 #var offensiveskill2 sco
 
+#var skill1 head
+#var skill2 scrape
 #var AutoSkill 1
 #nop skill main
 #act {eel: zap} {#var offensiveskill2 zap}

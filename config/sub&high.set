@@ -1,7 +1,9 @@
 #multihighlight on
 #high {white} {A spirit rises from the body %0}
-#sub {^%0 disarms your weapon.} {>[DISARM]<}
+#sub {^%0 disarms your weapon.} {>[DISARMED DISARMED]<}
 #nop #high {colorcodes} {&R>&W[&G%0&W]&R<}
+#high {white} {^%0 decays in your hands.}
+
 
 #nop act {You go back on the offensive.} {#show {colorcodes} {.             &W[&gParry &GOff&W]&w}}
 #nop act {You attempt to block your opponent's attacks.} {#show {colorcodes} {.             &W[&gParry &RON&W]&w}}

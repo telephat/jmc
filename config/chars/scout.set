@@ -1,9 +1,13 @@
-offenbalcom#showme {colorcodes} &w[&W1&w][&Wscout.set&w][&Rreading&w]
+#showme {colorcodes} &w[&W1&w][&Wscout.set&w][&Rreading&w]
 #var leader Chunga
 #var automated 1
 #var AutoAssist 1
 
 #nop Melee by default
+
+#var prime great.axe
+#var offhand hatchet
+
 #nop ali assist {aim %1;shoot auto}
 #nop ali assist {ass $leader}
 #gro enable melee
@@ -12,9 +16,8 @@ offenbalcom#showme {colorcodes} &w[&W1&w][&Wscout.set&w][&Rreading&w]
 #act {You receive %0 experience.} {#if {$assistmode=2} {get all.arrow;put all.arrow quiver}}
 
 #var assistmode 2
+
 #var bow ash.bow
-#var prime whip
-#var offhand hatchet
 #ali combatmode {#showme --> combatmode;rem $bow;wie $prime;hold $offhand;#ali assist {ass};#var assistmode 1;#gro enable melee}
 #ali shootmode {#showme --> shootmode;rem $prime;rem $offhand;hold $bow;exa quiver;#ali assist {aim $target;shoot auto};#var assistmode 2;gro disable melee}
 #hot f1 {#if {$assistmode=1} {shootmode} {combatmode}}
@@ -43,8 +46,6 @@ combatmode
                #if $round=16 {$offensiveskill2};
                #if $round=18 {$offensiveskill1}
     } {melee}
-
 #nop You feel up to using sting again.
 #nop You feel up to using zap again.
-
 #showme {colorcodes} &w[&W1&w][&Wscout.set&w][&gdone&w]

@@ -16,11 +16,19 @@
 #hot f1 {#if {$assistmode=1} {shootmode} {combatmode}}
 
 
+#var skill1 head
+#var skill2 scrape
 #var AutoSkill 1
-#ali automate {#if $round=2 {zap};
-               #if $round=4 {sting};
-               #if $round=6 {zap};
-               #if $round=8 {sting};
+#ali automate {#if $round=2 {$skill1};
+               #if $round=4 {$skill2};
+               #if $round=6 {$skill1};
+               #if $round=8 {$skill2};
+               #if $round=6 {$skill1};
+               #if $round=10 {$skill2};
+               #if $round=12 {$skill1};
+               #if $round=14 {$skill2};
+               #if $round=16 {$skill1};
+               #if $round=18 {$skill2};
     }
 #nop You feel up to using sting again.
 #nop You feel up to using zap again.

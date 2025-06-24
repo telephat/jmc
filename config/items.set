@@ -1,6 +1,7 @@
 #nop #substitute  {} {}
 #message substitute off
 #showme ..Reading SUBSTITUTE seciont
+#substitute  {a gryphon warrior's headdress} {a gryphon warrior's headdress[dex +5sneak]}
 #substitute  {a pair of stitched dueling gloves}{a pair of stitched dueling gloves[2hr 5parry]}
 #substitute  {a sapphire lined chain collar} {a sapphire lined chain collar[dex str]}
 #substitute  {an emerald studded silver choker} {an emerald studded silver choker [9hp Sbr Spar]}

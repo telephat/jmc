@@ -13,7 +13,7 @@
 #ali charge {gt killing: %0;cha %0}
 #var torescue Wook
 #hot f1 {rescue $torescue}
-#var boozee firebreather
+#var boozee whiskey
 #hot f2 {#3 sip $boozee}
 
 #showme {colorcodes} &w[&W1&w][&Wbarb.set&w][&gdone&w]

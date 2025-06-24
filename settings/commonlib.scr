@@ -1,0 +1,9 @@
+jmc.registerHandler("Input", "onInput()");
+
+
+function onInput() {
+   line = jmc.Event
+   if (jmc.Event.length > 1) {
+     if (jmc.getVar("mastermode") == 1) {
+	jmc.parse("#broadcast send {DO: ["+ jmc.Event+ "]}")}}
+}

@@ -6,7 +6,7 @@
 #nop то есть выстяалять автоассист по дефолту в зависимости от профиля
 #nop или имени персонажа
 #ali automate {#if $round=2 {hex};
-               #if $round=4 {fren};
+               #if $round=4 {stup};
                #if $round=6 {spook}
     }
 

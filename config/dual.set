@@ -1,0 +1,14 @@
+#nop используем javascript 
+#nop jmc.registerHandler("Input", "onInput()");
+#nop function onInput() {
+#nop    line = jmc.Event
+#nop    if (jmc.Event.length > 1) {
+#nop      if (jmc.getVar("mastermode") == 1) {
+#nop 	jmc.parse("#broadcast send {DO: ["+ jmc.Event+ "]}")}}
+#nop }
+
+#broadcast enable
+#var mastermode 0
+#act {DO: [%0]} {#if {$mastermode=0} %0}
+#gag {DO:}
+loadmage

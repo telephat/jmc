@@ -1,6 +1,15 @@
 #nop #substitute  {} {}
 #message substitute off
 #showme ..Reading SUBSTITUTE seciont
+#substitute  {a suit of segmented coral armor} {a suit of segmented coral armor[con 8r_cold 1crit wb]} 
+#substitute  {a pair of coral vambraces} {a pair of coral vambraces[8r_heat dargo]} 
+#substitute  {a suit of coral armor} {a suit of coral armor[8r_cold]}
+#substitute  {a coral sword} {a coral sword[11w 3d5 enchantable]} 
+#substitute  {a human bladder} {a human bladder[hide water waist]} 
+#substitute  {a pair of goatherder's gloves} {a pair of goatherder's gloves[hr]}
+#substitute  {a ragged leather band} {a ragged leather band[d_inv ac+5]} 
+#substitute  {a ragged leather wrist guard} {a ragged leather wrist guard[+1 2slot ac+5]} 
+#substitute  {a wreath of silver leaves} {a wreath of silver leaves[d_ev]}
 #substitute  {a pair of stitched dueling gloves}{a pair of stitched dueling gloves[2hr 5parry]}
 #substitute  {a sapphire lined chain collar} {a sapphire lined chain collar[dex str]}
 #substitute  {an emerald studded silver choker} {an emerald studded silver choker [9hp Sbr Spar]}
@@ -20,7 +29,7 @@
 #substitute  {a flowing golden cape} {a flowing golden cape[fly]}
 #substitute  {a double-bladed Solamnic axe} {a double-bladed Solamnic axe[5d5 3/3](Bruno)}
 #substitute  {a pair of ebony legplates} {a pair of ebony legplates[6kick 4app](balcombes)}
-#substitute  {a large bloodstained battleaxe} {a large bloodstained battleaxe[3d8 2/2](balcombes)}
+#substitute  {a large bloodstained battleaxe} {a large bloodstained battleaxe[3d9 2/2](balcombes)}
 #substitute  {a cured lion skin cloak} {a cured lion skin cloak[8hp -10ac]}
 #substitute  {an elegant golden caftan} {an elegant golden caftan[+1 +2 cl2 d_mag any](darg forest warleader?)}
 #substitute  {a mask of glowing red embers} {a mask of glowing red embers[10r_heat cl2 !good any](darg forest warleader?)}
@@ -94,12 +103,12 @@
 #substitute  {a green horned helmet} {a green horned helmet[4target 4bash 7app] }
 #substitute  {a blue topaz ring} {a blue topaz ring[dam !rent]}
 #substitute  {a brass dragonscale helm} {a brass dragonscale helm[wis d_ev d_inv infra 10ac 10app]}
-#substitute  {a sinew-wrapped bear claw fetish} {a sinew-wrapped bear claw fetish[cha]}
+#substitute  {a sinew-wrapped bear claw fetish} {a sinew-wrapped bear claw fetish[4hp +!lore]}
 #substitute  {a jeweled bracer of the Skull} {a jeweled bracer of the Skull[2% heal +5th !good]}
 #substitute  {a dolphin bone staff} {a dolphin bone staff[5d5 0/2 shmnble]}
 #substitute  {an apatite encrusted bracelet} {an apatite encrusted bracelet[cha]}
 #substitute  {an embossed jellyfish pouch} {an embossed jellyfish pouch[irda big pouch]}
-#substitute  {a dark electrum medallion} {a dark electrum medallion[cha]}
+#substitute  {a dark electrum medallion} {a dark electrum medallion[dex]}
 #substitute  {a sweat-stained leather strap} {a sweat-stained leather strap[str -2hr](dargo good peasant)}
 #substitute  {a pair of flexible red dragon scale gloves} {a pair of flexible red dragon scale gloves[dex 6app 6ac 8r_heat]}
 #substitute  {a bronze shield decorated with fish bones} {a bronze shield decorated with fish bones[6r_mag 24w 4app]}

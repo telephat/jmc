@@ -1,27 +1,47 @@
-#showme {colorcodes} &w[&W1&w][&Wscout.set&w][&Rreading&w]
+offenbalcom#showme {colorcodes} &w[&W1&w][&Wscout.set&w][&Rreading&w]
 #var leader Chunga
 #var automated 1
+#var AutoAssist 1
 
-#ali assist {aim %1;shoot auto}
-#act {^$leader tells your group 'killing: %1'} {#var target %1;assist %1}
-#act {You need to be holding a bow with a free draw hand to aim.} {rem $prime;aim $target;shoot auto}
-#act {You receive %0 experience.} {get all.arrow;put all.arrow quiver}
+#nop Melee by default
+#nop ali assist {aim %1;shoot auto}
+#nop ali assist {ass $leader}
+#gro enable melee
+#nop act {^$leader tells your group 'killing: %1'} {#var target %1;assist %1}
+#nop act {You need to be holding a bow with a free draw hand to aim.} {rem $prime;aim $target;shoot auto}
+#act {You receive %0 experience.} {#if {$assistmode=2} {get all.arrow;put all.arrow quiver}}
 
 #var assistmode 2
 #var bow ash.bow
 #var prime whip
 #var offhand hatchet
-#ali combatmode {#showme --> combatmode;rem $bow;wie $prime;hold $offhand;#ali assist {kill %1};#var assistmode 1}
-#ali shootmode {#showme --> shootmode;rem $prime;rem $offhand;hold $bow;exa quiver;#ali assist {aim %1;shoot auto};#var assistmode 2}
+#ali combatmode {#showme --> combatmode;rem $bow;wie $prime;hold $offhand;#ali assist {ass};#var assistmode 1;#gro enable melee}
+#ali shootmode {#showme --> shootmode;rem $prime;rem $offhand;hold $bow;exa quiver;#ali assist {aim $target;shoot auto};#var assistmode 2;gro disable melee}
 #hot f1 {#if {$assistmode=1} {shootmode} {combatmode}}
+combatmode
 
+#var offensiveskill1 sco
+#var offensiveskill2 sco
 
 #var AutoSkill 1
-#ali automate {#if $round=2 {zap};
-               #if $round=4 {sting};
-               #if $round=6 {zap};
-               #if $round=8 {sting};
-    }
+#nop skill main
+#act {eel: zap} {#var offensiveskill2 zap}
+#act {jellyfish: sting} {#var offensiveskill1 sting}
+#act {shrike: peck} {#var offensiveskill1 peck}
+#act {lynx: scrape} {#var offensiveskill1 scrape}
+#act {ram: headbutt} {#var offensiveskill2 headbutt}
+
+#ali automate {#if $round=2 {$offensiveskill1};
+               #if $round=4 {$offensiveskill2};
+               #if $round=6 {$offensiveskill1};
+               #if $round=8 {$offensiveskill2};
+               #if $round=10 {$offensiveskill1};
+               #if $round=12 {$offensiveskill2};
+               #if $round=14 {$offensiveskill1};
+               #if $round=16 {$offensiveskill2};
+               #if $round=18 {$offensiveskill1}
+    } {melee}
+
 #nop You feel up to using sting again.
 #nop You feel up to using zap again.
 

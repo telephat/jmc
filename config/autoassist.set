@@ -16,24 +16,27 @@
 
 #var assisting 0
 #var combat 0
+#var target none
 #ali doassist {#if $AutoAssist&!$assisting&!$combat {#var assisting 1;assist}}
 
-#act {$leader bruises %0} {doassist}
-#act {$leader barely slashes %0} {doassist}
-#act {$leader barely cleaves %0} {doassist}
-#act {$leader slashes %0} {doassist}
-#act {$leader cleaves %0} {doassist}
-#act {$leader stabs %0} {doassist}
-#act {$leader bludgeons %0} {doassist}
-#act {$leader crushes %0} {doassist}
-#act {$leader pierces %0} {doassist}
-#act {$leader massacres %0} {doassist}
-#act {$leader annihilates %0} {doassist}
-#act {$leader obliterates %0} {doassist}
-#act {$leader misses %0 with his %0} {doassist}
-#act {$leader tries to sweep %0 legs, but misses badly.} {doassist}
-#act {$leader stumbles and falls while trying to bash %0} {doassist}
-#act {$leader crashes %0 in a thundering collision, knocking %1 to the ground!} {doassist}
+#act {$leader charges at a %1%0, but he managed to move away.} {#showme %1;#var target %1;doassist}
+#act {$leader swings madly at a %1%0, knocking him to the ground.} {#var target %1;doassist}
+#act {$leader bruises a %1} {#var target %1;doassist}
+#act {$leader barely slashes a %1} {#var target %1;doassist}
+#act {$leader barely cleaves a %1} {#var target %1;doassist}
+#act {$leader slashes a %1} {#var target %1;doassist}
+#act {$leader cleaves a %1} {#var target %1;doassist}
+#act {$leader stabs a %1} {#var target %1;doassist}
+#act {$leader bludgeons a %1} {#var target %1;doassist}
+#act {$leader crushes a %1} {#var target %1;doassist}
+#act {$leader pierces a %1} {#var target %1;doassist}
+#act {$leader massacres a %1} {#var target %1;doassist}
+#act {$leader annihilates a %1} {#var target %1;doassist}
+#act {$leader obliterates a %1} {#var target %1;doassist}
+#act {$leader misses a %1 with his %0} {#var target %1;doassist}
+#act {$leader tries to sweep %0 legs, but misses badly.} {#var target %1;doassist}
+#act {$leader stumbles and falls while trying to bash %0} {#var target %1;doassist}
+#act {$leader crashes %0 in a thundering collision, knocking %1 to the ground!} {#var target %1;doassist}
 
 #nop act {$leader crashes %0 in a thundering collision, knocking %0 to the ground!} {doassist}
 

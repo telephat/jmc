@@ -1,0 +1,551 @@
+==================================
+In the Middle of a Dense Forest
+==================================
+l sticks
+rub sticks
+blow ember softly
+kick log
+north
+enter portal
+
+==================================
+A Damp Prison Cell
+==================================
+mem 'web'
+mem 'invis'
+mem 'rot'
+mem 'w w'
+cast 'web' web
+shake bars
+rest
+stand
+get all web
+cast 'invis' self
+open cell
+e
+cast 'rot' trunk
+get all
+get note robe
+l note
+w
+cast 'w w' prisoner [NAME]
+enter portal
+
+==================================
+Sea of Gray
+==================================
+listen human
+imagine armor
+imagine light
+imagine weapon
+wear armor
+[twist smoke if wrong wep type]
+wi smoke
+hold shard
+imagine help
+[check what skills demon has]
+(walk around spin until hit stalker)
+order [DEMON NAME] kill stalker
+kill stalker
+imagine exit
+enter portal
+
+
+==================================
+Outside a Cabin
+==================================
+mem 'c l'
+cast 'c l'
+mem 'm b'
+cast 'm b' door
+2e
+inspect floorboards
+u
+open hatch
+u
+listen man
+mem 'dispel magic'
+cast 'dispel magic' ropes
+mem 'rot'
+cast 'rot' ropes
+listen man
+present spear man
+hold flute
+mem 'dispel magic'
+mem 'dispel magic'
+mem 'dispel magic'
+play flute
+order them to attack mage
+cast dispel magic on mage a lot
+
+
+==================================
+At the Foot of a Giant Statue
+==================================
+climb tree
+shake branch
+pluck melon
+pluck melon
+pluck melon
+pluck melon
+leap chasm
+break arm
+get spear
+bridge chasm
+throw melon statue
+climb statue
+pry sphere
+leap
+throw melon nest
+roll melon nest
+get sphere
+enter portal
+
+
+==================================
+A Lone Tree in the Magical Garden
+==================================
+listen mage
+pull boughs
+get branch
+get cube tree
+wi cube
+shape branch shard
+present smooth mage
+get rod
+hold rod
+(cast 4 spells)
+ki jillian
+use rod minion (until dead)
+listen mage
+enter portal
+
+==================================
+A Long Forgotten Laboratory
+==================================
+wipe base
+gaze base
+approach door
+enter portal
+
+
+==================================
+The Center Chamber
+==================================
+l replica
+(cast 'd m' on each statue to identify)
+(w is lighting, n is flame, e is ice, s is acid)
+push statue [w, e, s, n]
+cast fireball, cold snap, lightning bolt, and acid blast on each respective statue
+prep: shield, repose, blur, mem offensive spells
+break glass
+kill ball with magic missles
+when ball is dead, kill mage with spells. may need to flee and mem/rest
+
+
+==================================
+Over an Enchanted Isle
+==================================
+mem 'fireball'
+mem 'c s'
+mem 'g o w'
+cast 'fireball'
+cast 'c s'
+cast 'g o w'
+mem lightning bolts and acid blasts
+n e d
+[kill wolf with acid blast and three lightning blasts]
+touch lock
+enter body
+
+==================================
+The Center of the Universe
+==================================
+mem 'fly'
+mem 'dispel magic'
+mem 'c s'
+cast 'fly' self
+w
+listen elephant
+yes
+s
+cast 'c s'
+catch nixie
+hold orb
+n
+n
+throw orb
+get fire
+wear robe
+e
+ki demarax
+[room is no magic. the fireshield will kill him. quaff heal vials as needed]
+cast 'dis ma' crystal
+
+
+
+==================================
+Against the Northern Slope of Mount Nevermind
+==================================
+listen knight
+mem 'fly'
+mem 'featherfall'
+mem 'c l'
+cast 'fly' self
+cast 'featherfall' self
+cast 'c l'
+e
+get cube corpse
+wi cube
+mem a couple 'dispel magic'
+s e to dragon
+cast 'di m' dragon 3 times to kill dragon
+illusionist now appears. he changes forms to manticore/troll/giant.
+cast 'dispel magic' when is in manticore/troll/giant form to reveal him, then frag
+might need to flee/rest/mem a cpl times but watch out for him tracking as hill giant!
+after illusionist dead, go back w n to An Uncomfortably Warm Pit
+[should be staircase now]
+u, portal appears
+
+==================================
+In a Messy Courtyard
+==================================
+mem 'c l', mem 'repose', mem 'i i', mem 'blur'
+n
+[golem will engage, room is no magic]
+shake flower
+fan bees golem
+[bees kill golem, may have to repeat shake flower, fan bees golem]
+get key corpse
+w
+[note this is the only room that allows magic]
+unlock door
+open door
+s
+[golem will engage, room is no magic]
+get beaker
+quaff beaker
+[fireshield kills golem]
+get cube corpse
+wi cube
+dispel fireshield
+be buffed with invis/blur/str/etc
+squeeze hole, kill rat.
+enter portal
+[note can also search trunk in 1st room to make rat appear, but that one seems harder]
+
+==================================
+Library Arcana
+==================================
+spin carousel
+get key
+unlock door s
+open door s
+s
+spin carousel
+get key
+unlock door w
+open door w
+w
+spin carousel
+get key
+unlock door e
+open door e
+e
+spin carousel
+get key
+unlock door n
+open door n
+n
+spin carousel
+get key
+unlock hatch
+open hatch
+u
+spin carousel
+get key
+unlock trapdoor
+open trapdoor
+d
+#w u s s
+listen gnome
+
+==================================
+A Forgotten Conclave Dungeon
+==================================
+n
+get cube corpse
+wi cube
+l book
+e
+[kill 3 rats]
+get corpse
+get corpse
+get corpse
+n
+feed cat
+s w n
+ki golem
+order cat ki mage
+listen mage
+
+
+==================================
+A Small Study
+==================================
+[buff out, note first room is recup]
+pull board [push board gets you back in]
+listen dwarf
+protect dwarf
+hold cross
+twirl cross dwarf
+wear necklace
+s
+use 'm m', 'm blast', 'm bolt' to kill ghosts
+s
+dance woman
+sing woman
+n
+present metal dwarf
+2s
+break figurine
+quaff potion
+order gargoyle move rug
+move rug
+order gargoyle kill mage
+[kill mage with spells]
+
+==================================
+At the Base of a Brown Spire
+==================================
+e n
+search objects
+search poo
+s e
+break crate
+get chains
+get cube, wi cube
+2w
+kill kender
+get chains
+e n
+kill golem
+get chains
+join chains
+s
+bind dragon [will attack]
+use fireball spell to kill dragon. will need to flee and remem
+d, enter portal
+
+
+==================================
+An Expansive Underground Cavern
+==================================
+mem 'rot'
+mem 'c l'
+cast 'c l'
+s
+cast 'rot' crystal
+w
+kill green slime a few times
+get slimes
+eat slime
+s
+touch source
+n e s
+(wait for haze to disipate, then repeat till yellow slime dead)
+
+
+==================================
+Outside a Strange Hut
+==================================
+open door n
+n
+get broom
+get prism
+light broom
+wi broom
+wear prism
+mem blur/light/repose
+cast 'blur' self
+cast 'repose' self
+cast 'light' prism
+[now have mirror images]
+open door e
+[kill beast with burning broom while being protected with mirror image]
+
+
+==================================
+Standing on a Ledge
+==================================
+mem/cast 'c l', 'blur'
+squeeze crack to get in cave
+search refuse to get 2x a swirling black potion [stone skin, fireshield]
+move rubble to open door n in cave
+n to "In A Small Hole"
+n again to "Deeper in the Hole"
+get all crack to get a rusty warhammer with a heavy spiked head
+wield warhammer
+2s back to Inside the Dark Cave
+wait for golem to come to life (a cpl ticks)
+quaff potion to get stone skin, then flee to In A Small Hole
+kill marble arms
+s, kill golem [now armless]
+enter portal
+
+==================================
+A Brightly Lit Room
+==================================
+snap bone
+(flip bone to get correct weapon)
+wi bone
+pry ruby
+n
+mem 3 fireballs
+e
+kill ice golem with fireballs
+cast 'g o w'
+s
+kill fire golem with cold snap
+cast 'g o w'
+e
+kill golem by casting gust of wind
+renegade appears after golem dies: flee for now
+mem gust of winds
+go back, cast gust, and ki mage with bone while gust is up to prevent spells. when low, retreat and recuperate. will take a few rounds probably.
+
+==================================
+Within a Dank Prison Cell
+==================================
+You have but one task: escape!'
+cast 'c l'
+s
+scoop slime
+n
+lubricate hinge
+cast 'm blast' door
+(ooze appears to attack you)
+mem fireball, l b, c s, etc
+5 colors are: blue (l b), green (a b), red (fire ball), purple (m m), white (c s)
+cast on color that isn't present
+will take a few rounds of flee/mem/rest
+after ooze dead, kick door
+
+
+
+==================================
+A Dusty Chamber
+==================================
+mem 'det i'
+mem 'stre'
+mem 'c l'
+mem 'repose'
+mem 'blur'
+cast 'det i' self
+cast 'stre' self
+cast 'c l'
+open sarcophagus
+get all sarcophagus
+push sarcophagus
+u
+place tetrahedron triangle
+e
+listen oval (note word)
+l books
+l blue [note word]
+place cube square
+place sphere indentation
+w
+[invis golems]
+s
+l steps [note word]
+say words together
+-
+lich will agro, order golems assist. golems make room no magic
+break sprocket
+n
+
+
+==================================
+Before a Strange Structure of Rocks
+==================================
+mem all detect magics
+search bookcase to get cube and scribed scrolls
+cube can be wielded as weapons
+scribed scroll is either force bolt or stone skin
+cast 'de m' on scribed scrolls to see which it is
+do search bookcase, get all bookcase, until you have ~8 scrolls
+detect each one to see what it is
+use stone skin on self, go north, use force bolt on beast while keeping stone skin up
+after killing beast, enter portal
+
+==================================
+Lost in a Void Between Dimensions
+==================================
+mem 'mend'
+mem 'rot'
+find Dorian
+listen Dorian
+say yes, get a cracked blackwood staff
+walk around and find Mira
+present staff
+now have enhance alteration ability affect and a beautiful rosewood box
+cast 'mend' staff, now have an intricate blackwood staff etched with emerald runes
+wield staff
+go back to Dorian, and present box
+cast 'rot' box, now have a delicate amulet encrusted with lavender pearls
+wear amulet
+cast 'd d' Raz'Kazar
+will be paralyzed as Raz'Kazar does some messages, then after a minute fight starts
+Dorian and Mira will arrive to assist. Just blast Raz'Kazar with spells
+get some deep green robes embroidered in gold [wear is dt!]
+
+
+==================================
+A Warmly-Lit Room
+==================================
+wake, st
+move rug to reveal exit d
+e, open box, get all box to get a key and cube
+w, open trapdoor, d
+wait for "To the east, a small candle flares to life!"
+e, decripit old man will para you, starts talking
+say yes, now have Arcane Might of Fistandantilus
+prep: shield/stre/blur/repose/i i/
+w, open trapdoor, u. will get agroed by 2 mobs: Natina and Renet.
+Kill a mob, flee back down trapdoor
+when ready, go back up, kill second mob.
+from corpses get an intricate platinum brooch and a smooth ring of solid sapphire
+insert ring brooch
+now have an intricate brooch of platinum and sapphire
+wear brooch
+open trapdoor, d e
+portal will appear
+
+
+==================================
+A Magical Corridor
+==================================
+[blue stone golem tracks in and agros]
+touch blue.rune
+touch green.rune
+touch yellow.run
+go into room matching golem color. golem will follow and be killed
+repeat with each yellow,green golem as they arrive
+after green golem Lorathian, the renegade arrives and agros
+make mage follow you into one of the green/blue/red rooms, then flee and touch rune to trap him there.
+prep shield/blur/repose, mem offensive spells
+touch [color] to open, enter room, frag mage, flee, touch [color] to close, remem, repeat until mage dead
+
+
+
+==================================
+On the Shore of a Lake
+==================================
+Comfort Woman
+when she agros - Flee
+mem up - bufs, light, etc
+mother - acid
+sister - fireball
+brother - acid
+father - shocking grasp

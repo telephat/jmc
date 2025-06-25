@@ -130,9 +130,9 @@
 #ali sos {rec recall me;get recall chest}
 #var container chest
 #var food food
-#ali {ddri}     {get water $container;drink water;put all.water $container}
+#ali {ddri}     {get water $container;drink water;drink water;put all.water $container}
 #ali {ea}       {#var food %0;doeat}
-#ali {doeat}    {get $food $container;eat $food;put all.$food $container}
+#ali {doeat}    {get $food $container;eat $food;eat $food;put all.$food $container}
 
 #act {You should probably stand up!} {stand}
 #act {^Welcome to the land of Krynn.} {fly}

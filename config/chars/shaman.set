@@ -5,7 +5,7 @@
 #nop //TODO: сделать автоассист всёж не класс а персонаж базед
 #nop то есть выстяалять автоассист по дефолту в зависимости от профиля
 #nop или имени персонажа
-#ali automate {#if $round=2 {hex};
+#ali automate {#if $round=2 {fren};
                #if $round=4 {stup};
                #if $round=6 {spook}
     }

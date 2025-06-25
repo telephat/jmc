@@ -1,6 +1,7 @@
 #nop #substitute  {} {}
 #message substitute off
 #showme ..Reading SUBSTITUTE seciont
+#substitute  {a pair of blue leather gauntlets} {a pair of blue leather gauntlets[dr hr](dargonesti)}
 #substitute  {a suit of segmented coral armor} {a suit of segmented coral armor[con 8r_cold 1crit wb]} 
 #substitute  {a pair of coral vambraces} {a pair of coral vambraces[8r_heat dargo]} 
 #substitute  {a suit of coral armor} {a suit of coral armor[8r_cold]}

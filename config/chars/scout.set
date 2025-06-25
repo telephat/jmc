@@ -19,7 +19,7 @@
 
 #var bow ash.bow
 #ali combatmode {#showme --> combatmode;rem $bow;wie $prime;hold $offhand;#ali assist {ass};#var assistmode 1;#gro enable melee}
-#ali shootmode {#showme --> shootmode;rem $prime;rem $offhand;hold $bow;exa quiver;#ali assist {aim $target;shoot auto};#var assistmode 2;gro disable melee}
+#ali shootmode {#showme --> shootmode;rem $prime;rem $offhand;hold $bow;exa quiver;#ali assist {aim $target;shoot auto};#var assistmode 2;#gro disable melee}
 #hot f1 {#if {$assistmode=1} {shootmode} {combatmode}}
 combatmode
 
@@ -36,7 +36,7 @@ combatmode
 #act {lynx: scrape} {#var offensiveskill1 scrape}
 #act {ram: headbutt} {#var offensiveskill2 headbutt}
 
-#ali automate {#if $round=2 {$offensiveskill1};
+#ali automate {#if $assistmode=1}{#if $round=2 {$offensiveskill1};
                #if $round=4 {$offensiveskill2};
                #if $round=6 {$offensiveskill1};
                #if $round=8 {$offensiveskill2};
@@ -45,7 +45,7 @@ combatmode
                #if $round=14 {$offensiveskill1};
                #if $round=16 {$offensiveskill2};
                #if $round=18 {$offensiveskill1}
-    } {melee}
+    } 
 #nop You feel up to using sting again.
 #nop You feel up to using zap again.
 #showme {colorcodes} &w[&W1&w][&Wscout.set&w][&gdone&w]

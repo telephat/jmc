@@ -12,3 +12,4 @@
 #act {DO: [%0]} {#if {$mastermode=0} %0}
 #gag {DO:}
 loadmage
+

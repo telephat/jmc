@@ -16,4 +16,36 @@
 #var boozee whiskey
 #hot f2 {#3 sip $boozee}
 
+#var timer1 0
+#act {#TICK} {inc timer1;dotrain} {barbtrain}
+#gro disable {barbtrain}
+#var tosharpNumber 1
+#var tosharpName dagger
+#var sharpReady 1
+#act {You are ready to sharpen once again.} {#var sharpReady 1}
+#ali dosharp {sharpen $tosharpNumber.$tosharpName}
+#act {%0 already has a good edge to it.} {inc tosharpNumber;dosharp}
+#act {You put your whetting stone to good use %0} {inc tosharpNumber;#var sharpReady 0} {barbtrain}
+#var tomendNumber 1
+#var tomendName dagger
+#var mendReady 1
+#ali domend {mend $tomendNumber.$tomendName}
+#act {%0 can not be mended anymore at the moment.} {inc tomendNumber;domend} {barbtrain}
+#act {You try to mend %0 but give up in frustration.} {#var mendReady 0} {barbtrain}
+
+#ali dotrain {dosharp;domend;dolore;dorecup;checkstatus} {barbtrain}
+#ali {checkstatus} {sta;learn a;#if {$tosharpNumber=11} {doshopping}}
+#ali barb-wshop {enwwwnnws}
+#act {You now have 10 daggers.} {#var tosharpNumber 1;tomendNumber 1} {barbtrain}
+#if {tosharpNumber=11}
+#ali doshopping {sta;barb-dump;drop all.dagger;dump-wshop;buy 10*dagger;wshop-barb}
+#ali {barb-dump} {eswwwws} 
+#ali {dump-wshop} {nw8nees}
+#ali {wshop-barb} {nesseeesw}
+#ali {dorecup} {sta;ew;re;recup}
+#act {You are hungry} {doeat}
+#act {You are thirsty} {ddri}
+#ali dolore {lore $tosharpNumber.$tosharpName}
+#var food lamb
+
 #showme {colorcodes} &w[&W1&w][&Wbarb.set&w][&gdone&w]

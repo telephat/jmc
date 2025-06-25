@@ -4,6 +4,10 @@
 #var AutoAssist 1
 
 #nop Melee by default
+
+#var prime great.axe
+#var offhand hatchet
+
 #nop ali assist {aim %1;shoot auto}
 #nop ali assist {ass $leader}
 #nop act {^$leader tells your group 'killing: %1'} {#var target %1;assist %1}
@@ -11,11 +15,10 @@
 #act {You receive %0 experience.} {#if {$assistmode=2} {get all.arrow;put all.arrow quiver}}
 
 #var assistmode 2
-#var bow wooden.bow
-#var prime great.axe
-#var offhand hatchet
-#ali combatmode {#showme --> combatmode;rem $bow;wie $prime;hold $offhand;#ali assist {ass};#var assistmode 1}
-#ali shootmode {#showme --> shootmode;rem $prime;rem $offhand;hold $bow;exa quiver;#ali assist {aim $target;shoot auto};#var assistmode 2}
+
+#var bow ash.bow
+#ali combatmode {#showme --> combatmode;rem $bow;wie $prime;hold $offhand;#ali assist {ass};#var assistmode 1;#gro enable melee}
+#ali shootmode {#showme --> shootmode;rem $prime;rem $offhand;hold $bow;exa quiver;#ali assist {aim $target;shoot auto};#var assistmode 2;#gro disable melee}
 #hot f1 {#if {$assistmode=1} {shootmode} {combatmode}}
 combatmode
 
@@ -32,10 +35,16 @@ combatmode
 #act {lynx: scrape} {#var offensiveskill1 scrape}
 #act {ram: headbutt} {#var offensiveskill2 headbutt}
 
-#ali automate {#if {$assistmode=1} {#if $round=2 {$offensiveskill1};#if $round=4 {$offensiveskill2};#if $round=6 {$offensiveskill1};
-			                #if $round=8 {$offensiveskill2};#if $round=10 {$offensiveskill1};#if $round=12 {$offensiveskill2};
-			                #if $round=14 {$offensiveskill1};#if $round=16 {$offensiveskill2};#if $round=18 {$offensiveskill1}} {#nop}}
-
-                            #nop You feel up to using sting again.
+#ali automate {#if $assistmode=1}{#if $round=2 {$offensiveskill1};
+               #if $round=4 {$offensiveskill2};
+               #if $round=6 {$offensiveskill1};
+               #if $round=8 {$offensiveskill2};
+               #if $round=10 {$offensiveskill1};
+               #if $round=12 {$offensiveskill2};
+               #if $round=14 {$offensiveskill1};
+               #if $round=16 {$offensiveskill2};
+               #if $round=18 {$offensiveskill1}
+    } 
+#nop You feel up to using sting again.
 #nop You feel up to using zap again.
 #showme {colorcodes} &w[&W1&w][&Wscout.set&w][&gdone&w]

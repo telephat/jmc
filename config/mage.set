@@ -5,3 +5,8 @@
 #ali mb {c 'm bolt'}
 #ali fb {c 'fo bo'}
 #ali ii {c 'imp inv'}
+
+#var pet ironwood
+#act {You are Gaijin the Male Gnome, a level} {#var pet Surley}
+#act {You are Mikado the Male Gnome, a level} {#var pet Smiley}
+#ali od {ord $pet %0}

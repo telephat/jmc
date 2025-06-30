@@ -557,7 +557,7 @@
 #substitute  {a pair of black soldier boots} {a pair of black soldier boots [-2_sv-para]} {}
 #substitute  {a pair of black, steel-plated boots} {a pair of black, steel-plated boots [15_mv][7_kick]} {}
 #substitute  {a pair of bloody butcher's gloves} {a pair of bloody butcher's gloves [1_dam][1_hr]} {}
-#substitute  {a pair of blue gloves} {a pair of blue gloves [1_int][-2_str]} {}
+#substitute  {a pair of blue gloves} {a pair of blue gloves [int 2cl]}(Asha) {}
 #substitute  {a pair of blue shoes} {a pair of blue shoes [9_hit][-1_str]} {}
 #substitute  {a pair of bronze and cloth gauntlets} {a pair of bronze and cloth gauntlets [2_hr]} {}
 #substitute  {a pair of copper armbands} {a pair of copper armbands [1_str][-2_hr](koboldMines)} {}

@@ -45,7 +45,7 @@
 #act {^You step away from the melee.} {#var combat 0;#var assisting 0}
 #act {^You flee head over heels.} {#var combat 0;#var assisting 0}
 
-#ali {assist}   {od assist $leader;ass}
+#ali {assist}   {#showme Assisting;od assist $leader;ass $leader}
 #showme {colorcodes} &w[&W3&w][&Wautoassist.set&w][&gdoneg&w]
 updstatus
 #nop 

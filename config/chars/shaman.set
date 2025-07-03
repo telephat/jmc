@@ -103,7 +103,7 @@ The force guiding your weapon leaves you.
 #nop Your blood ceases to boil and you feel calmer.
 
 #ali {od} {ord all.spirit}
-#ali {assist} {od assist $leader;ass}
+#ali {assist} {od assist $leader;ass $leader}
 
 
 #act {Yabba tugs at your sleeve to get your attention.} {c 'gho berr';give berry yabba;eat berry;drop all.berry}
